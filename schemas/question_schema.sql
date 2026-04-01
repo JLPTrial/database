@@ -1,10 +1,12 @@
+PRAGMA foreign_keys = ON;
+
 --------------------------------------------------
 -- TABELA PRINCIPAL DE QUESTÕES
 --------------------------------------------------
 CREATE TABLE questions (
   id INTEGER PRIMARY KEY,
 
-  alternative_id INTEGER NOT NULL,
+  alternative_id INTEGER NOT NULL UNIQUE,
 
   media_id INTEGER,
 
@@ -46,16 +48,16 @@ CREATE TABLE question_tags (
 CREATE TABLE statement (
   id INTEGER PRIMARY KEY,
 
-  statement_text TEXT NOT NULL
+  statement_text TEXT NOT NULL UNIQUE
 );
 
 --------------------------------------------------
 -- TEXTOS (READING)
 --------------------------------------------------
-CREATE TABLE media_text (
+CREATE TABLE contextual_texts (
   id INTEGER PRIMARY KEY,
 
-  question_text TEXT NOT NULL
+  contextual_text TEXT NOT NULL UNIQUE
 );
 
 
@@ -71,7 +73,7 @@ CREATE TABLE alternatives (
 
   alternative_3 TEXT NOT NULL,
 
-  alternative_4 TEXT,
+  alternative_4 TEXT NOT NULL,
 
   correct_alternative INTEGER NOT NULL CHECK (correct_alternative BETWEEN 1 AND 4)
 );
@@ -82,16 +84,16 @@ CREATE TABLE alternatives (
 CREATE TABLE media (
   id INTEGER PRIMARY KEY,
 
-  text_media_id INTEGER,
+  contextual_text_id INTEGER,
 
   image_file_path TEXT,
 
   audio_file_path TEXT,
 
-  FOREIGN KEY (text_media_id) REFERENCES media_text(id) ON DELETE SET NULL,
+  FOREIGN KEY (contextual_text_id) REFERENCES contextual_texts(id) ON DELETE SET NULL,
 
   CHECK (
-    text_media_id IS NOT NULL
+    contextual_text_id IS NOT NULL
     OR image_file_path IS NOT NULL
     OR audio_file_path IS NOT NULL
   )
