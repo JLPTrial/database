@@ -74,14 +74,14 @@ def load_questions_from_json(data_dir: Path) -> list[dict[str, Any]]:
     return questions
 
 
-def _upsert_statement(conn: sqlite3.Connection, statement_text: str) -> int:
+def _upsert_statement(conn: sqlite3.Connection, question_command: str) -> int:
     conn.execute(
-        "INSERT OR IGNORE INTO statement (statement_text) VALUES (?)",
-        (statement_text,),
+        "INSERT OR IGNORE INTO statement (question_command) VALUES (?)",
+        (question_command,),
     )
     cursor = conn.execute(
-        "SELECT id FROM statement WHERE statement_text = ?",
-        (statement_text,),
+        "SELECT id FROM statement WHERE question_command = ?",
+        (question_command,),
     )
     row = cursor.fetchone()
     if row is None:
@@ -174,9 +174,9 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
 
         for question in questions:
             statement = question.get("statement") or {}
-            statement_text = statement.get("statement_text")
-            if not statement_text:
-                raise ValueError("Questão sem statement.statement_text")
+            question_command = statement.get("question_command")
+            if not question_command:
+                raise ValueError("Questão sem statement.question_command")
 
             alternatives = question.get("alternatives")
             if not isinstance(alternatives, dict):
@@ -187,7 +187,7 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
             if not question_type or not question_text:
                 raise ValueError("Questão sem question_type ou question_text")
 
-            statement_id = _upsert_statement(conn, statement_text)
+            statement_id = _upsert_statement(conn, question_command)
             alternative_id = _insert_alternatives(conn, alternatives)
             media_id = _insert_media(conn, question.get("media"))
 

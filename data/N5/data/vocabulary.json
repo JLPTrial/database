@@ -3,9 +3,9 @@
     {
       "id": 1,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）、えいがをみにいきませんか？",
+      "question_text": "（[blank]）、　えいが　を　みにいきませんか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ゆうべ",
@@ -15,14 +15,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 2,
       "question_type": "vocabulary",
-      "question_text": "わたしはいつも（[blank]）をききながらべんきょうします。",
+      "question_text": "わたし　は　いつも　（[blank]）　を　ききながら　べんきょうします。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ぺん",
@@ -32,14 +34,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 3,
       "question_type": "vocabulary",
-      "question_text": "わたしのすきなのみものは（[blank]）です。",
+      "question_text": "わたし　の　すきな　のみもの　は　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おかし",
@@ -49,14 +53,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 4,
       "question_type": "vocabulary",
-      "question_text": "わたしはじてんしゃを（[blank]）もっています。",
+      "question_text": "わたし　は　じてんしゃ　を　（[blank]）　もっています。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "にだい",
@@ -66,14 +72,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 5,
       "question_type": "vocabulary",
-      "question_text": "この（[blank]）じしょはだれのですか？",
+      "question_text": "この　（[blank]）　じしょ　は　だれ　の　ですか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ほそい",
@@ -83,14 +91,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 6,
       "question_type": "vocabulary",
-      "question_text": "ちちはことし80さいですが、（[blank]）です。",
+      "question_text": "ちち　は　ことし　80さい　です　が、　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "げんき",
@@ -100,14 +110,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 7,
       "question_type": "vocabulary",
-      "question_text": "あめがふっています。みんなかさを（[blank]）います。",
+      "question_text": "あめ　が　ふっています。　みんな　かさ　を　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あけて",
@@ -117,14 +129,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 8,
       "question_type": "vocabulary",
-      "question_text": "がくせいたちはきょうしつでやまだせんせいににほんごを（[blank]）います。",
+      "question_text": "がくせいたち　は　きょうしつ　で　やまだ　せんせい　に　にほんご　を　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ならって",
@@ -134,14 +148,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 9,
       "question_type": "vocabulary",
-      "question_text": "やまださんはあかいぼうしを（[blank]）います。",
+      "question_text": "やまださん　は　あかい　ぼうし　を　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "きて",
@@ -151,14 +167,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 10,
       "question_type": "vocabulary",
-      "question_text": "やまださんはたいていおふろにはいって、（[blank]）ねます。",
+      "question_text": "やまださん　は　たいてい　おふろ　に　はいって、　（[blank]）　ねます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ちょうど",
@@ -168,14 +186,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 11,
       "question_type": "vocabulary",
-      "question_text": "なのかのつぎは（[blank]）です。",
+      "question_text": "なのか　の　つぎ　は　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "とおか",
@@ -185,14 +205,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 12,
       "question_type": "vocabulary",
-      "question_text": "わたしはゆうべともだちに（[blank]）をかきました。",
+      "question_text": "わたし　は　ゆうべ　ともだち　に　（[blank]）　を　かきました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ふうとう",
@@ -202,14 +224,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 13,
       "question_type": "vocabulary",
-      "question_text": "わたしのすきなスポーツは（[blank]）です。",
+      "question_text": "わたし　の　すきな　スポーツ　は　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ピアノ",
@@ -219,14 +243,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 14,
       "question_type": "vocabulary",
-      "question_text": "わたしのうちにねこが（[blank]）います。",
+      "question_text": "わたし　の　うち　に　ねこ　が　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ふたつ",
@@ -236,14 +262,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 15,
       "question_type": "vocabulary",
-      "question_text": "このみちは（[blank]）です。",
+      "question_text": "この　みち　は　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "わかい",
@@ -253,14 +281,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 16,
       "question_type": "vocabulary",
-      "question_text": "さかながかわを（[blank]）います。",
+      "question_text": "さかな　が　かわ　を　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "およいで",
@@ -270,14 +300,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 17,
       "question_type": "vocabulary",
-      "question_text": "きのうのパーテイーでやまださんに（[blank]）あいました。",
+      "question_text": "きのう　の　パーテイー　で　やまださん　に　（[blank]）　あいました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "はじめ",
@@ -287,14 +319,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 18,
       "question_type": "vocabulary",
-      "question_text": "たなかさんはきょうはあおいズボンを（[blank]）います。",
+      "question_text": "たなかさん　は　きょう　は　あおい　ズボン　を　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かぶって",
@@ -304,14 +338,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 19,
       "question_type": "vocabulary",
-      "question_text": "えきででんしゃに（[blank]）ます。",
+      "question_text": "えき　で　でんしゃ　に　（[blank]）　ます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "のり",
@@ -321,14 +357,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 20,
       "question_type": "vocabulary",
-      "question_text": "まちださんはせが（[blank]）です。",
+      "question_text": "まちださん　は　せ　が　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "とおい",
@@ -338,14 +376,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 21,
       "question_type": "vocabulary",
-      "question_text": "わたしはよるねるまえにはを（[blank]）。",
+      "question_text": "わたし　は　よる　ねる　まえ　に　は　を　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あらいます",
@@ -355,14 +395,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 22,
       "question_type": "vocabulary",
-      "question_text": "つぎのかどをみぎに（[blank]）。",
+      "question_text": "つぎ　の　かど　を　みぎ　に　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "まがります",
@@ -372,14 +414,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 23,
       "question_type": "vocabulary",
-      "question_text": "わたしの　いえは　えきの　ちかくです。とても（[blank]）です。",
+      "question_text": "わたし　の　いえ　は　えき　の　ちかく　です。　とても　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "べんり",
@@ -389,14 +433,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 24,
       "question_type": "vocabulary",
-      "question_text": "かぜを（[blank]）、かいしゃをやすみました。",
+      "question_text": "かぜ　を　（[blank]）、か　いしゃ　を　やすみました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "やって",
@@ -406,14 +452,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 25,
       "question_type": "vocabulary",
-      "question_text": "まいつきほんを（[blank]）よみます。",
+      "question_text": "まいつき　ほん　を　（[blank]）　よみます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "さんさつ",
@@ -423,14 +471,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 26,
       "question_type": "vocabulary",
-      "question_text": "きのう（[blank]）にほんのえいがをみました。",
+      "question_text": "きのう　（[blank]）　にほん　の　えいが　を　みました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "どきどき",
@@ -440,14 +490,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 27,
       "question_type": "vocabulary",
-      "question_text": "きのうかぞくのしゃしんを（[blank]）。",
+      "question_text": "きのうかぞく　の　しゃしん　を　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "とりました",
@@ -457,14 +509,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 28,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）をしめてかいしゃへいきます。",
+      "question_text": "（[blank]）　を　しめてか　いしゃ　へ　いきます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "セーター",
@@ -474,14 +528,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 29,
       "question_type": "vocabulary",
-      "question_text": "それはとても（[blank]）もんだいです。",
+      "question_text": "それ　は　とても　（[blank]）　もんだい　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "じゅうような",
@@ -491,14 +547,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 30,
       "question_type": "vocabulary",
-      "question_text": "なつはまいにち（[blank]）へおよぎにいきます。",
+      "question_text": "なつ　は　まいにち　（[blank]）　へ　およぎ　に　いきます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "えき",
@@ -508,14 +566,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 31,
       "question_type": "vocabulary",
-      "question_text": "たなかさんはべんきょうをして、（[blank]）いしゃになりました。",
+      "question_text": "たなかさん　は　べんきょう　を　して、　（[blank]）　いしゃ　に　なりました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "りっぱな",
@@ -525,14 +585,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 32,
       "question_type": "vocabulary",
-      "question_text": "あのおおきいはしを（[blank]）、みぎにまがってください。",
+      "question_text": "あの　おおきい　はし　を　（[blank]）、　みぎ　に　まがってください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あがって",
@@ -542,14 +604,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 33,
       "question_type": "vocabulary",
-      "question_text": "このケーキにはさとうがたくさんはいっています。とても（[blank]）です。",
+      "question_text": "この　ケーキ　に　は　さとう　が　たくさん　はいっています。　とても　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "からい",
@@ -559,14 +623,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 34,
       "question_type": "vocabulary",
-      "question_text": "すずきさんのじてんしゃは（[blank]）きれいです。",
+      "question_text": "すずきさん　の　じてんしゃ　は　（[blank]）　きれい　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いそがしくて",
@@ -576,14 +642,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 35,
       "question_type": "vocabulary",
-      "question_text": "「そろそろ、（[blank]）と　いってせんせいのへやをでました。",
+      "question_text": "「そろそろ、　（[blank]）　と　いって　せんせい　の　へや　を　でました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "しつれいしません",
@@ -593,14 +661,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 36,
       "question_type": "vocabulary",
-      "question_text": "きょうはたくさんしごとをしたから、とても（[blank]）",
+      "question_text": "きょう　は　たくさん　しごと　を　した　から、　とても　（[blank]）",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "つかれました",
@@ -610,14 +680,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 37,
       "question_type": "vocabulary",
-      "question_text": "ラジオをけすときは、このボタンを（[blank]）ください。",
+      "question_text": "ラジオ　を　けす　とき　は、　この　ボタン　を　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おして",
@@ -627,14 +699,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 38,
       "question_type": "vocabulary",
-      "question_text": "わたしは（[blank]）あさ７じにおきます。",
+      "question_text": "わたし　は　（[blank]）　あさ　７じ　に　おきます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "たいてい",
@@ -644,14 +718,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 39,
       "question_type": "vocabulary",
-      "question_text": "えいがかんのまえにみせが（[blank]）ならんでいます。",
+      "question_text": "えいがかん　の　まえ　に　みせ　が　（[blank]）　ならんでいます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ひじめて",
@@ -661,14 +737,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 40,
       "question_type": "vocabulary",
-      "question_text": "くるまでうちからびょういんまで２０ぷん（[blank]）。",
+      "question_text": "くるま　で　うち　から　びょういん　まで　２０ぷん　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かけます",
@@ -678,31 +756,35 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 41,
       "question_type": "vocabulary",
-      "question_text": "このぎゅうにゅうはれいぞこにいれてありました。とても（[blank]）。",
+      "question_text": "この　ぎゅうにゅう　は　れいぞうこ　に　いれてありました。　とても　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ひくいです",
-        "alternative_2": "つめたいです",
-        "alternative_3": "さむいです",
-        "alternative_4": "すずしいです",
+        "alternative_1": "ひくい　です",
+        "alternative_2": "つめたい　です",
+        "alternative_3": "さむい　です",
+        "alternative_4": "すずしい　です",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 42,
       "question_type": "vocabulary",
-      "question_text": "ゆうびんきょくへいって、はがきと（[blank]）をかいます。",
+      "question_text": "ゆうびんきょく　へ　いって、　はがき　と　（[blank]）　を　かいます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "きっぷ",
@@ -712,14 +794,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 43,
       "question_type": "vocabulary",
-      "question_text": "コーヒーにさとうをいれて（[blank]）してください。",
+      "question_text": "コーヒー　に　さとう　を　いれて　（[blank]）　してください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あまく",
@@ -729,14 +813,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 44,
       "question_type": "vocabulary",
-      "question_text": "きょうは（[blank]）がわるいから、かさをもっていきます。",
+      "question_text": "きょう　は　（[blank]）　が　わるい　から、かさ　を　もっていきます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "そら",
@@ -746,14 +832,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 45,
       "question_type": "vocabulary",
-      "question_text": "ひらがなはぜんぶ（[blank]）が、かたかなはまだです。",
+      "question_text": "ひらがな　は　ぜんぶ　（[blank]）　が、かたかな　は　まだ　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "しりました",
@@ -763,14 +851,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 46,
       "question_type": "vocabulary",
-      "question_text": "おとうさんのおとこのきょうだいは（[blank]）です。",
+      "question_text": "おとうさん　の　おとこ　の　きょうだい　は　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おじさん",
@@ -780,14 +870,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 47,
       "question_type": "vocabulary",
-      "question_text": "わたしはいつもよる（[blank]）ねます。",
+      "question_text": "わたし　は　いつも　よる　（[blank]）　ねます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ちかく",
@@ -797,31 +889,35 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 48,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）、そのニュースをしりました。",
+      "question_text": "（[blank]）、　その　ニュース　を　しりました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ちじをみて",
-        "alternative_2": "きっぷをかって",
-        "alternative_3": "じしょをひいて",
-        "alternative_4": "しんぶんをよんで",
+        "alternative_1": "ちじ　を　みて",
+        "alternative_2": "きっぷ　を　かって",
+        "alternative_3": "じしょ　を　ひいて",
+        "alternative_4": "しんぶん　を　よんで",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 49,
       "question_type": "vocabulary",
-      "question_text": "Ａ：はじめまして。どうぞよろしく。\nＢ：（[blank]）。",
+      "question_text": "Ａ：　はじめまして。　どうぞよろしく。　\nＢ：　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おげんきで",
@@ -831,14 +927,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 50,
       "question_type": "vocabulary",
-      "question_text": "わたしは（[blank]）がおおきいです。ちょうどいいくつがありません。",
+      "question_text": "わたし　は　（[blank]）　が　おおきい　です。　ちょうど　いい　くつ　が　ありません。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "め",
@@ -848,14 +946,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 51,
       "question_type": "vocabulary",
-      "question_text": "このくつしたはうすいですが、（[blank]）です。",
+      "question_text": "この　くつした　は　うすい　です　が、　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かんたん",
@@ -865,14 +965,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 52,
       "question_type": "vocabulary",
-      "question_text": "いっしゅかんに（[blank]）テニスを　します。",
+      "question_text": "いっしゅかん　に　（[blank]）　テニス　を　します。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "さんかい",
@@ -882,14 +984,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 53,
       "question_type": "vocabulary",
-      "question_text": "あの（[blank]）をわたって、だいがくへいきます。",
+      "question_text": "あの　（[blank]）　を　わたって、　だいがく　へ　いきます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "もん",
@@ -899,14 +1003,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 54,
       "question_type": "vocabulary",
-      "question_text": "このほんをたむらさんに（[blank]）ください。",
+      "question_text": "このほん　を　たむらさん　に　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "みて",
@@ -916,14 +1022,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 55,
       "question_type": "vocabulary",
-      "question_text": "ほんだなにほんを（[blank]）。",
+      "question_text": "ほんだな　にほん　を　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ならいましょう",
@@ -933,14 +1041,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 56,
       "question_type": "vocabulary",
-      "question_text": "あのレストランのりょうりはとても（[blank]）ですよ。",
+      "question_text": "あの　レストラン　の　りょうり　は　とても　（[blank]）　です　よ。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "へた",
@@ -950,14 +1060,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 57,
       "question_type": "vocabulary",
-      "question_text": "このみちを（[blank]）びょういんへいきます。",
+      "question_text": "この　みち　を　（[blank]）　びょういん　へ　いきます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あるいて",
@@ -967,14 +1079,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 58,
       "question_type": "vocabulary",
-      "question_text": "いもうとは　きょねん（[blank]）。ことし、いっさいに　なります。",
+      "question_text": "いもうと　は　きょねん　（[blank]）。　ことし、　いっさい　に　なります。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "うまれました",
@@ -984,14 +1098,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 59,
       "question_type": "vocabulary",
-      "question_text": "やまだ：このほん、どうもありがとうございました。\nたなか：いいえ、（[blank]）。",
+      "question_text": "やまだ：　この　ほん、　どうもありがとうございました。　\nたなか：　いいえ、　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "どういたしまして",
@@ -1001,14 +1117,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 60,
       "question_type": "vocabulary",
-      "question_text": "たくさんありますから、（[blank]）たべてください。",
+      "question_text": "たくさん　あります　から、　（[blank]）　たべてください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "もう",
@@ -1018,14 +1136,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 61,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）はどうぶつです。",
+      "question_text": "（[blank]）　は　どうぶつ　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "さくら",
@@ -1035,14 +1155,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 62,
       "question_type": "vocabulary",
-      "question_text": "ここはとしょかんです。（[blank]）べんきょうしてください。",
+      "question_text": "ここ　は　としょかん　です。　（[blank]）　べんきょうしてください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "べんりに",
@@ -1052,14 +1174,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 63,
       "question_type": "vocabulary",
-      "question_text": "やまだ：はじめまして。どうぞよろしく。\nたなか：（[blank]）。どうぞよろしく。",
+      "question_text": "やまだ：　はじめまして。　どうぞよろしく。　\nたなか：　（[blank]）。　どうぞよろしく。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ごめんください",
@@ -1069,14 +1193,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 64,
       "question_type": "vocabulary",
-      "question_text": "さとうさんは（[blank]）こないでしょう。",
+      "question_text": "さとうさん　は　（[blank]）　こないでしょう。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ちょうど",
@@ -1086,14 +1212,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 65,
       "question_type": "vocabulary",
-      "question_text": "さむくなったから、（[blank]）をつけてください。",
+      "question_text": "さむくなった　から、　（[blank]）　を　つけてください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "スリッパ",
@@ -1103,14 +1231,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 66,
       "question_type": "vocabulary",
-      "question_text": "ふうとうにきってを（[blank]）。",
+      "question_text": "ふうとう　に　きって　を　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "とります",
@@ -1120,14 +1250,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 67,
       "question_type": "vocabulary",
-      "question_text": "おふろに（[blank]）からだをあらいました。",
+      "question_text": "おふろ　に　（[blank]）からだ　を　あらいました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あびて",
@@ -1137,14 +1269,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 68,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）てでごはんをたべないでください。",
+      "question_text": "（[blank]）　て　で　ごはん　を　たべない　で　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "まずい",
@@ -1154,14 +1288,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 69,
       "question_type": "vocabulary",
-      "question_text": "いそがしくてほんをよむ（[blank]）がありません。",
+      "question_text": "いそがしくて　ほん　を　よむ　（[blank]）　が　ありません。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ひま",
@@ -1171,14 +1307,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 70,
       "question_type": "vocabulary",
-      "question_text": "すみません。あのおさらを（[blank]）ください。",
+      "question_text": "すみません。　あの　おさら　を　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "まって",
@@ -1188,184 +1326,206 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 71,
       "question_type": "vocabulary",
-      "question_text": "{リーさんはにほんごをならっています。}",
+      "question_text": "{リーさん　は　にほんご　を　ならっています。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "リーさんはにほんごをいれています。",
-        "alternative_2": "リーさんはにほんごをおしえています。",
-        "alternative_3": "リーさんはにほんごをやめています。",
-        "alternative_4": "リーさんはにほんごをべんきょうしています。",
+        "alternative_1": "リーさん　は　にほんご　を　いれています。",
+        "alternative_2": "リーさん　は　にほんご　を　おしえています。",
+        "alternative_3": "リーさん　は　にほんご　を　やめています。",
+        "alternative_4": "リーさん　は　にほんご　を　べんきょうしています。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 72,
       "question_type": "vocabulary",
-      "question_text": "{おととしりょこうしました。}",
+      "question_text": "{おととし　りょこう　しました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "りょこうはにねんまえです。",
-        "alternative_2": "りょこうはふつかまえです。",
-        "alternative_3": "りょこうはいちにちまえです。",
-        "alternative_4": "りょこうはいちねんまえです。",
+        "alternative_1": "りょこう　は　にねんまえ　です。",
+        "alternative_2": "りょこう　は　ふつかまえ　です。",
+        "alternative_3": "りょこう　は　いちにちまえ　です。",
+        "alternative_4": "りょこう　は　いちねんまえ　です。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 73,
       "question_type": "vocabulary",
-      "question_text": "{やまださんはすずきさんにえいごをおしえました。}",
+      "question_text": "{やまださん　は　すずきさん　に　えいご　を　おしえました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "すずきさんはやまださんにえいごをみせました。",
-        "alternative_2": "やまださんはすずきさんにえいごををみせました。",
-        "alternative_3": "すずきさんはやまださんにえいごをならいました。",
-        "alternative_4": "やまださんはすずきさんにえいごをならいました。",
+        "alternative_1": "すずきさん　は　やまださん　に　えいご　を　みせました。",
+        "alternative_2": "やまださん　は　すずきさん　に　えいご　を　みせました。",
+        "alternative_3": "すずきさん　は　やまださん　に　えいご　を　ならいました。",
+        "alternative_4": "やまださん　は　すずきさん　に　えいご　を　ならいました。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 74,
       "question_type": "vocabulary",
-      "question_text": "{じしょをがっこうにわすれてかえりました。}",
+      "question_text": "{じしょ　を　がっこう　に　わすれて　かえりました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "じしょはいえにあります。",
-        "alternative_2": "じしょはがっこうにありません。",
-        "alternative_3": "いまじしょをもっていません。",
-        "alternative_4": "いまじしょをもっています。",
+        "alternative_1": "じしょ　は　いえ　に　あります。",
+        "alternative_2": "じしょ　は　がっこう　に　ありません。",
+        "alternative_3": "いま　じしょ　を　もっていません。",
+        "alternative_4": "いま　じしょ　を　もっています。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 75,
       "question_type": "vocabulary",
-      "question_text": "{きのうせんたくしました。}",
+      "question_text": "{きのう　せんたく　しました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "きのうへやにきれいにしました。",
-        "alternative_2": "きのうようふくをあらいました。",
-        "alternative_3": "きのうりょうりをつくりました。",
-        "alternative_4": "きのうほんをかいました。",
+        "alternative_1": "きのう　へや　に　きれい　に　しました。",
+        "alternative_2": "きのう　ようふく　を　あらいました。",
+        "alternative_3": "きのう　りょうり　を　つくりました。",
+        "alternative_4": "きのう　ほん　を　かいました。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 76,
       "question_type": "vocabulary",
-      "question_text": "{わたしのうちにはペットがいます。}",
+      "question_text": "{わたし　の　うち　に　は　ペット　が　います。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "わたしのうちにはとりがいます。",
-        "alternative_2": "わたしのうちにはいしゃがいます。",
-        "alternative_3": "わたしのうちにはかぞくがいます。",
-        "alternative_4": "わたしのうちにはりょうしんがいます。",
+        "alternative_1": "わたし　の　うち　に　は　とり　が　います。",
+        "alternative_2": "わたし　の　うち　に　は　いしゃ　が　います。",
+        "alternative_3": "わたし　の　うち　に　は　かぞく　が　います。",
+        "alternative_4": "わたし　の　うち　に　は　りょうしん　が　います。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 77,
       "question_type": "vocabulary",
-      "question_text": "{このホテルはゆうめいです。}",
+      "question_text": "{この　ホテル　は　ゆうめい　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "みんなこのホテルをしりません。",
-        "alternative_2": "みんなこのホテルをすんでいます。",
-        "alternative_3": "みんなこのホテルをしっています。",
-        "alternative_4": "みんなこのホテルをすんでいません。",
+        "alternative_1": "みんな　この　ホテル　を　しりません。",
+        "alternative_2": "みんな　この　ホテル　を　すんでいます。",
+        "alternative_3": "みんな　この　ホテル　を　しっています。",
+        "alternative_4": "みんな　この　ホテル　を　すんでいません。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 78,
       "question_type": "vocabulary",
-      "question_text": "{このじしょをかしてください。}",
+      "question_text": "{この　じしょ　を　かしてください。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "このじしょをかえしたいです。",
-        "alternative_2": "このじしょをかえりたいです。",
-        "alternative_3": "このじしょをかりたいです。",
-        "alternative_4": "このじしょをかいたいです。",
+        "alternative_1": "この　じしょ　を　かえしたい　です。",
+        "alternative_2": "この　じしょ　を　かえりたい　です。",
+        "alternative_3": "この　じしょ　を　かりたい　です。",
+        "alternative_4": "この　じしょ　を　かいたい　です。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 79,
       "question_type": "vocabulary",
-      "question_text": "{まいばん１２じごろやすみます。}",
+      "question_text": "{まいばん　１２じ　ごろ　やすみます。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "まいばん１２じごろねます。",
-        "alternative_2": "まいばん１２じごろおきます。",
-        "alternative_3": "まいばん１２じごろでます。",
-        "alternative_4": "まいばん１２じごろさんぽします。",
+        "alternative_1": "まいばん　１２じ　ごろ　ねます。",
+        "alternative_2": "まいばん　１２じ　ごろ　おきます。",
+        "alternative_3": "まいばん　１２じ　ごろ　でます。",
+        "alternative_4": "まいばん　１２じ　ごろ　さんぽします。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 80,
       "question_type": "vocabulary",
-      "question_text": "{たなか：あのひとはどなたですか。}",
+      "question_text": "{たなか：　あの　ひと　は　どなた　ですか。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "たなかさんはあのひとのいえがわかりません。",
-        "alternative_2": "たなかさんはあのひとのなまえがわかりません。",
-        "alternative_3": "たなかさんはあのひとのしごとがわかりません。",
-        "alternative_4": "たなかさんはあのひとのくにがわかりません。",
+        "alternative_1": "たなかさん　は　あの　ひと　の　いえ　が　わかりません。",
+        "alternative_2": "たなかさん　は　あの　ひと　の　なまえ　が　わかりません。",
+        "alternative_3": "たなかさん　は　あの　ひと　の　しごと　が　わかりません。",
+        "alternative_4": "たなかさん　は　あの　ひと　の　くに　が　わかりません。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 81,
       "question_type": "vocabulary",
-      "question_text": "友だちはしんせつですが、いつも（[blank]）です。",
+      "question_text": "友[とも]だち　は　しんせつ　です　が、　いつも　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "うれしい",
@@ -1375,14 +1535,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 82,
       "question_type": "vocabulary",
-      "question_text": "インドの（[blank]）はどうですか？おいしいですか？",
+      "question_text": "インド　の　（[blank]）　は　どう　ですか？　おいしい　ですか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かいもの",
@@ -1392,14 +1554,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 83,
       "question_type": "vocabulary",
-      "question_text": "Ａ：とうきょうまでのきっぷはいくらですか。\nＢ：（[blank]）は２００えんで、こどもは１００えんです。",
+      "question_text": "Ａ：　とうきょう　まで　の　きっぷ　は　いくら　ですか。　\nＢ：　（[blank]）　は　２００えん　で、　こども　は　１００えん　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おとこ",
@@ -1409,14 +1573,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 84,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）のちょうしがわるいですか？",
+      "question_text": "（[blank]）　の　ちょうし　が　わるい　ですか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あたま",
@@ -1426,14 +1592,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 85,
       "question_type": "vocabulary",
-      "question_text": "このおかしにはさとうがたくさんはいっています。とても（[blank]）です。",
+      "question_text": "この　おかし　に　は　さとう　が　たくさん　はいっています。　とても　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あまい",
@@ -1443,14 +1611,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 86,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）までべんきょうしますか？",
+      "question_text": "（[blank]）　まで　べんきょうしますか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "なに",
@@ -1460,14 +1630,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 87,
       "question_type": "vocabulary",
-      "question_text": "すぐわたしの（[blank]）へ来てください。",
+      "question_text": "すぐ　わたし　の　（[blank]）　へ　来[き]てください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いえ",
@@ -1477,14 +1649,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 88,
       "question_type": "vocabulary",
-      "question_text": "きょうはとてもつかれました。いえにかえって（[blank]）ねます。",
+      "question_text": "きょう　は　とても　つかれました。　いえ　に　かえって　（[blank]）　ねます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ほんとう",
@@ -1494,14 +1668,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 89,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）はサッカーがだいすきです。",
+      "question_text": "（[blank]）　は　サッカー　が　だいすき　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いす",
@@ -1511,14 +1687,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 90,
       "question_type": "vocabulary",
-      "question_text": "こどもたちはかわで（[blank]）います。",
+      "question_text": "こどもたち　は　かわ　で　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あるいて",
@@ -1528,14 +1706,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 91,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）ぼうしをかいました。",
+      "question_text": "（[blank]）　ぼうし　を　かいました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ひろい",
@@ -1545,14 +1725,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 92,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）に入ろうとおもっています。",
+      "question_text": "（[blank]）　に　入[はい]ろう　と　おもっています。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "だいがく",
@@ -1562,14 +1744,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 93,
       "question_type": "vocabulary",
-      "question_text": "あなたがここにきてから、わたしのしごとが（[blank]）いくようになったんですよ。",
+      "question_text": "あなた　が　ここ　に　きて　から、　わたし　の　しごと　が　（[blank]）　いくよう　に　なったん　です　よ。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "うまく",
@@ -1579,14 +1763,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 94,
       "question_type": "vocabulary",
-      "question_text": "Ａ：ゆうびんきょくはどこですか。\nＢ：このみちを（[blank]）いってください。すぐそこですよ。",
+      "question_text": "Ａ：　ゆうびんきょく　は　どこ　ですか。　\nＢ：　この　みち　を　（[blank]）　いってください。　すぐ　そこ　です　よ。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "まえに",
@@ -1596,14 +1782,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 95,
       "question_type": "vocabulary",
-      "question_text": "わたしはコーヒーにさとうを（[blank]）のみます。",
+      "question_text": "わたし　は　コーヒー　に　さとう　を　（[blank]）　のみます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いれて",
@@ -1613,14 +1801,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 96,
       "question_type": "vocabulary",
-      "question_text": "きょうはつよいかぜが（[blank]）います。",
+      "question_text": "きょう　は　つよい　かぜ　が　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "はいて",
@@ -1630,14 +1820,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 97,
       "question_type": "vocabulary",
-      "question_text": "しけんはおわりました。きょうしつを（[blank]）ください。",
+      "question_text": "しけん　は　おわりました。　きょうしつ　を　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "すわって",
@@ -1647,14 +1839,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 98,
       "question_type": "vocabulary",
-      "question_text": "うちからかいしゃまであるいて１５ふん（[blank]）。",
+      "question_text": "うち　から　かいしゃ　まで　あるいて　１５ふん　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いります",
@@ -1664,14 +1858,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 99,
       "question_type": "vocabulary",
-      "question_text": "いえにはいぬが（[blank]）います。",
+      "question_text": "いえ　に　は　いぬ　が　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "にだい",
@@ -1681,14 +1877,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 100,
       "question_type": "vocabulary",
-      "question_text": "もう５じですね。（[blank]）失礼します。",
+      "question_text": "もう　５じ　です　ね。　（[blank]）　失礼[しつれい]します。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "そろそろ",
@@ -1698,184 +1896,206 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 101,
       "question_type": "vocabulary",
-      "question_text": "{このたてものはぎんこうです。}",
+      "question_text": "{この　たてもの　は　ぎんこう　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ここではなをかいます。",
-        "alternative_2": "ここでおかねをだします。",
-        "alternative_3": "ここでおちゃをのみます。",
-        "alternative_4": "ここででんわをかけます。",
+        "alternative_1": "ここ　で　はな　を　かいます。",
+        "alternative_2": "ここ　で　おかね　を　だします。",
+        "alternative_3": "ここ　で　おちゃ　を　のみます。",
+        "alternative_4": "ここ　で　でんわ　を　かけます。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 102,
       "question_type": "vocabulary",
-      "question_text": "{そのえいがはおもしろくないです。}",
+      "question_text": "{その　えいが　は　おもしろくない　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "そのえいがはながいです。",
-        "alternative_2": "そのえいがはむずかしいです。",
-        "alternative_3": "そのえいがはみじかいです。",
-        "alternative_4": "そのえいがはつまらないです。",
+        "alternative_1": "その　えいが　は　ながい　です。",
+        "alternative_2": "その　えいが　は　むずかしい　です。",
+        "alternative_3": "その　えいが　は　みじかい　です。",
+        "alternative_4": "その　えいが　は　つまらない　です。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 103,
       "question_type": "vocabulary",
-      "question_text": "{にほんへははじめていきます。}",
+      "question_text": "{にほん　へ　は　はじめて　いきます。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "にほんへはあまりいきません。",
-        "alternative_2": "にほんへはまだいっていません。",
-        "alternative_3": "にほんへはよくいきます。",
-        "alternative_4": "にほんへ１かいいきました。",
+        "alternative_1": "にほん　へ　は　あまりいきません。",
+        "alternative_2": "にほん　へ　は　まだ　いっていません。",
+        "alternative_3": "にほん　へ　は　よく　いきます。",
+        "alternative_4": "にほん　へ　１かい　いきました。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 104,
       "question_type": "vocabulary",
-      "question_text": "{こうえんにけいかんがいました。}",
+      "question_text": "{こうえん　に　けいかん　が　いました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "おいしゃさんがいました。",
-        "alternative_2": "おくさんがいました。",
-        "alternative_3": "おにいさんがいました。",
-        "alternative_4": "おまわりさんがいました。",
+        "alternative_1": "おいしゃさん　が　いました。",
+        "alternative_2": "おくさん　が　いました。",
+        "alternative_3": "おにいさん　が　いました。",
+        "alternative_4": "おまわりさん　が　いました。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 105,
       "question_type": "vocabulary",
-      "question_text": "{おとといとしょかんにいきました。}",
+      "question_text": "{おととい　と　しょかん　に　いきました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ごはんをたべました。",
-        "alternative_2": "スポーツをしました。",
-        "alternative_3": "ほんをかりました。",
-        "alternative_4": "かいものをしました。",
+        "alternative_1": "ごはん　を　たべました。",
+        "alternative_2": "スポーツ　を　しました。",
+        "alternative_3": "ほん　を　かりました。",
+        "alternative_4": "かいもの　を　しました。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 106,
       "question_type": "vocabulary",
-      "question_text": "{わたしのおばあさんのたんじょうびはじゅうがついつかです。}",
+      "question_text": "{わたし　の　おばあさん　の　たんじょうび　は　じゅうがつ　いつか　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "わたしのおばあさんはじゅうがついつかにうまれました。",
-        "alternative_2": "わたしのおばあさんはじゅうがついつかにしにました。",
-        "alternative_3": "わたしのおばあさんはじゅうがついつかにけっこんしました。",
-        "alternative_4": "わたしのおばあさんはじゅうがついつかにはじまりました。",
+        "alternative_1": "わたし　の　おばあさん　は　じゅうがつ　いつか　に　うまれました。",
+        "alternative_2": "わたし　の　おばあさん　は　じゅうがつ　いつか　に　しにました。",
+        "alternative_3": "わたし　の　おばあさん　は　じゅうがつ　いつか　に　けっこんしました。",
+        "alternative_4": "わたし　の　おばあさん　は　じゅうがつ　いつか　に　はじまりました。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 107,
       "question_type": "vocabulary",
-      "question_text": "{こうばんにはおまわりさんがいます。}",
+      "question_text": "{こうばん　に　は　おまわりさん　が　います。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "こうばんにはせんせいがいます。",
-        "alternative_2": "こうばんにはけいかんがいます。",
-        "alternative_3": "こうばんにはがくせいがいます。",
-        "alternative_4": "こうばんにはてんいんがいます。",
+        "alternative_1": "こうばん　に　は　せんせい　が　います。",
+        "alternative_2": "こうばん　に　は　けいかん　が　います。",
+        "alternative_3": "こうばん　に　は　がくせい　が　います。",
+        "alternative_4": "こうばん　に　は　てんいん　が　います。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 108,
       "question_type": "vocabulary",
-      "question_text": "{きのうはもくようびでした。}",
+      "question_text": "{きのう　は　もくようびでした。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あしたはきんようびです。",
-        "alternative_2": "あしたはどようびです。",
-        "alternative_3": "あしたはかようびです。",
-        "alternative_4": "あしたはにちようびです。",
+        "alternative_1": "あした　は　きんようび　です。",
+        "alternative_2": "あした　は　どようび　です。",
+        "alternative_3": "あした　は　かようび　です。",
+        "alternative_4": "あした　は　にちようび　です。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 109,
       "question_type": "vocabulary",
-      "question_text": "{そうじをしてください。}",
+      "question_text": "{そうじ　を　してください。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "てをきれいにしてください。",
-        "alternative_2": "ふくをきれいにあらってください。",
-        "alternative_3": "へやをきれいにしてください。",
-        "alternative_4": "からだをきれいにあらってください。",
+        "alternative_1": "て　を　きれい　に　してください。",
+        "alternative_2": "ふく　を　きれい　に　あらってください。",
+        "alternative_3": "へや　を　きれい　に　してください。",
+        "alternative_4": "からだ　を　きれい　に　あらってください。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 110,
       "question_type": "vocabulary",
-      "question_text": "{いつも７じにいえをでて、しごとにいきます。}",
+      "question_text": "{いつも　７じ　に　いえ　を　でて、　しごと　に　いきます。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "まいにち７じにでかけます。",
-        "alternative_2": "ときどき７じにでかけます。",
-        "alternative_3": "まいにち７じにつきます。",
-        "alternative_4": "ときどき７じにつきます。",
+        "alternative_1": "まいにち　７じ　に　でかけます。",
+        "alternative_2": "ときどき　７じ　に　でかけます。",
+        "alternative_3": "まいにち　７じ　に　つきます。",
+        "alternative_4": "ときどき　７じ　に　つきます。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 111,
       "question_type": "vocabulary",
-      "question_text": "ちゅうごくごのべんきょうは（[blank]）ですか？",
+      "question_text": "ちゅうごくご　の　べんきょう　は　（[blank]）　ですか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "やさしい",
@@ -1885,14 +2105,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 112,
       "question_type": "vocabulary",
-      "question_text": "このクリニックはかんたんな（[blank]）ならなおせるよ。",
+      "question_text": "この　クリニック　は　かんたんな　（[blank]）　なら　なおせる　よ。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "びょうき",
@@ -1902,14 +2124,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 113,
       "question_type": "vocabulary",
-      "question_text": "その（[blank]）はきゃくがいっぱいいるね。",
+      "question_text": "その　（[blank]）　は　きゃく　が　いっぱい　いる　ね。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "とり",
@@ -1919,14 +2143,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 114,
       "question_type": "vocabulary",
-      "question_text": "これは（[blank]）なもんだいです。",
+      "question_text": "これ　は　（[blank]）　な　もんだい　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あんぜん",
@@ -1936,14 +2162,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 115,
       "question_type": "vocabulary",
-      "question_text": "Ａ：なにか（[blank]）はありませんか。\nＢ：おちゃでいいですか\nＡ：はい、けっこうです。",
+      "question_text": "Ａ：　なにか　（[blank]）　は　ありませんか。　\nＢ：　おちゃ　で　いい　ですか　\nＡ：　はい、　けっこう　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "くだもの",
@@ -1953,14 +2181,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 116,
       "question_type": "vocabulary",
-      "question_text": "なんじにごはんを（[blank]）か？",
+      "question_text": "なんじ　に　ごはん　を　（[blank]）か？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "たべます",
@@ -1970,14 +2200,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 117,
       "question_type": "vocabulary",
-      "question_text": "この（[blank]）はあまりおいしくないですよ。",
+      "question_text": "この　（[blank]）　は　あまり　おいしくない　です　よ。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ラーメン",
@@ -1987,14 +2219,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 118,
       "question_type": "vocabulary",
-      "question_text": "きょうはゴミのひだから、あるなら（[blank]）ね。",
+      "question_text": "きょう　は　ゴミ　の　ひだ　から、　あるなら　（[blank]）　ね。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かえして",
@@ -2004,31 +2238,35 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 119,
       "question_type": "vocabulary",
-      "question_text": "このかばんはふるいですが、とても（[blank]）。",
+      "question_text": "この　かばん　は　ふるい　です　が、　とても　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "げんきです",
-        "alternative_2": "しずかです",
-        "alternative_3": "じょうぶです",
-        "alternative_4": "にぎやかです",
+        "alternative_1": "げんき　です",
+        "alternative_2": "しずか　です",
+        "alternative_3": "じょうぶ　です",
+        "alternative_4": "にぎやか　です",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 120,
       "question_type": "vocabulary",
-      "question_text": "かさはそこに（[blank]）ください。",
+      "question_text": "かさ　は　そこ　に　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かいて",
@@ -2038,14 +2276,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 121,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）ですから、ドアをあけてください。",
+      "question_text": "（[blank]）　です　から、　ドア　を　あけてください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "さむい",
@@ -2055,14 +2295,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 122,
       "question_type": "vocabulary",
-      "question_text": "この（[blank]）をおしてください。",
+      "question_text": "この　（[blank]）　を　おしてください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ボタン",
@@ -2072,14 +2314,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 123,
       "question_type": "vocabulary",
-      "question_text": "ゆうがたまでいもうとといっしょににわで（[blank]）。",
+      "question_text": "ゆうがた　まで　いもうと　と　いっしょ　に　にわ　で　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "つとめました",
@@ -2089,14 +2333,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 124,
       "question_type": "vocabulary",
-      "question_text": "きのう（[blank]）べんきょうしませんでした。",
+      "question_text": "きのう　（[blank]）　べんきょうしませんでした。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ぜんぶ",
@@ -2106,14 +2352,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 125,
       "question_type": "vocabulary",
-      "question_text": "いつ（[blank]）へかえりますか？",
+      "question_text": "いつ　（[blank]）　へ　かえりますか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "じしょ",
@@ -2123,14 +2371,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 126,
       "question_type": "vocabulary",
-      "question_text": "ちょっと（[blank]）を見ますね。あそこしんごうがありますね。",
+      "question_text": "ちょっと　（[blank]）　を　見[み]ます　ね。　あそこ　しんごう　が　あります　ね。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ちず",
@@ -2140,14 +2390,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 127,
       "question_type": "vocabulary",
-      "question_text": "ちばさんはいつも（[blank]）ーヒーを買いますか？",
+      "question_text": "ちばさん　は　いつも　（[blank]）　ーヒー　を　買[か]いますか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "どこで",
@@ -2157,14 +2409,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 128,
       "question_type": "vocabulary",
-      "question_text": "じしょで（[blank]）のいみをしらべます。",
+      "question_text": "じしょ　で　（[blank]）　の　いみ　を　しらべます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "はがき",
@@ -2174,14 +2428,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 129,
       "question_type": "vocabulary",
-      "question_text": "きょうはかぜが（[blank]）です。",
+      "question_text": "きょう　は　かぜ　が　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "みじがい",
@@ -2191,14 +2447,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 130,
       "question_type": "vocabulary",
-      "question_text": "わたしはいつも１０じにねて５じに（[blank]）。",
+      "question_text": "わたし　は　いつも　１０じ　に　ねて　５じ　に　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あきます",
@@ -2208,184 +2466,206 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 131,
       "question_type": "vocabulary",
-      "question_text": "{あさこうえんをさんぽしました。}",
+      "question_text": "{あさ　こうえん　を　さんぽしました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あさこうえんをとびました。",
-        "alternative_2": "あさこうえんをまがりました。",
-        "alternative_3": "あさこうえんをはしりました。",
-        "alternative_4": "あさこうえんをあるきました。",
+        "alternative_1": "あさ　こうえん　を　とびました。",
+        "alternative_2": "あさ　こうえん　を　まがりました。",
+        "alternative_3": "あさ　こうえん　を　はしりました。",
+        "alternative_4": "あさ　こうえん　を　あるきました。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 132,
       "question_type": "vocabulary",
-      "question_text": "{きむらさんのおばさんはあのひとです。}",
+      "question_text": "{きむらさん　の　おばさん　は　あの　ひと　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "きむらさんのおかあさんのおかあさんはあのひとです。",
-        "alternative_2": "きむらさんのおかあさんのおとうさんはあのひとです。",
-        "alternative_3": "きむらさんのおかあさんのいもうとさんはあのひとです。",
-        "alternative_4": "きむらさんのおかあさんのおとうとさんはあのひとです。",
+        "alternative_1": "きむらさん　の　おかあさん　の　おかあさん　は　あの　ひと　です。",
+        "alternative_2": "きむらさん　の　おかあさん　の　おとうさん　は　あの　ひと　です。",
+        "alternative_3": "きむらさん　の　おかあさん　の　いもうとさん　は　あの　ひと　です。",
+        "alternative_4": "きむらさん　の　おかあさん　の　おとうとさん　は　あの　ひと　です。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 133,
       "question_type": "vocabulary",
-      "question_text": "{あねはおんがくがすきです。}",
+      "question_text": "{あね　は　おんがく　が　すき　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あねはよくうたったりピアノをひいたりします。",
-        "alternative_2": "あねはよくえいがをみたりほんをよんだりします。",
-        "alternative_3": "あねはよくはしったりおよいだりします。",
-        "alternative_4": "あねはよくそうじしたりせんたくしたりします。",
+        "alternative_1": "あね　は　よく　うたったり　ピアノ　を　ひいたりします。",
+        "alternative_2": "あね　は　よく　えいが　を　みたり　ほん　を　よんだりします。",
+        "alternative_3": "あね　は　よく　はしったり　およいだりします。",
+        "alternative_4": "あね　は　よく　そうじしたり　せんたく　したりします。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 134,
       "question_type": "vocabulary",
-      "question_text": "{きょうはてんきがいいです。}",
+      "question_text": "{きょう　は　てんき　が　いい　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "きょうはくもっています。",
-        "alternative_2": "きょうはあめがふっています。",
-        "alternative_3": "きょうはゆきがふっています。",
-        "alternative_4": "きょうははれています。",
+        "alternative_1": "きょう　は　くもっています。",
+        "alternative_2": "きょう　は　あめ　が　ふっています。",
+        "alternative_3": "きょう　は　ゆき　が　ふっています。",
+        "alternative_4": "きょう　は　はれています。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 135,
       "question_type": "vocabulary",
-      "question_text": "{わたしのあねはやまださんとけっこんします。}",
+      "question_text": "{わたし　の　あね　は　やまださん　と　けっこんします。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あねはやまださんのいもうとになります。",
-        "alternative_2": "あねはやまださんのおくさんになります。",
-        "alternative_3": "あねはやまださんのおばさんになります。",
-        "alternative_4": "あねはやまださんのごしゅじんになります。",
+        "alternative_1": "あね　は　やまださん　の　いもうと　に　なります。",
+        "alternative_2": "あね　は　やまださん　の　おくさん　に　なります。",
+        "alternative_3": "あね　は　やまださん　の　おばさん　に　なります。",
+        "alternative_4": "あね　は　やまださん　の　ごしゅじん　に　なります。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 136,
       "question_type": "vocabulary",
-      "question_text": "{ゆうべやましたさんにでんわをしました。}",
+      "question_text": "{ゆうべ　やましたさん　に　でんわ　を　しました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "おとといのあさやましたさんにでんわをしました。",
-        "alternative_2": "おとといのよるやましたさんにでんわをしました。",
-        "alternative_3": "きのうのあさやましたさんにでんわをしました。",
-        "alternative_4": "きのうのよるやましたさんにでんわをしました。",
+        "alternative_1": "おととい　の　あさ　やましたさん　に　でんわ　を　しました。",
+        "alternative_2": "おととい　の　よる　やましたさん　に　でんわ　を　しました。",
+        "alternative_3": "きのう　の　あさ　やましたさん　に　でんわ　を　しました。",
+        "alternative_4": "きのう　の　よる　やましたさん　に　でんわ　を　しました。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 137,
       "question_type": "vocabulary",
-      "question_text": "{あそこはゆうびんきょくです。}",
+      "question_text": "{あそこ　は　ゆうびんきょく　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あそこではうわぎやズポンをうっています。",
-        "alternative_2": "あそこでははがきやきってをうっています。",
-        "alternative_3": "あそこではいすやほんだなをうっています。",
-        "alternative_4": "あそこではおちゃやおかしをうっています。",
+        "alternative_1": "あそこ　で　は　うわぎ　や　ズポン　を　うっています。",
+        "alternative_2": "あそこ　で　は　はがき　や　きって　を　うっています。",
+        "alternative_3": "あそこ　で　は　いす　や　ほんだな　を　うっています。",
+        "alternative_4": "あそこ　で　は　おちゃ　や　おかし　を　うっています。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 138,
       "question_type": "vocabulary",
-      "question_text": "{これはコップです。}",
+      "question_text": "{これ　は　コップ　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "これでみずをいれることができます。",
-        "alternative_2": "これでさくぶんをかくことができます。",
-        "alternative_3": "これできってをはることができます。",
-        "alternative_4": "これでパンをきることができます。",
+        "alternative_1": "これ　で　みず　を　いれること　が　できます。",
+        "alternative_2": "これ　で　さくぶん　を　かくこと　が　できます。",
+        "alternative_3": "これ　で　きって　を　はること　が　できます。",
+        "alternative_4": "これ　で　パン　を　きること　が　できます。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 139,
       "question_type": "vocabulary",
-      "question_text": "{へやがくらいですね。あかるくしてください。}",
+      "question_text": "{へや　が　くらい　です　ね。　あかるくしてください。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "でんきをけしてください。",
-        "alternative_2": "でんきをつけてください。",
-        "alternative_3": "でんきをけさないでください。",
-        "alternative_4": "でんきをつけないでください。",
+        "alternative_1": "でんき　を　けしてください。",
+        "alternative_2": "でんき　を　つけてください。",
+        "alternative_3": "でんき　を　けさないでください。",
+        "alternative_4": "でんき　を　つけないでください。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 140,
       "question_type": "vocabulary",
-      "question_text": "{にちようびのこうえんはにぎやかです。}",
+      "question_text": "{にちようび　の　こうえん　は　にぎやか　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "にちようびのこうえんはきれいです。",
-        "alternative_2": "にちようびのこうえんはしずかです。",
-        "alternative_3": "にちようびのこうえんはひとがすくないです。",
-        "alternative_4": "にちようびのこうえんはひとがおおぜいいます。",
+        "alternative_1": "にちようび　の　こうえん　は　きれい　です。",
+        "alternative_2": "にちようび　の　こうえん　は　しずか　です。",
+        "alternative_3": "にちようび　の　こうえん　は　ひと　が　すくない　です。",
+        "alternative_4": "にちようび　の　こうえん　は　ひと　が　おおぜいい　ます。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 141,
       "question_type": "vocabulary",
-      "question_text": "たなかさん：やまもとさん、（[blank]）はスミスさんです。\nやまもとさ：はじめまして。",
+      "question_text": "たなかさん：　やまもとさん、　（[blank]）　は　スミスさん　です。　\nやまもとさん：　はじめまして。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "これ",
@@ -2395,14 +2675,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 142,
       "question_type": "vocabulary",
-      "question_text": "あそこにじてんしゃが（[blank]）とまっています。",
+      "question_text": "あそこ　に　じてんしゃ　が　（[blank]）　とまっています。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いっぴき",
@@ -2412,14 +2694,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 143,
       "question_type": "vocabulary",
-      "question_text": "かんじのおぼえかたを（[blank]）ください。",
+      "question_text": "かんじ　の　おぼえかた　を　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かんがえて",
@@ -2429,14 +2713,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 144,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）をさんぽしましょう。",
+      "question_text": "（[blank]）　を　さんぽしましょう。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "べんり",
@@ -2446,14 +2732,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 145,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）じぶんのくるまをかいたいです。",
+      "question_text": "（[blank]）　じぶん　の　くるま　をかいたい　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "だれか",
@@ -2463,14 +2751,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 146,
       "question_type": "vocabulary",
-      "question_text": "もう（[blank]）ゆっくりいってください。",
+      "question_text": "もう　（[blank]）　ゆっくり　いってください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いちど",
@@ -2480,14 +2770,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 147,
       "question_type": "vocabulary",
-      "question_text": "昨日（[blank]）をしました。",
+      "question_text": "昨日[きのう]　（[blank]）　を　しました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かみ",
@@ -2497,14 +2789,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 148,
       "question_type": "vocabulary",
-      "question_text": "このりょうりは（[blank]）です。",
+      "question_text": "この　りょうり　は　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "からい",
@@ -2514,14 +2808,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 149,
       "question_type": "vocabulary",
-      "question_text": "きょうからこのがっこうに（[blank]）ことになりました。",
+      "question_text": "きょう　から　この　がっこう　に　（[blank]）　こと　に　なりました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かく",
@@ -2531,14 +2827,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 150,
       "question_type": "vocabulary",
-      "question_text": "これはラジカセと（[blank]）。",
+      "question_text": "これ　は　ラジカセ　と　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "よびます",
@@ -2548,14 +2846,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 151,
       "question_type": "vocabulary",
-      "question_text": "きんようびにしゅくだいを（[blank]）ください。",
+      "question_text": "きんようび　に　しゅくだい　を　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "さして",
@@ -2565,14 +2865,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 152,
       "question_type": "vocabulary",
-      "question_text": "きょうは（[blank]）です。あしたはみっかです。",
+      "question_text": "きょう　は　（[blank]）　です。　あした　は　みっか　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ふつか",
@@ -2582,14 +2884,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 153,
       "question_type": "vocabulary",
-      "question_text": "このほんは（[blank]）かるいです。",
+      "question_text": "この　ほん　は　（[blank]）かるい　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おもくて",
@@ -2599,14 +2903,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 154,
       "question_type": "vocabulary",
-      "question_text": "ここでは（[blank]）くにの ひとが はたらいて います。",
+      "question_text": "ここ　で　は　（[blank]）　くに　の　ひと　が　はたらいています。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いろいろな",
@@ -2616,14 +2922,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 155,
       "question_type": "vocabulary",
-      "question_text": "Ａ：このカメラはあなたのですか。\nＢ：いいえ、（[blank]）。",
+      "question_text": "Ａ：　この　カメラ　は　あなた　の　ですか。　\nＢ：　いいえ、　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あります",
@@ -2633,14 +2941,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 156,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）ゆっくりはなしてください。",
+      "question_text": "（[blank]）　ゆっくり　はなしてください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "よく",
@@ -2650,14 +2960,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 157,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）がふるそうです。",
+      "question_text": "（[blank]）　が　ふるそう　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かぜ",
@@ -2667,14 +2979,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 158,
       "question_type": "vocabulary",
-      "question_text": "どんな（[blank]）をしたいですか。",
+      "question_text": "どんな　（[blank]）　を　したい　ですか。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "しょくじ",
@@ -2684,14 +2998,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 159,
       "question_type": "vocabulary",
-      "question_text": "まじめに（[blank]）をとってください。",
+      "question_text": "まじめ　に　（[blank]）　を　とってください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "トイレ",
@@ -2701,14 +3017,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 160,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）なまえをかいてください。つぎに、しつもんにこたえてください。",
+      "question_text": "（[blank]）　なまえ　を　かいてください。　つぎに、　しつもん　に　こたえてください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ときどき",
@@ -2718,184 +3036,206 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 161,
       "question_type": "vocabulary",
-      "question_text": "{ここはでぐちです。いりぐちはあちらです。}",
+      "question_text": "{ここ　は　でぐち　です。　いりぐち　は　あちら　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あちらからでてください。",
-        "alternative_2": "あちらからおりてください。",
-        "alternative_3": "あちらからはいってください。",
-        "alternative_4": "あちらからわたってください。",
+        "alternative_1": "あちら　から　でてください。",
+        "alternative_2": "あちら　から　おりてください。",
+        "alternative_3": "あちら　から　はいってください。",
+        "alternative_4": "あちら　から　わたってください。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 162,
       "question_type": "vocabulary",
-      "question_text": "{このしょくどうはまずいです。}",
+      "question_text": "{この　しょくどう　は　まずい　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ここのりょうりはおいしいです。",
-        "alternative_2": "ここのりょうりはおいしくありません。",
-        "alternative_3": "ここのりょうりはやすいです。",
-        "alternative_4": "ここのりょうりはやすくありません。",
+        "alternative_1": "ここ　の　りょうり　は　おいしい　です。",
+        "alternative_2": "ここ　の　りょうり　は　おいしくありません。",
+        "alternative_3": "ここ　の　りょうり　は　やすい　です。",
+        "alternative_4": "ここ　の　りょうり　は　やすくありません。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 163,
       "question_type": "vocabulary",
-      "question_text": "{このみせではやさいやくだものをうっています。}",
+      "question_text": "{この　みせ　で　は　やさい　や　くだもの　を　うっています。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ここはやおやです。",
-        "alternative_2": "ここはほんやです。",
-        "alternative_3": "ここははなやです。",
-        "alternative_4": "ここはにくやです。",
+        "alternative_1": "ここ　は　やおや　です。",
+        "alternative_2": "ここ　は　ほんや　です。",
+        "alternative_3": "ここ　は　はなや　です。",
+        "alternative_4": "ここ　は　にくや　です。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 164,
       "question_type": "vocabulary",
-      "question_text": "{えいがかんのいりぐちであいましょう。}",
+      "question_text": "{えいがかん　の　いりぐち　で　あいましょう。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ふたりはおよぎにいきます。",
-        "alternative_2": "ふたりはほんをかいにいきます。",
-        "alternative_3": "ふたりはごはんをたべにいきます。",
-        "alternative_4": "ふたりはえいがをみにいきます。",
+        "alternative_1": "ふたり　は　およぎ　に　いきます。",
+        "alternative_2": "ふたり　は　ほんをかい　に　いきます。",
+        "alternative_3": "ふたり　は　ごはんをたべ　に　いきます。",
+        "alternative_4": "ふたり　は　えいがをみ　に　いきます。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 165,
       "question_type": "vocabulary",
-      "question_text": "{いそがしいからしんぶんをよみません。}",
+      "question_text": "{いそがしい　から　しんぶん　を　よみません。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "しんぶんはすきではありません。",
-        "alternative_2": "しんぶんはつまらなくありません。",
-        "alternative_3": "しんぶんをよむじかんがありません。",
-        "alternative_4": "しんぶんをかうおかねがありません。",
+        "alternative_1": "しんぶん　は　すきではありません。",
+        "alternative_2": "しんぶん　は　つまらなくありません。",
+        "alternative_3": "しんぶん　を　よむ　じかん　が　ありません。",
+        "alternative_4": "しんぶん　を　かう　おかね　が　ありません。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 166,
       "question_type": "vocabulary",
-      "question_text": "{ヤンさんはせがたかいです。}",
+      "question_text": "{ヤンさん　は　せ　が　たかい　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ヤンさんはかるいです。",
-        "alternative_2": "ヤンさんはつよいです。",
-        "alternative_3": "ヤンさんはわかいです。",
-        "alternative_4": "ヤンさんはおおきいです。",
+        "alternative_1": "ヤンさん　は　かるい　です。",
+        "alternative_2": "ヤンさん　は　つよい　です。",
+        "alternative_3": "ヤンさん　は　わかい　です。",
+        "alternative_4": "ヤンさん　は　おおきい　です。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 167,
       "question_type": "vocabulary",
-      "question_text": "{テーブルにおさらを８まいならべてください。}",
+      "question_text": "{テーブル　に　おさら　を　８まい　ならべてください。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "おさらを８まいおいてください。",
-        "alternative_2": "おさらを８まいもってください。",
-        "alternative_3": "おさらを８まいつかってください。",
-        "alternative_4": "おさらを８まいわたしてください。",
+        "alternative_1": "おさら　を　８まい　おいてください。",
+        "alternative_2": "おさら　を　８まい　もってください。",
+        "alternative_3": "おさら　を　８まい　つかってください。",
+        "alternative_4": "おさら　を　８まい　わたしてください。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 168,
       "question_type": "vocabulary",
-      "question_text": "{あきらさんはけいこさんときょうだいです。}",
+      "question_text": "{あきらさん　は　けいこさん　と　きょうだい　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あきらさんはけいこさんのおじさんです。",
-        "alternative_2": "あきらさんはけいこさんのおとうさんです。",
-        "alternative_3": "あきらさんはけいこさんのおにいさんです。",
-        "alternative_4": "あきらさんはけいこさんのおじいさんです。",
+        "alternative_1": "あきらさん　は　けいこさん　の　おじさん　です。",
+        "alternative_2": "あきらさん　は　けいこさん　の　おとうさん　です。",
+        "alternative_3": "あきらさん　は　けいこさん　の　おにいさん　です。",
+        "alternative_4": "あきらさん　は　けいこさん　の　おじいさん　です。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 169,
       "question_type": "vocabulary",
-      "question_text": "{かいぎはちょうど３じにおわりました。}",
+      "question_text": "{かいぎ　は　ちょうど　３じ　に　おわりました。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "かいぎは３じはんにおわりました。",
-        "alternative_2": "かいぎは２じはんにおわりました。",
-        "alternative_3": "かいぎは３じにおわりました。",
-        "alternative_4": "かいぎは２じにおわりました。",
+        "alternative_1": "かいぎ　は　３じはん　に　おわりました。",
+        "alternative_2": "かいぎ　は　２じはん　に　おわりました。",
+        "alternative_3": "かいぎ　は　３じ　に　おわりました。",
+        "alternative_4": "かいぎ　は　２じ　に　おわりました。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 170,
       "question_type": "vocabulary",
-      "question_text": "{あさってしごとをやすみます。}",
+      "question_text": "{あさって　しごと　を　やすみます。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あさってしごとをします。",
-        "alternative_2": "あさってしごとをしません。",
-        "alternative_3": "あさってしごとをおわります。",
-        "alternative_4": "あさってしごとをおわりません。",
+        "alternative_1": "あさって　しごと　を　します。",
+        "alternative_2": "あさって　しごと　を　しません。",
+        "alternative_3": "あさって　しごと　を　おわります。",
+        "alternative_4": "あさって　しごと　を　おわりません。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 171,
       "question_type": "vocabulary",
-      "question_text": "わからないひとはわたしに（[blank]）ください。",
+      "question_text": "わからない　ひと　は　わたし　に　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かえって",
@@ -2905,14 +3245,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 172,
       "question_type": "vocabulary",
-      "question_text": "きょうはざっしを（[blank]）よみました。",
+      "question_text": "きょう　は　ざっし　を　（[blank]）　よみました。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "10キロ",
@@ -2922,14 +3264,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 173,
       "question_type": "vocabulary",
-      "question_text": "Ａ：わたしがそうじをしましょうか。\nＢ：ええ、（[blank]）。",
+      "question_text": "Ａ：　わたし　が　そうじ　を　しましょう　か。　\nＢ：　ええ、　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おねがいします",
@@ -2939,14 +3283,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 174,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）があるから、そんなにいそがなくてもいいよ。",
+      "question_text": "（[blank]）　が　ある　から、　そんな　に　いそがなくてもいい　よ。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "とき",
@@ -2956,14 +3302,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 175,
       "question_type": "vocabulary",
-      "question_text": "もうはるですね。これから、（[blank]）あたたかくなりますね。",
+      "question_text": "もう　はる　です　ね。　これから、　（[blank]）　あたたかくなります　ね。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いちいち",
@@ -2973,14 +3321,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 176,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）でいったほうがはやいですよ。",
+      "question_text": "（[blank]）　で　いったほう　が　はやい　です　よ。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "プール",
@@ -2990,14 +3340,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 177,
       "question_type": "vocabulary",
-      "question_text": "わたしはよるシャワーを（[blank]）。",
+      "question_text": "わたし　は　よる　シャワー　を　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あびます",
@@ -3007,14 +3359,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 178,
       "question_type": "vocabulary",
-      "question_text": "ギターを（[blank]）ことができますか。",
+      "question_text": "ギター　を　（[blank]）　こと　が　できますか。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "つく",
@@ -3024,14 +3378,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 179,
       "question_type": "vocabulary",
-      "question_text": "がくせい（[blank]）でひるごはんをたべます。",
+      "question_text": "がくせい　（[blank]）　で　ひるごはん　を　たべます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "としょかん",
@@ -3041,14 +3397,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 180,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）は午後4時にともだちにあいます。",
+      "question_text": "（[blank]）　は　午後[ごご]　4時[とき]　に　ともだち　に　あいます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "きのう",
@@ -3058,14 +3416,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 181,
       "question_type": "vocabulary",
-      "question_text": "国で日本語を（[blank]）しましたか？",
+      "question_text": "国[くに]　で　日本語[にほんご]　を　（[blank]）　しましたか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "うんてん",
@@ -3075,14 +3435,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 182,
       "question_type": "vocabulary",
-      "question_text": "ふうとうにきってを（[blank]）だします。",
+      "question_text": "ふうとう　に　きって　を　（[blank]）　だします。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おいて",
@@ -3092,31 +3454,35 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 183,
       "question_type": "vocabulary",
-      "question_text": "わたしはうたがへたです。でも、うたは（[blank]）。",
+      "question_text": "わたし　は　うた　が　へた　です。　でも、　うた　は　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "すきです",
-        "alternative_2": "じょうずです",
-        "alternative_3": "じょうぶです",
-        "alternative_4": "りっぱです",
+        "alternative_1": "すき　です",
+        "alternative_2": "じょうず　です",
+        "alternative_3": "じょうぶ　です",
+        "alternative_4": "りっぱ　です",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 184,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）がふりはじめた。",
+      "question_text": "（[blank]）　が　ふりはじめた。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "うみ",
@@ -3126,14 +3492,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 185,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）ですね。でんきをつけましょう。",
+      "question_text": "（[blank]）　です　ね。　でんき　を　つけましょう。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "うすい",
@@ -3143,14 +3511,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 186,
       "question_type": "vocabulary",
-      "question_text": "Ａ：ありがとうございます。 Ｂ：いいえ、（[blank]）。",
+      "question_text": "Ａ：　ありがとうございます。　Ｂ：　いいえ、　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "すみません",
@@ -3160,14 +3530,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 187,
       "question_type": "vocabulary",
-      "question_text": "きょうは彼と（[blank]）に来ましたか？",
+      "question_text": "きょう　は　彼[かれ]　と　（[blank]）　に　来[き]ましたか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "もっと",
@@ -3177,14 +3549,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 188,
       "question_type": "vocabulary",
-      "question_text": "学校の（[blank]）はなんですか？",
+      "question_text": "学校[がっこう]　の　（[blank]）　は　なん　ですか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かず",
@@ -3194,14 +3568,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 189,
       "question_type": "vocabulary",
-      "question_text": "だれにいちばん（[blank]）ですか？",
+      "question_text": "だれ　に　いちばん　（[blank]）　ですか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "すみたい",
@@ -3211,14 +3587,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 190,
       "question_type": "vocabulary",
-      "question_text": "へやはストーブがついていて、とても（[blank]）です。",
+      "question_text": "へや　は　ストーブ　が　ついていて、　とても　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あたたかい",
@@ -3228,184 +3606,206 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 191,
       "question_type": "vocabulary",
-      "question_text": "{おてあらいはあちらです。}",
+      "question_text": "{おてあらい　は　あちら　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "トイレはあちらにあります。",
-        "alternative_2": "プールはあちらにあります。",
-        "alternative_3": "ホテルはあちらにあります。",
-        "alternative_4": "デパートはあちらにあります。",
+        "alternative_1": "トイレ　は　あちら　に　あります。",
+        "alternative_2": "プール　は　あちら　に　あります。",
+        "alternative_3": "ホテル　は　あちら　に　あります。",
+        "alternative_4": "デパート　は　あちら　に　あります。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 192,
       "question_type": "vocabulary",
-      "question_text": "{わたしのくにのふゆは、あまりさむくありません。}",
+      "question_text": "{わたし　の　くに　の　ふゆ　は、　あまり　さむくありません。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "わたしのくにのふゆは、とてもあついです。",
-        "alternative_2": "わたしのくにのふゆは、すこしあついです。",
-        "alternative_3": "わたしのくにのふゆは、とてもさむいです。",
-        "alternative_4": "わたしのくにのふゆは、すこしさむいです。",
+        "alternative_1": "わたし　の　くに　の　ふゆ　は、とても　あつい　です。",
+        "alternative_2": "わたし　の　くに　の　ふゆ　は、すこし　あつい　です。",
+        "alternative_3": "わたし　の　くに　の　ふゆ　は、とても　さむい　です。",
+        "alternative_4": "わたし　の　くに　の　ふゆ　は、すこし　さむい　です。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 193,
       "question_type": "vocabulary",
-      "question_text": "{げんかんにだれかいますよ。}",
+      "question_text": "{げんかん　に　だれか　います　よ。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "いえのいりぐちにひとがいます。",
-        "alternative_2": "がっこうのろうかにひとがいます。",
-        "alternative_3": "まどのちかくにひとがいます。",
-        "alternative_4": "ビルのうえにひとがいます。",
+        "alternative_1": "いえ　の　いりぐち　に　ひと　が　います。",
+        "alternative_2": "がっこう　の　ろうか　に　ひと　が　います。",
+        "alternative_3": "まど　の　ちかく　に　ひと　が　います。",
+        "alternative_4": "ビル　の　うえ　に　ひと　が　います。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 194,
       "question_type": "vocabulary",
-      "question_text": "{まいにち８じにでかけます。}",
+      "question_text": "{まいにち　８じ　に　でかけます。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "いつも８じにいえをでます。",
-        "alternative_2": "ときどき８じにいえをでます。",
-        "alternative_3": "いつも８じにいえにつきます。",
-        "alternative_4": "ときどき８じにいえにつきます。",
+        "alternative_1": "いつも　８じ　に　いえ　を　でます。",
+        "alternative_2": "ときどき　８じ　に　いえ　を　でます。",
+        "alternative_3": "いつも　８じ　に　いえ　に　つきます。",
+        "alternative_4": "ときどき　８じ　に　いえ　に　つきます。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 195,
       "question_type": "vocabulary",
-      "question_text": "{いま、２００１ねんです。さらいねんがいこくにいきます。}",
+      "question_text": "{いま、　２００１ねん　です。　さらいねん　がいこく　に　いきます。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "２００２ねんにがいこくにいきます。",
-        "alternative_2": "２００３ねんにがいこくにいきます。",
-        "alternative_3": "２００４ねんにがいこくにいきます。",
-        "alternative_4": "２００５ねんにがいこくにいきます。",
+        "alternative_1": "２００２ねん　に　がいこく　に　いきます。",
+        "alternative_2": "２００３ねん　に　がいこく　に　いきます。",
+        "alternative_3": "２００４ねん　に　がいこく　に　いきます。",
+        "alternative_4": "２００５ねん　に　がいこく　に　いきます。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 196,
       "question_type": "vocabulary",
-      "question_text": "{わたしはくだものがすきです。}",
+      "question_text": "{わたし　は　くだもの　が　すき　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "いぬやねこなどがすきです。",
-        "alternative_2": "すしやてんぷらなどがすきです。",
-        "alternative_3": "やきゅうやサッカーなどがすきです。",
-        "alternative_4": "りんごやバナナなどがすきです。",
+        "alternative_1": "いぬ　や　ねこ　など　が　すき　です。",
+        "alternative_2": "すし　や　てんぷら　など　が　すき　です。",
+        "alternative_3": "やきゅう　や　サッカー　など　が　すき　です。",
+        "alternative_4": "りんご　や　バナナ　など　が　すき　です。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 197,
       "question_type": "vocabulary",
-      "question_text": "{にちようびはひまでした。}",
+      "question_text": "{にちようび　は　ひまでした。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "にちようびはいそがしくなかったです。",
-        "alternative_2": "にちようびはいそがしかったです。",
-        "alternative_3": "にちようびはうるさくなかったです。",
-        "alternative_4": "にちようびはうるさかったです。",
+        "alternative_1": "にちようび　は　いそがしくなかった　です。",
+        "alternative_2": "にちようび　は　いそがしかった　です。",
+        "alternative_3": "にちようび　は　うるさくなかった　です。",
+        "alternative_4": "にちようび　は　うるさかった　です。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 198,
       "question_type": "vocabulary",
-      "question_text": "{あねはさとうさんとけっこんします。}",
+      "question_text": "{あね　は　さとうさん　と　けっこんします。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あねとさとうさんはともだちになります。",
-        "alternative_2": "あねとさとうさんはりょうしんになります。",
-        "alternative_3": "あねとさとうさんはきょうだいになります。",
-        "alternative_4": "あねとさとうさんはふうふになります。",
+        "alternative_1": "あね　と　さとうさん　は　ともだち　に　なります。",
+        "alternative_2": "あね　と　さとうさん　は　りょうしん　に　なります。",
+        "alternative_3": "あね　と　さとうさん　は　きょうだい　に　なります。",
+        "alternative_4": "あね　と　さとうさん　は　ふうふ　に　なります。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 199,
       "question_type": "vocabulary",
-      "question_text": "{このたてものはゆうびんきょくです。}",
+      "question_text": "{この　たてもの　は　ゆうびんきょく　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ここでほんをよみます。",
-        "alternative_2": "ここでおちゃをのみます。",
-        "alternative_3": "ここでごはんをたべます。",
-        "alternative_4": "ここでてがみをだします。",
+        "alternative_1": "ここ　で　ほん　を　よみます。",
+        "alternative_2": "ここ　で　おちゃ　を　のみます。",
+        "alternative_3": "ここ　で　ごはん　を　たべます。",
+        "alternative_4": "ここ　で　てがみ　を　だします。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 200,
       "question_type": "vocabulary",
-      "question_text": "{おじは６５さいです。}",
+      "question_text": "{おじ　は　６５さい　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ははのあには６５さいです。",
-        "alternative_2": "ははのあねは６５さいです。",
-        "alternative_3": "ははのちちは６５さいです。",
-        "alternative_4": "ははのははは６５さいです。",
+        "alternative_1": "はは　の　あに　は　６５さい　です。",
+        "alternative_2": "はは　の　あね　は　６５さい　です。",
+        "alternative_3": "はは　の　ちち　は　６５さい　です。",
+        "alternative_4": "はは　の　はは　は　６５さい　です。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 201,
       "question_type": "vocabulary",
-      "question_text": "いい（[blank]）をとりましたね。",
+      "question_text": "いい　（[blank]）　を　とりました　ね。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "さいふ",
@@ -3415,14 +3815,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 202,
       "question_type": "vocabulary",
-      "question_text": "わたしはテレビを（[blank]）もっています。",
+      "question_text": "わたし　は　テレビ　を　（[blank]）　もっています。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ふたつ",
@@ -3432,14 +3834,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 203,
       "question_type": "vocabulary",
-      "question_text": "へやにはひとが（[blank]）いてあついです。",
+      "question_text": "へや　に　は　ひと　が　（[blank]）　いて、　あつい　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "とても",
@@ -3449,14 +3853,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 204,
       "question_type": "vocabulary",
-      "question_text": "あの、この（[blank]）を少しもらってもいいですか？",
+      "question_text": "あの、　この　（[blank]）　を　少[すこ]し　もらってもいい　ですか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "くるま",
@@ -3466,14 +3872,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 205,
       "question_type": "vocabulary",
-      "question_text": "このいすは（[blank]）ではありません。",
+      "question_text": "この　いす　は　（[blank]）　で　は　ありません。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "りっぱ",
@@ -3483,31 +3891,35 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 206,
       "question_type": "vocabulary",
-      "question_text": "Ａ：ごはんをもういっぱいいかがですか。\nＢ：（[blank]）。",
+      "question_text": "Ａ：　ごはん　を　もう　いっぱい　いかが　ですか。　\nＢ：　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "けっこうです",
-        "alternative_2": "たいせつです",
-        "alternative_3": "たいへんです",
-        "alternative_4": "ちょうどです",
+        "alternative_1": "けっこう　です",
+        "alternative_2": "たいせつ　です",
+        "alternative_3": "たいへん　です",
+        "alternative_4": "ちょうど　です",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 207,
       "question_type": "vocabulary",
-      "question_text": "ここからがっこうまで２（[blank]）です。",
+      "question_text": "ここから　がっこう　まで　２　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "はい",
@@ -3517,14 +3929,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 208,
       "question_type": "vocabulary",
-      "question_text": "この（[blank]）をまっすぐいってください。",
+      "question_text": "この　（[blank]）　を　まっすぐ　いってください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "えき",
@@ -3534,14 +3948,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 209,
       "question_type": "vocabulary",
-      "question_text": "よる（[blank]）をみがいてからねます。",
+      "question_text": "よる　（[blank]）　を　みがいてから　ねます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "は",
@@ -3551,14 +3967,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 210,
       "question_type": "vocabulary",
-      "question_text": "たいていはあるいていきますが、（[blank]）バスでいきます。",
+      "question_text": "たいてい　は　あるいて　いきます　が、　（[blank]）　バス　で　いきます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いつも",
@@ -3568,14 +3986,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 211,
       "question_type": "vocabulary",
-      "question_text": "なつやすみにやまに（[blank]）。",
+      "question_text": "なつやすみ　に　やま　に　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あけました",
@@ -3585,14 +4005,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 212,
       "question_type": "vocabulary",
-      "question_text": "かぞくが（[blank]）だいじだとおもいます。",
+      "question_text": "かぞく　が　（[blank]）　だいじだ　と　おもいます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "また",
@@ -3602,14 +4024,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 213,
       "question_type": "vocabulary",
-      "question_text": "さようなら。（[blank]）あした。",
+      "question_text": "さようなら。　（[blank]）　あした。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "また",
@@ -3619,14 +4043,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 214,
       "question_type": "vocabulary",
-      "question_text": "ここでたばこを（[blank]）ください。",
+      "question_text": "ここ　で　たばこ　を　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かけないで",
@@ -3636,14 +4062,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 215,
       "question_type": "vocabulary",
-      "question_text": "おんがくが（[blank]）か。",
+      "question_text": "おんがく　が　（[blank]）か。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "みえます",
@@ -3653,14 +4081,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 216,
       "question_type": "vocabulary",
-      "question_text": "あのゆうびんきょくの（[blank]）で止めてください。",
+      "question_text": "あの　ゆうびんきょく　の　（[blank]）　で　止[し]めてください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あと",
@@ -3670,14 +4100,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 217,
       "question_type": "vocabulary",
-      "question_text": "あの（[blank]）をかぶっているひとがたなかさんです。",
+      "question_text": "あの　（[blank]）　をかぶっている　ひと　が　たなかさん　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "くつした",
@@ -3687,14 +4119,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 218,
       "question_type": "vocabulary",
-      "question_text": "この（[blank]）ではたらきたいです。",
+      "question_text": "この　（[blank]）　で　はたらきたい　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "せき",
@@ -3704,14 +4138,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 219,
       "question_type": "vocabulary",
-      "question_text": "さむいですね。まどを（[blank]）ください。",
+      "question_text": "さむい　です　ね。　まど　を　（[blank]）　ください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おして",
@@ -3721,14 +4157,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 220,
       "question_type": "vocabulary",
-      "question_text": "たまごは（[blank]）いりますか。",
+      "question_text": "たまご　は　（[blank]）　いりますか。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "なんこ",
@@ -3738,99 +4176,111 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 221,
       "question_type": "vocabulary",
-      "question_text": "{わたしはじがへたです。}",
+      "question_text": "{わたし　は　じ　が　へた　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "わたしはじがまるくありません。",
-        "alternative_2": "わたしはじがおおきくありません。",
-        "alternative_3": "わたしはじがすきではありません。",
-        "alternative_4": "わたしはじがじょうずではありません。",
+        "alternative_1": "わたし　は　じ　が　まるくありません。",
+        "alternative_2": "わたし　は　じ　が　おおきくありません。",
+        "alternative_3": "わたし　は　じ　が　すきではありません。",
+        "alternative_4": "わたし　は　じ　が　じょうずではありません。",
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 222,
       "question_type": "vocabulary",
-      "question_text": "{ちちはこうじょうではたらいています。}",
+      "question_text": "{ちち　は　こうじょう　で　はたらいています。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "ちちはこうじょうでしごとをしています。",
-        "alternative_2": "ちちはこうじょうでべんきょうをしています。",
-        "alternative_3": "ちちはこうじょうでれんしゅうをしています。",
-        "alternative_4": "ちちはこうじょうであそんでいます。",
+        "alternative_1": "ちち　は　こうじょう　で　しごと　を　しています。",
+        "alternative_2": "ちち　は　こうじょう　で　べんきょう　を　しています。",
+        "alternative_3": "ちち　は　こうじょう　で　れんしゅう　を　しています。",
+        "alternative_4": "ちち　は　こうじょう　で　あそんでいます。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 223,
       "question_type": "vocabulary",
-      "question_text": "{りょうしんはでかけています。}",
+      "question_text": "{りょうしん　は　でかけています。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "あねもいもうともいえにいません。",
-        "alternative_2": "あにもおとうともいえにいません。",
-        "alternative_3": "ちちもははもいえにいません。",
-        "alternative_4": "おばもおじもいえにいません。",
+        "alternative_1": "あね　も　いもうと　も　いえ　に　いません。",
+        "alternative_2": "あに　も　おとうと　も　いえ　に　いません。",
+        "alternative_3": "ちち　も　はは　も　いえ　に　いません。",
+        "alternative_4": "おば　も　おじ　も　いえ　に　いません。",
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 224,
       "question_type": "vocabulary",
-      "question_text": "{マイケルさんはわたしにえいごをおしえます。}",
+      "question_text": "{マイケルさん　は　わたし　に　えいご　を　おしえます。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "マイケルさんはわたしにえいごをならいます。",
-        "alternative_2": "わたしはマイケルさんにえいごをならいます。",
-        "alternative_3": "マイケルさんはわたしにえいごをはなします。",
-        "alternative_4": "わたしはマイケルさんにえいごをはなします。",
+        "alternative_1": "マイケルさん　は　わたし　に　えいご　を　ならいます。",
+        "alternative_2": "わたし　は　マイケルさん　に　えいご　を　ならいます。",
+        "alternative_3": "マイケルさん　は　わたし　に　えいご　を　はなします。",
+        "alternative_4": "わたし　は　マイケルさん　に　えいご　を　はなします。",
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 225,
       "question_type": "vocabulary",
-      "question_text": "{このまちはみどりがおおいです。}",
+      "question_text": "{この　まち　は　みどり　が　おおい　です。}",
       "statement": {
-        "statement_text": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "[underline_blank]　の　ぶんと　だいたい　おなじ　いみの　ぶんが　あります。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
-        "alternative_1": "このまちはきがおおいです。",
-        "alternative_2": "このまちはひとがおおいです。",
-        "alternative_3": "このまちはあめがおおいです。",
-        "alternative_4": "このまちはみせがおおいです。",
+        "alternative_1": "この　まち　は　き　が　おおい　です。",
+        "alternative_2": "この　まち　は　ひと　が　おおい　です。",
+        "alternative_3": "この　まち　は　あめ　が　おおい　です。",
+        "alternative_4": "この　まち　は　みせ　が　おおい　です。",
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 226,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）なときほんをよみます。",
+      "question_text": "（[blank]）　な　とき　ほん　を　よみます。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ひま",
@@ -3840,14 +4290,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 227,
       "question_type": "vocabulary",
-      "question_text": "えきでさとうさんを２じかんも（[blank]）。",
+      "question_text": "えき　で　さとうさん　を　２じかん　も　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "もちました",
@@ -3857,14 +4309,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 228,
       "question_type": "vocabulary",
-      "question_text": "大きいにもつは一つですが、とても（[blank]）です。",
+      "question_text": "大[おお]きい　にもつ　は　一[ひと]つ　です　が、　とても　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あまい",
@@ -3874,14 +4328,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 229,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）はなをかってください。",
+      "question_text": "（[blank]）　はな　をかってください。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "おいしい",
@@ -3891,14 +4347,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 230,
       "question_type": "vocabulary",
-      "question_text": "とりがちいさなこえで（[blank]）います。",
+      "question_text": "とり　が　ちいさな　こえ　で　（[blank]）　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かいて",
@@ -3908,14 +4366,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 231,
       "question_type": "vocabulary",
-      "question_text": "よっつ、（[blank]）、むっつ。ぜんぶでむっつあります。",
+      "question_text": "よっつ、　（[blank]）、　むっつ。　ぜんぶ　で　むっつ　あります。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "いつつ",
@@ -3925,14 +4385,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 232,
       "question_type": "vocabulary",
-      "question_text": "もう（[blank]）をおくりましたよ。",
+      "question_text": "もう　（[blank]）　を　おくりました　よ。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "あさ",
@@ -3942,14 +4404,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 233,
       "question_type": "vocabulary",
-      "question_text": "テーブルのしたに（[blank]）がいます。",
+      "question_text": "テーブル　の　した　に　（[blank]）　が　います。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "ねこ",
@@ -3959,14 +4423,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 234,
       "question_type": "vocabulary",
-      "question_text": "けさとしょかんでほんを（[blank]）。",
+      "question_text": "けさ　としょかん　で　ほん　を　（[blank]）。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "かけました",
@@ -3976,14 +4442,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Regra de Contexto"
+      ]
     },
     {
       "id": 235,
       "question_type": "vocabulary",
-      "question_text": "がっこうはえきの（[blank]）です。",
+      "question_text": "がっこう　は　えき　の　（[blank]）　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "むすめ",
@@ -3993,14 +4461,16 @@
         "correct_alternative": 4
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 236,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）をつけましょうか？",
+      "question_text": "（[blank]）　を　つけましょうか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "でんわ",
@@ -4010,14 +4480,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Forma Gramatical"
+      ]
     },
     {
       "id": 237,
       "question_type": "vocabulary",
-      "question_text": "どんな（[blank]）がすきですか？",
+      "question_text": "どんな　（[blank]）　が　すき　ですか？",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "みず",
@@ -4027,14 +4499,16 @@
         "correct_alternative": 2
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 238,
       "question_type": "vocabulary",
-      "question_text": "（[blank]）がのみたいです。",
+      "question_text": "（[blank]）　が　のみたい　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "こうちゃ",
@@ -4044,14 +4518,16 @@
         "correct_alternative": 1
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 239,
       "question_type": "vocabulary",
-      "question_text": "２０００ねんに（[blank]）。いまこどもは３にんです。",
+      "question_text": "２０００ねん　に　（[blank]）。　いま　こども　は　３にん　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "けんかしました",
@@ -4061,14 +4537,16 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     },
     {
       "id": 240,
       "question_type": "vocabulary",
-      "question_text": "ここは（[blank]）がふべんです。",
+      "question_text": "ここ　は　（[blank]）　が　ふべん　です。",
       "statement": {
-        "statement_text": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+        "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },
       "alternatives": {
         "alternative_1": "だいがく",
@@ -4078,7 +4556,9 @@
         "correct_alternative": 3
       },
       "media": null,
-      "tags": null
+      "tags": [
+        "Uso da Língua"
+      ]
     }
   ]
 }

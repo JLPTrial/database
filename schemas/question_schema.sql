@@ -48,7 +48,7 @@ CREATE TABLE question_tags (
 CREATE TABLE statement (
   id INTEGER PRIMARY KEY,
 
-  statement_text TEXT NOT NULL UNIQUE
+  question_command TEXT NOT NULL UNIQUE
 );
 
 --------------------------------------------------
@@ -73,7 +73,7 @@ CREATE TABLE alternatives (
 
   alternative_3 TEXT NOT NULL,
 
-  alternative_4 TEXT NOT NULL,
+  alternative_4 TEXT, -- Algumas questões de áudio podem ter apenas 3 alternativas
 
   correct_alternative INTEGER NOT NULL CHECK (correct_alternative BETWEEN 1 AND 4)
 );
