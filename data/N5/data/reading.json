@@ -4,7 +4,7 @@
     "question_type": "reading",
     "question_text": "きのう買ったかさはどんなかさですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "高くておもいです。",
@@ -25,7 +25,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "れんしゅうを休んだ人は３人です。",
@@ -46,7 +46,7 @@
     "question_type": "reading",
     "question_text": "（ア）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "とりますか",
@@ -67,7 +67,7 @@
     "question_type": "reading",
     "question_text": "（イ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "どの本ですか",
@@ -88,7 +88,7 @@
     "question_type": "reading",
     "question_text": "（ウ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "じゃ、それです",
@@ -109,7 +109,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "くすりは３日飲みます。１日３かいごはんの前に飲みます。",
@@ -130,7 +130,7 @@
     "question_type": "reading",
     "question_text": "ただしいいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "学校は駅から歩いて５分です。",
@@ -151,7 +151,7 @@
     "question_type": "reading",
     "question_text": "（ア）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "しつれいします",
@@ -172,7 +172,7 @@
     "question_type": "reading",
     "question_text": "（イ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "あまり",
@@ -193,7 +193,7 @@
     "question_type": "reading",
     "question_text": "（ウ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "ところが",
@@ -214,7 +214,7 @@
     "question_type": "reading",
     "question_text": "『しつもん』 ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "はしはこうばんの左にあります。",
@@ -236,7 +236,7 @@
     "question_type": "reading",
     "question_text": "『しつもん』 テストのとき本はどこにおきますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "かばんの中です。",
@@ -257,7 +257,7 @@
     "question_type": "reading",
     "question_text": "『しつもん』 （ア）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "そうでした",
@@ -278,7 +278,7 @@
     "question_type": "reading",
     "question_text": "『しつもん』 （イ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "じゃあ",
@@ -299,7 +299,7 @@
     "question_type": "reading",
     "question_text": "『しつもん』 ヤンさんはどうして大山に電話をしましたか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "大山さんにあいたいから電話しまあした",
@@ -320,7 +320,7 @@
     "question_type": "reading",
     "question_text": "『しつもん』 ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "大山さんはあしたかいしゃのともだちとパーティーをします。",
@@ -341,7 +341,7 @@
     "question_type": "reading",
     "question_text": "「１」にはなにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "おもしろい",
@@ -362,7 +362,7 @@
     "question_type": "reading",
     "question_text": "「２」にはなにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "本",
@@ -383,7 +383,7 @@
     "question_type": "reading",
     "question_text": "「３」にはなにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "はなして",
@@ -404,7 +404,7 @@
     "question_type": "reading",
     "question_text": "「４」にはなにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "いっさつ",
@@ -425,7 +425,7 @@
     "question_type": "reading",
     "question_text": "この人がサングラスをかけるのはどうしてですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "風がつよいからです",
@@ -446,7 +446,7 @@
     "question_type": "reading",
     "question_text": "「しつもん」リンさんはおかねをはらいましたが、パーティーに行きませんでした。キムさんはリンさんにいついくらかえしますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "もくよう日に６００円かえします",
@@ -467,7 +467,7 @@
     "question_type": "reading",
     "question_text": "「１」にはなにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "ふたり",
@@ -488,7 +488,7 @@
     "question_type": "reading",
     "question_text": "「２」にはなにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "いた",
@@ -509,7 +509,7 @@
     "question_type": "reading",
     "question_text": "「３」にはなにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "それでは",
@@ -530,7 +530,7 @@
     "question_type": "reading",
     "question_text": "「４」にはなにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "わるい",
@@ -551,7 +551,7 @@
     "question_type": "reading",
     "question_text": "アパートの人は、来週の月曜日と火曜日には、外に出る時、どうしますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "来週の月曜日の午前１１時には、階段を使います。",
@@ -572,7 +572,7 @@
     "question_type": "reading",
     "question_text": "Question 2",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "わたしはきのうのよる友だちと話したあとでねました。",
@@ -593,7 +593,7 @@
     "question_type": "reading",
     "question_text": "（ア）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "話しました",
@@ -614,7 +614,7 @@
     "question_type": "reading",
     "question_text": "（イ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "だから",
@@ -635,7 +635,7 @@
     "question_type": "reading",
     "question_text": "（ウ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "そうすると",
@@ -656,7 +656,7 @@
     "question_type": "reading",
     "question_text": "([blank]) には何を入れますか。",
     "statement": {
-      "statement_text": "([blank]) に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "([blank]) に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "本は２９日、ざっしは２２日です。",
@@ -677,7 +677,7 @@
     "question_type": "reading",
     "question_text": "この学生は何さつかりましたか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "３さつ",
@@ -698,7 +698,7 @@
     "question_type": "reading",
     "question_text": "この学生はとしょかんで何をしましたか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "本に名前を書きました。",
@@ -719,7 +719,7 @@
     "question_type": "reading",
     "question_text": "このとしょかんで学生ができることは何ですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "ざっしを２しゅうかんかりること",
@@ -740,7 +740,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "むらたさんはきょうしゅくだいをおしえます。",
@@ -761,7 +761,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "毎週月曜日はパンが安いです。",
@@ -782,7 +782,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "ねこもいぬもくろいです。",
@@ -803,7 +803,7 @@
     "question_type": "reading",
     "question_text": "田中さんはどんなことが好きですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "友達と美術館に行くこと",
@@ -824,7 +824,7 @@
     "question_type": "reading",
     "question_text": "田中さんは旅行に行く前にどんなことが心配でしたか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "はじめて一人で飛行機に乗ること",
@@ -845,7 +845,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "この人はいつもバスに乗る",
@@ -866,7 +866,7 @@
     "question_type": "reading",
     "question_text": "([blank])　には何を入れますか。",
     "statement": {
-      "statement_text": "([blank]) に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "([blank]) に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "けっこうです",
@@ -887,7 +887,7 @@
     "question_type": "reading",
     "question_text": "今日すずきさんはどうして駅の人と話しましたか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "かさに名前を書いたから",
@@ -908,7 +908,7 @@
     "question_type": "reading",
     "question_text": "すずきさんのかさはつぎのどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "みじかいかさで、名前が書いてあります。",
@@ -929,7 +929,7 @@
     "question_type": "reading",
     "question_text": "王さんはどうしてなおこさんと１０時に会うことができなかったのですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "王さんが西口と東口をまちがえていたからです。",
@@ -950,7 +950,7 @@
     "question_type": "reading",
     "question_text": "まち子さんは今何をしていますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "日本でぎんこうにつとめています。",
@@ -971,7 +971,7 @@
     "question_type": "reading",
     "question_text": "この人のせいかつとあわないものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "しゅうまつはひまではありません。",
@@ -992,7 +992,7 @@
     "question_type": "reading",
     "question_text": "（ア）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "なぜ",
@@ -1013,7 +1013,7 @@
     "question_type": "reading",
     "question_text": "（イ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "これですね",
@@ -1034,7 +1034,7 @@
     "question_type": "reading",
     "question_text": "（ウ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （ウ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "それは",
@@ -1055,7 +1055,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "白いボタンをおしてから、テープを入れます。",
@@ -1076,7 +1076,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "はしはこうばんの左にあります。",
@@ -1097,7 +1097,7 @@
     "question_type": "reading",
     "question_text": "やんさんとすずきさんははじめて東山こうえんへ行きますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "ヤンさんもすずきさんもはじめてです。",
@@ -1118,7 +1118,7 @@
     "question_type": "reading",
     "question_text": "（ ア ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "１０時に行きましょう。",
@@ -1139,7 +1139,7 @@
     "question_type": "reading",
     "question_text": "（ イ ）には何を入れますか。",
     "statement": {
-      "statement_text": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "（ア） から （イ） に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "まっています",
@@ -1160,7 +1160,7 @@
     "question_type": "reading",
     "question_text": "ひるごはんはどこで食べますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "駅の前のきっさてんで食べます。",
@@ -1181,7 +1181,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "山の上まで２時間あるきました。",
@@ -1202,7 +1202,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "わたしのへやは駅からとおいですが、ひろいです。",
@@ -1223,7 +1223,7 @@
     "question_type": "reading",
     "question_text": "明日この人はどうして早く出かけますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "土曜日で車が多いから",
@@ -1244,7 +1244,7 @@
     "question_type": "reading",
     "question_text": "この人は明日天気がよかったら、何をしますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "花や鳥を見ます",
@@ -1265,7 +1265,7 @@
     "question_type": "reading",
     "question_text": "この人は美術館に行きますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "行かないつもりです",
@@ -1286,7 +1286,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "わたしはりょうりをつくりました。",
@@ -1307,7 +1307,7 @@
     "question_type": "reading",
     "question_text": "鈴木さんは９月１０日に何をしましたか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "お菓子を買いました。",
@@ -1328,7 +1328,7 @@
     "question_type": "reading",
     "question_text": "あなたはこのたてものの中で何をしますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "えを見ます。",
@@ -1349,7 +1349,7 @@
     "question_type": "reading",
     "question_text": "ただしいものはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "あさごはんのあとでテレビを見ました。",
@@ -1370,7 +1370,7 @@
     "question_type": "reading",
     "question_text": "さくらさんは明日何をすると書いてありますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "本を読みます。",
@@ -1391,7 +1391,7 @@
     "question_type": "reading",
     "question_text": "ねこは、いまどこにいますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "１",
@@ -1412,7 +1412,7 @@
     "question_type": "reading",
     "question_text": "どのえがいいですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "１",
@@ -1433,7 +1433,7 @@
     "question_type": "reading",
     "question_text": "どのグラフがいいですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "１",
@@ -1454,7 +1454,7 @@
     "question_type": "reading",
     "question_text": "どのえがいいですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "１",
@@ -1475,7 +1475,7 @@
     "question_type": "reading",
     "question_text": "どのえがいいですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "１",
@@ -1496,7 +1496,7 @@
     "question_type": "reading",
     "question_text": "「１」には、なにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "きのう",
@@ -1517,7 +1517,7 @@
     "question_type": "reading",
     "question_text": "「２」には、なにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "しかし",
@@ -1538,7 +1538,7 @@
     "question_type": "reading",
     "question_text": "「３」には、なにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "まで",
@@ -1559,7 +1559,7 @@
     "question_type": "reading",
     "question_text": "「４」には、なにをいれますか。",
     "statement": {
-      "statement_text": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
+      "question_command": "「１」 から 「４」 に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
     },
     "alternatives": {
       "alternative_1": "とおく",
@@ -1580,7 +1580,7 @@
     "question_type": "reading",
     "question_text": "この人は、何ページ読みましたか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "５０ページぐらい",
@@ -1601,7 +1601,7 @@
     "question_type": "reading",
     "question_text": "ケーキはいまいくつありますか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "２こ",
@@ -1622,7 +1622,7 @@
     "question_type": "reading",
     "question_text": "この人のアパートはどれですか。",
     "statement": {
-      "statement_text": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
+      "question_command": "つぎの文章を読んで、質問に答えてください。答えは、１・２・３・４から、いちばんいいものを一つえらんでください。"
     },
     "alternatives": {
       "alternative_1": "１",
