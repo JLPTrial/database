@@ -1,0 +1,64 @@
+name: CI and SonarQube
+
+on:
+  push:
+    branches: [ main, develop, master ]
+  pull_request:
+    branches: [ main, develop, master ]
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+    env:
+      SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: '3.11'
+
+      - name: Validate Python scripts syntax
+        run: python -m compileall scripts
+
+      - name: Validate JSON files
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          for json_path in Path('data').rglob('*.json'):
+              with json_path.open('r', encoding='utf-8') as f:
+                  json.load(f)
+
+          print('All JSON files are valid.')
+          PY
+
+      - name: Build database smoke test
+        run: |
+          python scripts/build_level_db.py \
+            --schema schemas/question_schema.sql \
+            --db /tmp/jlptrial_n5.db \
+            --data-dir data/N5/data
+
+      - name: SonarQube Scan
+        if: env.SONAR_TOKEN != ''
+        uses: sonarsource/sonarqube-scan-action@a31c9398be7ace6bbfaf30c0bd5d415f843d45e9 # v7.0.0
+        with:
+          args: >
+            -Dsonar.host.url=https://sonarcloud.io
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SONAR_TOKEN: ${{ env.SONAR_TOKEN }}
+
+      - name: SonarQube skipped
+        if: env.SONAR_TOKEN == ''
+        run: echo "SONAR_TOKEN is not configured; skipping SonarQube scan"
