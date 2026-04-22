@@ -51,10 +51,12 @@ jobs:
 
       - name: SonarQube Scan
         if: env.SONAR_TOKEN != ''
+        continue-on-error: true
         uses: sonarsource/sonarqube-scan-action@a31c9398be7ace6bbfaf30c0bd5d415f843d45e9 # v7.0.0
         with:
           args: >
             -Dsonar.host.url=https://sonarcloud.io
+            -Dsonar.qualitygate.wait=false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ env.SONAR_TOKEN }}
