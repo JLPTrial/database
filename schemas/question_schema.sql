@@ -113,14 +113,11 @@ CREATE INDEX idx_questions_type
 CREATE INDEX idx_questions_statement
   ON questions(statement_id);
 
-CREATE INDEX idx_questions_alternative
-  ON questions(alternative_id);
-
-CREATE INDEX idx_questions_media
-  ON questions(media_id);
-
 CREATE INDEX idx_question_tags_question
   ON question_tags(question_id);
 
 CREATE INDEX idx_question_tags_tag
   ON question_tags(tag_id);
+
+CREATE INDEX idx_media_contextual_text
+  ON media(contextual_text_id);
