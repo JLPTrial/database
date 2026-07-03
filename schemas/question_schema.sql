@@ -42,7 +42,12 @@ CREATE TABLE alternatives (
 
   alternative_4 TEXT, -- Algumas questões de áudio podem ter apenas 3 alternativas
 
-  correct_alternative INTEGER NOT NULL CHECK (correct_alternative BETWEEN 1 AND 4)
+  correct_alternative INTEGER NOT NULL,
+
+  CHECK (
+    correct_alternative BETWEEN 1 AND 4
+    AND (alternative_4 IS NOT NULL OR correct_alternative <= 3)
+  )
 );
 
 --------------------------------------------------
