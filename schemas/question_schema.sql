@@ -10,9 +10,9 @@ CREATE TABLE tags (
 );
 
 --------------------------------------------------
--- ENUNCIADOS 
+-- ENUNCIADOS
 --------------------------------------------------
-CREATE TABLE statements (
+CREATE TABLE commands (
   id INTEGER PRIMARY KEY,
 
   question_command TEXT NOT NULL UNIQUE
@@ -81,7 +81,7 @@ CREATE TABLE questions (
 
   media_id INTEGER UNIQUE,
 
-  statement_id INTEGER NOT NULL,
+  command_id INTEGER NOT NULL,
 
   question_text TEXT NOT NULL,
 
@@ -91,7 +91,7 @@ CREATE TABLE questions (
   FOREIGN KEY (alternative_id) REFERENCES alternatives(id) ON DELETE CASCADE,
   FOREIGN KEY (media_id) REFERENCES media(id) ON DELETE SET NULL,
 
-  FOREIGN KEY (statement_id) REFERENCES statements(id) ON DELETE RESTRICT
+  FOREIGN KEY (command_id) REFERENCES commands(id) ON DELETE RESTRICT
 );
 
 --------------------------------------------------
@@ -115,8 +115,8 @@ CREATE TABLE question_tags (
 CREATE INDEX idx_questions_type
   ON questions(question_type);
 
-CREATE INDEX idx_questions_statement
-  ON questions(statement_id);
+CREATE INDEX idx_questions_command
+  ON questions(command_id);
 
 CREATE INDEX idx_question_tags_question
   ON question_tags(question_id);
