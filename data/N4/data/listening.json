@@ -54,15 +54,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "午[ご]前[ぜん]８時[じ]５０分[ぷん]",
+        "alternative_2": "午[ご]後[ご]８時[じ]５０分[ぷん]",
+        "alternative_3": "午[ご]前[ぜん]８時[じ]１５分[ふん]",
+        "alternative_4": "午[ご]後[ご]８時[じ]１５分[ふん]",
         "correct_alternative": 1
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L1-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L1-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -246,7 +246,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L3-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L3-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -269,7 +269,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L3-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L3-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -292,7 +292,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L3-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L3-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -315,7 +315,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L3-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L3-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -338,7 +338,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L3-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L3-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -361,7 +361,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L4-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L4-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -384,7 +384,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L4-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L4-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -407,7 +407,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L4-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L4-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -430,7 +430,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L4-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L4-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -453,7 +453,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L4-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L4-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -491,15 +491,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "１１００円[えん]",
+        "alternative_2": "１６００円[えん]",
+        "alternative_3": "１６５０円[えん]",
+        "alternative_4": "１５５０円[えん]",
         "correct_alternative": 4
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L5-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L5-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -775,7 +775,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L7-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L7-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -798,7 +798,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L7-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L7-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -821,7 +821,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L8-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L8-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -844,7 +844,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L8-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L8-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -867,7 +867,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L8-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L8-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -890,7 +890,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L8-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L8-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -913,7 +913,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L8-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L8-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -936,7 +936,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L9-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L9-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -959,7 +959,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L9-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L9-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -982,7 +982,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L9-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L9-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1005,7 +1005,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L9-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L9-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1028,7 +1028,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L9-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L9-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1204,15 +1204,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "８：１０",
+        "alternative_2": "８：２０",
+        "alternative_3": "８：３０",
+        "alternative_4": "９：００",
         "correct_alternative": 2
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L11-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L11-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1319,15 +1319,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "１０人[にん]",
+        "alternative_2": "２０人[にん]",
+        "alternative_3": "３０人[にん]",
+        "alternative_4": "４０人[にん]",
         "correct_alternative": 2
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L12-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L12-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1373,7 +1373,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L12-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L12-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1396,7 +1396,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L13-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L13-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1419,7 +1419,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L13-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L13-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1442,7 +1442,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L13-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L13-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1465,7 +1465,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L13-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L13-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1488,7 +1488,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L13-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L13-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1511,7 +1511,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L14-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L14-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1534,7 +1534,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L14-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L14-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1557,7 +1557,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L14-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L14-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1580,7 +1580,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L14-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L14-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1603,7 +1603,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L14-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L14-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1848,15 +1848,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "銀行[ぎんこう]",
+        "alternative_2": "学校[がっこう]",
+        "alternative_3": "駐車場[ちゅうしゃじょう]",
+        "alternative_4": "郵便局[ゆうびんきょく]",
         "correct_alternative": 2
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L17-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L17-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1948,7 +1948,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L17-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L17-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1971,7 +1971,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L18-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L18-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -1994,7 +1994,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L18-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L18-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2017,7 +2017,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L18-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L18-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2040,7 +2040,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L18-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L18-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2063,7 +2063,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L18-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L18-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2086,7 +2086,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L18-Q6.mp3",
-        "image_file_path": "listening/JT4Y/L18-Q6.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2109,7 +2109,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L19-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L19-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2132,7 +2132,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L19-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L19-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2155,7 +2155,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L19-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L19-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2178,7 +2178,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L19-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L19-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2201,7 +2201,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L19-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L19-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2523,7 +2523,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L22-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L22-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2546,7 +2546,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L22-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L22-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2569,7 +2569,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L22-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L22-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2592,7 +2592,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L23-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L23-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2615,7 +2615,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L23-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L23-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2638,7 +2638,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L23-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L23-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2661,7 +2661,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L23-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L23-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2684,7 +2684,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L23-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L23-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2707,7 +2707,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L24-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L24-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2730,7 +2730,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L24-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L24-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -2753,7 +2753,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L24-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L24-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3167,7 +3167,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L28-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L28-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3190,7 +3190,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L28-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L28-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3213,7 +3213,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L28-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L28-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3236,7 +3236,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L28-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L28-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3259,7 +3259,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L28-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L28-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3282,7 +3282,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L29-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L29-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3305,7 +3305,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L29-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L29-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3328,7 +3328,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L29-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L29-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3351,7 +3351,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L29-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L29-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3374,7 +3374,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L29-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L29-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3389,15 +3389,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "２まい",
+        "alternative_2": "４まい",
+        "alternative_3": "５まい",
+        "alternative_4": "６まい",
         "correct_alternative": 3
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L30-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L30-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3742,7 +3742,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L33-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L33-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3765,7 +3765,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L33-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L33-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3788,7 +3788,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L33-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L33-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3811,7 +3811,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L33-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L33-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3834,7 +3834,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L33-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L33-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3857,7 +3857,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L34-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L34-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3880,7 +3880,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L34-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L34-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3903,7 +3903,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L34-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L34-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3926,7 +3926,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L34-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L34-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -3949,7 +3949,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L34-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L34-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4171,15 +4171,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "８時[じ]半[はん]に　きょうしつ",
+        "alternative_2": "８時[じ]半[はん]に　たいいくかんの　前[まえ]",
+        "alternative_3": "９時[じ]に　きょうしつ",
+        "alternative_4": "９時[じ]に　たいいくかんの　前[まえ]",
         "correct_alternative": 2
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L36-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L36-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4286,15 +4286,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "へやが　せまいから",
+        "alternative_2": "ばしょが　ふべんだから",
+        "alternative_3": "たてものが　古[ふる]いから",
+        "alternative_4": "きんじょに　ともだちが　いないから",
         "correct_alternative": 3
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L37-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L37-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4317,7 +4317,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L38-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L38-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4340,7 +4340,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L38-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L38-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4363,7 +4363,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L38-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L38-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4386,7 +4386,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L38-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L38-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4409,7 +4409,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L38-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L38-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4432,7 +4432,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L39-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L39-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4455,7 +4455,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L39-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L39-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4478,7 +4478,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L39-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L39-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4501,7 +4501,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L39-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L39-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4524,7 +4524,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L39-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L39-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4631,15 +4631,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "りょうしん",
+        "alternative_2": "あね",
+        "alternative_3": "いもうと",
+        "alternative_4": "おとうと",
         "correct_alternative": 4
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L40-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L40-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4746,15 +4746,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "今[いま]すぐ",
+        "alternative_2": "今日[きょう]の　４時[じ]",
+        "alternative_3": "今日[きょう]の　６時[じ]",
+        "alternative_4": "あしたの　ひる",
         "correct_alternative": 2
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L41-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L41-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4861,15 +4861,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "りょこうに　行[い]きたいから",
+        "alternative_2": "デパートで　かいものが　したいから",
+        "alternative_3": "日[に]本[ほん]人[じん]の　はたらきかたが　しりたいから",
+        "alternative_4": "日[に]本[ほん]語[ご]の　べんきょうが　したいから",
         "correct_alternative": 3
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L42-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L42-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4892,7 +4892,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L43-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L43-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4915,7 +4915,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L43-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L43-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4938,7 +4938,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L43-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L43-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4961,7 +4961,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L43-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L43-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -4984,7 +4984,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L43-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L43-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5007,7 +5007,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L44-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L44-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5030,7 +5030,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L44-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L44-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5053,7 +5053,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L44-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L44-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5076,7 +5076,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L44-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L44-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5099,7 +5099,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L44-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L44-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5352,7 +5352,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L47-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L47-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5375,7 +5375,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L47-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L47-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5398,7 +5398,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L47-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L47-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5421,7 +5421,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L47-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L47-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5444,7 +5444,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L47-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L47-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5467,7 +5467,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L48-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L48-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5490,7 +5490,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L48-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L48-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5513,7 +5513,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L48-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L48-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5528,15 +5528,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "小学校[しょうがっこう]の　先生[せんせい]",
+        "alternative_2": "ピアニスト",
+        "alternative_3": "けいさつかん",
+        "alternative_4": "かんごし",
         "correct_alternative": 2
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L48-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L48-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5551,15 +5551,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "１０時[じ]",
+        "alternative_2": "１０時[じ]１０分[ぷん]",
+        "alternative_3": "１０時[じ]２０分[ぷん]",
+        "alternative_4": "１０時[じ]３０分[ぷん]",
         "correct_alternative": 3
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L48-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L48-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5582,7 +5582,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L49-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L49-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5605,7 +5605,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L49-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L49-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5628,7 +5628,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L49-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L49-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5651,7 +5651,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L49-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L49-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5674,7 +5674,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L49-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L49-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5697,7 +5697,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L49-Q6.mp3",
-        "image_file_path": "listening/JT4Y/L49-Q6.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5720,7 +5720,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L49-Q7.mp3",
-        "image_file_path": "listening/JT4Y/L49-Q7.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5743,7 +5743,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L50-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L50-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5766,7 +5766,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L50-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L50-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5789,7 +5789,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L50-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L50-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5812,7 +5812,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L50-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L50-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5835,7 +5835,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L50-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L50-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5858,7 +5858,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L50-Q6.mp3",
-        "image_file_path": "listening/JT4Y/L50-Q6.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5881,7 +5881,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L50-Q7.mp3",
-        "image_file_path": "listening/JT4Y/L50-Q7.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5965,15 +5965,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "かようび",
+        "alternative_2": "すいようび",
+        "alternative_3": "もくようび",
+        "alternative_4": "きんようび",
         "correct_alternative": 3
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L51-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L51-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -5988,15 +5988,15 @@
         "question_command": "問題を聞いて、1から4の中から、最もよいものを一つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "1",
-        "alternative_2": "2",
-        "alternative_3": "3",
-        "alternative_4": "4",
+        "alternative_1": "ぜんぜん　読[よ]まない",
+        "alternative_2": "月[つき]に　１さつ　読[よ]む",
+        "alternative_3": "月[つき]に　３さつ　読[よ]む",
+        "alternative_4": "月[つき]に　１０さついじょう　読[よ]む",
         "correct_alternative": 1
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L51-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L51-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6019,7 +6019,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L52-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L52-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6042,7 +6042,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L52-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L52-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6065,7 +6065,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L52-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L52-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6088,7 +6088,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L52-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L52-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6111,7 +6111,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L52-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L52-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6134,7 +6134,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L53-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L53-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6157,7 +6157,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L53-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L53-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6180,7 +6180,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L53-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L53-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6203,7 +6203,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L53-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L53-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6226,7 +6226,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L53-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L53-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6249,7 +6249,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L54-Q1.mp3",
-        "image_file_path": "listening/JT4Y/L54-Q1.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6272,7 +6272,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L54-Q2.mp3",
-        "image_file_path": "listening/JT4Y/L54-Q2.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6295,7 +6295,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L54-Q3.mp3",
-        "image_file_path": "listening/JT4Y/L54-Q3.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6318,7 +6318,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L54-Q4.mp3",
-        "image_file_path": "listening/JT4Y/L54-Q4.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
@@ -6341,7 +6341,7 @@
       },
       "media": {
         "audio_file_path": "listening/JT4Y/L54-Q5.mp3",
-        "image_file_path": "listening/JT4Y/L54-Q5.gif",
+        "image_file_path": null,
         "text_content": null
       },
       "tags": [
