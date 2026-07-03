@@ -12,7 +12,7 @@ CREATE TABLE tags (
 --------------------------------------------------
 -- ENUNCIADOS 
 --------------------------------------------------
-CREATE TABLE statement (
+CREATE TABLE statements (
   id INTEGER PRIMARY KEY,
 
   question_command TEXT NOT NULL UNIQUE
