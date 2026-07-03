@@ -1,27 +1,8 @@
 PRAGMA foreign_keys = ON;
 
 --------------------------------------------------
--- TABELA PRINCIPAL DE QUESTÕES
+-- MARCADORES (TAGS)
 --------------------------------------------------
-CREATE TABLE questions (
-  id INTEGER PRIMARY KEY,
-
-  alternative_id INTEGER NOT NULL UNIQUE,
-
-  media_id INTEGER,
-
-  statement_id INTEGER NOT NULL,
-
-  question_text TEXT NOT NULL,
-
-  question_type TEXT NOT NULL
-    CHECK (question_type IN ('grammar', 'vocabulary', 'kanji', 'reading', 'listening')),
-
-  FOREIGN KEY (alternative_id) REFERENCES alternatives(id) ON DELETE CASCADE,
-  FOREIGN KEY (media_id) REFERENCES media(id) ON DELETE SET NULL,
-  FOREIGN KEY (statement_id) REFERENCES statement(id) ON DELETE CASCADE
-);
-
 CREATE TABLE tags (
   id INTEGER PRIMARY KEY,
 
@@ -29,21 +10,7 @@ CREATE TABLE tags (
 );
 
 --------------------------------------------------
--- MARCADORES DE QUESTÕES
---------------------------------------------------
-CREATE TABLE question_tags (
-  question_id INTEGER NOT NULL,
-
-  tag_id INTEGER NOT NULL,
-
-  PRIMARY KEY (question_id, tag_id),
-
-  FOREIGN KEY (question_id) REFERENCES questions(id) ON DELETE CASCADE,
-  FOREIGN KEY (tag_id) REFERENCES tags(id) ON DELETE CASCADE
-);
-
---------------------------------------------------
--- ENUNCIADOS
+-- ENUNCIADOS 
 --------------------------------------------------
 CREATE TABLE statement (
   id INTEGER PRIMARY KEY,
@@ -52,7 +19,7 @@ CREATE TABLE statement (
 );
 
 --------------------------------------------------
--- TEXTOS (READING)
+-- TEXTOS (READING) 
 --------------------------------------------------
 CREATE TABLE contextual_texts (
   id INTEGER PRIMARY KEY,
@@ -97,6 +64,43 @@ CREATE TABLE media (
     OR image_file_path IS NOT NULL
     OR audio_file_path IS NOT NULL
   )
+);
+
+--------------------------------------------------
+-- TABELA PRINCIPAL DE QUESTÕES
+--------------------------------------------------
+CREATE TABLE questions (
+  id INTEGER PRIMARY KEY,
+
+  alternative_id INTEGER NOT NULL UNIQUE,
+
+  media_id INTEGER UNIQUE,
+
+  statement_id INTEGER NOT NULL,
+
+  question_text TEXT NOT NULL,
+
+  question_type TEXT NOT NULL
+    CHECK (question_type IN ('grammar', 'vocabulary', 'kanji', 'reading', 'listening')),
+
+  FOREIGN KEY (alternative_id) REFERENCES alternatives(id) ON DELETE CASCADE,
+  FOREIGN KEY (media_id) REFERENCES media(id) ON DELETE SET NULL,
+
+  FOREIGN KEY (statement_id) REFERENCES statements(id) ON DELETE RESTRICT
+);
+
+--------------------------------------------------
+-- MARCADORES DE QUESTÕES
+--------------------------------------------------
+CREATE TABLE question_tags (
+  question_id INTEGER NOT NULL,
+
+  tag_id INTEGER NOT NULL,
+
+  PRIMARY KEY (question_id, tag_id),
+
+  FOREIGN KEY (question_id) REFERENCES questions(id) ON DELETE CASCADE,
+  FOREIGN KEY (tag_id) REFERENCES tags(id) ON DELETE CASCADE
 );
 
 --------------------------------------------------
