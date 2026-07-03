@@ -1,0 +1,3614 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_type": "kanji",
+      "question_text": "{{自分}}で旅行を計画するのは楽しいです。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じぶん",
+        "alternative_2": "ちっぷん",
+        "alternative_3": "じっぷん",
+        "alternative_4": "ちぶん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 2,
+      "question_type": "kanji",
+      "question_text": "自分で{旅行}を計画するのは楽しいです。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "りゅうこ",
+        "alternative_2": "りょうこ",
+        "alternative_3": "りょこう",
+        "alternative_4": "りゅこう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 3,
+      "question_type": "kanji",
+      "question_text": "自分で旅行を{{計画}}するのは楽しいです。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "けいかく",
+        "alternative_2": "けいが",
+        "alternative_3": "げいかく",
+        "alternative_4": "けが",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 4,
+      "question_type": "kanji",
+      "question_text": "自分で旅行を計画するのは{{楽しい}}です。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "うれしい",
+        "alternative_2": "うつくしい",
+        "alternative_3": "たのしい",
+        "alternative_4": "いそがしい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 5,
+      "question_type": "kanji",
+      "question_text": "この学生は毎日{{地下鉄}}で大学に通っています。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じげてつ",
+        "alternative_2": "じがてつ",
+        "alternative_3": "ちげてつ",
+        "alternative_4": "ちかてつ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 6,
+      "question_type": "kanji",
+      "question_text": "この学生は毎日地下鉄で{{大学}}に通っています。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "たいがく",
+        "alternative_2": "だいかく",
+        "alternative_3": "たいかく",
+        "alternative_4": "だいがく",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 7,
+      "question_type": "kanji",
+      "question_text": "この学生は毎日地下鉄で大学に{{通って}}います。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かえって",
+        "alternative_2": "かよって",
+        "alternative_3": "かおって",
+        "alternative_4": "いって",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 8,
+      "question_type": "kanji",
+      "question_text": "{{姉}}がいつも食事の用意をしてくれます。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いもうと",
+        "alternative_2": "おとうと",
+        "alternative_3": "あね",
+        "alternative_4": "あに",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 9,
+      "question_type": "kanji",
+      "question_text": "姉がいつも{{食事}}の用意をしてくれます。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しょくじ",
+        "alternative_2": "しょうじ",
+        "alternative_3": "そうじ",
+        "alternative_4": "そくじ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 10,
+      "question_type": "kanji",
+      "question_text": "姉がいつも食事の{{用意}}をしてくれます。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "よい",
+        "alternative_2": "ようい",
+        "alternative_3": "よじ",
+        "alternative_4": "ようじ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 11,
+      "question_type": "kanji",
+      "question_text": "彼女はこうちょくしたように{うごかない}。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "動かない",
+        "alternative_2": "働かない",
+        "alternative_3": "重かない",
+        "alternative_4": "衝かない",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 12,
+      "question_type": "kanji",
+      "question_text": "奈良と京都は日本の古い{都}です。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みなと",
+        "alternative_2": "ふるさと",
+        "alternative_3": "みやこ",
+        "alternative_4": "いなか",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 13,
+      "question_type": "kanji",
+      "question_text": "{趣味}としてじゅうどうを習うつもりです。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しゅみ",
+        "alternative_2": "きょうみ",
+        "alternative_3": "ちゅみ",
+        "alternative_4": "ちょうみ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 14,
+      "question_type": "kanji",
+      "question_text": "{きゅうに}空が暗くなりました。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "早に",
+        "alternative_2": "速に",
+        "alternative_3": "突に",
+        "alternative_4": "急に",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 15,
+      "question_type": "kanji",
+      "question_text": "兄が入院したので、花を持って{お見舞い}に行った。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おみあい",
+        "alternative_2": "おみまい",
+        "alternative_3": "おけんまい",
+        "alternative_4": "おけんあい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 16,
+      "question_type": "kanji",
+      "question_text": "のどが{かわいて}います。水が飲みたいです。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "乾いて",
+        "alternative_2": "変いて",
+        "alternative_3": "掛いて",
+        "alternative_4": "渇いて",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 17,
+      "question_type": "kanji",
+      "question_text": "先生の奥さんはとても{優しい}です。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きびしい",
+        "alternative_2": "やさしい",
+        "alternative_3": "たのしい",
+        "alternative_4": "したしい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 18,
+      "question_type": "kanji",
+      "question_text": "ディズニーランドで姉に{人形を}買ってやった。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "にんけい",
+        "alternative_2": "じんけい",
+        "alternative_3": "にんぎょう",
+        "alternative_4": "じんぎょう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 19,
+      "question_type": "kanji",
+      "question_text": "おばあさんが昔のいろんな{物語}を話してくれた。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ものはなし",
+        "alternative_2": "ものばなし",
+        "alternative_3": "ものかたり",
+        "alternative_4": "ものがたり",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 20,
+      "question_type": "kanji",
+      "question_text": "友達がいなくて、{さびしい}です。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "悲しい",
+        "alternative_2": "厳しい",
+        "alternative_3": "美しい",
+        "alternative_4": "寂しい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 21,
+      "question_type": "kanji",
+      "question_text": "海 から 強い 風 がふいてきた。 1. 海",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "うみ",
+        "alternative_2": "あめ",
+        "alternative_3": "かぜ",
+        "alternative_4": "うた",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 22,
+      "question_type": "kanji",
+      "question_text": "強い",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おもい",
+        "alternative_2": "あまい",
+        "alternative_3": "すごい",
+        "alternative_4": "つよい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 23,
+      "question_type": "kanji",
+      "question_text": "風",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かべ",
+        "alternative_2": "かばん",
+        "alternative_3": "かぜ",
+        "alternative_4": "かぎ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 24,
+      "question_type": "kanji",
+      "question_text": "川で 魚 をとりました。今日の 夕飯 はその魚を 使った料理 にします。 4. 魚",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "こめ",
+        "alternative_2": "さかな",
+        "alternative_3": "にく",
+        "alternative_4": "やさい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 25,
+      "question_type": "kanji",
+      "question_text": "夕飯",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ちゅうはん",
+        "alternative_2": "ゆうはん",
+        "alternative_3": "ちゅうしょく",
+        "alternative_4": "ゆうしょく",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 26,
+      "question_type": "kanji",
+      "question_text": "使った",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "つかった",
+        "alternative_2": "つくった",
+        "alternative_3": "はって",
+        "alternative_4": "きった",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 27,
+      "question_type": "kanji",
+      "question_text": "料理",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "りょり",
+        "alternative_2": "りょいり",
+        "alternative_3": "りょうり",
+        "alternative_4": "りょおい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 28,
+      "question_type": "kanji",
+      "question_text": "となりの 教室 から 歌 が聞こえるので、まどを 閉めて ください。 8. 教室",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きょうじつ",
+        "alternative_2": "きゅうしつ",
+        "alternative_3": "きゅうじつ",
+        "alternative_4": "きょうしつ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 29,
+      "question_type": "kanji",
+      "question_text": "歌",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "うた",
+        "alternative_2": "おた",
+        "alternative_3": "きえ",
+        "alternative_4": "こえ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 30,
+      "question_type": "kanji",
+      "question_text": "閉めて",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あめて",
+        "alternative_2": "とめて",
+        "alternative_3": "しめて",
+        "alternative_4": "やめて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 31,
+      "question_type": "kanji",
+      "question_text": "電話代 は 夜 の 間 と日曜日が 安い です。 1. 電話代",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "でんわきん",
+        "alternative_2": "でんわちん",
+        "alternative_3": "でんわりょう",
+        "alternative_4": "でんわだい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 32,
+      "question_type": "kanji",
+      "question_text": "夜",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ひる",
+        "alternative_2": "よる",
+        "alternative_3": "あさ",
+        "alternative_4": "ばん",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 33,
+      "question_type": "kanji",
+      "question_text": "間",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あいだ",
+        "alternative_2": "うち",
+        "alternative_3": "ま",
+        "alternative_4": "かん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 34,
+      "question_type": "kanji",
+      "question_text": "安い",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "やすい",
+        "alternative_2": "うまい",
+        "alternative_3": "ちかい",
+        "alternative_4": "かるい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 35,
+      "question_type": "kanji",
+      "question_text": "母親 は 台所 で料理をしながら、 食堂 にいる 家族 と 楽しそう に 会話 をしてします。 5. 母親",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ちちおや",
+        "alternative_2": "ぼしん",
+        "alternative_3": "ははおや",
+        "alternative_4": "ふしん",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 36,
+      "question_type": "kanji",
+      "question_text": "台所",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "たいこころ",
+        "alternative_2": "だいところ",
+        "alternative_3": "たいこどろ",
+        "alternative_4": "だいどころ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 37,
+      "question_type": "kanji",
+      "question_text": "食堂",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しょっとう",
+        "alternative_2": "しょくどう",
+        "alternative_3": "しょくとう",
+        "alternative_4": "しょうどう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 38,
+      "question_type": "kanji",
+      "question_text": "家族",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かぞく",
+        "alternative_2": "かてい",
+        "alternative_3": "やてい",
+        "alternative_4": "やぞく",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 39,
+      "question_type": "kanji",
+      "question_text": "楽しそう",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かなしそう",
+        "alternative_2": "たのしそう",
+        "alternative_3": "うれしそう",
+        "alternative_4": "らくしょそう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 40,
+      "question_type": "kanji",
+      "question_text": "会話",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かいわ",
+        "alternative_2": "かいばなし",
+        "alternative_3": "かいだん",
+        "alternative_4": "かいけい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 41,
+      "question_type": "kanji",
+      "question_text": "田中さんの お兄さん はあの 建物 の 出口 のところに立っています。 茶色 の 服 を 着て います。 1. お兄さん",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おねえさん",
+        "alternative_2": "おにいさん",
+        "alternative_3": "おにさん",
+        "alternative_4": "おねさん",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 42,
+      "question_type": "kanji",
+      "question_text": "建物",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "たてもの",
+        "alternative_2": "けんぶつ",
+        "alternative_3": "けんもの",
+        "alternative_4": "たてぶつ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 43,
+      "question_type": "kanji",
+      "question_text": "出口",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "でるぐち",
+        "alternative_2": "でるくち",
+        "alternative_3": "でくち",
+        "alternative_4": "でぐち",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 44,
+      "question_type": "kanji",
+      "question_text": "茶色",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "くさいろ",
+        "alternative_2": "みずいろ",
+        "alternative_3": "きいろ",
+        "alternative_4": "ちゃいろ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 45,
+      "question_type": "kanji",
+      "question_text": "服",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "くつ",
+        "alternative_2": "ふく",
+        "alternative_3": "かさ",
+        "alternative_4": "ぼうし",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 46,
+      "question_type": "kanji",
+      "question_text": "着て",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かぶって",
+        "alternative_2": "ついて",
+        "alternative_3": "きて",
+        "alternative_4": "はいて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 47,
+      "question_type": "kanji",
+      "question_text": "この 町 の 人口 は 去年 より 多く なりました。 7. 町",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "まち",
+        "alternative_2": "むら",
+        "alternative_3": "とし",
+        "alternative_4": "へん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 48,
+      "question_type": "kanji",
+      "question_text": "人口",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ひとくち",
+        "alternative_2": "にんこう",
+        "alternative_3": "じんこう",
+        "alternative_4": "にんくち",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 49,
+      "question_type": "kanji",
+      "question_text": "去年",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "さくねん",
+        "alternative_2": "さつねん",
+        "alternative_3": "きょうねん",
+        "alternative_4": "きょねん",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 50,
+      "question_type": "kanji",
+      "question_text": "多く",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おもく",
+        "alternative_2": "おおく",
+        "alternative_3": "おうく",
+        "alternative_4": "おおきく",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 51,
+      "question_type": "kanji",
+      "question_text": "その 有名 な 写真家 は、 世界 のいろいろな 鳥 や 動物 を写しました。その人のてんらんかいが新宿で 行われて います。 1. 有名",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ゆめい",
+        "alternative_2": "ゆうめい",
+        "alternative_3": "ゆうめ",
+        "alternative_4": "ゆめ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 52,
+      "question_type": "kanji",
+      "question_text": "写真家",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しゃしんか",
+        "alternative_2": "さしんか",
+        "alternative_3": "さしんや",
+        "alternative_4": "しゃしんや",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 53,
+      "question_type": "kanji",
+      "question_text": "世界",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "せかく",
+        "alternative_2": "せいかく",
+        "alternative_3": "せいかい",
+        "alternative_4": "せかい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 54,
+      "question_type": "kanji",
+      "question_text": "鳥",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "むし",
+        "alternative_2": "とり",
+        "alternative_3": "しま",
+        "alternative_4": "うま",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 55,
+      "question_type": "kanji",
+      "question_text": "動物",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しょくぶつ",
+        "alternative_2": "せいぶつ",
+        "alternative_3": "どうぶつ",
+        "alternative_4": "こうぶつ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 56,
+      "question_type": "kanji",
+      "question_text": "行われて",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "さそわれて",
+        "alternative_2": "いわれて",
+        "alternative_3": "おこなわれて",
+        "alternative_4": "あらわれて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 57,
+      "question_type": "kanji",
+      "question_text": "わたしは 医者 に「 働き すぎないように 注意 してください。」と 言われ ました。 7. 医者",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いしゃ",
+        "alternative_2": "いし",
+        "alternative_3": "いっしゃ",
+        "alternative_4": "いっし",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 58,
+      "question_type": "kanji",
+      "question_text": "働き",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "はたらき",
+        "alternative_2": "みがき",
+        "alternative_3": "いただき",
+        "alternative_4": "うごき",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 59,
+      "question_type": "kanji",
+      "question_text": "注意",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ちゅうい",
+        "alternative_2": "しゅい",
+        "alternative_3": "ちゅい",
+        "alternative_4": "しゅうい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 60,
+      "question_type": "kanji",
+      "question_text": "言われ",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きわれ",
+        "alternative_2": "さわれ",
+        "alternative_3": "いわれ",
+        "alternative_4": "やわれ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 61,
+      "question_type": "kanji",
+      "question_text": "わたしの 住んで いる町は、 海 に 近くて 、 自動車工業 がさかんです。 1. 住んで",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しんで",
+        "alternative_2": "つんで",
+        "alternative_3": "すんで",
+        "alternative_4": "こんで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 62,
+      "question_type": "kanji",
+      "question_text": "海",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かい",
+        "alternative_2": "うみ",
+        "alternative_3": "いけ",
+        "alternative_4": "かわ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 63,
+      "question_type": "kanji",
+      "question_text": "近くて",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ながくて",
+        "alternative_2": "せまくて",
+        "alternative_3": "ちかくて",
+        "alternative_4": "とおくて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 64,
+      "question_type": "kanji",
+      "question_text": "自動車",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じてんしゃ",
+        "alternative_2": "じとうしゃ",
+        "alternative_3": "じでんしゃ",
+        "alternative_4": "じどうしゃ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 65,
+      "question_type": "kanji",
+      "question_text": "工業",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "こうごう",
+        "alternative_2": "こうぎょう",
+        "alternative_3": "こんごう",
+        "alternative_4": "こんきょう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 66,
+      "question_type": "kanji",
+      "question_text": "ふうとうに80円 切手 をはって、 送って ください。 6. 切手",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きっぷ",
+        "alternative_2": "きしゅう",
+        "alternative_3": "きて",
+        "alternative_4": "きって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 67,
+      "question_type": "kanji",
+      "question_text": "送って",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おこって",
+        "alternative_2": "おくって",
+        "alternative_3": "くばって",
+        "alternative_4": "きって",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 68,
+      "question_type": "kanji",
+      "question_text": "きょねん の はる 、そつぎょうしきが おわって から 日本へ 来ました。 8. きょねん",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "昨年",
+        "alternative_2": "先年",
+        "alternative_3": "去年",
+        "alternative_4": "前年",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 69,
+      "question_type": "kanji",
+      "question_text": "はる",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "春",
+        "alternative_2": "秋",
+        "alternative_3": "冬",
+        "alternative_4": "夏",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 70,
+      "question_type": "kanji",
+      "question_text": "おわって",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "終わって",
+        "alternative_2": "変わって",
+        "alternative_3": "後わって",
+        "alternative_4": "教わって",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 71,
+      "question_type": "kanji",
+      "question_text": "その 店 の 主人 はいつも 着物 を着ています。 1. 店",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みせ",
+        "alternative_2": "てん",
+        "alternative_3": "こや",
+        "alternative_4": "うち",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 72,
+      "question_type": "kanji",
+      "question_text": "主人",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しゅうじん",
+        "alternative_2": "しゅにん",
+        "alternative_3": "しゅじん",
+        "alternative_4": "しゅうにん",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 73,
+      "question_type": "kanji",
+      "question_text": "着物",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おきもの",
+        "alternative_2": "きもの",
+        "alternative_3": "はきもの",
+        "alternative_4": "かきもの",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 74,
+      "question_type": "kanji",
+      "question_text": "こうちょう 先生の かんがえかた は ただしい とおもう。 4. こうちょう",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "高長",
+        "alternative_2": "校長",
+        "alternative_3": "講長",
+        "alternative_4": "公長",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 75,
+      "question_type": "kanji",
+      "question_text": "かんがえかた",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "老え方",
+        "alternative_2": "教え方",
+        "alternative_3": "孝え方",
+        "alternative_4": "考え方",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 76,
+      "question_type": "kanji",
+      "question_text": "ただしい",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "止しい",
+        "alternative_2": "下しい",
+        "alternative_3": "正しい",
+        "alternative_4": "王しい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 77,
+      "question_type": "kanji",
+      "question_text": "銀行 から 三百万以上 のお金を 借りて いる。 7. 銀行",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きんこ",
+        "alternative_2": "ぎんこう",
+        "alternative_3": "ぎんこ",
+        "alternative_4": "きんこう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 78,
+      "question_type": "kanji",
+      "question_text": "三百万",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "さんひゃくまん",
+        "alternative_2": "さんぴゃくまん",
+        "alternative_3": "さんびゃくまん",
+        "alternative_4": "さんきゃっくまん",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 79,
+      "question_type": "kanji",
+      "question_text": "以上",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いか",
+        "alternative_2": "じじょう",
+        "alternative_3": "じか",
+        "alternative_4": "いじょう",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 80,
+      "question_type": "kanji",
+      "question_text": "借りて",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かりて",
+        "alternative_2": "おりて",
+        "alternative_3": "たりて",
+        "alternative_4": "こりて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 81,
+      "question_type": "kanji",
+      "question_text": "あおい いろ のシャツを おくって ください。 1. あおい",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "素い",
+        "alternative_2": "肯い",
+        "alternative_3": "赤い",
+        "alternative_4": "青い",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 82,
+      "question_type": "kanji",
+      "question_text": "いろ",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "亀",
+        "alternative_2": "色",
+        "alternative_3": "円",
+        "alternative_4": "旗",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 83,
+      "question_type": "kanji",
+      "question_text": "おくって",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "達って",
+        "alternative_2": "遅って",
+        "alternative_3": "送って",
+        "alternative_4": "迭って",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 84,
+      "question_type": "kanji",
+      "question_text": "大使 の 自転車 は 何度 もこわれたそうです。 4. 大使",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "だいし",
+        "alternative_2": "だいじ",
+        "alternative_3": "たいし",
+        "alternative_4": "たいじ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 85,
+      "question_type": "kanji",
+      "question_text": "自転車",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じてんしゃ",
+        "alternative_2": "じでんしゃ",
+        "alternative_3": "じとうしゃ",
+        "alternative_4": "じどうしゃ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 86,
+      "question_type": "kanji",
+      "question_text": "何度",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "なにど",
+        "alternative_2": "なにご",
+        "alternative_3": "なんご",
+        "alternative_4": "なんど",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 87,
+      "question_type": "kanji",
+      "question_text": "土曜日は、 有名 な 写真家 のてんらんかいを見てから、 夕方 友だちと 食事 をしました。 7. 有名",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ゆめ",
+        "alternative_2": "ゆうめい",
+        "alternative_3": "ゆうめ",
+        "alternative_4": "ゆめい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 88,
+      "question_type": "kanji",
+      "question_text": "写真家",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しゃしんか",
+        "alternative_2": "さしんか",
+        "alternative_3": "しゃしんや",
+        "alternative_4": "しゃしんや",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 89,
+      "question_type": "kanji",
+      "question_text": "夕方",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ゆうかた",
+        "alternative_2": "ようがた",
+        "alternative_3": "ゆうがた",
+        "alternative_4": "よかた",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 90,
+      "question_type": "kanji",
+      "question_text": "食事",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しょうじ",
+        "alternative_2": "そくじ",
+        "alternative_3": "そうじ",
+        "alternative_4": "しょくじ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 91,
+      "question_type": "kanji",
+      "question_text": "おもい にもつ を もって 、 えき まで あるき ました。 1. おもい",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "高い",
+        "alternative_2": "甘い",
+        "alternative_3": "薄い",
+        "alternative_4": "重い",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 92,
+      "question_type": "kanji",
+      "question_text": "にもつ",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "貨物",
+        "alternative_2": "荷物",
+        "alternative_3": "好物",
+        "alternative_4": "植物",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 93,
+      "question_type": "kanji",
+      "question_text": "もって",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "持って",
+        "alternative_2": "時って",
+        "alternative_3": "寺って",
+        "alternative_4": "辞って",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 94,
+      "question_type": "kanji",
+      "question_text": "えき",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "馬",
+        "alternative_2": "訳",
+        "alternative_3": "駅",
+        "alternative_4": "鳥",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 95,
+      "question_type": "kanji",
+      "question_text": "あるき",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "小き",
+        "alternative_2": "歩き",
+        "alternative_3": "少き",
+        "alternative_4": "止き",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 96,
+      "question_type": "kanji",
+      "question_text": "地下鉄 で行くと、その 病院 までどのくらいかかりますか。 6. 地下鉄",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じかてつ",
+        "alternative_2": "じかてっぷ",
+        "alternative_3": "ちかてっぷ",
+        "alternative_4": "ちかてつ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 97,
+      "question_type": "kanji",
+      "question_text": "病院",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "びょういん",
+        "alternative_2": "びょいん",
+        "alternative_3": "びょうえん",
+        "alternative_4": "びょえん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 98,
+      "question_type": "kanji",
+      "question_text": "あの ふるいえいが は おんがく がすばらしいです。 8. ふるい",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "軽い",
+        "alternative_2": "重い",
+        "alternative_3": "古い",
+        "alternative_4": "若い",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 99,
+      "question_type": "kanji",
+      "question_text": "えいが",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "英画",
+        "alternative_2": "映画",
+        "alternative_3": "低が",
+        "alternative_4": "花が",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 100,
+      "question_type": "kanji",
+      "question_text": "おんがく",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "音楽",
+        "alternative_2": "楽茶",
+        "alternative_3": "暗楽",
+        "alternative_4": "音茶",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 101,
+      "question_type": "kanji",
+      "question_text": "お薬ができるまでその{待合室}で待っていてください。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "たいごうしつ",
+        "alternative_2": "だいごうしつ",
+        "alternative_3": "もちあいしつ",
+        "alternative_4": "まちあいしつ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 102,
+      "question_type": "kanji",
+      "question_text": "{下着}のうりばは階段を下りたところにあります。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かちゃく",
+        "alternative_2": "かき",
+        "alternative_3": "したき",
+        "alternative_4": "したぎ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 103,
+      "question_type": "kanji",
+      "question_text": "{十分}な理由がなければ、会社を休みません。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じゅうぶん",
+        "alternative_2": "じゅっぷん",
+        "alternative_3": "じっぷん",
+        "alternative_4": "じょうぶん",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 104,
+      "question_type": "kanji",
+      "question_text": "彼は人にとても{やさしい}。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "易しい",
+        "alternative_2": "簡しい",
+        "alternative_3": "優しい",
+        "alternative_4": "善しい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 105,
+      "question_type": "kanji",
+      "question_text": "昨日近くの公園では小さなコンサートを{行い}ました。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いい",
+        "alternative_2": "つかい",
+        "alternative_3": "はい",
+        "alternative_4": "おこない",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 106,
+      "question_type": "kanji",
+      "question_text": "{卒業}してもせいじのけんきゅうを続けるつもりです。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "そつぎょう",
+        "alternative_2": "そつきょう",
+        "alternative_3": "そぎょう",
+        "alternative_4": "そっきょう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 107,
+      "question_type": "kanji",
+      "question_text": "{もり}の緑を守らなければならない。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "森",
+        "alternative_2": "林",
+        "alternative_3": "樹木",
+        "alternative_4": "森林",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 108,
+      "question_type": "kanji",
+      "question_text": "うわさが口から口へと{つたわる}。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "番わる",
+        "alternative_2": "伝わる",
+        "alternative_3": "進わる",
+        "alternative_4": "推わる",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 109,
+      "question_type": "kanji",
+      "question_text": "{こうちょう}先生は今日こうぎをしてくれました。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "学長",
+        "alternative_2": "校長",
+        "alternative_3": "教長",
+        "alternative_4": "兄長",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 110,
+      "question_type": "kanji",
+      "question_text": "彼女は{しんせつ}で心がやさしいです。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "親熱",
+        "alternative_2": "熱心",
+        "alternative_3": "親近",
+        "alternative_4": "親切",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 111,
+      "question_type": "kanji",
+      "question_text": "{水着}を着た姿を写真にとった。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みずき",
+        "alternative_2": "みずぎ",
+        "alternative_3": "すいちゃく",
+        "alternative_4": "すいじゃく",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 112,
+      "question_type": "kanji",
+      "question_text": "{はずかしい}話ですが、昨日の試験にパスしませんでした。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "耿ずかしい",
+        "alternative_2": "耻ずかしい",
+        "alternative_3": "恥ずかしい",
+        "alternative_4": "聇ずかしい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 113,
+      "question_type": "kanji",
+      "question_text": "このお茶は{こくて}苦い。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "濃くて",
+        "alternative_2": "農くて",
+        "alternative_3": "豊くて",
+        "alternative_4": "曲くて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 114,
+      "question_type": "kanji",
+      "question_text": "わたしは{甘い}果物が好きです。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "にがい",
+        "alternative_2": "からい",
+        "alternative_3": "あまい",
+        "alternative_4": "うまい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 115,
+      "question_type": "kanji",
+      "question_text": "山田先生は田中さんの研究計画に{興味}を持っているようです。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きょうみ",
+        "alternative_2": "こうみ",
+        "alternative_3": "ぎょうみ",
+        "alternative_4": "ここのみ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 116,
+      "question_type": "kanji",
+      "question_text": "ゆうべ遅く寝たから、今は{ねむい}。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "睡い",
+        "alternative_2": "眠い",
+        "alternative_3": "垂い",
+        "alternative_4": "錘い",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 117,
+      "question_type": "kanji",
+      "question_text": "みんなは歌いながら{踊って}いる。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "もとって",
+        "alternative_2": "もどって",
+        "alternative_3": "おとって",
+        "alternative_4": "おどって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 118,
+      "question_type": "kanji",
+      "question_text": "買ったばかりの靴がもう{壊れ}ました。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "わすれ",
+        "alternative_2": "つかれ",
+        "alternative_3": "ながれ",
+        "alternative_4": "こわれ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 119,
+      "question_type": "kanji",
+      "question_text": "{げんかん}に犬がいます。気をつけてください。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "玄関",
+        "alternative_2": "玄間",
+        "alternative_3": "玄開",
+        "alternative_4": "玄聞",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 120,
+      "question_type": "kanji",
+      "question_text": "ズボンに{泥}が付いている。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "つち",
+        "alternative_2": "どろ",
+        "alternative_3": "ほこり",
+        "alternative_4": "よごれ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 121,
+      "question_type": "kanji",
+      "question_text": "６時５分の電車に{遅れて}しまった。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おくれて",
+        "alternative_2": "こわれて",
+        "alternative_3": "たおれて",
+        "alternative_4": "ながれて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 122,
+      "question_type": "kanji",
+      "question_text": "計算が{正しく}ないから、答えはもちろん合わない。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ひとしく",
+        "alternative_2": "ただしく",
+        "alternative_3": "したしく",
+        "alternative_4": "くわしく",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 123,
+      "question_type": "kanji",
+      "question_text": "昨日勉強した内容を{ふくしゅう}する。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "予修",
+        "alternative_2": "予習",
+        "alternative_3": "複修",
+        "alternative_4": "復習",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 124,
+      "question_type": "kanji",
+      "question_text": "外国人にとって、漢字はあまり{簡単}ではありません。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "けんだん",
+        "alternative_2": "けんたん",
+        "alternative_3": "かんだん",
+        "alternative_4": "かんたん",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 125,
+      "question_type": "kanji",
+      "question_text": "日本人は{お正月}にかならずじんじゃに行きます。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おせいがつ",
+        "alternative_2": "おせいげつ",
+        "alternative_3": "おしょうがつ",
+        "alternative_4": "おしょうげつ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 126,
+      "question_type": "kanji",
+      "question_text": "子供にものを{与え}すぎるのはよくない。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きたえ",
+        "alternative_2": "さかえ",
+        "alternative_3": "あたえ",
+        "alternative_4": "あまえ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 127,
+      "question_type": "kanji",
+      "question_text": "風邪がすっかり{なおる}まで、ちゃんと薬を飲みなさい。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "氷る",
+        "alternative_2": "治る",
+        "alternative_3": "真る",
+        "alternative_4": "直る",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 128,
+      "question_type": "kanji",
+      "question_text": "{暗く}なってきたので、しつれいします。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "くろく",
+        "alternative_2": "くらく",
+        "alternative_3": "くもく",
+        "alternative_4": "しろく",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 129,
+      "question_type": "kanji",
+      "question_text": "父は全然たばこを{吸い}ません。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しい",
+        "alternative_2": "そい",
+        "alternative_3": "すい",
+        "alternative_4": "かい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 130,
+      "question_type": "kanji",
+      "question_text": "家はやはり{こうつう}が便利なところがいいです。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "交渉",
+        "alternative_2": "交通",
+        "alternative_3": "交換",
+        "alternative_4": "交流",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 131,
+      "question_type": "kanji",
+      "question_text": "とても{重要}な書類をなくしてしまった。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じゅうよ",
+        "alternative_2": "ちょうよ",
+        "alternative_3": "じゅうよう",
+        "alternative_4": "ちょうよう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 132,
+      "question_type": "kanji",
+      "question_text": "忙しかったので、友達の誘いを{断った}。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ことわった",
+        "alternative_2": "こだわった",
+        "alternative_3": "きった",
+        "alternative_4": "うった",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 133,
+      "question_type": "kanji",
+      "question_text": "この靴は皮に見えるが、実際は{ぬの}です。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "布",
+        "alternative_2": "線",
+        "alternative_3": "革",
+        "alternative_4": "菊",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 134,
+      "question_type": "kanji",
+      "question_text": "荷物がおもいので、せんもんの会社に{届けて}もらいました。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ととけて",
+        "alternative_2": "とどけて",
+        "alternative_3": "ととげて",
+        "alternative_4": "とどげて",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 135,
+      "question_type": "kanji",
+      "question_text": "この{指輪}は自分で作りました。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しりん",
+        "alternative_2": "しわ",
+        "alternative_3": "ゆびわ",
+        "alternative_4": "ゆびりん",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 136,
+      "question_type": "kanji",
+      "question_text": "{しっぱい}しても大丈夫です。またがんばればいいですから。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "失敗",
+        "alternative_2": "未敗",
+        "alternative_3": "夫敗",
+        "alternative_4": "末敗",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 137,
+      "question_type": "kanji",
+      "question_text": "野菜は、{適当}な大きさに切ればいい。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ていどう",
+        "alternative_2": "てっとう",
+        "alternative_3": "てきどう",
+        "alternative_4": "てきとう",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 138,
+      "question_type": "kanji",
+      "question_text": "これは{普段}あまり使わない言葉です。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ふたん",
+        "alternative_2": "ふうたん",
+        "alternative_3": "ふだん",
+        "alternative_4": "ふうだん",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 139,
+      "question_type": "kanji",
+      "question_text": "正午の太陽は{ひかり}が特に強い。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "明",
+        "alternative_2": "照",
+        "alternative_3": "光",
+        "alternative_4": "泉",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 140,
+      "question_type": "kanji",
+      "question_text": "知らない人がさいふを{ひろって}くれました。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "広って",
+        "alternative_2": "拾って",
+        "alternative_3": "配って",
+        "alternative_4": "飼って",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 141,
+      "question_type": "kanji",
+      "question_text": "{親}におこづかいもらってもすぐなくなっちゃうもんね。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しん",
+        "alternative_2": "とも",
+        "alternative_3": "とら",
+        "alternative_4": "おや",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 142,
+      "question_type": "kanji",
+      "question_text": "外国にいくとき、りょこう{案内}や安全じょうほうをよくみてください。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "えんない",
+        "alternative_2": "えんね",
+        "alternative_3": "あんない",
+        "alternative_4": "あんねい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 143,
+      "question_type": "kanji",
+      "question_text": "お金を{数える}仕事って？銀行員だろう。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かぞえる",
+        "alternative_2": "あたえる",
+        "alternative_3": "きかえる",
+        "alternative_4": "つたえる",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 144,
+      "question_type": "kanji",
+      "question_text": "世の中にわたしほど人生に失望している{高校生}なんていないと思う。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ここせい",
+        "alternative_2": "こうこうせい",
+        "alternative_3": "ここうせい",
+        "alternative_4": "こうこせい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 145,
+      "question_type": "kanji",
+      "question_text": "{違った}ボタンを押したので、ほしいのみものがでてきませんでした。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おわった",
+        "alternative_2": "いわった",
+        "alternative_3": "ちがった",
+        "alternative_4": "まちがった",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 146,
+      "question_type": "kanji",
+      "question_text": "校門の前には、{やくそく}通り由中尾さんが待っていた。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "約束",
+        "alternative_2": "約刺",
+        "alternative_3": "約東",
+        "alternative_4": "約凍",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 147,
+      "question_type": "kanji",
+      "question_text": "{きんじょ}のおじいさんは昔警官でした。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "近所",
+        "alternative_2": "斧所",
+        "alternative_3": "金所",
+        "alternative_4": "斤所",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 148,
+      "question_type": "kanji",
+      "question_text": "今日はちょっとバタバタしていて、ゆっくり{おあいて}できないので、日を改めて来てもらえないかな。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "お箱手",
+        "alternative_2": "お相毛",
+        "alternative_3": "お箱毛",
+        "alternative_4": "お相手",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 149,
+      "question_type": "kanji",
+      "question_text": "{かじ}のために電車が遅れて、かいぎに間に合いませんでした。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "家事",
+        "alternative_2": "災事",
+        "alternative_3": "火事",
+        "alternative_4": "炎事",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 150,
+      "question_type": "kanji",
+      "question_text": "ここまでちゃんと{いきて}きたから、神様がプレゼントをくださったのかもしれないわね。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "生きて",
+        "alternative_2": "先きて",
+        "alternative_3": "王きて",
+        "alternative_4": "住きて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 151,
+      "question_type": "kanji",
+      "question_text": "学校が休みで{寂しい}なんて思ったこと、もしかして生まれて初めてかもしれない。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かなしい",
+        "alternative_2": "うれしい",
+        "alternative_3": "さびしい",
+        "alternative_4": "すばらしい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 152,
+      "question_type": "kanji",
+      "question_text": "{冷えた}体を温めようと思って、ストーブをつけた。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "さえた",
+        "alternative_2": "きえた",
+        "alternative_3": "ふえた",
+        "alternative_4": "ひえた",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 153,
+      "question_type": "kanji",
+      "question_text": "家でゲームやパソコンの画面に{向かって}いるほうが楽だけど学校にはちゃんと通っている。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "たたかって",
+        "alternative_2": "いかって",
+        "alternative_3": "さかって",
+        "alternative_4": "むかって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 154,
+      "question_type": "kanji",
+      "question_text": "高いものだから、{大事}に使ってください。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "だいじ",
+        "alternative_2": "たいじ",
+        "alternative_3": "おおこと",
+        "alternative_4": "おおごと",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 155,
+      "question_type": "kanji",
+      "question_text": "おしゃべりする元気があるなら教室に{戻り}なさい。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "もどり",
+        "alternative_2": "たより",
+        "alternative_3": "かえり",
+        "alternative_4": "おどり",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 156,
+      "question_type": "kanji",
+      "question_text": "きのう{暇}があって、家族といっしょに花見にいきました。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ひま",
+        "alternative_2": "とき",
+        "alternative_3": "じかん",
+        "alternative_4": "ま",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 157,
+      "question_type": "kanji",
+      "question_text": "学校側が{しょうせつ}書いたくらいで、生徒を退学にするわけないじゃないの。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "小脱",
+        "alternative_2": "小鋭",
+        "alternative_3": "小説",
+        "alternative_4": "小兄",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 158,
+      "question_type": "kanji",
+      "question_text": "一度でもいいから、{いけん}をいってください。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "儀建",
+        "alternative_2": "意見",
+        "alternative_3": "意建",
+        "alternative_4": "意現",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 159,
+      "question_type": "kanji",
+      "question_text": "徒歩十分とか、それより少ないかもしれない時間で、マルコさんの家に{とうちゃく}した。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "致着",
+        "alternative_2": "到着",
+        "alternative_3": "致差",
+        "alternative_4": "到差",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 160,
+      "question_type": "kanji",
+      "question_text": "{さくぶん}を書いて出してください。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "作文",
+        "alternative_2": "作分",
+        "alternative_3": "咋文",
+        "alternative_4": "咋分",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 161,
+      "question_type": "kanji",
+      "question_text": "このドアは、手で軽く{触る}と自動的に開く。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しかる",
+        "alternative_2": "くださる",
+        "alternative_3": "さわる",
+        "alternative_4": "あつまる",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 162,
+      "question_type": "kanji",
+      "question_text": "世の中にわたしほど人生に失望している{高校生}なんていないと思う。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ここせい",
+        "alternative_2": "こうこうせい",
+        "alternative_3": "ここうせい",
+        "alternative_4": "こうこせい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 163,
+      "question_type": "kanji",
+      "question_text": "妹と町へ{お祭り}を見に行った。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おまつり",
+        "alternative_2": "おまずり",
+        "alternative_3": "おまいり",
+        "alternative_4": "おめいり",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 164,
+      "question_type": "kanji",
+      "question_text": "僕もいい結果出ること{祈って}るよ。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "とどって",
+        "alternative_2": "いのって",
+        "alternative_3": "さそって",
+        "alternative_4": "かぶって",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 165,
+      "question_type": "kanji",
+      "question_text": "{遠慮}しないで、どんどん食べてください。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おんりょ",
+        "alternative_2": "えんりょ",
+        "alternative_3": "おんりゅ",
+        "alternative_4": "えんしょう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 166,
+      "question_type": "kanji",
+      "question_text": "いきなり店員が失神して{たおれた}。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "致れた",
+        "alternative_2": "刻れた",
+        "alternative_3": "到れた",
+        "alternative_4": "倒れた",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 167,
+      "question_type": "kanji",
+      "question_text": "お母さんの体の{ぐあい}はどうですか。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "真合",
+        "alternative_2": "祖合",
+        "alternative_3": "県合",
+        "alternative_4": "具合",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 168,
+      "question_type": "kanji",
+      "question_text": "あなたの{じゆう}を縛ってる気がする。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "自曲",
+        "alternative_2": "白由",
+        "alternative_3": "自由",
+        "alternative_4": "白曲",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 169,
+      "question_type": "kanji",
+      "question_text": "こころを開いて、{楽しく}いきてください。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "うれしく",
+        "alternative_2": "さびしく",
+        "alternative_3": "たのしく",
+        "alternative_4": "かなしく",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 170,
+      "question_type": "kanji",
+      "question_text": "わたしたちの{けいかく}がすべて水の泡になった。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "針画",
+        "alternative_2": "計画",
+        "alternative_3": "針宙",
+        "alternative_4": "計宙",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 171,
+      "question_type": "kanji",
+      "question_text": "とても{珍しい}植物を集めている。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "めずらしい",
+        "alternative_2": "やわらかい",
+        "alternative_3": "すばらしい",
+        "alternative_4": "うつくしい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 172,
+      "question_type": "kanji",
+      "question_text": "{食事}が終わった後、流しで皿を洗いました。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "たべごと",
+        "alternative_2": "たべこと",
+        "alternative_3": "しょくじ",
+        "alternative_4": "しょくし",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 173,
+      "question_type": "kanji",
+      "question_text": "おばあさんが昔のいろんな{物語}を話してくれた。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ものはなし",
+        "alternative_2": "ものばなし",
+        "alternative_3": "ものかたり",
+        "alternative_4": "ものがたり",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 174,
+      "question_type": "kanji",
+      "question_text": "{親}におこづかいもらってもすぐなくなっちゃうもんね。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しん",
+        "alternative_2": "とも",
+        "alternative_3": "とら",
+        "alternative_4": "おや",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 175,
+      "question_type": "kanji",
+      "question_text": "ディズニーランドで姉に{人形}を買ってやった。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "にんけい",
+        "alternative_2": "じんけい",
+        "alternative_3": "にんぎょう",
+        "alternative_4": "じんぎょう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 176,
+      "question_type": "kanji",
+      "question_text": "{説明書}ちゃんと読みなさい。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "けつめいしょ",
+        "alternative_2": "せつめいしょ",
+        "alternative_3": "せつみょうしょ",
+        "alternative_4": "けつみょうしょ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 177,
+      "question_type": "kanji",
+      "question_text": "友達がいなくて、{さびしい}です。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "悲しい",
+        "alternative_2": "厳しい",
+        "alternative_3": "美しい",
+        "alternative_4": "寂しい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 178,
+      "question_type": "kanji",
+      "question_text": "彼女は硬直したように{うごかない}。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "動かない",
+        "alternative_2": "働かない",
+        "alternative_3": "重かない",
+        "alternative_4": "衝かない",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 179,
+      "question_type": "kanji",
+      "question_text": "お酒を飲むと、{きぶん}が悪くなります。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "希分",
+        "alternative_2": "身分",
+        "alternative_3": "気分",
+        "alternative_4": "機分",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 180,
+      "question_type": "kanji",
+      "question_text": "ご{しんせつ}ありがとうございました。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "親切",
+        "alternative_2": "深切",
+        "alternative_3": "親説",
+        "alternative_4": "深説",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 181,
+      "question_type": "kanji",
+      "question_text": "手紙を二つに{折って}封筒に入れました。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おって",
+        "alternative_2": "まがって",
+        "alternative_3": "はって",
+        "alternative_4": "さわって",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 182,
+      "question_type": "kanji",
+      "question_text": "彼に電話をかけようとしたとき、授業のベルが{鳴った}。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ぬった",
+        "alternative_2": "なった",
+        "alternative_3": "はった",
+        "alternative_4": "ふった",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 183,
+      "question_type": "kanji",
+      "question_text": "{よろこんで}パーティーに参加させていただきます。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "楽んで",
+        "alternative_2": "嬉んで",
+        "alternative_3": "薬んで",
+        "alternative_4": "喜んで",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 184,
+      "question_type": "kanji",
+      "question_text": "工場のきかいが{故障}したので、今大変です。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "こしょう",
+        "alternative_2": "こうしょう",
+        "alternative_3": "こじょう",
+        "alternative_4": "こうじょう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 185,
+      "question_type": "kanji",
+      "question_text": "{みな}さん、また東京であいましょう。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "階",
+        "alternative_2": "潜",
+        "alternative_3": "翼",
+        "alternative_4": "皆",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 186,
+      "question_type": "kanji",
+      "question_text": "子供をお医者さんに{そだて}たいです。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "養て",
+        "alternative_2": "培て",
+        "alternative_3": "育て",
+        "alternative_4": "生きて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 187,
+      "question_type": "kanji",
+      "question_text": "がくせいは{一生}懸命勉強しなければなりません。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いしょう",
+        "alternative_2": "いっしょう",
+        "alternative_3": "いしゅう",
+        "alternative_4": "いっしゅう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 188,
+      "question_type": "kanji",
+      "question_text": "{まわり}の人たちからいろいろお世話になった。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "回り",
+        "alternative_2": "廻り",
+        "alternative_3": "周り",
+        "alternative_4": "週り",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    },
+    {
+      "id": 189,
+      "question_type": "kanji",
+      "question_text": "わたしは{貿易}会社で働いている。",
+      "statement": {
+        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ぼういき",
+        "alternative_2": "ぼうえき",
+        "alternative_3": "ぼいき",
+        "alternative_4": "ぼえき",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Leitura de Kanji"
+      ]
+    },
+    {
+      "id": 190,
+      "question_type": "kanji",
+      "question_text": "わたしたちの{けいかく}がすべて水の泡になった。",
+      "statement": {
+        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "針画",
+        "alternative_2": "計画",
+        "alternative_3": "針宙",
+        "alternative_4": "計宙",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Transcrição"
+      ]
+    }
+  ]
+}

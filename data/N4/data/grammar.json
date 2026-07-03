@@ -1,0 +1,5704 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_type": "grammar",
+      "question_text": "あの人は病気ではない　（[blank]） くすりをたくさん飲んでいます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ので",
+        "alternative_2": "ために",
+        "alternative_3": "のに",
+        "alternative_4": "から",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 2,
+      "question_type": "grammar",
+      "question_text": "これから日本に行くけど１週間で戻る。戻ったらすぐに会いたいと思う。それまで、なにも　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "決めないようほしい",
+        "alternative_2": "決めないほしい",
+        "alternative_3": "決めなくてほしい",
+        "alternative_4": "決めないでほしい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 3,
+      "question_type": "grammar",
+      "question_text": "社長から電話が　（[blank]） とき、私は子供とピクニックに出かける準備をしていた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かかってきた",
+        "alternative_2": "かかっていった",
+        "alternative_3": "かかっておいた",
+        "alternative_4": "かかってみた",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 4,
+      "question_type": "grammar",
+      "question_text": "でもあなたと話が　（[blank]） よ。だって二人で話をしたことなんて一度もなかったものな。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "できてよい",
+        "alternative_2": "できてよかった",
+        "alternative_3": "できたらよかった",
+        "alternative_4": "できればよかった",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 5,
+      "question_type": "grammar",
+      "question_text": "彼は私たちが部屋に入った　（[blank]） ドアを閉めた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ごで",
+        "alternative_2": "あとで",
+        "alternative_3": "まえで",
+        "alternative_4": "まえに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 6,
+      "question_type": "grammar",
+      "question_text": "このバスは郵便局の前　（[blank]） 通りますか？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "に",
+        "alternative_3": "へ",
+        "alternative_4": "を",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 7,
+      "question_type": "grammar",
+      "question_text": "この本のほうがあなたには　（[blank]） はずだ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "わかったやすい",
+        "alternative_2": "わかるやすい",
+        "alternative_3": "わかりやすい",
+        "alternative_4": "わかってやすい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 8,
+      "question_type": "grammar",
+      "question_text": "電車を待っていたとき、わたしは友だち　（[blank]） 名前を呼ばれました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "が",
+        "alternative_3": "に",
+        "alternative_4": "で",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 9,
+      "question_type": "grammar",
+      "question_text": "昨日は仕事を守れる　（[blank]） が不安だった。しかしいまは、命を守れる　（[blank]） が不安だ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "かどうか/かどうか",
+        "alternative_2": "か/か",
+        "alternative_3": "じゃないか/じゃないか",
+        "alternative_4": "の/の",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 10,
+      "question_type": "grammar",
+      "question_text": "明日の夕方　（[blank]） 東京に戻りたい。アルバイトに行かなければならないから。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "までで",
+        "alternative_2": "まで",
+        "alternative_3": "までに",
+        "alternative_4": "にまで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 11,
+      "question_type": "grammar",
+      "question_text": "男の子がバケツ一杯の水をもって帰る　（[blank]） 一時間近くもかかった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "のに",
+        "alternative_2": "のを",
+        "alternative_3": "のは",
+        "alternative_4": "ので",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 12,
+      "question_type": "grammar",
+      "question_text": "食事は果物と野菜　（[blank]） にしています。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しか",
+        "alternative_2": "だけ",
+        "alternative_3": "など",
+        "alternative_4": "くらい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 13,
+      "question_type": "grammar",
+      "question_text": "三週間たっても彼女　（[blank]） 返事は来なかった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "までの",
+        "alternative_2": "からの",
+        "alternative_3": "のまでの",
+        "alternative_4": "のからの",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 14,
+      "question_type": "grammar",
+      "question_text": "あなた　（[blank]） 一番したいことはなんですか？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "は",
+        "alternative_3": "に",
+        "alternative_4": "も",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 15,
+      "question_type": "grammar",
+      "question_text": "このとき、二階でことんという音　（[blank]） が誰も気づかなかった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "をした",
+        "alternative_2": "になった",
+        "alternative_3": "にした",
+        "alternative_4": "がした",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 16,
+      "question_type": "grammar",
+      "question_text": "兄さんったら、寝ながら　（[blank]） するもんだから、僕は半分ぐらいしか眠れないよ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "動きまわるし、しゃべるし",
+        "alternative_2": "動きまわると、しゃべると",
+        "alternative_3": "動きまわったり、しゃべったり",
+        "alternative_4": "動きまわっても、しゃべっても",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 17,
+      "question_type": "grammar",
+      "question_text": "今日はうんと楽しんで、好きなだけ　（[blank]） つもりよ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "食べ",
+        "alternative_2": "食べる",
+        "alternative_3": "食べている",
+        "alternative_4": "食べよう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 18,
+      "question_type": "grammar",
+      "question_text": "電話で彼に叫んだ　（[blank]） わ。「そんなの違うじゃない」って。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ことがいます",
+        "alternative_2": "ことがいました",
+        "alternative_3": "ことがあります",
+        "alternative_4": "ことがありました",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 19,
+      "question_type": "grammar",
+      "question_text": "子どものころきらいだったやさいが、さいきん　（[blank]） ようになりました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "食べる",
+        "alternative_2": "食べた",
+        "alternative_3": "食べられる",
+        "alternative_4": "食べられた",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 20,
+      "question_type": "grammar",
+      "question_text": "わたしは弟に　（[blank]） と思って、この本を買いました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "読ませよう",
+        "alternative_2": "読ませる",
+        "alternative_3": "読みたい",
+        "alternative_4": "読みたがる",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 21,
+      "question_type": "grammar",
+      "question_text": "私はどうしても家に帰らなければ　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いかない",
+        "alternative_2": "ならない",
+        "alternative_3": "なってない",
+        "alternative_4": "いってない",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 22,
+      "question_type": "grammar",
+      "question_text": "窓の外では雨が　（[blank]） いる。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "降りつづけて",
+        "alternative_2": "降ってつづけて",
+        "alternative_3": "降るつづけて",
+        "alternative_4": "降ったつづけて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 23,
+      "question_type": "grammar",
+      "question_text": "高木くんはこの仕事が気に入らなかった　（[blank]） だけど、僕はとっても楽しかったです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みたい",
+        "alternative_2": "のみたい",
+        "alternative_3": "にみたい",
+        "alternative_4": "なみたい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 24,
+      "question_type": "grammar",
+      "question_text": "生まれた　（[blank]） の子牛が立ち上がり、歩こうとしている。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "だけ",
+        "alternative_2": "とき",
+        "alternative_3": "ところ",
+        "alternative_4": "ばかり",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 25,
+      "question_type": "grammar",
+      "question_text": "A 「今すぐ何かして働きたいと思うわ。」\nB 「何かやさしいお料理を　（[blank]） どうですか？」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "習うと",
+        "alternative_2": "習うなら",
+        "alternative_3": "習っても",
+        "alternative_4": "習ったら",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 26,
+      "question_type": "grammar",
+      "question_text": "しゃべりたくない　（[blank]） 、　しゃべらなくてもいいですよ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "のたら",
+        "alternative_2": "のなら",
+        "alternative_3": "のと",
+        "alternative_4": "のは",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 27,
+      "question_type": "grammar",
+      "question_text": "中国を旅しているあいだ、実家への連絡はあまり　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "した",
+        "alternative_2": "しないでいた",
+        "alternative_3": "していた",
+        "alternative_4": "していなかった",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 28,
+      "question_type": "grammar",
+      "question_text": "機械工作をすごいと言ったけど、鈴木は手を　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "汚しがらなかった",
+        "alternative_2": "汚したくなかった",
+        "alternative_3": "汚したがらなくなった",
+        "alternative_4": "汚したがらなかった",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 29,
+      "question_type": "grammar",
+      "question_text": "駅へ行きたいんですが、どう　（[blank]） いいですか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "行って",
+        "alternative_2": "行けば",
+        "alternative_3": "行くなら",
+        "alternative_4": "行くのは",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 30,
+      "question_type": "grammar",
+      "question_text": "けさはいつもより早く学校へ行きました。しかし、山田さんはもう　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きます",
+        "alternative_2": "きています",
+        "alternative_3": "きてでした",
+        "alternative_4": "きていました",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 31,
+      "question_type": "grammar",
+      "question_text": "今日は寒いので、風邪をひいて　（[blank]） そうです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しまい",
+        "alternative_2": "み",
+        "alternative_3": "いき",
+        "alternative_4": "おき",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 32,
+      "question_type": "grammar",
+      "question_text": "彼は「クラシック音楽」をタップした。悲しいメロディーと歌詞が　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "流れはじめた",
+        "alternative_2": "流れいった",
+        "alternative_3": "流れつづけた",
+        "alternative_4": "流れみた",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 33,
+      "question_type": "grammar",
+      "question_text": "わたしはけさ山田さんがひとりで　（[blank]） を見ました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "走る",
+        "alternative_2": "走ること",
+        "alternative_3": "走っているの",
+        "alternative_4": "走っていること",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 34,
+      "question_type": "grammar",
+      "question_text": "彼とはじめてデートした　（[blank]） 、新しい生活をはじめたいと思っていました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "とき",
+        "alternative_2": "ところ",
+        "alternative_3": "あと",
+        "alternative_4": "ごろ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 35,
+      "question_type": "grammar",
+      "question_text": "十五分　（[blank]） パトカーのサイレンがきこえた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おきに",
+        "alternative_2": "までに",
+        "alternative_3": "ように",
+        "alternative_4": "あとに",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 36,
+      "question_type": "grammar",
+      "question_text": "両親はふたりともわたしを理解して　（[blank]） いた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あげて",
+        "alternative_2": "くれて",
+        "alternative_3": "やって",
+        "alternative_4": "もらって",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 37,
+      "question_type": "grammar",
+      "question_text": "これから新宿駅で松本さんに　（[blank]） 予定です。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "会っている",
+        "alternative_2": "会える",
+        "alternative_3": "会おう",
+        "alternative_4": "会う",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 38,
+      "question_type": "grammar",
+      "question_text": "このようなプロダクトを開発させて （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いる",
+        "alternative_2": "ほしい",
+        "alternative_3": "ひつよう",
+        "alternative_4": "したい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 39,
+      "question_type": "grammar",
+      "question_text": "同じような趣味を持つ人の集まりに参加　（[blank]） はいかがでしょうか？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "していて",
+        "alternative_2": "していって",
+        "alternative_3": "してきて",
+        "alternative_4": "してみて",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 40,
+      "question_type": "grammar",
+      "question_text": "彼らはいつも　（[blank]） ソファーの上でレコードをきいていた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "のように",
+        "alternative_2": "のような",
+        "alternative_3": "みたいに",
+        "alternative_4": "みたいな",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 41,
+      "question_type": "grammar",
+      "question_text": "お時間をとりましたことを （[blank]） ください。ご健康とご幸福を祈ります。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おゆるし",
+        "alternative_2": "ゆるして",
+        "alternative_3": "おゆるして",
+        "alternative_4": "ゆるし",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 42,
+      "question_type": "grammar",
+      "question_text": "はじめにうまく　（[blank]） 、何度でも、何度でも、やってみるんだね。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いかなかったら",
+        "alternative_2": "いかなくて",
+        "alternative_3": "いかないと",
+        "alternative_4": "いかないで",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 43,
+      "question_type": "grammar",
+      "question_text": "子供たちが動物園への　（[blank]） をたずねた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "行方",
+        "alternative_2": "行き方",
+        "alternative_3": "行く方",
+        "alternative_4": "行った方",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 44,
+      "question_type": "grammar",
+      "question_text": "電車を　（[blank]） としたとき、　ころんでけがをしました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おり",
+        "alternative_2": "おりる",
+        "alternative_3": "おりて",
+        "alternative_4": "おりよう",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 45,
+      "question_type": "grammar",
+      "question_text": "誰が相手　（[blank]） 、どんなこと　（[blank]） 、彼は納得させてしまう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ても/ても",
+        "alternative_2": "など/など",
+        "alternative_3": "でも/でも",
+        "alternative_4": "なら/なら",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 46,
+      "question_type": "grammar",
+      "question_text": "隠れるところがない　（[blank]） ！",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じゃないが",
+        "alternative_2": "じゃないかな",
+        "alternative_3": "じゃないかしら",
+        "alternative_4": "じゃないか",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 47,
+      "question_type": "grammar",
+      "question_text": "りんごとバナナとではどちら　（[blank]） すきですか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "が",
+        "alternative_3": "は",
+        "alternative_4": "と",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 48,
+      "question_type": "grammar",
+      "question_text": "彼女は自分がとてもひどいことをして　（[blank]） と思って後悔した。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みたんだ",
+        "alternative_2": "しまったんだ",
+        "alternative_3": "きたんだ",
+        "alternative_4": "おいたんだ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 49,
+      "question_type": "grammar",
+      "question_text": "私、父から五百万円を借りる　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ものができた",
+        "alternative_2": "ものができていた",
+        "alternative_3": "ことができていた",
+        "alternative_4": "ことができた",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 50,
+      "question_type": "grammar",
+      "question_text": "一人　（[blank]） 子供のいない両親はあまり仲が良くないっていうのは本当だと思う？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "もう",
+        "alternative_2": "しか",
+        "alternative_3": "だけ",
+        "alternative_4": "ばかり",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 51,
+      "question_type": "grammar",
+      "question_text": "わたしたちはバーでビールを　（[blank]） モノポリというゲームもした。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "飲むと",
+        "alternative_2": "飲むなら",
+        "alternative_3": "飲んだら",
+        "alternative_4": "飲みながら",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 52,
+      "question_type": "grammar",
+      "question_text": "そんなこと気に　（[blank]） もいいわ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しなくて",
+        "alternative_2": "しないで",
+        "alternative_3": "しない",
+        "alternative_4": "しないよう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 53,
+      "question_type": "grammar",
+      "question_text": "あのあたりには、バッテリー　（[blank]） レーダー　（[blank]） 、かっこいい仕事をしている人がたくさんいるんだ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "とか/とか",
+        "alternative_2": "と/と",
+        "alternative_3": "など/など",
+        "alternative_4": "や/や",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 54,
+      "question_type": "grammar",
+      "question_text": "じつはわたしにはあまり　（[blank]） いない秘密があります。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "知れて",
+        "alternative_2": "知らせて",
+        "alternative_3": "知られて",
+        "alternative_4": "知らせられて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 55,
+      "question_type": "grammar",
+      "question_text": "大事なお皿をこわしてわたしは母　（[blank]） しかられました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "が",
+        "alternative_3": "で",
+        "alternative_4": "を",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 56,
+      "question_type": "grammar",
+      "question_text": "どの店も建物はきれいで、中は明る　（[blank]） だった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "よう",
+        "alternative_2": "そう",
+        "alternative_3": "みたい",
+        "alternative_4": "らしい",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 57,
+      "question_type": "grammar",
+      "question_text": "あなたにはお姉さんがいるの。すてきな人で有名人よ。東京へ連れて行って　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "会ってもらう",
+        "alternative_2": "会ってあげる",
+        "alternative_3": "会わせてあげる",
+        "alternative_4": "会わせてもらう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 58,
+      "question_type": "grammar",
+      "question_text": "さあ、お掛けなさい。少し事情を説明したほうが　（[blank]） だ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "よそう",
+        "alternative_2": "よいそう",
+        "alternative_3": "よさそう",
+        "alternative_4": "よかったそう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 59,
+      "question_type": "grammar",
+      "question_text": "わたしたちの家に泊まりなさいよ。そうすればお金もかからない　（[blank]） 、時間を気にしないでゆっくり話もできる　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ば/ば",
+        "alternative_2": "が/が",
+        "alternative_3": "し/し",
+        "alternative_4": "で/で",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 60,
+      "question_type": "grammar",
+      "question_text": "正直に言ってくれたらよかった　（[blank]） 。お金が必要だと言ってくれればわたしの分はあげた　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "から/から",
+        "alternative_2": "のに/のに",
+        "alternative_3": "なら/なら",
+        "alternative_4": "ので/ので",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 61,
+      "question_type": "grammar",
+      "question_text": "わたしはしょうらい医者になる （[blank]） です。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ところ",
+        "alternative_2": "ように",
+        "alternative_3": "つもり",
+        "alternative_4": "そうに",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 62,
+      "question_type": "grammar",
+      "question_text": "スナックを持って （[blank]） いいですか？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "くるなら",
+        "alternative_2": "きたら",
+        "alternative_3": "きても",
+        "alternative_4": "くると",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 63,
+      "question_type": "grammar",
+      "question_text": "山田さんは食事に （[blank]） ところだったので、わたしも一緒に食堂に行ってゆうしょくを食べた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "行き",
+        "alternative_2": "行った",
+        "alternative_3": "行く",
+        "alternative_4": "行こう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 64,
+      "question_type": "grammar",
+      "question_text": "話しかけているのだから、こっちをちゃんと　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "見やすい",
+        "alternative_2": "見ないで",
+        "alternative_3": "見にくい",
+        "alternative_4": "見なさい",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 65,
+      "question_type": "grammar",
+      "question_text": "田中さんは風邪をひいている　（[blank]） 、プールで泳いでいます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "のに",
+        "alternative_2": "ても",
+        "alternative_3": "より",
+        "alternative_4": "なら",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 66,
+      "question_type": "grammar",
+      "question_text": "次の文の …★… に入る最もよいものを、１・２・３・４から一つ選びなさい。 6. あなたから　（[blank]）　　（[blank]）　…★… （[blank]）　と思っていた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "もう",
+        "alternative_2": "はない",
+        "alternative_3": "連絡",
+        "alternative_4": "かもしれない",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 67,
+      "question_type": "grammar",
+      "question_text": "父はなんでも作れたんだ。戸棚が　（[blank]）　　（[blank]）　…★… （[blank]）　。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "父が",
+        "alternative_2": "なら",
+        "alternative_3": "作ってくれた",
+        "alternative_4": "必要",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 68,
+      "question_type": "grammar",
+      "question_text": "私が何がいいたいか、あなたには　（[blank]）　　（[blank]）　…★… （[blank]）　。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "わかって",
+        "alternative_2": "はずだ",
+        "alternative_3": "いる",
+        "alternative_4": "よく",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 69,
+      "question_type": "grammar",
+      "question_text": "（[blank]）　　（[blank]）　…★… （[blank]）　東京へ行ってたんじゃないかと思う。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "進まな",
+        "alternative_2": "大学",
+        "alternative_3": "に",
+        "alternative_4": "ければ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 70,
+      "question_type": "grammar",
+      "question_text": "その事件のあと、彼は両親よりも自分のほうが　（[blank]）　　（[blank]）　…★… （[blank]）　なった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ように",
+        "alternative_2": "らしい",
+        "alternative_3": "頭がいい",
+        "alternative_4": "と思う",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 71,
+      "question_type": "grammar",
+      "question_text": "わたしはあいさつをするのはいやでしたが、母はわたしにあいさつを （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "されました",
+        "alternative_2": "させてあげました",
+        "alternative_3": "させました",
+        "alternative_4": "させてもらいました",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 72,
+      "question_type": "grammar",
+      "question_text": "私にはあなたに説明 （[blank]） ことがいくつあるのです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しないでならない",
+        "alternative_2": "しなくてならない",
+        "alternative_3": "しなくてはならない",
+        "alternative_4": "しないではならない",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 73,
+      "question_type": "grammar",
+      "question_text": "あなたは誰かと話をなさる前に、すべてのじじつを知って　（[blank]） ほうがいいでしょう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おく",
+        "alternative_2": "おって",
+        "alternative_3": "おいている",
+        "alternative_4": "おいた",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 74,
+      "question_type": "grammar",
+      "question_text": "何かいやなことが　（[blank]） 、彼女はいつもほほえみをうかべていた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あったら",
+        "alternative_2": "あっても",
+        "alternative_3": "いったら",
+        "alternative_4": "いっても",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 75,
+      "question_type": "grammar",
+      "question_text": "ハンバーガーを１００円でなんて売れる　（[blank]） と思う。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "はずない",
+        "alternative_2": "はずにない",
+        "alternative_3": "はずがない",
+        "alternative_4": "はずではない",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 76,
+      "question_type": "grammar",
+      "question_text": "どうもおじゃま　（[blank]） 。それではひるご飯のおすみになるまでは、どうぞごゆっくりお休みください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "でございます",
+        "alternative_2": "ございました",
+        "alternative_3": "いたしました",
+        "alternative_4": "になりました",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 77,
+      "question_type": "grammar",
+      "question_text": "兄はわたし　（[blank]） えいがにつれて行ってくれました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "に",
+        "alternative_3": "が",
+        "alternative_4": "を",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 78,
+      "question_type": "grammar",
+      "question_text": "日本ではさとうより塩のほう　（[blank]） 安いです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "が",
+        "alternative_3": "は",
+        "alternative_4": "に",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 79,
+      "question_type": "grammar",
+      "question_text": "私は夜の七時半　（[blank]） の電車で大阪に行く予定です。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "まえ",
+        "alternative_2": "あと",
+        "alternative_3": "とき",
+        "alternative_4": "ごろ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 80,
+      "question_type": "grammar",
+      "question_text": "私はその会話を楽しんだと　（[blank]） と思います。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "言ってもいい",
+        "alternative_2": "言ったらいい",
+        "alternative_3": "言うといい",
+        "alternative_4": "言おうといい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 81,
+      "question_type": "grammar",
+      "question_text": "そういえばベルが鳴っている　（[blank]） 。きっと木村さんだろう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ところだ",
+        "alternative_2": "ことだ",
+        "alternative_3": "つもりだ",
+        "alternative_4": "ようだ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 82,
+      "question_type": "grammar",
+      "question_text": "明日図書館があいている　（[blank]） どうか知っていますか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "を",
+        "alternative_3": "に",
+        "alternative_4": "か",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 83,
+      "question_type": "grammar",
+      "question_text": "あなたのその鳥をどこで手においれになったか、聞かせて　（[blank]） か？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いただけます",
+        "alternative_2": "いただけましょう",
+        "alternative_3": "いただけろ",
+        "alternative_4": "いただこう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 84,
+      "question_type": "grammar",
+      "question_text": "あの人はたいへんあたまがよくてやさしいかたと　（[blank]） います。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いって",
+        "alternative_2": "いわせて",
+        "alternative_3": "いわれて",
+        "alternative_4": "いわせられて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 85,
+      "question_type": "grammar",
+      "question_text": "きっとあなたは新しいところで新しい友だちを作って、私のことなんか忘れてしまったんだ　（[blank]） 思っていたわ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "に",
+        "alternative_3": "と",
+        "alternative_4": "は",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 86,
+      "question_type": "grammar",
+      "question_text": "この切符はとても手に　（[blank]） のです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "入にくい",
+        "alternative_2": "入ってにくい",
+        "alternative_3": "入りにくい",
+        "alternative_4": "入るにくい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 87,
+      "question_type": "grammar",
+      "question_text": "ほかの人の手紙を　（[blank]） はいけません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "読み",
+        "alternative_2": "読む",
+        "alternative_3": "読んで",
+        "alternative_4": "読んだ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 88,
+      "question_type": "grammar",
+      "question_text": "わたしが言ったこと、あの子に　（[blank]） 。じゃないと、あの子とっても気を悪くするわ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "言えない",
+        "alternative_2": "言わない",
+        "alternative_3": "言わなくて",
+        "alternative_4": "言わないで",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 89,
+      "question_type": "grammar",
+      "question_text": "祖父はアル中で、ベルトで父をなぐったりした　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しか",
+        "alternative_2": "らしい",
+        "alternative_3": "のよう",
+        "alternative_4": "まで",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 90,
+      "question_type": "grammar",
+      "question_text": "これからそこへ行ってみるところですが、いっしょに　（[blank]） か？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いらっしゃいます",
+        "alternative_2": "いたします",
+        "alternative_3": "なさいます",
+        "alternative_4": "もうしあげます",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 91,
+      "question_type": "grammar",
+      "question_text": "A 「その本、かりてもいいですか。」\nB 「どうぞ。わたし、今ちょうど読みおわった （[blank]） ですから。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "らしい",
+        "alternative_2": "ところ",
+        "alternative_3": "かた",
+        "alternative_4": "はず",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 92,
+      "question_type": "grammar",
+      "question_text": "さいふは走っている （[blank]） ポケットから落ちたのかもしれないよ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ごろ",
+        "alternative_2": "だけで",
+        "alternative_3": "あとで",
+        "alternative_4": "ときに",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 93,
+      "question_type": "grammar",
+      "question_text": "学校までは車で母に送って　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あげました",
+        "alternative_2": "もらいました",
+        "alternative_3": "くれました",
+        "alternative_4": "やりました",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 94,
+      "question_type": "grammar",
+      "question_text": "わたしは本　（[blank]） 読んだことがありません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "など",
+        "alternative_2": "なら",
+        "alternative_3": "だけ",
+        "alternative_4": "でも",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 95,
+      "question_type": "grammar",
+      "question_text": "あのびじゅつ館へ行けば、日本のふるい絵を見る　（[blank]） ができます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "こと",
+        "alternative_2": "もの",
+        "alternative_3": "よう",
+        "alternative_4": "ところ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 96,
+      "question_type": "grammar",
+      "question_text": "たしかに娘をいいところにかたづけますのはとてもうれしいこと　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ございます",
+        "alternative_2": "ございました",
+        "alternative_3": "でございます",
+        "alternative_4": "ではございます",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 97,
+      "question_type": "grammar",
+      "question_text": "彼の父親は歯科医で、うでの良　（[blank]） と料金の高　（[blank]） で知られていた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "さ/さ",
+        "alternative_2": "し/し",
+        "alternative_3": "げ/げ",
+        "alternative_4": "の/の",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 98,
+      "question_type": "grammar",
+      "question_text": "問題が　（[blank]） こんごもきがるにご連絡ください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "起きるたら",
+        "alternative_2": "起きてら",
+        "alternative_3": "起きたら",
+        "alternative_4": "起きていたら",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 99,
+      "question_type": "grammar",
+      "question_text": "わたしは子どもが二人います。　上の子がほしいと言えば、すぐに下の子も同じものを　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ほしいです",
+        "alternative_2": "ほしがります",
+        "alternative_3": "ほしいでした",
+        "alternative_4": "ほしがっています",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 100,
+      "question_type": "grammar",
+      "question_text": "おじゃま　（[blank]） すみませんでした。すぐしつれいします。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "して",
+        "alternative_2": "しても",
+        "alternative_3": "したら",
+        "alternative_4": "したなら",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 101,
+      "question_type": "grammar",
+      "question_text": "友だちと　（[blank]） 約束を忘れてはいけません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "で",
+        "alternative_3": "や",
+        "alternative_4": "の",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 102,
+      "question_type": "grammar",
+      "question_text": "昼ごはんを食べ　（[blank]） から話しましょう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "はじめて",
+        "alternative_2": "しまって",
+        "alternative_3": "おいて",
+        "alternative_4": "おわって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 103,
+      "question_type": "grammar",
+      "question_text": "ひまだからゲーム　（[blank]） しましょう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "でも",
+        "alternative_2": "しか",
+        "alternative_3": "まで",
+        "alternative_4": "ながら",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 104,
+      "question_type": "grammar",
+      "question_text": "風景がわたしたちの前をゆっくりと通りすぎて　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みた",
+        "alternative_2": "いった",
+        "alternative_3": "つづけた",
+        "alternative_4": "あった",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 105,
+      "question_type": "grammar",
+      "question_text": "この公園には歩きまわっている人はたくさん　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ございます",
+        "alternative_2": "なさいます",
+        "alternative_3": "いたします",
+        "alternative_4": "でございます",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 106,
+      "question_type": "grammar",
+      "question_text": "あなたはお金の心配をする必要が　（[blank]） よ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "なりません",
+        "alternative_2": "いません",
+        "alternative_3": "しません",
+        "alternative_4": "ありません",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 107,
+      "question_type": "grammar",
+      "question_text": "鈴木さんはバス　（[blank]） 気分が悪くなったそうです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "の中",
+        "alternative_2": "の中に",
+        "alternative_3": "の中で",
+        "alternative_4": "の中の",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 108,
+      "question_type": "grammar",
+      "question_text": "いま、母の手作りチョコが　（[blank]） どんなにいいだろう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "食べたら",
+        "alternative_2": "食べれたら",
+        "alternative_3": "食べられてたら",
+        "alternative_4": "食べられたら",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 109,
+      "question_type": "grammar",
+      "question_text": "それで、彼女から、ちかごろ便りはあったの　（[blank]） ？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "さ",
+        "alternative_3": "かい",
+        "alternative_4": "や",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 110,
+      "question_type": "grammar",
+      "question_text": "あの人は、なにかを　（[blank]） より人にさせるほうが得意なんですよ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "させられる",
+        "alternative_2": "させる",
+        "alternative_3": "される",
+        "alternative_4": "されさせる",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 111,
+      "question_type": "grammar",
+      "question_text": "田中は楽し　（[blank]） 顔をしている。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "そうな",
+        "alternative_2": "ような",
+        "alternative_3": "らしいな",
+        "alternative_4": "みたいな",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 112,
+      "question_type": "grammar",
+      "question_text": "もう一度勉強しなさいよ。　（[blank]） できるわ。できたら、すてきなごほうびをあげるわ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "やるなら",
+        "alternative_2": "やったら",
+        "alternative_3": "やると",
+        "alternative_4": "やれば",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 113,
+      "question_type": "grammar",
+      "question_text": "僕たち、女みたい　（[blank]） 見えるんだよ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "な",
+        "alternative_2": "が",
+        "alternative_3": "に",
+        "alternative_4": "を",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 114,
+      "question_type": "grammar",
+      "question_text": "山本は新聞のきりぬき　（[blank]） ものを持っている。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "のよう",
+        "alternative_2": "のようの",
+        "alternative_3": "のような",
+        "alternative_4": "のように",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 115,
+      "question_type": "grammar",
+      "question_text": "すみませんが、これは二人　（[blank]） の話です。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "だけ",
+        "alternative_2": "でも",
+        "alternative_3": "ごろ",
+        "alternative_4": "など",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 116,
+      "question_type": "grammar",
+      "question_text": "次の文の …★… に入る最もよいものを、１・２・３・４から一つ選びなさい。 6. 来週渋谷でテニス　（[blank]）　　（[blank]）　…★… （[blank]）　。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "行われます",
+        "alternative_2": "が",
+        "alternative_3": "の",
+        "alternative_4": "試合",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 117,
+      "question_type": "grammar",
+      "question_text": "あなたにはわたしのくろう　（[blank]）　　（[blank]）　…★… （[blank]）　わ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "なりません",
+        "alternative_2": "おわかりに",
+        "alternative_3": "など",
+        "alternative_4": "とても",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 118,
+      "question_type": "grammar",
+      "question_text": "息子が大学そつぎょう後にどんな仕事につくか　（[blank]）　　（[blank]）　…★… （[blank]）　。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ところです",
+        "alternative_2": "いる",
+        "alternative_3": "を",
+        "alternative_4": "決めて",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 119,
+      "question_type": "grammar",
+      "question_text": "あなたなら何を　（[blank]）　　（[blank]）　…★… （[blank]）　、明さん。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "でしょう",
+        "alternative_2": "成功",
+        "alternative_3": "手がけても",
+        "alternative_4": "なさる",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 120,
+      "question_type": "grammar",
+      "question_text": "今朝めざめたとき、昨夜何　（[blank]）　　（[blank]）　…★… （[blank]）　少し時間がかかった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "まで",
+        "alternative_2": "が",
+        "alternative_3": "あったか",
+        "alternative_4": "思い出す",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 121,
+      "question_type": "grammar",
+      "question_text": "じしょを　（[blank]） に日本語の新聞を読むことができますか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "使わず",
+        "alternative_2": "使わない",
+        "alternative_3": "使わなく",
+        "alternative_4": "使わなくて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 122,
+      "question_type": "grammar",
+      "question_text": "あとですてるから、ごみを　（[blank]） おいてください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "集まる",
+        "alternative_2": "集める",
+        "alternative_3": "集まって",
+        "alternative_4": "集めて",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 123,
+      "question_type": "grammar",
+      "question_text": "青木「川田さんはケーキを　（[blank]） か。」\n川田「はい、一度だけ。でも、うまくできませんでした。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "作りたいです",
+        "alternative_2": "作るでしょう",
+        "alternative_3": "作ったことがあります",
+        "alternative_4": "作ることができます",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 124,
+      "question_type": "grammar",
+      "question_text": "あの人は入院しているので、あしたの旅行に　（[blank]） はずがない。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "来る",
+        "alternative_2": "来ます",
+        "alternative_3": "来て",
+        "alternative_4": "来た",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 125,
+      "question_type": "grammar",
+      "question_text": "テキストを　（[blank]） 答えてください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "見なく",
+        "alternative_2": "見なくて",
+        "alternative_3": "見ずに",
+        "alternative_4": "見ずで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 126,
+      "question_type": "grammar",
+      "question_text": "めがねをかけた　（[blank]） ねてしまいました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あいだ",
+        "alternative_2": "ながら",
+        "alternative_3": "まま",
+        "alternative_4": "まえに",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 127,
+      "question_type": "grammar",
+      "question_text": "１時間ぐらい　（[blank]） つづけたので、のどがかわいた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "話し",
+        "alternative_2": "話す",
+        "alternative_3": "話さ",
+        "alternative_4": "話せ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 128,
+      "question_type": "grammar",
+      "question_text": "まだこのマンガを　（[blank]） ことがありません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "読むの",
+        "alternative_2": "読んで",
+        "alternative_3": "読んだ",
+        "alternative_4": "読みます",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 129,
+      "question_type": "grammar",
+      "question_text": "やんさんはいつ国へ帰る　（[blank]） ？",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "な",
+        "alternative_2": "の",
+        "alternative_3": "し",
+        "alternative_4": "わ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 130,
+      "question_type": "grammar",
+      "question_text": "だれかにさいふ 　（[blank]） とられた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "の",
+        "alternative_2": "に",
+        "alternative_3": "か",
+        "alternative_4": "を",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 131,
+      "question_type": "grammar",
+      "question_text": "そつぎょうしてから何をする　（[blank]） ですか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "こと",
+        "alternative_2": "たい",
+        "alternative_3": "ほしい",
+        "alternative_4": "つもり",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 132,
+      "question_type": "grammar",
+      "question_text": "いろいろしらべて、その駅がいちばんべんりだ　（[blank]） がわかった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "というもの",
+        "alternative_2": "ということ",
+        "alternative_3": "こと",
+        "alternative_4": "もの",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 133,
+      "question_type": "grammar",
+      "question_text": "たぶん明日も風が　（[blank]） だろう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "強く",
+        "alternative_2": "強い",
+        "alternative_3": "強くて",
+        "alternative_4": "強いと",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 134,
+      "question_type": "grammar",
+      "question_text": "父は　声　（[blank]） 大きい。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "の",
+        "alternative_3": "が",
+        "alternative_4": "で",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 135,
+      "question_type": "grammar",
+      "question_text": "あしたは家でゆっくり　（[blank]） と思う。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "休もう",
+        "alternative_2": "休みよう",
+        "alternative_3": "休むよう",
+        "alternative_4": "休むろう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 136,
+      "question_type": "grammar",
+      "question_text": "外は　（[blank]） ようですね。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "寒",
+        "alternative_2": "寒い",
+        "alternative_3": "寒く",
+        "alternative_4": "寒いの",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 137,
+      "question_type": "grammar",
+      "question_text": "たばこの　（[blank]） すぎは よくないですよ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "すい",
+        "alternative_2": "すう",
+        "alternative_3": "すって",
+        "alternative_4": "すった",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 138,
+      "question_type": "grammar",
+      "question_text": "レポートはペン　（[blank]） 書いてください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "か",
+        "alternative_2": "の",
+        "alternative_3": "が",
+        "alternative_4": "で",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 139,
+      "question_type": "grammar",
+      "question_text": "せんぱい　（[blank]） 私におみやげをくださいました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "を",
+        "alternative_3": "で",
+        "alternative_4": "に",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 140,
+      "question_type": "grammar",
+      "question_text": "私のへやの　（[blank]） はこのへやとだいたい同じです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "広さ",
+        "alternative_2": "広く",
+        "alternative_3": "広い",
+        "alternative_4": "広くて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 141,
+      "question_type": "grammar",
+      "question_text": "「ここにごみを　（[blank]） な！」と書いてある。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "すてろ",
+        "alternative_2": "すてる",
+        "alternative_3": "すてます",
+        "alternative_4": "すてない",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 142,
+      "question_type": "grammar",
+      "question_text": "この　仕事は日本語が　（[blank]） なくてもかまいません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "じょうず",
+        "alternative_2": "じょうずに",
+        "alternative_3": "じょうずだ",
+        "alternative_4": "じょうずで",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 143,
+      "question_type": "grammar",
+      "question_text": "先生はもう　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "お帰りになりました",
+        "alternative_2": "お帰りなさいました",
+        "alternative_3": "お帰りございました",
+        "alternative_4": "お帰りいたしました",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 144,
+      "question_type": "grammar",
+      "question_text": "カトレア　（[blank]） いう店を知っていますか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "が",
+        "alternative_3": "に",
+        "alternative_4": "を",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 145,
+      "question_type": "grammar",
+      "question_text": "日本にりゅうがくしている　（[blank]） ふじさんをのぼりたい。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あいだに",
+        "alternative_2": "ところが",
+        "alternative_3": "まえに",
+        "alternative_4": "ことが",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 146,
+      "question_type": "grammar",
+      "question_text": "このへやに　（[blank]） いけません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "入るは",
+        "alternative_2": "入っては",
+        "alternative_3": "入りますは",
+        "alternative_4": "入らないは",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 147,
+      "question_type": "grammar",
+      "question_text": "空を鳥がとんでいる　（[blank]） 見えます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "を",
+        "alternative_3": "のが",
+        "alternative_4": "のを",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 148,
+      "question_type": "grammar",
+      "question_text": "Ａ「カメラを　買いたいんですが、どこが　いいですか。」\nＢ「カメラを　（[blank]） 、駅の　そばの　店が　安くて　いいですよ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "買うと",
+        "alternative_2": "買えば",
+        "alternative_3": "買ったら",
+        "alternative_4": "買うなら",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 149,
+      "question_type": "grammar",
+      "question_text": "かれは来月　（[blank]） ということを、まだだれにも知らせていない。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "けっこんしろ",
+        "alternative_2": "けっこんして",
+        "alternative_3": "けっこんする",
+        "alternative_4": "けっこんしよう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 150,
+      "question_type": "grammar",
+      "question_text": "さっき起きた　（[blank]） で、まだねむいです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "とき",
+        "alternative_2": "ほう",
+        "alternative_3": "こと",
+        "alternative_4": "ばかり",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 151,
+      "question_type": "grammar",
+      "question_text": "母のたんじょう日のプレゼントはセ－タ－　（[blank]） しました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "を",
+        "alternative_3": "で",
+        "alternative_4": "が",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 152,
+      "question_type": "grammar",
+      "question_text": "Ａ「うちのむすこは肉より野菜のほうが好きなんですよ。」\nＢ「いいですね。うちの子どもは野菜を　（[blank]） こまっているんですよ。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "食べたがって",
+        "alternative_2": "食べたがらなくて",
+        "alternative_3": "食べたくて",
+        "alternative_4": "食べたくなくて",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 153,
+      "question_type": "grammar",
+      "question_text": "このしゅくだいは10日　（[blank]） 出してください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "まで",
+        "alternative_2": "までに",
+        "alternative_3": "までは",
+        "alternative_4": "までも",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 154,
+      "question_type": "grammar",
+      "question_text": "いろいろさがした　（[blank]） 見つからないんです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "で",
+        "alternative_3": "を",
+        "alternative_4": "が",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 155,
+      "question_type": "grammar",
+      "question_text": "キムさん、田中さん　（[blank]） あした10時に来るように言ってください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "に",
+        "alternative_3": "や",
+        "alternative_4": "の",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 156,
+      "question_type": "grammar",
+      "question_text": "じしょをわすれたので、友だち　（[blank]） 貸してもらった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "へ",
+        "alternative_2": "に",
+        "alternative_3": "を",
+        "alternative_4": "か",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 157,
+      "question_type": "grammar",
+      "question_text": "私は仕事を　（[blank]） つもりです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "やめない",
+        "alternative_2": "やめたい",
+        "alternative_3": "やめよう",
+        "alternative_4": "やめたくない",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 158,
+      "question_type": "grammar",
+      "question_text": "あのレストランはいつ　（[blank]） もこんでいる。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "行った",
+        "alternative_2": "行こう",
+        "alternative_3": "行って",
+        "alternative_4": "行く",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 159,
+      "question_type": "grammar",
+      "question_text": "学生「先生、何時まで大学にいらっしゃいますか。」\n先生「きょうは５時まで　（[blank]） よ。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "います",
+        "alternative_2": "いらっしゃいます",
+        "alternative_3": "あります",
+        "alternative_4": "まいります",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 160,
+      "question_type": "grammar",
+      "question_text": "今度国に帰ること　（[blank]） なりました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "に",
+        "alternative_3": "を",
+        "alternative_4": "で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 161,
+      "question_type": "grammar",
+      "question_text": "仕事をつづけるのは　（[blank]） と思う。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "むりに",
+        "alternative_2": "むりで",
+        "alternative_3": "むりだ",
+        "alternative_4": "むりな",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 162,
+      "question_type": "grammar",
+      "question_text": "A 「あした、いっしょに出かけませんか。」\nB 「あしたは友達がうちに来るよてい　（[blank]） 。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "なんです",
+        "alternative_2": "なんですから",
+        "alternative_3": "ので",
+        "alternative_4": "からです",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 163,
+      "question_type": "grammar",
+      "question_text": "中田さんが大学をそつぎょうできた　（[blank]） 知っていますか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ように",
+        "alternative_2": "かどうか",
+        "alternative_3": "だろうを",
+        "alternative_4": "ことが",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 164,
+      "question_type": "grammar",
+      "question_text": "これから食事に行く　（[blank]） なんですが、いっしょにいかがですか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ながら",
+        "alternative_2": "までに",
+        "alternative_3": "ところ",
+        "alternative_4": "ぐらい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 165,
+      "question_type": "grammar",
+      "question_text": "木田「それ、林さんのじしょですか。いいじしょですね。」\n林「ええ。兄が私に　（[blank]） んです。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いただいた",
+        "alternative_2": "もらった",
+        "alternative_3": "あげた",
+        "alternative_4": "くれた",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 166,
+      "question_type": "grammar",
+      "question_text": "Ａ「あ、たいへんだ。この車ガソリンが　（[blank]） よ。」\nＢ「ほんとうだ。早く入れたほうがいいですね。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "なくなるらしいです",
+        "alternative_2": "なくなるそうです",
+        "alternative_3": "なくなるはずです",
+        "alternative_4": "なくなりそうです",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 167,
+      "question_type": "grammar",
+      "question_text": "あの先生の話は留学生　（[blank]） はむずかしすぎる。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "に",
+        "alternative_3": "から",
+        "alternative_4": "より",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 168,
+      "question_type": "grammar",
+      "question_text": "あの店はあまり　（[blank]） 、店員も親切です。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "高くて",
+        "alternative_2": "高いで",
+        "alternative_3": "高くなくて",
+        "alternative_4": "高くないで",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 169,
+      "question_type": "grammar",
+      "question_text": "病気が早く　　（[blank]） といいですね。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "よくする",
+        "alternative_2": "いいにする",
+        "alternative_3": "よくなる",
+        "alternative_4": "いいになる",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 170,
+      "question_type": "grammar",
+      "question_text": "とちゅうで雨が　（[blank]） かもしれないから、かさを持って行きましょう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ふった",
+        "alternative_2": "ふって",
+        "alternative_3": "ふり",
+        "alternative_4": "ふる",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 171,
+      "question_type": "grammar",
+      "question_text": "この店で日本のお金が　（[blank]） か。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "使います",
+        "alternative_2": "使えます",
+        "alternative_3": "使うんです",
+        "alternative_4": "使ってです",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 172,
+      "question_type": "grammar",
+      "question_text": "そのことばは発音がむずかしいので、アナウンサー　（[blank]） よくまちがえます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "でも",
+        "alternative_2": "にも",
+        "alternative_3": "かも",
+        "alternative_4": "からも",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 173,
+      "question_type": "grammar",
+      "question_text": "だれ　（[blank]） まどをしめてください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "が",
+        "alternative_3": "か",
+        "alternative_4": "に",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 174,
+      "question_type": "grammar",
+      "question_text": "ネクタイ売り場は　２かいに　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あってございます",
+        "alternative_2": "おあります",
+        "alternative_3": "いらっしゃいます",
+        "alternative_4": "ございます",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 175,
+      "question_type": "grammar",
+      "question_text": "わたしは　１週間　（[blank]） 一回　柔道を　習って　いる。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "は",
+        "alternative_3": "も",
+        "alternative_4": "で",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 176,
+      "question_type": "grammar",
+      "question_text": "母ははじめてひこうきに乗って、子どもの　（[blank]） よろこんだ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ぐらい",
+        "alternative_2": "ように",
+        "alternative_3": "らしい",
+        "alternative_4": "そうに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 177,
+      "question_type": "grammar",
+      "question_text": "A　「その本はだれのですか。」\nB　「　（[blank]） 。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "さあ、だれのかわかりません",
+        "alternative_2": "さあ、本がどうかわかりません",
+        "alternative_3": "いいえ、これは英語の本ではありません",
+        "alternative_4": "いいえ、これはだれのではありません",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 178,
+      "question_type": "grammar",
+      "question_text": "図書館の前　（[blank]） 通るバスはどれですか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "へ",
+        "alternative_2": "で",
+        "alternative_3": "に",
+        "alternative_4": "を",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 179,
+      "question_type": "grammar",
+      "question_text": "私は先生に作文を　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おなおしになりました",
+        "alternative_2": "おなおししました",
+        "alternative_3": "なおしていただきました",
+        "alternative_4": "なおしていらっしゃいました",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 180,
+      "question_type": "grammar",
+      "question_text": "むすこはひとりでくつが　（[blank]） ようになりました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "はけた",
+        "alternative_2": "はいた",
+        "alternative_3": "はかない",
+        "alternative_4": "はける",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 181,
+      "question_type": "grammar",
+      "question_text": "ねる前にかならずはを　（[blank]） いけません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みがけば",
+        "alternative_2": "みがかないで",
+        "alternative_3": "みがいても",
+        "alternative_4": "みがかなくては",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 182,
+      "question_type": "grammar",
+      "question_text": "では、お元気で。ごりょうしん　（[blank]） どうぞよろしくおつたえください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "でも",
+        "alternative_2": "にも",
+        "alternative_3": "では",
+        "alternative_4": "には",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 183,
+      "question_type": "grammar",
+      "question_text": "彼から借りた本は１さつ　（[blank]） です。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "も",
+        "alternative_2": "と",
+        "alternative_3": "だけ",
+        "alternative_4": "しか",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 184,
+      "question_type": "grammar",
+      "question_text": "うちの子どもはこわい話を　（[blank]） たがる。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "聞く",
+        "alternative_2": "聞き",
+        "alternative_3": "聞いた",
+        "alternative_4": "聞け",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 185,
+      "question_type": "grammar",
+      "question_text": "バスが何時に来る　（[blank]） わかりません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "か",
+        "alternative_2": "は",
+        "alternative_3": "の",
+        "alternative_4": "を",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 186,
+      "question_type": "grammar",
+      "question_text": "ゆきがたくさんふった　（[blank]） しあいが中止された。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ほど",
+        "alternative_2": "ため",
+        "alternative_3": "より",
+        "alternative_4": "ばかり",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 187,
+      "question_type": "grammar",
+      "question_text": "夏休みは旅行に　（[blank]） と思います。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "行きましょう",
+        "alternative_2": "行きます",
+        "alternative_3": "行って",
+        "alternative_4": "行こう",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 188,
+      "question_type": "grammar",
+      "question_text": "私は母　（[blank]） なかせるようなことはしたくない。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "へ",
+        "alternative_2": "を",
+        "alternative_3": "に",
+        "alternative_4": "の",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 189,
+      "question_type": "grammar",
+      "question_text": "大山「小川さん、この本を山田先生にわたしてくださいませんか。」\n小川「わかりました。あとで　（[blank]） 。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おわたしします",
+        "alternative_2": "おわたしになります",
+        "alternative_3": "わたされます",
+        "alternative_4": "わたしております",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 190,
+      "question_type": "grammar",
+      "question_text": "あしたの朝は９時　（[blank]） ここへ来てください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "までで",
+        "alternative_2": "まで",
+        "alternative_3": "まても",
+        "alternative_4": "までに",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 191,
+      "question_type": "grammar",
+      "question_text": "この漢字は　（[blank]） 方がむずかしいです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "読めて",
+        "alternative_2": "読んで",
+        "alternative_3": "読む",
+        "alternative_4": "読み",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 192,
+      "question_type": "grammar",
+      "question_text": "彼女　（[blank]） 来る日は火曜日です。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "へ",
+        "alternative_2": "を",
+        "alternative_3": "で",
+        "alternative_4": "の",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 193,
+      "question_type": "grammar",
+      "question_text": "はじめはことばもわからない　（[blank]） 、友だちもいない　（[blank]） 、ほんとうに たいへんでした。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "や/や",
+        "alternative_2": "し/し",
+        "alternative_3": "ても/ても",
+        "alternative_4": "たり/たり",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 194,
+      "question_type": "grammar",
+      "question_text": "先生は今度の土曜日はずっと研究室　（[blank]） いらっしゃるそうです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "が",
+        "alternative_3": "を",
+        "alternative_4": "に",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 195,
+      "question_type": "grammar",
+      "question_text": "プレゼントは花　（[blank]） しましょう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "が",
+        "alternative_3": "を",
+        "alternative_4": "も",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 196,
+      "question_type": "grammar",
+      "question_text": "わたしは旅行に　（[blank]） が、行けなかった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "行きにくかった",
+        "alternative_2": "行きたかった",
+        "alternative_3": "行きそうだった",
+        "alternative_4": "行くらしかった",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 197,
+      "question_type": "grammar",
+      "question_text": "スポーツをするの　（[blank]） 、見るの　（[blank]） どちらが好きですか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が／が",
+        "alternative_2": "と／と",
+        "alternative_3": "や／や",
+        "alternative_4": "も／も",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 198,
+      "question_type": "grammar",
+      "question_text": "そちらの方がわたしのにもつを　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "お持ちしました",
+        "alternative_2": "お持ちなりました",
+        "alternative_3": "持ってくださいました",
+        "alternative_4": "持っていただきました",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 199,
+      "question_type": "grammar",
+      "question_text": "来月富士山に　（[blank]） と思っています。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "のぼり",
+        "alternative_2": "のぼろう",
+        "alternative_3": "のぼった",
+        "alternative_4": "のぼります",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 200,
+      "question_type": "grammar",
+      "question_text": "きのう買ったカメラ　（[blank]） ぬすまれてしまいました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "で",
+        "alternative_2": "に",
+        "alternative_3": "を",
+        "alternative_4": "へ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 201,
+      "question_type": "grammar",
+      "question_text": "今までねていた赤ちゃんが急に　（[blank]） だした。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ないて",
+        "alternative_2": "なく",
+        "alternative_3": "なき",
+        "alternative_4": "なけ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 202,
+      "question_type": "grammar",
+      "question_text": "そのアパ－トは駅　（[blank]） 近い。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "の",
+        "alternative_3": "で",
+        "alternative_4": "に",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 203,
+      "question_type": "grammar",
+      "question_text": "すみません、きっぷの　（[blank]） 方を教えてください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "買った",
+        "alternative_2": "買って",
+        "alternative_3": "買い",
+        "alternative_4": "買う",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 204,
+      "question_type": "grammar",
+      "question_text": "医者「ねつが下がりましたね。でも、もう少しこの薬を飲んでください。」\n田中「うんどうをしてもいいですか。」\n医者「いいえ、まだ　（[blank]） 。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "してください",
+        "alternative_2": "してもいいですぐ",
+        "alternative_3": "しなくてもいいです",
+        "alternative_4": "しないでください",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 205,
+      "question_type": "grammar",
+      "question_text": "楽しかった旅行のこと　（[blank]） 思い出しています。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ながら",
+        "alternative_2": "ばかり",
+        "alternative_3": "しか",
+        "alternative_4": "までに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 206,
+      "question_type": "grammar",
+      "question_text": "チケットはあとでお　（[blank]） いたします。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "わたして",
+        "alternative_2": "わたす",
+        "alternative_3": "わたせ",
+        "alternative_4": "わたし",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 207,
+      "question_type": "grammar",
+      "question_text": "先週かぜをひきましたが、もう　（[blank]） なりました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "元気",
+        "alternative_2": "元気に",
+        "alternative_3": "元気く",
+        "alternative_4": "元気で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 208,
+      "question_type": "grammar",
+      "question_text": "ひこうきが空　（[blank]） 東から西へとんで行きました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "は",
+        "alternative_3": "で",
+        "alternative_4": "と",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 209,
+      "question_type": "grammar",
+      "question_text": "毎日れんしゅうしたので、　（[blank]） ように なりました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "およいで",
+        "alternative_2": "およいだ",
+        "alternative_3": "およげる",
+        "alternative_4": "およぎ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 210,
+      "question_type": "grammar",
+      "question_text": "その映画はとてもおもしろいので、一度　（[blank]） 見てください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "見た",
+        "alternative_2": "見て",
+        "alternative_3": "見ていて",
+        "alternative_4": "見る",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 211,
+      "question_type": "grammar",
+      "question_text": "その仕事はぜひわたしに　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "やりましょう",
+        "alternative_2": "やりませんか",
+        "alternative_3": "やらせてください",
+        "alternative_4": "やってください",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 212,
+      "question_type": "grammar",
+      "question_text": "ねつが高いときは、むりを　（[blank]） ほうがいい。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しない",
+        "alternative_2": "しなくて",
+        "alternative_3": "しないで",
+        "alternative_4": "せず",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 213,
+      "question_type": "grammar",
+      "question_text": "外国語を勉強しても、　（[blank]） ばわすれてしまいます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "話さなく",
+        "alternative_2": "話さない",
+        "alternative_3": "話さないで",
+        "alternative_4": "話さなけれ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 214,
+      "question_type": "grammar",
+      "question_text": "このきせつはたくさんの人が病院に　（[blank]） やすい。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "なり",
+        "alternative_2": "なった",
+        "alternative_3": "なって",
+        "alternative_4": "なる",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 215,
+      "question_type": "grammar",
+      "question_text": "おきゃくさんが　来るからテーブルの上におさらを　（[blank]） おきます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ならべて",
+        "alternative_2": "ならんで",
+        "alternative_3": "ならべる",
+        "alternative_4": "ならぶ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 216,
+      "question_type": "grammar",
+      "question_text": "先月からテニスを　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "始まりました",
+        "alternative_2": "始まります",
+        "alternative_3": "始めました",
+        "alternative_4": "始めます",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 217,
+      "question_type": "grammar",
+      "question_text": "風がとても強いので、外に出ない　（[blank]） あんぜんだ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ほうが",
+        "alternative_2": "までに",
+        "alternative_3": "ながら",
+        "alternative_4": "だから",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 218,
+      "question_type": "grammar",
+      "question_text": "田中ともうします　（[blank]） 、山下さんを　おねがいします。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "と",
+        "alternative_2": "が",
+        "alternative_3": "から",
+        "alternative_4": "のに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 219,
+      "question_type": "grammar",
+      "question_text": "友だち　（[blank]） そうじをてつだってくれた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "の",
+        "alternative_3": "が",
+        "alternative_4": "で",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 220,
+      "question_type": "grammar",
+      "question_text": "学校をそつぎょうしても、日本語の勉強をつづけて　（[blank]） つもりだ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "くる",
+        "alternative_2": "いく",
+        "alternative_3": "いこう",
+        "alternative_4": "こよう",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 221,
+      "question_type": "grammar",
+      "question_text": "けいたい電話を　（[blank]） ために、れんらくできませんでした。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "わすれた",
+        "alternative_2": "わすれる",
+        "alternative_3": "わすれて",
+        "alternative_4": "わすれ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 222,
+      "question_type": "grammar",
+      "question_text": "このケーキは　（[blank]） ば、おいしくありません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "つめたくなけれ",
+        "alternative_2": "つめたくなく",
+        "alternative_3": "つめたくじゃない",
+        "alternative_4": "つめたくなかった",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 223,
+      "question_type": "grammar",
+      "question_text": "A　「きょうは　寒かったですね。あしたも寒いでしょうか。」\nB　「　（[blank]） 。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "へえ、寒いですね",
+        "alternative_2": "ええ、きっと寒いと思います",
+        "alternative_3": "ああ、あしたも寒くないでしょう",
+        "alternative_4": "なるほど、とても寒かったですよ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 224,
+      "question_type": "grammar",
+      "question_text": "ふうとう　（[blank]） 切手をはってください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "に",
+        "alternative_2": "で",
+        "alternative_3": "を",
+        "alternative_4": "が",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 225,
+      "question_type": "grammar",
+      "question_text": "わたしは子ども　（[blank]） しゅくだいをさせた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "が",
+        "alternative_3": "で",
+        "alternative_4": "に",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 226,
+      "question_type": "grammar",
+      "question_text": "兄　（[blank]） 弟のほうがせが高い。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "まで",
+        "alternative_3": "より",
+        "alternative_4": "ほど",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 227,
+      "question_type": "grammar",
+      "question_text": "A　「日本に来て、どのぐらいですか。」\nB　「　（[blank]） 。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "先週です",
+        "alternative_2": "21さいです",
+        "alternative_3": "2週間です",
+        "alternative_4": "11月18日です",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 228,
+      "question_type": "grammar",
+      "question_text": "たくさんの料理があった　（[blank]） 、ぜんぶ食べる時間がなかった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "のに",
+        "alternative_2": "でも",
+        "alternative_3": "ながら",
+        "alternative_4": "と",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 229,
+      "question_type": "grammar",
+      "question_text": "学生　（[blank]） もっと勉強しなさい。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みたい",
+        "alternative_2": "みたいな",
+        "alternative_3": "らしく",
+        "alternative_4": "らしい",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 230,
+      "question_type": "grammar",
+      "question_text": "図書館でこの町のれきしを　（[blank]） ことができます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しらべた",
+        "alternative_2": "しらべられる",
+        "alternative_3": "しらべる",
+        "alternative_4": "しらべて",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 231,
+      "question_type": "grammar",
+      "question_text": "その本をどこで買った　（[blank]） おぼえていますか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "の",
+        "alternative_2": "を",
+        "alternative_3": "は",
+        "alternative_4": "か",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 232,
+      "question_type": "grammar",
+      "question_text": "お金もない　（[blank]） 、時間もないから、あそびに行けない。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "や",
+        "alternative_2": "で",
+        "alternative_3": "し",
+        "alternative_4": "とか",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 233,
+      "question_type": "grammar",
+      "question_text": "しょうらい先生に　（[blank]） ために勉強しています。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "なる",
+        "alternative_2": "なろう",
+        "alternative_3": "なった",
+        "alternative_4": "なれる",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 234,
+      "question_type": "grammar",
+      "question_text": "銀行の名前がかわった　（[blank]） 知りませんでした。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ものを",
+        "alternative_2": "ことを",
+        "alternative_3": "ように",
+        "alternative_4": "のが",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 235,
+      "question_type": "grammar",
+      "question_text": "前の人につづいてまっすぐ　（[blank]） なさい。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "歩いた",
+        "alternative_2": "歩く",
+        "alternative_3": "歩き",
+        "alternative_4": "歩け",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 236,
+      "question_type": "grammar",
+      "question_text": "ここをおす　（[blank]） 、にんぎょうが動きます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "の",
+        "alternative_2": "で",
+        "alternative_3": "と",
+        "alternative_4": "か",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 237,
+      "question_type": "grammar",
+      "question_text": "天気よほう　（[blank]） 今夜はゆきがふるそうです。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "になると",
+        "alternative_2": "によると",
+        "alternative_3": "だったら",
+        "alternative_4": "だから",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 238,
+      "question_type": "grammar",
+      "question_text": "あぶないですから、子どもを一人で　（[blank]） ないでください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あそばし",
+        "alternative_2": "あそばせ",
+        "alternative_3": "あそびさせ",
+        "alternative_4": "あそばさせ",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 239,
+      "question_type": "grammar",
+      "question_text": "おなかがいたくて病院へ行ったら、1時間も　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "待たれさせた",
+        "alternative_2": "待たせさせた",
+        "alternative_3": "待たされた",
+        "alternative_4": "待たされられた",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 240,
+      "question_type": "grammar",
+      "question_text": "父は おもしろいことを言ってよくみんなを　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "わらわせる",
+        "alternative_2": "わらいたい",
+        "alternative_3": "わらわれる",
+        "alternative_4": "わらえる",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 241,
+      "question_type": "grammar",
+      "question_text": "きょうはきのうほど風が （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "強いだろう",
+        "alternative_2": "強くない",
+        "alternative_3": "強かった",
+        "alternative_4": "強い",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 242,
+      "question_type": "grammar",
+      "question_text": "日本で　（[blank]） ために日本語を勉強している。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "働く",
+        "alternative_2": "働き",
+        "alternative_3": "働いて",
+        "alternative_4": "働こう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 243,
+      "question_type": "grammar",
+      "question_text": "きゃく　「すみません、このぼうし、かぶって　（[blank]） いいですか。」\n店員　　「はい、どうぞ。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しても",
+        "alternative_2": "みても",
+        "alternative_3": "くれても",
+        "alternative_4": "あっても",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 244,
+      "question_type": "grammar",
+      "question_text": "夜は暗くて歩いている人が　（[blank]） にくいので、注意してうんてんします。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "見える",
+        "alternative_2": "見えた",
+        "alternative_3": "見えて",
+        "alternative_4": "見え",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 245,
+      "question_type": "grammar",
+      "question_text": "急に大きな音がしたので、その子どもは　（[blank]） ないてしまった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "こわかったがって",
+        "alternative_2": "こわいがって",
+        "alternative_3": "こわくがって",
+        "alternative_4": "こわがって",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 246,
+      "question_type": "grammar",
+      "question_text": "コピーの字が　（[blank]） すぎて、読めません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "うす",
+        "alternative_2": "うすく",
+        "alternative_3": "うすい",
+        "alternative_4": "うすくて",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 247,
+      "question_type": "grammar",
+      "question_text": "先生、わたしがそのにもつを　（[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "お持ちします",
+        "alternative_2": "お持ちになります",
+        "alternative_3": "お持ちいただきます",
+        "alternative_4": "お持ちくださいます",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 248,
+      "question_type": "grammar",
+      "question_text": "このじしょで漢字の読みかたが　（[blank]） ます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しらべ",
+        "alternative_2": "しらばれ",
+        "alternative_3": "しらべられ",
+        "alternative_4": "しらばられ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 249,
+      "question_type": "grammar",
+      "question_text": "（[blank]） ので、そのきかいにさわってはいけません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "きけん",
+        "alternative_2": "きけんに",
+        "alternative_3": "きけんな",
+        "alternative_4": "きけんだ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 250,
+      "question_type": "grammar",
+      "question_text": "A「ごはんを食べてから、おふろに入りますか。」\nB「いいえ、わたしは　（[blank]） 。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ごはんのまえに入ります",
+        "alternative_2": "いつも一入で食べます",
+        "alternative_3": "食べたあとで入ります",
+        "alternative_4": "ごはんをたくさん食べません",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 251,
+      "question_type": "grammar",
+      "question_text": "会社をやめてどう （[blank]） つもりですか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "する",
+        "alternative_2": "した",
+        "alternative_3": "したい",
+        "alternative_4": "しよう",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 252,
+      "question_type": "grammar",
+      "question_text": "Ａ「この　問題がわからなくてこまっているんですが。」\nＢ「じゃあ、この本を （[blank]） どうですか。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "読んでみる",
+        "alternative_2": "読んでみても",
+        "alternative_3": "読んでみて",
+        "alternative_4": "読んでみたら",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 253,
+      "question_type": "grammar",
+      "question_text": "あした （[blank]） ならせんたくをしません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "雨",
+        "alternative_2": "雨だ",
+        "alternative_3": "雨の",
+        "alternative_4": "雨に",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 254,
+      "question_type": "grammar",
+      "question_text": "あと5分 （[blank]） ありません。　急ぎましょう。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ごろ",
+        "alternative_2": "しか",
+        "alternative_3": "だけ",
+        "alternative_4": "で",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 255,
+      "question_type": "grammar",
+      "question_text": "あ、たいへん。　急いで来たからさいふを （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "わすれなくちゃ",
+        "alternative_2": "わすれといて",
+        "alternative_3": "わすれなきゃ",
+        "alternative_4": "わすれちゃった",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 256,
+      "question_type": "grammar",
+      "question_text": "（[blank]） ので、　よくパソコンを使います。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "へんりで",
+        "alternative_2": "べんり",
+        "alternative_3": "べんりな",
+        "alternative_4": "べんりだ",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 257,
+      "question_type": "grammar",
+      "question_text": "この薬を飲めば病気はなおる （[blank]） です。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "はず",
+        "alternative_2": "ため",
+        "alternative_3": "こと",
+        "alternative_4": "ばかり",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 258,
+      "question_type": "grammar",
+      "question_text": "ひまが （[blank]） 、あそびに来てくださいね。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あると",
+        "alternative_2": "あって",
+        "alternative_3": "あったら",
+        "alternative_4": "あったため",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 259,
+      "question_type": "grammar",
+      "question_text": "ここをおすとドアが （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "開きます",
+        "alternative_2": "開けます",
+        "alternative_3": "開いて います",
+        "alternative_4": "開けて います",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 260,
+      "question_type": "grammar",
+      "question_text": "おなかがいたいから半分 （[blank]） 食べます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "だけ",
+        "alternative_2": "しか",
+        "alternative_3": "も",
+        "alternative_4": "と",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 261,
+      "question_type": "grammar",
+      "question_text": "となりの家でピアノの音 （[blank]） している。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "を",
+        "alternative_3": "と",
+        "alternative_4": "に",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 262,
+      "question_type": "grammar",
+      "question_text": "このバスは大きなはし （[blank]） わたって、駅へ行きます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "に",
+        "alternative_3": "で",
+        "alternative_4": "が",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 263,
+      "question_type": "grammar",
+      "question_text": "じゅぎょうで手紙 （[blank]） 方を習いました。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "書か",
+        "alternative_2": "書き",
+        "alternative_3": "書く",
+        "alternative_4": "書いた",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 264,
+      "question_type": "grammar",
+      "question_text": "わたしはどこ （[blank]） ねられます。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "など",
+        "alternative_2": "でも",
+        "alternative_3": "か",
+        "alternative_4": "は",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 265,
+      "question_type": "grammar",
+      "question_text": "食事の前にはかならず手を （[blank]） なければなりません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "洗う",
+        "alternative_2": "洗い",
+        "alternative_3": "洗わ",
+        "alternative_4": "洗おう",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 266,
+      "question_type": "grammar",
+      "question_text": "意見がある方は、 （[blank]） ください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おっしゃりて",
+        "alternative_2": "おっしゃって",
+        "alternative_3": "おっしゃい",
+        "alternative_4": "おっしゃり",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 267,
+      "question_type": "grammar",
+      "question_text": "このメ－ルをだれかに （[blank]） とこまる。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "見れれる",
+        "alternative_2": "見られる",
+        "alternative_3": "見れる",
+        "alternative_4": "見る",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 268,
+      "question_type": "grammar",
+      "question_text": "かみのけを （[blank]） 切った。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "みじかい",
+        "alternative_2": "みじかく",
+        "alternative_3": "みじかいに",
+        "alternative_4": "みじかくに",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 269,
+      "question_type": "grammar",
+      "question_text": "どなたか質問のある方は （[blank]） か。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "いらっしゃるです",
+        "alternative_2": "いらっしゃいです",
+        "alternative_3": "いらっしゃいません",
+        "alternative_4": "いらっしゃるではありません",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 270,
+      "question_type": "grammar",
+      "question_text": "きゃく「すみません、コーヒーと サンドイッチを （[blank]） 。」\n店員「はい。かしこまりました。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "くださいますよ",
+        "alternative_2": "おねがいします",
+        "alternative_3": "ございますね",
+        "alternative_4": "めしあがります",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 271,
+      "question_type": "grammar",
+      "question_text": "かれは同じ小説を5回 （[blank]） 読んだ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "も",
+        "alternative_2": "が",
+        "alternative_3": "で",
+        "alternative_4": "しか",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 272,
+      "question_type": "grammar",
+      "question_text": "今日は運動を （[blank]） にしてください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しないで",
+        "alternative_2": "しない",
+        "alternative_3": "しなさそう",
+        "alternative_4": "しないよう",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 273,
+      "question_type": "grammar",
+      "question_text": "６さいから小学校に （[blank]） はじめる。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "通わ",
+        "alternative_2": "通う",
+        "alternative_3": "通った",
+        "alternative_4": "通い",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 274,
+      "question_type": "grammar",
+      "question_text": "夜はあまいものを （[blank]） にしています。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "食べない",
+        "alternative_2": "食べよう",
+        "alternative_3": "食べるそう",
+        "alternative_4": "食べないよう",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 275,
+      "question_type": "grammar",
+      "question_text": "このレストランはいつもたくさん人が （[blank]） ね。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ならべています",
+        "alternative_2": "ならべてあります",
+        "alternative_3": "ならんでいます",
+        "alternative_4": "ならんであります",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 276,
+      "question_type": "grammar",
+      "question_text": "小林さんが （[blank]） 、かならず私に知らせて下さい。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "来たら",
+        "alternative_2": "来ると",
+        "alternative_3": "来なら",
+        "alternative_4": "来るまま",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 277,
+      "question_type": "grammar",
+      "question_text": "あの鳥は （[blank]） 声でなくのかなあ。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "どこ",
+        "alternative_2": "どう",
+        "alternative_3": "どれ",
+        "alternative_4": "どんな",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 278,
+      "question_type": "grammar",
+      "question_text": "はをみがいてから （[blank]） なさい。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ね",
+        "alternative_2": "ねる",
+        "alternative_3": "ねれ",
+        "alternative_4": "ねろ",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 279,
+      "question_type": "grammar",
+      "question_text": "だれがこの本を書いた （[blank]） 知っていますか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "は",
+        "alternative_2": "を",
+        "alternative_3": "か",
+        "alternative_4": "で",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 280,
+      "question_type": "grammar",
+      "question_text": "先生がなかなか来ないので、学生がさわぎ （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "つづいた",
+        "alternative_2": "はじまった",
+        "alternative_3": "おわった",
+        "alternative_4": "だした",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 281,
+      "question_type": "grammar",
+      "question_text": "きのうは （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "あたたかくないでした",
+        "alternative_2": "あたたかくありませんでした",
+        "alternative_3": "あたたかいじゃなかったです",
+        "alternative_4": "あたたかいじゃないでした",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 282,
+      "question_type": "grammar",
+      "question_text": "あのレストランはよやくした人 （[blank]） 入れません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しか",
+        "alternative_2": "から",
+        "alternative_3": "より",
+        "alternative_4": "ぐらい",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 283,
+      "question_type": "grammar",
+      "question_text": "その仕事についてはわたしから （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ご説明なさいます",
+        "alternative_2": "ご説明になります",
+        "alternative_3": "ご説明いたします",
+        "alternative_4": "ご説明ございます",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 284,
+      "question_type": "grammar",
+      "question_text": "みんなが子どもの （[blank]） 元気に歌いはじめた。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ように",
+        "alternative_2": "ぐらいに",
+        "alternative_3": "ほどに",
+        "alternative_4": "そうに",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 285,
+      "question_type": "grammar",
+      "question_text": "日本の音楽はまだ聞いたこと （[blank]） ありません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "を",
+        "alternative_2": "に",
+        "alternative_3": "で",
+        "alternative_4": "が",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 286,
+      "question_type": "grammar",
+      "question_text": "Ａ　「すみません。寒いのでまどを （[blank]） 。」\nＢ　「ええ、どうぞ。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "しめたいですか",
+        "alternative_2": "しめてください",
+        "alternative_3": "しめてもいいですか",
+        "alternative_4": "しめるでしょうか",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 287,
+      "question_type": "grammar",
+      "question_text": "田中さんはちこくをしないと言った （[blank]） 、またちこくをした。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "から",
+        "alternative_2": "でも",
+        "alternative_3": "ので",
+        "alternative_4": "のに",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 288,
+      "question_type": "grammar",
+      "question_text": "上手に （[blank]） ように何度もれんしゅうします。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "話し",
+        "alternative_2": "話せる",
+        "alternative_3": "話そう",
+        "alternative_4": "話される",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 289,
+      "question_type": "grammar",
+      "question_text": "あ、お金が （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "おちています",
+        "alternative_2": "おちてあります",
+        "alternative_3": "おとしています",
+        "alternative_4": "おとしてあります",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 290,
+      "question_type": "grammar",
+      "question_text": "急に雨がふり （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "つづけた",
+        "alternative_2": "だした",
+        "alternative_3": "でた",
+        "alternative_4": "きた",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 291,
+      "question_type": "grammar",
+      "question_text": "かさがいっぱいありますね。どれがあなた （[blank]） ですか。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "も",
+        "alternative_2": "が",
+        "alternative_3": "に",
+        "alternative_4": "の",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 292,
+      "question_type": "grammar",
+      "question_text": "かばんを買いに行ったが、どれ （[blank]） 高くて買えなかった。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "か",
+        "alternative_2": "も",
+        "alternative_3": "でも",
+        "alternative_4": "ばかり",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 293,
+      "question_type": "grammar",
+      "question_text": "すぐへんじができないので、すこし （[blank]） ください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "考えさせて",
+        "alternative_2": "考えさせられて",
+        "alternative_3": "考えたくて",
+        "alternative_4": "考えたがって",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 294,
+      "question_type": "grammar",
+      "question_text": "兄がけがをしたので、あしたはアルバイトを （[blank]） ください。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "休めさせて",
+        "alternative_2": "休むさせて",
+        "alternative_3": "休みさせて",
+        "alternative_4": "休ませて",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 295,
+      "question_type": "grammar",
+      "question_text": "おとしたさいふ （[blank]） あって、よかったですね。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "に",
+        "alternative_3": "を",
+        "alternative_4": "の",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    },
+    {
+      "id": 296,
+      "question_type": "grammar",
+      "question_text": "Ａ「会話の試験、 （[blank]） 。」\nＢ「あまり上手に話せませんでした。」",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "どうでしたか",
+        "alternative_2": "どうしましょうか",
+        "alternative_3": "どうしたらいいですか",
+        "alternative_4": "どうしたいですか",
+        "correct_alternative": 1
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 297,
+      "question_type": "grammar",
+      "question_text": "あの花は5月に （[blank]） とさきません。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "ならず",
+        "alternative_2": "ならなけれ",
+        "alternative_3": "ならなく",
+        "alternative_4": "ならない",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 298,
+      "question_type": "grammar",
+      "question_text": "ここに車を （[blank]） 。 じゃまだ 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "止まるな",
+        "alternative_2": "止めるな",
+        "alternative_3": "止めろな",
+        "alternative_4": "止まれな",
+        "correct_alternative": 2
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 299,
+      "question_type": "grammar",
+      "question_text": "電車におくれる。 （[blank]） 。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "急がず",
+        "alternative_2": "急ぐな",
+        "alternative_3": "急ぎ",
+        "alternative_4": "急げ",
+        "correct_alternative": 4
+      },
+      "media": null,
+      "tags": [
+        "Forma gramatical"
+      ]
+    },
+    {
+      "id": 300,
+      "question_type": "grammar",
+      "question_text": "駅 （[blank]） 近くにいいホテルがあります。",
+      "statement": {
+        "question_command": "つぎの文の（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+      },
+      "alternatives": {
+        "alternative_1": "が",
+        "alternative_2": "で",
+        "alternative_3": "の",
+        "alternative_4": "に",
+        "correct_alternative": 3
+      },
+      "media": null,
+      "tags": [
+        "Gramática textual"
+      ]
+    }
+  ]
+}
