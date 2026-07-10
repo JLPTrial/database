@@ -3,9 +3,9 @@
     {
       "id": 1,
       "question_type": "vocabulary",
-      "question_text": "日本では、はる·なつ·あき·ふゆの四つの （[blank]） があります。",
+      "question_text": "日本[にほん]では、はる·なつ·あき·ふゆの四[よっ]つの （[blank]） があります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "てんき",
@@ -24,7 +24,7 @@
       "question_type": "vocabulary",
       "question_text": "きのうならったことをもう （[blank]） しまいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "わすれて",
@@ -43,7 +43,7 @@
       "question_type": "vocabulary",
       "question_text": "シャツのうりばは、このうえの３がいです。あの （[blank]） でいってください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ドア",
@@ -60,9 +60,9 @@
     {
       "id": 4,
       "question_type": "vocabulary",
-      "question_text": "あまり勉強しなかったので、テストのてんが （[blank]） です。",
+      "question_text": "あまり勉強[べんきょう]しなかったので、テストのてんが （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しんぱい",
@@ -79,9 +79,9 @@
     {
       "id": 5,
       "question_type": "vocabulary",
-      "question_text": "おもしろいえいがだと聞いたので、（[blank]） みたいです。",
+      "question_text": "おもしろいえいがだと聞[き]いたので、（[blank]） みたいです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たぶん",
@@ -100,7 +100,7 @@
       "question_type": "vocabulary",
       "question_text": "たかださんは （[blank]） をしながらだいがくにかよっています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "オートバイ",
@@ -117,9 +117,9 @@
     {
       "id": 7,
       "question_type": "vocabulary",
-      "question_text": "はなこさんは白いスカートと （[blank]） をはいています。",
+      "question_text": "はなこさんは白[しろ]いスカートと （[blank]） をはいています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "セーター",
@@ -136,9 +136,9 @@
     {
       "id": 8,
       "question_type": "vocabulary",
-      "question_text": "父はとうきょうへ行くと、いつも （[blank]） をかってきてくれます。",
+      "question_text": "父[ちち]はとうきょうへ行[い]くと、いつも （[blank]） をかってきてくれます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おまつり",
@@ -157,7 +157,7 @@
       "question_type": "vocabulary",
       "question_text": "あのあたらしい （[blank]） はデパートです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "アパート",
@@ -176,7 +176,7 @@
       "question_type": "vocabulary",
       "question_text": "じゅぎょうがおわってから、まいにち、ピンポンの （[blank]） をします。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しゅみ",
@@ -193,9 +193,9 @@
     {
       "id": 11,
       "question_type": "vocabulary",
-      "question_text": "雨がやっと （[blank]） 。",
+      "question_text": "雨[あめ]がやっと （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "とまりました",
@@ -214,7 +214,7 @@
       "question_type": "vocabulary",
       "question_text": "つぎのえきでおりて、バスに （[blank]） ください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かわって",
@@ -233,7 +233,7 @@
       "question_type": "vocabulary",
       "question_text": "えきからここまでバスでいちじかんで （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "できます",
@@ -252,7 +252,7 @@
       "question_type": "vocabulary",
       "question_text": "うちには （[blank]） こどもがいて、いつもにぎやかです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひくい",
@@ -271,7 +271,7 @@
       "question_type": "vocabulary",
       "question_text": "たなかさんのしゅみは （[blank]） をすることです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "バレーボール",
@@ -290,7 +290,7 @@
       "question_type": "vocabulary",
       "question_text": "どこかであかんぼうのなく （[blank]） がします。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "みみ",
@@ -309,7 +309,7 @@
       "question_type": "vocabulary",
       "question_text": "わたしはじてんしゃを （[blank]） もっています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "にだい",
@@ -326,9 +326,9 @@
     {
       "id": 18,
       "question_type": "vocabulary",
-      "question_text": "今年、大学に入学することができて、とても （[blank]） です。",
+      "question_text": "今年[ことし]、大学[だいがく]に入学[にゅうがく]することができて、とても （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おいしかった",
@@ -347,7 +347,7 @@
       "question_type": "vocabulary",
       "question_text": "みちをおしえてもらったので、 （[blank]） をいいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おれい",
@@ -366,7 +366,7 @@
       "question_type": "vocabulary",
       "question_text": "わたしのうちへも （[blank]） あそびにきてください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いちど",
@@ -385,7 +385,7 @@
       "question_type": "vocabulary",
       "question_text": "いとうさんはしごとがおおくて （[blank]） のようです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あそびすぎ",
@@ -404,13 +404,13 @@
       "question_type": "vocabulary",
       "question_text": "うちのちかくにほんやが （[blank]） あります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "二けん",
-        "alternative_2": "二さつ",
-        "alternative_3": "二ほん",
-        "alternative_4": "二かい",
+        "alternative_1": "二[に]けん",
+        "alternative_2": "二[に]さつ",
+        "alternative_3": "二[に]ほん",
+        "alternative_4": "二[に]かい",
         "correct_alternative": 1
       },
       "media": null,
@@ -421,9 +421,9 @@
     {
       "id": 23,
       "question_type": "vocabulary",
-      "question_text": "わたしは日本に来てから （[blank]） このいえにすんでいます。",
+      "question_text": "わたしは日本[にほん]に来[き]てから （[blank]） このいえにすんでいます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "もっと",
@@ -442,7 +442,7 @@
       "question_type": "vocabulary",
       "question_text": "このみずうみの （[blank]） はどのくらいですか。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ふかさ",
@@ -461,7 +461,7 @@
       "question_type": "vocabulary",
       "question_text": "あねは （[blank]） になって、びょういんではたらいています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かんごふ",
@@ -478,9 +478,9 @@
     {
       "id": 26,
       "question_type": "vocabulary",
-      "question_text": "おなかがすいていたので、れいぞうこの中の食べ物を （[blank]） 食べてしましました。",
+      "question_text": "おなかがすいていたので、れいぞうこの中[なか]の食[た]べ物[もの]を （[blank]） 食[た]べてしましました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "すっかり",
@@ -499,7 +499,7 @@
       "question_type": "vocabulary",
       "question_text": "きのうみたえいがはとても （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うれしかった",
@@ -518,7 +518,7 @@
       "question_type": "vocabulary",
       "question_text": "もうおそいから、（[blank]） かえりましょう。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "そろそろ",
@@ -535,9 +535,9 @@
     {
       "id": 29,
       "question_type": "vocabulary",
-      "question_text": "わたしの先生はたいへん （[blank]） です。",
+      "question_text": "わたしの先生[せんせい]はたいへん （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "すずしい",
@@ -556,7 +556,7 @@
       "question_type": "vocabulary",
       "question_text": "やさしいしつもんにこたえられなくて、とても （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はずかしかったです",
@@ -575,7 +575,7 @@
       "question_type": "vocabulary",
       "question_text": "きょうしつのかべにきれいなえが （[blank]） あります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "のせて",
@@ -592,9 +592,9 @@
     {
       "id": 32,
       "question_type": "vocabulary",
-      "question_text": "この川のみずはのんでも （[blank]） か。",
+      "question_text": "この川[かわ]のみずはのんでも （[blank]） か。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "すみません",
@@ -613,7 +613,7 @@
       "question_type": "vocabulary",
       "question_text": "あしたべんきょうするかんじを　（[blank]） しておいてください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けいけん",
@@ -632,7 +632,7 @@
       "question_type": "vocabulary",
       "question_text": "あのかわは （[blank]） だから、あそこでおよいではいけません。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あんぜん",
@@ -651,7 +651,7 @@
       "question_type": "vocabulary",
       "question_text": "たばこを　（[blank]） ほうがいいとともだちにいわれました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おわった",
@@ -668,9 +668,9 @@
     {
       "id": 36,
       "question_type": "vocabulary",
-      "question_text": "わたしの国はやきゅうが （[blank]） です。",
+      "question_text": "わたしの国[くに]はやきゅうが （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ねっしん",
@@ -687,9 +687,9 @@
     {
       "id": 37,
       "question_type": "vocabulary",
-      "question_text": "やまだ「おにいさんのびょうきはよくなりましたか。」\nたなか「はい、（[blank]） 。」",
+      "question_text": "やまだ：「おにいさんのびょうきはよくなりましたか。」\nたなか：「はい、（[blank]） 。」",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おげんきで",
@@ -708,7 +708,7 @@
       "question_type": "vocabulary",
       "question_text": "だれでもテストを （[blank]） のはすきではありません。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "とる",
@@ -727,7 +727,7 @@
       "question_type": "vocabulary",
       "question_text": "（[blank]） でじどうしゃにガソリンをいれました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ガソリンコート",
@@ -746,7 +746,7 @@
       "question_type": "vocabulary",
       "question_text": "きのうからからだのぐあいが （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いやです",
@@ -765,7 +765,7 @@
       "question_type": "vocabulary",
       "question_text": "わたしはでんきやでテレビを （[blank]） もらいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ならんで",
@@ -784,7 +784,7 @@
       "question_type": "vocabulary",
       "question_text": "これはさとうせんせいがわたしに （[blank]） ほんです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "くださった",
@@ -801,9 +801,9 @@
     {
       "id": 43,
       "question_type": "vocabulary",
-      "question_text": "たなかさんがにゅういんしたので、（[blank]） に行きました。",
+      "question_text": "たなかさんがにゅういんしたので、（[blank]） に行[い]きました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おみまい",
@@ -822,7 +822,7 @@
       "question_type": "vocabulary",
       "question_text": "うちのテレビはふるいので、 （[blank]） こしょうします。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ぜんぜん",
@@ -841,7 +841,7 @@
       "question_type": "vocabulary",
       "question_text": "ゆうべはこわい （[blank]） をみて、よくねむれませんでした。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うそ",
@@ -860,7 +860,7 @@
       "question_type": "vocabulary",
       "question_text": "あつかったら、どうぞうわぎを （[blank]） ください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はずして",
@@ -879,7 +879,7 @@
       "question_type": "vocabulary",
       "question_text": "わたしはくだものがすきです。 （[blank]） りんごがだいすきです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "とくに",
@@ -898,7 +898,7 @@
       "question_type": "vocabulary",
       "question_text": "おとうとさんのびょうきがなおるように （[blank]） います。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あやまって",
@@ -915,9 +915,9 @@
     {
       "id": 49,
       "question_type": "vocabulary",
-      "question_text": "（[blank]） があったら、また日本へ行きたいです。",
+      "question_text": "（[blank]） があったら、また日本[にほん]へ行[い]きたいです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "りゆう",
@@ -936,7 +936,7 @@
       "question_type": "vocabulary",
       "question_text": "あたらしいいえにだんだん （[blank]） きました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はじまって",
@@ -955,7 +955,7 @@
       "question_type": "vocabulary",
       "question_text": "がくせいたちはきょうしつでやまだせんせいににほんごを （[blank]） います。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ならって",
@@ -972,9 +972,9 @@
     {
       "id": 52,
       "question_type": "vocabulary",
-      "question_text": "この学校の （[blank]） では学生はきょうしつのそうじをしなければなりません。",
+      "question_text": "この学校[がっこう]の （[blank]） では学生[がくせい]はきょうしつのそうじをしなければなりません。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "りゆう",
@@ -993,7 +993,7 @@
       "question_type": "vocabulary",
       "question_text": "どのてぶくろがいちばんねだんが （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひくいですか",
@@ -1012,7 +1012,7 @@
       "question_type": "vocabulary",
       "question_text": "まちださんはせんせいに「おはようございます。」と （[blank]） しました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しょうかい",
@@ -1031,7 +1031,7 @@
       "question_type": "vocabulary",
       "question_text": "（[blank]） べんきょうしたので、このあいだのテストは１００てんでした。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "まじめに",
@@ -1048,9 +1048,9 @@
     {
       "id": 56,
       "question_type": "vocabulary",
-      "question_text": "みちでお金を （[blank]） ので、こうばんにとどけました。",
+      "question_text": "みちでお金[きん]を （[blank]） ので、こうばんにとどけました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "すてた",
@@ -1069,7 +1069,7 @@
       "question_type": "vocabulary",
       "question_text": "そのかいぎに （[blank]） するためには１０じのひこうきにのらなければなりません。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しゅっせき",
@@ -1086,9 +1086,9 @@
     {
       "id": 58,
       "question_type": "vocabulary",
-      "question_text": "たなか「さいきん母のぐあいがよくないんですよ。」さとう「それは （[blank]） 。」",
+      "question_text": "たなか：「さいきん母[はは]のぐあいがよくないんですよ。」さとう：「それは （[blank]） 。」",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ざんねんですね",
@@ -1107,7 +1107,7 @@
       "question_type": "vocabulary",
       "question_text": "じかんがかかりましたが、（[blank]） おわりました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "そろそろ",
@@ -1124,9 +1124,9 @@
     {
       "id": 60,
       "question_type": "vocabulary",
-      "question_text": "レストランは５かいにあります。（[blank]） で行ったほうがいいですよ。",
+      "question_text": "レストランは５かいにあります。（[blank]） で行[い]ったほうがいいですよ。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "オートバイ",
@@ -1145,7 +1145,7 @@
       "question_type": "vocabulary",
       "question_text": "このくつはあのくつより （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はきわるい",
@@ -1162,9 +1162,9 @@
     {
       "id": 62,
       "question_type": "vocabulary",
-      "question_text": "あねは母にかおがよく （[blank]） います。",
+      "question_text": "あねは母[はは]にかおがよく （[blank]） います。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あって",
@@ -1183,7 +1183,7 @@
       "question_type": "vocabulary",
       "question_text": "たなかさんはいつも （[blank]） ことばを　つかいます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ふべんな",
@@ -1202,7 +1202,7 @@
       "question_type": "vocabulary",
       "question_text": "わたしはやまださんににもつをもって （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あげました",
@@ -1221,7 +1221,7 @@
       "question_type": "vocabulary",
       "question_text": "いそがないで、（[blank]） やってください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はっきり",
@@ -1240,7 +1240,7 @@
       "question_type": "vocabulary",
       "question_text": "レストランにぼうしを （[blank]） しまいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おちて",
@@ -1259,7 +1259,7 @@
       "question_type": "vocabulary",
       "question_text": "てんぷらとすしとすきやきの （[blank]） でどれがいちばんたべたいですか。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ほど",
@@ -1276,9 +1276,9 @@
     {
       "id": 68,
       "question_type": "vocabulary",
-      "question_text": "やまだ「ごはんもうすこしいかがですか。」たなか「いいえ、もう （[blank]） 。」",
+      "question_text": "やまだ：「ごはんもうすこしいかがですか。」たなか：「いいえ、もう （[blank]） 。」",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じょうぶです",
@@ -1297,7 +1297,7 @@
       "question_type": "vocabulary",
       "question_text": "やまださんは「ただいま。」といって、うちにもどりました。やまださんのおくさんは「 （[blank]） 。」といってやまださんをむかえました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いらっしゃい",
@@ -1316,7 +1316,7 @@
       "question_type": "vocabulary",
       "question_text": "おゆが （[blank]） から、おちゃをいれましょう。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あいた",
@@ -1333,15 +1333,15 @@
     {
       "id": 71,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 1. {電車の中でさわがないでください。}",
+      "question_text": "{電車の中でさわがないでください。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "電車の中でものをたべないでください。",
-        "alternative_2": "電車の中でうるさくしないでください。",
-        "alternative_3": "電車の中でたばこをすわないでください。",
-        "alternative_4": "電車の中できたなくしないでください。",
+        "alternative_1": "電車[でんしゃ]の中[なか]でものをたべないでください。",
+        "alternative_2": "電車[でんしゃ]の中[なか]でうるさくしないでください。",
+        "alternative_3": "電車[でんしゃ]の中[なか]でたばこをすわないでください。",
+        "alternative_4": "電車[でんしゃ]の中[なか]できたなくしないでください。",
         "correct_alternative": 2
       },
       "media": null,
@@ -1354,7 +1354,7 @@
       "question_type": "vocabulary",
       "question_text": "{ぼくはのりものがだいすきです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "まんがやしょうせつがだいすきです。",
@@ -1373,13 +1373,13 @@
       "question_type": "vocabulary",
       "question_text": "{父はらいしゅうたいいんします。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "父は来週外国に行きます。",
-        "alternative_2": "父はらいしゅう外国からかえってきます。",
-        "alternative_3": "父はらいしゅうびょういんにいきます。",
-        "alternative_4": "父はらいしゅうびょういんからかえってきます。",
+        "alternative_1": "父[ちち]は来週[らいしゅう]外国[がいこく]に行[い]きます。",
+        "alternative_2": "父[ちち]はらいしゅう外国[がいこく]からかえってきます。",
+        "alternative_3": "父[ちち]はらいしゅうびょういんにいきます。",
+        "alternative_4": "父[ちち]はらいしゅうびょういんからかえってきます。",
         "correct_alternative": 4
       },
       "media": null,
@@ -1392,7 +1392,7 @@
       "question_type": "vocabulary",
       "question_text": "{このきかいにさわるときけんです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "このきかいはあぶないです。",
@@ -1411,7 +1411,7 @@
       "question_type": "vocabulary",
       "question_text": "{ここはみなとです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ここはちかてつにのったりおりたりするところです。",
@@ -1430,7 +1430,7 @@
       "question_type": "vocabulary",
       "question_text": "{しょうらいのけいかくをみんなではなしました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いままでのけいかくをみんなではなしました。",
@@ -1449,7 +1449,7 @@
       "question_type": "vocabulary",
       "question_text": "{名前を書いたかどうか、もういちどチェックしてください。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "もういちどさがしてしてください。",
@@ -1468,7 +1468,7 @@
       "question_type": "vocabulary",
       "question_text": "{ここはすべりやすいのできをつけてください。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ここはあるきにくいです。",
@@ -1487,7 +1487,7 @@
       "question_type": "vocabulary",
       "question_text": "{てがよごれています。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "てがうすいです。",
@@ -1506,7 +1506,7 @@
       "question_type": "vocabulary",
       "question_text": "{すずきさんは小さいじが見えないようです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "すずきさんはかがみをわすれてしまいました。",
@@ -1523,14 +1523,14 @@
     {
       "id": 81,
       "question_type": "vocabulary",
-      "question_text": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一つえらびなさい。 1. おどろく",
+      "question_text": "おどろく",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "うけつけに大きないぬがいたので、おどろいてしまいました。",
-        "alternative_2": "日本のけいざいがおどろいてもののねだんが高くなります。",
-        "alternative_3": "空がおどろいて雨がふりました。",
+        "alternative_1": "うけつけに大[おお]きないぬがいたので、おどろいてしまいました。",
+        "alternative_2": "日本[にほん]のけいざいがおどろいてもののねだんが高[たか]くなります。",
+        "alternative_3": "空[そら]がおどろいて雨[あめ]がふりました。",
         "alternative_4": "わたしにはおどろいているしゅみがあります。",
         "correct_alternative": 1
       },
@@ -1544,12 +1544,12 @@
       "question_type": "vocabulary",
       "question_text": "いただく",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "子どもからネクタイをいただきました。",
-        "alternative_2": "父からはとけいをいただきませんでした。",
-        "alternative_3": "先生にじしょをいただきました。",
+        "alternative_1": "子[こ]どもからネクタイをいただきました。",
+        "alternative_2": "父[ちち]からはとけいをいただきませんでした。",
+        "alternative_3": "先生[せんせい]にじしょをいただきました。",
         "alternative_4": "あついうちにスープをいただいてください。",
         "correct_alternative": 3
       },
@@ -1563,11 +1563,11 @@
       "question_type": "vocabulary",
       "question_text": "げんき",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "わたしはあしがげんきです。",
-        "alternative_2": "この車はとてもげんきにはしります。",
+        "alternative_2": "この車[くるま]はとてもげんきにはしります。",
         "alternative_3": "このくすりをのめばげんきになります。",
         "alternative_4": "わたしのかいしゃはとてもげんきです。",
         "correct_alternative": 3
@@ -1582,13 +1582,13 @@
       "question_type": "vocabulary",
       "question_text": "かまいません",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "A「おいしいこうちゃ、ごちそうさまでした。」B「かまいませんよ。」",
-        "alternative_2": "A「ここにすわってもいいですか。」B「かまいませんよ。」",
-        "alternative_3": "A「ではまたあした。」B「かまいませんよ。」",
-        "alternative_4": "A「よくいらっしゃいました。」B「かまいませんよ。」",
+        "alternative_1": "A：「おいしいこうちゃ、ごちそうさまでした。」B：「かまいませんよ。」",
+        "alternative_2": "A：「ここにすわってもいいですか。」B：「かまいませんよ。」",
+        "alternative_3": "A：「ではまたあした。」B：「かまいませんよ。」",
+        "alternative_4": "A：「よくいらっしゃいました。」B：「かまいませんよ。」",
         "correct_alternative": 2
       },
       "media": null,
@@ -1601,13 +1601,13 @@
       "question_type": "vocabulary",
       "question_text": "だめ",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あしたはだめです。よていがあります。",
         "alternative_2": "わたしのだめがやっとなおりました。",
-        "alternative_3": "きのうは時間をだめにつかってしまった。",
-        "alternative_4": "テレビを買おうとしたら、あと２０００円だめだった。",
+        "alternative_3": "きのうは時間[じかん]をだめにつかってしまった。",
+        "alternative_4": "テレビを買[か]おうとしたら、あと２０００円[えん]だめだった。",
         "correct_alternative": 1
       },
       "media": null,
@@ -1620,13 +1620,13 @@
       "question_type": "vocabulary",
       "question_text": "いたす",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "わたしはらいねん日本へいたします。",
+        "alternative_1": "わたしはらいねん日本[にほん]へいたします。",
         "alternative_2": "ひこうきのよやくはわたしがいたします。",
-        "alternative_3": "先生はなつやすみにりょこうをいたしますか。",
-        "alternative_4": "もう少しれんしゅうをいたしてください。",
+        "alternative_3": "先生[せんせい]はなつやすみにりょこうをいたしますか。",
+        "alternative_4": "もう少[すこ]しれんしゅうをいたしてください。",
         "correct_alternative": 2
       },
       "media": null,
@@ -1639,7 +1639,7 @@
       "question_type": "vocabulary",
       "question_text": "しめる",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きょうかしょをしめてください。",
@@ -1658,12 +1658,12 @@
       "question_type": "vocabulary",
       "question_text": "こしょう",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "わたしの車はこしょうしています。",
-        "alternative_2": "田中さんはせきが出てこしょうしています。",
-        "alternative_3": "きょうあの店はこしょうしています。",
+        "alternative_1": "わたしの車[くるま]はこしょうしています。",
+        "alternative_2": "田中[たなか]さんはせきが出[で]てこしょうしています。",
+        "alternative_3": "きょうあの店[みせ]はこしょうしています。",
         "alternative_4": "このふとんはこしょうしています。",
         "correct_alternative": 1
       },
@@ -1677,13 +1677,13 @@
       "question_type": "vocabulary",
       "question_text": "ねっしん",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "雨がねっしんにふっていました。",
+        "alternative_1": "雨[あめ]がねっしんにふっていました。",
         "alternative_2": "つかれていたので、ねっしんにねました。",
         "alternative_3": "びょうきがねっしんによくなりました。",
-        "alternative_4": "学生はねっしんにかいわのれんしゅうをしました。",
+        "alternative_4": "学生[がくせい]はねっしんにかいわのれんしゅうをしました。",
         "correct_alternative": 4
       },
       "media": null,
@@ -1696,13 +1696,13 @@
       "question_type": "vocabulary",
       "question_text": "プレゼント",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あねがけっこんしたので、しんせつをプレゼントした。",
         "alternative_2": "おっとのたんじょうびにとけいをプレゼントした。",
-        "alternative_3": "そつぎょうしきの日に先生にあいさつをプレゼントした。",
-        "alternative_4": "入院している友達にあんせんをプレゼントした。",
+        "alternative_3": "そつぎょうしきの日[ひ]に先生[せんせい]にあいさつをプレゼントした。",
+        "alternative_4": "入院[にゅういん]している友達[ともだち]にあんせんをプレゼントした。",
         "correct_alternative": 2
       },
       "media": null,
@@ -1713,9 +1713,9 @@
     {
       "id": 91,
       "question_type": "vocabulary",
-      "question_text": "バスがゆっくり （[blank]） を上がってきた。",
+      "question_text": "バスがゆっくり （[blank]） を上[あ]がってきた。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かべ",
@@ -1732,9 +1732,9 @@
     {
       "id": 92,
       "question_type": "vocabulary",
-      "question_text": "このとしょかんは7時まで （[blank]） することができます。",
+      "question_text": "このとしょかんは7時[じ]まで （[blank]） することができます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "したく",
@@ -1751,9 +1751,9 @@
     {
       "id": 93,
       "question_type": "vocabulary",
-      "question_text": "つよいかぜで大きな木のえだが （[blank]） しまった。",
+      "question_text": "つよいかぜで大[おお]きな木[き]のえだが （[blank]） しまった。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おれて",
@@ -1770,9 +1770,9 @@
     {
       "id": 94,
       "question_type": "vocabulary",
-      "question_text": "ゆうべおそくまでしょうせつを読んでいたから、けさは （[blank]） 。",
+      "question_text": "ゆうべおそくまでしょうせつを読[よ]んでいたから、けさは （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ねむい",
@@ -1789,9 +1789,9 @@
     {
       "id": 95,
       "question_type": "vocabulary",
-      "question_text": "あしたテストがあります。（[blank]） 、こんやはテレビを見ないで勉強します。",
+      "question_text": "あしたテストがあります。（[blank]） 、こんやはテレビを見[み]ないで勉強[べんきょう]します。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けれども",
@@ -1808,9 +1808,9 @@
     {
       "id": 96,
       "question_type": "vocabulary",
-      "question_text": "５時にあう （[blank]） したのに友だちは 来ませんでした。",
+      "question_text": "５時[とき]にあう （[blank]） したのに友[とも]だちは 来[き]ませんでした。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "よしゅう",
@@ -1829,7 +1829,7 @@
       "question_type": "vocabulary",
       "question_text": "わるいことをしたら、「ごめんなさい。」と （[blank]） いけませんよ。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はなさなければ",
@@ -1846,9 +1846,9 @@
     {
       "id": 98,
       "question_type": "vocabulary",
-      "question_text": "だれがいちばん先にできるが、みんなで （[blank]） しませんか。",
+      "question_text": "だれがいちばん先[さき]にできるが、みんなで （[blank]） しませんか。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きゅうこう",
@@ -1867,7 +1867,7 @@
       "question_type": "vocabulary",
       "question_text": "じこであたまを （[blank]） ので、びょういんにはこばれた。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "つつんだ",
@@ -1886,7 +1886,7 @@
       "question_type": "vocabulary",
       "question_text": "パーディーの （[blank]） はこのビルの５かいです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かいがん",
@@ -1903,9 +1903,9 @@
     {
       "id": 101,
       "question_type": "vocabulary",
-      "question_text": "大きいこえで はなして いたら、「（[blank]） 。」とちゅういされてしまいました。",
+      "question_text": "大[おお]きいこえで はなして いたら、「（[blank]） 。」とちゅういされてしまいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うるさい",
@@ -1922,9 +1922,9 @@
     {
       "id": 102,
       "question_type": "vocabulary",
-      "question_text": "かんたんなしごとなので、一日で （[blank]） です。",
+      "question_text": "かんたんなしごとなので、一日[いちにち]で （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いっぱい",
@@ -1943,7 +1943,7 @@
       "question_type": "vocabulary",
       "question_text": "ゆうびんきょくに （[blank]） かえります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "やんで",
@@ -1960,9 +1960,9 @@
     {
       "id": 104,
       "question_type": "vocabulary",
-      "question_text": "かれはきょうは来ないと言っていましたが、（[blank]） 来ませんでしたね。",
+      "question_text": "かれはきょうは来[こ]ないと言[い]っていましたが、（[blank]） 来[き]ませんでしたね。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "すっかり",
@@ -1981,7 +1981,7 @@
       "question_type": "vocabulary",
       "question_text": "（[blank]） 、へんだなあ。コンビューターがうごかない。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あの",
@@ -1998,9 +1998,9 @@
     {
       "id": 106,
       "question_type": "vocabulary",
-      "question_text": "しごとをきめるとき、父と母に （[blank]） 。",
+      "question_text": "しごとをきめるとき、父[ちち]と母[はは]に （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いけんしました",
@@ -2017,9 +2017,9 @@
     {
       "id": 107,
       "question_type": "vocabulary",
-      "question_text": "先生、きのうのしゅくだいです。いま、（[blank]） いいですか。",
+      "question_text": "先生[せんせい]、きのうのしゅくだいです。いま、（[blank]） いいですか。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あげても",
@@ -2036,9 +2036,9 @@
     {
       "id": 108,
       "question_type": "vocabulary",
-      "question_text": "友だちが来るので、テーブルに 花を （[blank]） 。",
+      "question_text": "友[とも]だちが来[く]るので、テーブルに 花[はな]を （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かたづけました",
@@ -2055,9 +2055,9 @@
     {
       "id": 109,
       "question_type": "vocabulary",
-      "question_text": "たのしかった休みがあしたで （[blank]） おわります。",
+      "question_text": "たのしかった休[やす]みがあしたで （[blank]） おわります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "だんだん",
@@ -2076,7 +2076,7 @@
       "question_type": "vocabulary",
       "question_text": "このむらではおもにこめを （[blank]） しています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "せいさん",
@@ -2093,9 +2093,9 @@
     {
       "id": 111,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 1. {すずきさん、ちょっとやせましたね。}",
+      "question_text": "{すずきさん、ちょっとやせましたね。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "すずきさん、ちょっとほそくなりました。",
@@ -2114,7 +2114,7 @@
       "question_type": "vocabulary",
       "question_text": "{わたしはりゅうがくのけいけんがあります。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "わたしはりゅうがくのためにべんきょうします。",
@@ -2133,13 +2133,13 @@
       "question_type": "vocabulary",
       "question_text": "{先生はクラスに来なかったわけを聞きました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "先生はいつクラスに来なかったのかたずねました。",
-        "alternative_2": "先生はだれがクラスに来なかったのかたずねました。",
-        "alternative_3": "先生はどのぐらいクラスに来なかったのかたずねました。",
-        "alternative_4": "先生はどうしてクラスに来なかったのかたずねました。",
+        "alternative_1": "先生[せんせい]はいつクラスに来[こ]なかったのかたずねました。",
+        "alternative_2": "先生[せんせい]はだれがクラスに来[こ]なかったのかたずねました。",
+        "alternative_3": "先生[せんせい]はどのぐらいクラスに来[こ]なかったのかたずねました。",
+        "alternative_4": "先生[せんせい]はどうしてクラスに来[こ]なかったのかたずねました。",
         "correct_alternative": 4
       },
       "media": null,
@@ -2152,7 +2152,7 @@
       "question_type": "vocabulary",
       "question_text": "{たなかさんのおくさんにすぐれんらくしてください。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たなかさんのおくさんにすぐつたえてください。",
@@ -2171,7 +2171,7 @@
       "question_type": "vocabulary",
       "question_text": "{まずこのしごとをしてください。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いっしょうけんめいこのしごとをしてください。",
@@ -2190,13 +2190,13 @@
       "question_type": "vocabulary",
       "question_text": "{わたしはおがわさんにあやまりました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "わたしはおがわさんに「おめでとうございます。」と言いました。",
-        "alternative_2": "わたしはおがわさんに「それは いけませんね。」と言いました。",
-        "alternative_3": "わたしはおがわさんに「おかげさまで。」と言いました。",
-        "alternative_4": "わたしはおがわさんに「ごめんなさい。」と言いました。",
+        "alternative_1": "わたしはおがわさんに「おめでとうございます。」と言[い]いました。",
+        "alternative_2": "わたしはおがわさんに「それは いけませんね。」と言[い]いました。",
+        "alternative_3": "わたしはおがわさんに「おかげさまで。」と言[い]いました。",
+        "alternative_4": "わたしはおがわさんに「ごめんなさい。」と言[い]いました。",
         "correct_alternative": 4
       },
       "media": null,
@@ -2209,13 +2209,13 @@
       "question_type": "vocabulary",
       "question_text": "{じをていねいに書きなさい。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "まんなかにじを書きなさい。",
-        "alternative_2": "きれいにじを書きなさい。",
-        "alternative_3": "おおきくじを書きなさい。",
-        "alternative_4": "いそいでじを書きなさい。",
+        "alternative_1": "まんなかにじを書[か]きなさい。",
+        "alternative_2": "きれいにじを書[か]きなさい。",
+        "alternative_3": "おおきくじを書[か]きなさい。",
+        "alternative_4": "いそいでじを書[か]きなさい。",
         "correct_alternative": 2
       },
       "media": null,
@@ -2228,13 +2228,13 @@
       "question_type": "vocabulary",
       "question_text": "{あさの電車はこんでいます。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "あさの電車には人がたくさんいます。",
-        "alternative_2": "あさの電車には人があまりいません。",
-        "alternative_3": "あさの電車はなかなかきません。",
-        "alternative_4": "あさの電車はすぐにきます。",
+        "alternative_1": "あさの電車[でんしゃ]には人[ひと]がたくさんいます。",
+        "alternative_2": "あさの電車[でんしゃ]には人[ひと]があまりいません。",
+        "alternative_3": "あさの電車[でんしゃ]はなかなかきません。",
+        "alternative_4": "あさの電車[でんしゃ]はすぐにきます。",
         "correct_alternative": 1
       },
       "media": null,
@@ -2247,13 +2247,13 @@
       "question_type": "vocabulary",
       "question_text": "{いっしょうけんめいこのこうぎを聞いています。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "はっきりとこのこうぎを聞いています。",
-        "alternative_2": "てきとうにこのこうぎを聞いています。",
-        "alternative_3": "ねっしんにこのこうぎを聞いています。",
-        "alternative_4": "ゆっくりとこのこうぎを聞いています。",
+        "alternative_1": "はっきりとこのこうぎを聞[き]いています。",
+        "alternative_2": "てきとうにこのこうぎを聞[き]いています。",
+        "alternative_3": "ねっしんにこのこうぎを聞[き]いています。",
+        "alternative_4": "ゆっくりとこのこうぎを聞[き]いています。",
         "correct_alternative": 3
       },
       "media": null,
@@ -2266,13 +2266,13 @@
       "question_type": "vocabulary",
       "question_text": "{おかしはひとつものこっていません。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おかしはすこししかありません。",
         "alternative_2": "おかしはぜんぶおいてありません。",
         "alternative_3": "おかしはすこしだけおいてありません。",
-        "alternative_4": "おかしはぜんぶ食べてしまいました。",
+        "alternative_4": "おかしはぜんぶ食[た]べてしまいました。",
         "correct_alternative": 4
       },
       "media": null,
@@ -2283,15 +2283,15 @@
     {
       "id": 121,
       "question_type": "vocabulary",
-      "question_text": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一つえらびなさい。 1. へんじ",
+      "question_text": "へんじ",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "テレビのへんじがきこえません。",
         "alternative_2": "へんじをだれにかりますか。",
         "alternative_3": "へんじをすぐにおこなってしまいました。",
-        "alternative_4": "名前をよびましたがへんじがありませんでした。",
+        "alternative_4": "名前[なまえ]をよびましたがへんじがありませんでした。",
         "correct_alternative": 4
       },
       "media": null,
@@ -2304,13 +2304,13 @@
       "question_type": "vocabulary",
       "question_text": "そだてる",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "たいせつにそだてていた花がさきました。",
+        "alternative_1": "たいせつにそだてていた花[はな]がさきました。",
         "alternative_2": "このりょうりはおいしくなるまで、よくそだてました。",
         "alternative_3": "なんどもなおしてさくぶんをそだてました。",
-        "alternative_4": "じが小さくて見えないので、もうすこしそだててください。",
+        "alternative_4": "じが小[ちい]さくて見[み]えないので、もうすこしそだててください。",
         "correct_alternative": 1
       },
       "media": null,
@@ -2323,13 +2323,13 @@
       "question_type": "vocabulary",
       "question_text": "すてる",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "おきゃくさんが来るので、へやをきれいにすててください。",
+        "alternative_1": "おきゃくさんが来[く]るので、へやをきれいにすててください。",
         "alternative_2": "ここにいらないものをすててください。",
-        "alternative_3": "じゅぎょうでつかう本をかばんにすててください。",
-        "alternative_4": "ひどいことを言うのはすててください。",
+        "alternative_3": "じゅぎょうでつかう本[ほん]をかばんにすててください。",
+        "alternative_4": "ひどいことを言[い]うのはすててください。",
         "correct_alternative": 2
       },
       "media": null,
@@ -2342,12 +2342,12 @@
       "question_type": "vocabulary",
       "question_text": "さむい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さむいタオルでかおをふきました。",
         "alternative_2": "なつはさむいビールがおいしいですね。",
-        "alternative_3": "あの人はさむいです。やさしくありません。",
+        "alternative_3": "あの人[ひと]はさむいです。やさしくありません。",
         "alternative_4": "きょうはとくにさむいですね。",
         "correct_alternative": 4
       },
@@ -2361,7 +2361,7 @@
       "question_type": "vocabulary",
       "question_text": "さびしい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ねぼうしてしまってさびしかったです。",
@@ -2380,13 +2380,13 @@
       "question_type": "vocabulary",
       "question_text": "かたづける",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "毎日かおをかたづけなさい。",
-        "alternative_2": "毎日へやをかたづけなさい。",
-        "alternative_3": "毎日カーテンをかたづけなさい。",
-        "alternative_4": "毎日きょうみをかたづけなさい。",
+        "alternative_1": "毎日[まいにち]かおをかたづけなさい。",
+        "alternative_2": "毎日[まいにち]へやをかたづけなさい。",
+        "alternative_3": "毎日[まいにち]カーテンをかたづけなさい。",
+        "alternative_4": "毎日[まいにち]きょうみをかたづけなさい。",
         "correct_alternative": 2
       },
       "media": null,
@@ -2399,11 +2399,11 @@
       "question_type": "vocabulary",
       "question_text": "すると",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "きのうは天気がよくなかったです。すると、わたしはテニスをしませんでした。",
-        "alternative_2": "なんかいも聞きました。すると、わかりませんでした。",
+        "alternative_1": "きのうは天気[てんき]がよくなかったです。すると、わたしはテニスをしませんでした。",
+        "alternative_2": "なんかいも聞[き]きました。すると、わかりませんでした。",
         "alternative_3": "ボタンをおしました。すると、ドアがあきました。",
         "alternative_4": "あしたしけんをします。すると、よくべんきょうしてください。",
         "correct_alternative": 3
@@ -2418,13 +2418,13 @@
       "question_type": "vocabulary",
       "question_text": "たいてい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "日よう日はたいていスポ－ツをしています。",
-        "alternative_2": "きょうはたいてい天気がよかったです。",
+        "alternative_1": "日[にち]よう日[び]はたいていスポ－ツをしています。",
+        "alternative_2": "きょうはたいてい天気[てんき]がよかったです。",
         "alternative_3": "このごろさとうさんにはたいていあっていません。",
-        "alternative_4": "日本語がたいてい上手になりましたね。",
+        "alternative_4": "日本語[にほんご]がたいてい上手[じょうず]になりましたね。",
         "correct_alternative": 1
       },
       "media": null,
@@ -2437,7 +2437,7 @@
       "question_type": "vocabulary",
       "question_text": "したく",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "このホテルにはよやくのしたくがあります。",
@@ -2456,7 +2456,7 @@
       "question_type": "vocabulary",
       "question_text": "わかす",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あついシャワーをわかしています。",
@@ -2473,9 +2473,9 @@
     {
       "id": 131,
       "question_type": "vocabulary",
-      "question_text": "一ヶ月50000円 （[blank]） のへやをかりたいです。",
+      "question_text": "一[いっ]ヶ月[かげつ]50000円[えん] （[blank]） のへやをかりたいです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いか",
@@ -2492,9 +2492,9 @@
     {
       "id": 132,
       "question_type": "vocabulary",
-      "question_text": "このみちはせまい。（[blank]） 、車がおおくてあぶない。",
+      "question_text": "このみちはせまい。（[blank]） 、車[くるま]がおおくてあぶない。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "だから",
@@ -2511,9 +2511,9 @@
     {
       "id": 133,
       "question_type": "vocabulary",
-      "question_text": "（[blank]） たくさん食べても、すぐにおなかがすいてしまいます。",
+      "question_text": "（[blank]） たくさん食[た]べても、すぐにおなかがすいてしまいます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いくら",
@@ -2530,9 +2530,9 @@
     {
       "id": 134,
       "question_type": "vocabulary",
-      "question_text": "この川はとても （[blank]） からきけんです。",
+      "question_text": "この川[かわ]はとても （[blank]） からきけんです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あさい",
@@ -2549,9 +2549,9 @@
     {
       "id": 135,
       "question_type": "vocabulary",
-      "question_text": "母にしなれてほんとうに （[blank]） です。",
+      "question_text": "母[はは]にしなれてほんとうに （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うるさかった",
@@ -2570,7 +2570,7 @@
       "question_type": "vocabulary",
       "question_text": "むすめはそとであそぶより、ひとりで （[blank]） をするのがすきです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "プ－ル",
@@ -2587,9 +2587,9 @@
     {
       "id": 137,
       "question_type": "vocabulary",
-      "question_text": "あにとせの高さを （[blank]） 。",
+      "question_text": "あにとせの高[たか]さを （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "まけました",
@@ -2606,9 +2606,9 @@
     {
       "id": 138,
       "question_type": "vocabulary",
-      "question_text": "友だちににっきを見られてとても （[blank]） 。",
+      "question_text": "友[とも]だちににっきを見[み]られてとても （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "にがかった",
@@ -2627,7 +2627,7 @@
       "question_type": "vocabulary",
       "question_text": "わたしはやまもとさんにりょこうの （[blank]） をもらいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おみやげ",
@@ -2646,7 +2646,7 @@
       "question_type": "vocabulary",
       "question_text": "このとおりは、よるくらくて （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いたい",
@@ -2665,7 +2665,7 @@
       "question_type": "vocabulary",
       "question_text": "こんやおもしろいテレビの （[blank]） はありますか。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "よやく",
@@ -2682,9 +2682,9 @@
     {
       "id": 142,
       "question_type": "vocabulary",
-      "question_text": "おなかがすきましたね。（[blank]） しょくじに行きませんか。",
+      "question_text": "おなかがすきましたね。（[blank]） しょくじに行[い]きませんか。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "だんだん",
@@ -2701,9 +2701,9 @@
     {
       "id": 143,
       "question_type": "vocabulary",
-      "question_text": "よく聞こえないので、（[blank]） 大きいこえで話してください。",
+      "question_text": "よく聞[き]こえないので、（[blank]） 大[おお]きいこえで話[はな]してください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "なるべく",
@@ -2720,9 +2720,9 @@
     {
       "id": 144,
       "question_type": "vocabulary",
-      "question_text": "山に木を （[blank]） 。",
+      "question_text": "山[やま]に木[き]を （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "つけました",
@@ -2741,7 +2741,7 @@
       "question_type": "vocabulary",
       "question_text": "わたしは （[blank]） パンがすきです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おそい",
@@ -2758,9 +2758,9 @@
     {
       "id": 146,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 6. {このみちはよるきけんです。}",
+      "question_text": "{このみちはよるきけんです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "このみちはよるべんりです。",
@@ -2779,7 +2779,7 @@
       "question_type": "vocabulary",
       "question_text": "{どうぶつをいじめてはいけません。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "どうぶつをたいせつにしてください。",
@@ -2798,13 +2798,13 @@
       "question_type": "vocabulary",
       "question_text": "{このへやにはいしゃとかんごふいがいは入らないでください。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "このへやにはだれが入ってもいいです。",
-        "alternative_2": "このへやにはだれも入ってはいけません。",
-        "alternative_3": "このへやにはいしゃとかんごふは入ってはいけません。",
-        "alternative_4": "このへやにはいしゃとかんごふは入ってもいいです。",
+        "alternative_1": "このへやにはだれが入[はい]ってもいいです。",
+        "alternative_2": "このへやにはだれも入[はい]ってはいけません。",
+        "alternative_3": "このへやにはいしゃとかんごふは入[はい]ってはいけません。",
+        "alternative_4": "このへやにはいしゃとかんごふは入[はい]ってもいいです。",
         "correct_alternative": 4
       },
       "media": null,
@@ -2817,13 +2817,13 @@
       "question_type": "vocabulary",
       "question_text": "{ゆうべのコンサートはすばらしかったです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "ゆうべはとてもたのしいえいがを見ました。",
-        "alternative_2": "ゆうべはとてもりっぱなきょうかいを見ました。",
-        "alternative_3": "ゆうべはとてもうつくしいおんがくを聞きました。",
-        "alternative_4": "ゆうべはとてもおもしろいほうそうを聞きました。",
+        "alternative_1": "ゆうべはとてもたのしいえいがを見[み]ました。",
+        "alternative_2": "ゆうべはとてもりっぱなきょうかいを見[み]ました。",
+        "alternative_3": "ゆうべはとてもうつくしいおんがくを聞[き]きました。",
+        "alternative_4": "ゆうべはとてもおもしろいほうそうを聞[き]きました。",
         "correct_alternative": 3
       },
       "media": null,
@@ -2836,13 +2836,13 @@
       "question_type": "vocabulary",
       "question_text": "{日本語をべんきょうするつもりです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "日本語をべんきょうするよていです。",
-        "alternative_2": "日本語をべんきょうするはずです。",
-        "alternative_3": "日本語をべんきょうするそうです。",
-        "alternative_4": "日本語をべんきょうすることができます。",
+        "alternative_1": "日本語[にほんご]をべんきょうするよていです。",
+        "alternative_2": "日本語[にほんご]をべんきょうするはずです。",
+        "alternative_3": "日本語[にほんご]をべんきょうするそうです。",
+        "alternative_4": "日本語[にほんご]をべんきょうすることができます。",
         "correct_alternative": 1
       },
       "media": null,
@@ -2855,7 +2855,7 @@
       "question_type": "vocabulary",
       "question_text": "かいだんがぬれています。（[blank]） ので、ちゅういしてください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おちやすい",
@@ -2874,7 +2874,7 @@
       "question_type": "vocabulary",
       "question_text": "やさいは （[blank]） きってください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "こまかく",
@@ -2891,9 +2891,9 @@
     {
       "id": 153,
       "question_type": "vocabulary",
-      "question_text": "日本のぶんかについて （[blank]） を書きました。",
+      "question_text": "日本[にほん]のぶんかについて （[blank]） を書[か]きました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ワ－プロ",
@@ -2910,9 +2910,9 @@
     {
       "id": 154,
       "question_type": "vocabulary",
-      "question_text": "ほんやの （[blank]） で3000円はらった。",
+      "question_text": "ほんやの （[blank]） で3000円[えん]はらった。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "スクリーン",
@@ -2929,9 +2929,9 @@
     {
       "id": 155,
       "question_type": "vocabulary",
-      "question_text": "（[blank]） ですが、あしたのパーティーには出られません。",
+      "question_text": "（[blank]） ですが、あしたのパーティーには出[で]られません。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "むり",
@@ -2948,13 +2948,13 @@
     {
       "id": 156,
       "question_type": "vocabulary",
-      "question_text": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一つえらびなさい。 6. おおい",
+      "question_text": "おおい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "日本にはおおい外国人がすんでいます。",
-        "alternative_2": "ここは車がおおくてあぶないです。",
+        "alternative_1": "日本[にほん]にはおおい外国人[がいこくじん]がすんでいます。",
+        "alternative_2": "ここは車[くるま]がおおくてあぶないです。",
         "alternative_3": "きょうはおおくつかれました。",
         "alternative_4": "わたしにはおおいのこどもがいてたいへんです。",
         "correct_alternative": 2
@@ -2969,13 +2969,13 @@
       "question_type": "vocabulary",
       "question_text": "いけん",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "つかいかたがよくわかるように、いけんをしてください。",
-        "alternative_2": "あの人から「ありがとう。」といけんを言われました。",
+        "alternative_2": "あの人[ひと]から「ありがとう。」といけんを言[い]われました。",
         "alternative_3": "このことばのいけんをしらべました。",
-        "alternative_4": "みんなの前でわたしのいけんを言いました。",
+        "alternative_4": "みんなの前[まえ]でわたしのいけんを言[い]いました。",
         "correct_alternative": 4
       },
       "media": null,
@@ -2988,13 +2988,13 @@
       "question_type": "vocabulary",
       "question_text": "よやく",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "月へ行くことはわたしのよやくのゆめです。",
-        "alternative_2": "みんなでごはんを食べるので、レストランをよやくしました。",
-        "alternative_3": "毎日1時間べんきょうすると母によやくしました。",
-        "alternative_4": "月よう日はかいものに行くよやくです。",
+        "alternative_1": "月[がつ]へ行[い]くことはわたしのよやくのゆめです。",
+        "alternative_2": "みんなでごはんを食[た]べるので、レストランをよやくしました。",
+        "alternative_3": "毎日[まいにち]1時間[じかん]べんきょうすると母[はは]によやくしました。",
+        "alternative_4": "月[げつ]よう日[び]はかいものに行[い]くよやくです。",
         "correct_alternative": 2
       },
       "media": null,
@@ -3007,13 +3007,13 @@
       "question_type": "vocabulary",
       "question_text": "むかえる",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひるがよるをむかえました。",
         "alternative_2": "えきからタクシーを むかえました。",
-        "alternative_3": "友だちをむかえにくうこうへいきました。",
-        "alternative_4": "パソコンをむかえてメールを書いています。",
+        "alternative_3": "友[とも]だちをむかえにくうこうへいきました。",
+        "alternative_4": "パソコンをむかえてメールを書[か]いています。",
         "correct_alternative": 3
       },
       "media": null,
@@ -3026,13 +3026,13 @@
       "question_type": "vocabulary",
       "question_text": "そうだん",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "べんきょうのしかたを先生にそうだんしました。",
+        "alternative_1": "べんきょうのしかたを先生[せんせい]にそうだんしました。",
         "alternative_2": "かんじがわからないので、じしょにそうだんしました。",
-        "alternative_3": "つぎの電車が何時かえきいんにそうだんしました。",
-        "alternative_4": "すきなえいがについて友だちにそうだんしました。",
+        "alternative_3": "つぎの電車[でんしゃ]が何時[なんじ]かえきいんにそうだんしました。",
+        "alternative_4": "すきなえいがについて友[とも]だちにそうだんしました。",
         "correct_alternative": 1
       },
       "media": null,
@@ -3045,7 +3045,7 @@
       "question_type": "vocabulary",
       "question_text": "へやの （[blank]） をつけて、あたたかくします。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "だんぼう",
@@ -3062,9 +3062,9 @@
     {
       "id": 162,
       "question_type": "vocabulary",
-      "question_text": "先生「みなさん、きょうは （[blank]） 話があります。」",
+      "question_text": "先生[せんせい]：「みなさん、きょうは （[blank]） 話[はなし]があります。」",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひつような",
@@ -3081,9 +3081,9 @@
     {
       "id": 163,
       "question_type": "vocabulary",
-      "question_text": "このにくはかたいので、よく （[blank]） 食べてください。",
+      "question_text": "このにくはかたいので、よく （[blank]） 食[た]べてください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かんで",
@@ -3102,7 +3102,7 @@
       "question_type": "vocabulary",
       "question_text": "とうきょうの （[blank]） にちいさないえをかいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "こうがい",
@@ -3119,9 +3119,9 @@
     {
       "id": 165,
       "question_type": "vocabulary",
-      "question_text": "やすむ人はでんわでわたしに （[blank]） してください。",
+      "question_text": "やすむ人[ひと]はでんわでわたしに （[blank]） してください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あんない",
@@ -3138,9 +3138,9 @@
     {
       "id": 166,
       "question_type": "vocabulary",
-      "question_text": "たなか「あしたのパーティーですが、ちょっと行けなくなってしましました。」\nさとう「そうですか、それは （[blank]） ですね。」",
+      "question_text": "たなか：「あしたのパーティーですが、ちょっと行[い]けなくなってしましました。」\nさとう：「そうですか、それは （[blank]） ですね。」",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さかん",
@@ -3157,9 +3157,9 @@
     {
       "id": 167,
       "question_type": "vocabulary",
-      "question_text": "毎日 （[blank]） ふくしゅうしてください。",
+      "question_text": "毎日[まいにち] （[blank]） ふくしゅうしてください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けっして",
@@ -3178,7 +3178,7 @@
       "question_type": "vocabulary",
       "question_text": "このくすりはとても （[blank]） のみにくいです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うまくて",
@@ -3195,9 +3195,9 @@
     {
       "id": 169,
       "question_type": "vocabulary",
-      "question_text": "かいぎの時間は、はがき （[blank]） 電話でおしらせします。",
+      "question_text": "かいぎの時間[じかん]は、はがき （[blank]） 電話[でんわ]でおしらせします。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けれど",
@@ -3216,7 +3216,7 @@
       "question_type": "vocabulary",
       "question_text": "こちらにいらっしゃる （[blank]） があったら、ぜひおよりください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きかい",
@@ -3233,15 +3233,15 @@
     {
       "id": 171,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 1. {むかしはきょういくをうけられる人は多くありませんでした。}",
+      "question_text": "{むかしはきょういくをうけられる人は多くありませんでした。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "むかしは多くの人が学校へいけませんでした。",
-        "alternative_2": "むかしは多くの人が会社へいけませんでした。",
-        "alternative_3": "むかしは多くの人がおいわいをもらえませんでした。",
-        "alternative_4": "むかしは多くの入がおみまいをもらえませんでした。",
+        "alternative_1": "むかしは多[おお]くの人[ひと]が学校[がっこう]へいけませんでした。",
+        "alternative_2": "むかしは多[おお]くの人[ひと]が会社[かいしゃ]へいけませんでした。",
+        "alternative_3": "むかしは多[おお]くの人[ひと]がおいわいをもらえませんでした。",
+        "alternative_4": "むかしは多[おお]くの入[にゅう]がおみまいをもらえませんでした。",
         "correct_alternative": 1
       },
       "media": null,
@@ -3254,13 +3254,13 @@
       "question_type": "vocabulary",
       "question_text": "{やくそくの時間にまにあいませんでした。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "やくそくの時間をわすれました。",
-        "alternative_2": "やくそくの時間をかえました。",
-        "alternative_3": "やくそくの時間にもどりました。",
-        "alternative_4": "やくそくの時間におくれました。",
+        "alternative_1": "やくそくの時間[じかん]をわすれました。",
+        "alternative_2": "やくそくの時間[じかん]をかえました。",
+        "alternative_3": "やくそくの時間[じかん]にもどりました。",
+        "alternative_4": "やくそくの時間[じかん]におくれました。",
         "correct_alternative": 4
       },
       "media": null,
@@ -3273,13 +3273,13 @@
       "question_type": "vocabulary",
       "question_text": "{うけつけで「お名前とごじゅうしょを書いてください。」と言われました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "うけつけで名前とつとめているところを書きました。",
-        "alternative_2": "うけつけで名前とすんでいるところを書きました。",
-        "alternative_3": "うけつけで名前とうまれた日を書きました。",
-        "alternative_4": "うけつけで名前とうまれた国を書きました。",
+        "alternative_1": "うけつけで名前[なまえ]とつとめているところを書[か]きました。",
+        "alternative_2": "うけつけで名前[なまえ]とすんでいるところを書[か]きました。",
+        "alternative_3": "うけつけで名前[なまえ]とうまれた日[ひ]を書[か]きました。",
+        "alternative_4": "うけつけで名前[なまえ]とうまれた国[くに]を書[か]きました。",
         "correct_alternative": 2
       },
       "media": null,
@@ -3292,13 +3292,13 @@
       "question_type": "vocabulary",
       "question_text": "{たなかさんはひっこしがしゅみだそうです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たなかさんはいろいろなところにいえがあります。",
         "alternative_2": "たなかさんはいろいろなところにすむのがすきです。",
-        "alternative_3": "たなかさんはいろいろなところに出かけるのがすきです。",
-        "alternative_4": "たなかさんはいろいろなところに行ったことがあります。",
+        "alternative_3": "たなかさんはいろいろなところに出[で]かけるのがすきです。",
+        "alternative_4": "たなかさんはいろいろなところに行[い]ったことがあります。",
         "correct_alternative": 2
       },
       "media": null,
@@ -3311,11 +3311,11 @@
       "question_type": "vocabulary",
       "question_text": "{サッカーがさかんになりました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "サッカーをする人がふえました。",
-        "alternative_2": "サッカーをする人がへりました。",
+        "alternative_1": "サッカーをする人[ひと]がふえました。",
+        "alternative_2": "サッカーをする人[ひと]がへりました。",
         "alternative_3": "サッカーがまじめになりました。",
         "alternative_4": "サッカーがつまらなくなりました。",
         "correct_alternative": 1
@@ -3330,13 +3330,13 @@
       "question_type": "vocabulary",
       "question_text": "{このもんだいはまちがえやすい。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "このもんだいはまちがえる人が少ししかいない。",
-        "alternative_2": "このもんだいはまちがえる人がぜんぜんいない。",
-        "alternative_3": "このもんだいはまちがえる人が多い。",
-        "alternative_4": "このもんだいはまちがえる人が少ない。",
+        "alternative_1": "このもんだいはまちがえる人[ひと]が少[すこ]ししかいない。",
+        "alternative_2": "このもんだいはまちがえる人[ひと]がぜんぜんいない。",
+        "alternative_3": "このもんだいはまちがえる人[ひと]が多[おお]い。",
+        "alternative_4": "このもんだいはまちがえる人[ひと]が少[すく]ない。",
         "correct_alternative": 3
       },
       "media": null,
@@ -3349,13 +3349,13 @@
       "question_type": "vocabulary",
       "question_text": "{病院にいきました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "えを見に行きました。",
-        "alternative_2": "くるまをかりに行きました。",
-        "alternative_3": "くすりをとりに行きました。",
-        "alternative_4": "かみのけをきりに行きました。",
+        "alternative_1": "えを見[み]に行[い]きました。",
+        "alternative_2": "くるまをかりに行[い]きました。",
+        "alternative_3": "くすりをとりに行[い]きました。",
+        "alternative_4": "かみのけをきりに行[い]きました。",
         "correct_alternative": 3
       },
       "media": null,
@@ -3368,7 +3368,7 @@
       "question_type": "vocabulary",
       "question_text": "{きのうのしゅくだいはかんたんでした。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きのうのしゅくだいはたいへんでした。",
@@ -3387,13 +3387,13 @@
       "question_type": "vocabulary",
       "question_text": "{あのレストランはいつもすいています。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あのレストランはいつもたべものがおいしいです。",
         "alternative_2": "あのレストランはいつもてんいんがしんせつです。",
-        "alternative_3": "あのレストランはいつもねだんが高いです。",
-        "alternative_4": "あのレストランはいつもきゃくが少ないです。",
+        "alternative_3": "あのレストランはいつもねだんが高[たか]いです。",
+        "alternative_4": "あのレストランはいつもきゃくが少[すく]ないです。",
         "correct_alternative": 4
       },
       "media": null,
@@ -3406,13 +3406,13 @@
       "question_type": "vocabulary",
       "question_text": "{すいている電車が来ました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "ひとがすこしものっていない電車が来ました。",
-        "alternative_2": "ひとがたくさんのっている電車が来ました。",
-        "alternative_3": "のっているひとがすくない電車が来ました。",
-        "alternative_4": "のっているひとがいない電車が来ました。",
+        "alternative_1": "ひとがすこしものっていない電車[でんしゃ]が来[き]ました。",
+        "alternative_2": "ひとがたくさんのっている電車[でんしゃ]が来[き]ました。",
+        "alternative_3": "のっているひとがすくない電車[でんしゃ]が来[き]ました。",
+        "alternative_4": "のっているひとがいない電車[でんしゃ]が来[き]ました。",
         "correct_alternative": 3
       },
       "media": null,
@@ -3423,14 +3423,14 @@
     {
       "id": 181,
       "question_type": "vocabulary",
-      "question_text": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一つえらびなさい。 1. せんたく",
+      "question_text": "せんたく",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しょくじのあとに、はをせんたくします。",
-        "alternative_2": "日よう日に シャツとズボンをせんたくします。",
-        "alternative_3": "毎日へやをせんたくします。",
+        "alternative_2": "日[にち]よう日[び]に シャツとズボンをせんたくします。",
+        "alternative_3": "毎日[まいにち]へやをせんたくします。",
         "alternative_4": "こんばんはかみをせんたくします。",
         "correct_alternative": 2
       },
@@ -3444,12 +3444,12 @@
       "question_type": "vocabulary",
       "question_text": "どんどん",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "えいがを見てどんどんわらいました。",
-        "alternative_2": "休みの日はどんどんねています。",
-        "alternative_3": "あかちゃんはどんどん大きくなります。",
+        "alternative_1": "えいがを見[み]てどんどんわらいました。",
+        "alternative_2": "休[やす]みの日[ひ]はどんどんねています。",
+        "alternative_3": "あかちゃんはどんどん大[おお]きくなります。",
         "alternative_4": "オートバイがどんどんはやいです。",
         "correct_alternative": 3
       },
@@ -3463,13 +3463,13 @@
       "question_type": "vocabulary",
       "question_text": "とうとう",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しょくじのあとでとうとうおちゃをおねがいします。",
-        "alternative_2": "新聞のじはとうとうこまかいです。",
-        "alternative_3": "とうとうしけんの日が来ました。",
-        "alternative_4": "わからなかったら、とうとうじしょを見てください。",
+        "alternative_2": "新聞[しんぶん]のじはとうとうこまかいです。",
+        "alternative_3": "とうとうしけんの日[ひ]が来[き]ました。",
+        "alternative_4": "わからなかったら、とうとうじしょを見[み]てください。",
         "correct_alternative": 3
       },
       "media": null,
@@ -3482,13 +3482,13 @@
       "question_type": "vocabulary",
       "question_text": "きびしい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "このパンはきびしくて食べられません。",
+        "alternative_1": "このパンはきびしくて食[た]べられません。",
         "alternative_2": "わたしはきびしいペンをつかっています。",
         "alternative_3": "このおちゃはきびしくておいしいです。",
-        "alternative_4": "社長はきびしい人です。",
+        "alternative_4": "社長[しゃちょう]はきびしい人[ひと]です。",
         "correct_alternative": 4
       },
       "media": null,
@@ -3501,12 +3501,12 @@
       "question_type": "vocabulary",
       "question_text": "おれい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "先生がにゅういんなさったので、おれいをもっていきました。",
-        "alternative_2": "プレゼントをもらったので、おれいを言いました。",
-        "alternative_3": "友だちが来たのでばんごはんにおれいをつくりました。",
+        "alternative_1": "先生[せんせい]がにゅういんなさったので、おれいをもっていきました。",
+        "alternative_2": "プレゼントをもらったので、おれいを言[い]いました。",
+        "alternative_3": "友[とも]だちが来[き]たのでばんごはんにおれいをつくりました。",
         "alternative_4": "すずきさんにそつぎょうのおれいをあげました。",
         "correct_alternative": 2
       },
@@ -3520,13 +3520,13 @@
       "question_type": "vocabulary",
       "question_text": "よろこぶ",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "先生におあいできるので、わたしはとてもよろこびます。",
+        "alternative_1": "先生[せんせい]におあいできるので、わたしはとてもよろこびます。",
         "alternative_2": "プレゼントをもらって、いもうとはとてもよろこんでいます。",
         "alternative_3": "このハイキングはほんとうによろこんでいますね。",
-        "alternative_4": "友だちのいえでよろこぶ時間をすごしました。",
+        "alternative_4": "友[とも]だちのいえでよろこぶ時間[じかん]をすごしました。",
         "correct_alternative": 2
       },
       "media": null,
@@ -3539,13 +3539,13 @@
       "question_type": "vocabulary",
       "question_text": "しっかり",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "このテレビはしっかりふるい。",
-        "alternative_2": "あの子は小さいけれどもしっかりしている。",
+        "alternative_2": "あの子[こ]は小[ちい]さいけれどもしっかりしている。",
         "alternative_3": "テストのためにしっかりにじゅんびした。",
-        "alternative_4": "あのひとは時間にしっかりとしている。",
+        "alternative_4": "あのひとは時間[じかん]にしっかりとしている。",
         "correct_alternative": 2
       },
       "media": null,
@@ -3558,13 +3558,13 @@
       "question_type": "vocabulary",
       "question_text": "あやまる",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "こまったときにはすぐにあやまってください。",
-        "alternative_2": "友だちにおくりものをもらったので、あやまりました。",
+        "alternative_2": "友[とも]だちにおくりものをもらったので、あやまりました。",
         "alternative_3": "てつだってもらったときにはかならずあやまってください。",
-        "alternative_4": "しらない人の足をふんでしまったので、あやまりました。",
+        "alternative_4": "しらない人[ひと]の足[あし]をふんでしまったので、あやまりました。",
         "correct_alternative": 4
       },
       "media": null,
@@ -3577,13 +3577,13 @@
       "question_type": "vocabulary",
       "question_text": "げんいん",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "12さいいじょうの子どもがこのクラスのげんいんになれます。",
+        "alternative_1": "12さいいじょうの子[こ]どもがこのクラスのげんいんになれます。",
         "alternative_2": "あたらしいかいしゃでしごとのげんいんをおしえてもらいました。",
         "alternative_3": "けいさつはじこのげんいんをしらべています。",
-        "alternative_4": "この木をげんいんにしていすをつくりましょう。",
+        "alternative_4": "この木[き]をげんいんにしていすをつくりましょう。",
         "correct_alternative": 3
       },
       "media": null,
@@ -3596,13 +3596,13 @@
       "question_type": "vocabulary",
       "question_text": "きびしい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "たなか先生はきびしいふくをきています。",
-        "alternative_2": "たなか先生はきびしい字を書きます。",
-        "alternative_3": "たなか先生はきびしいかおをしています。",
-        "alternative_4": "たなか先生はきびしいいぬをもっています。",
+        "alternative_1": "たなか先生[せんせい]はきびしいふくをきています。",
+        "alternative_2": "たなか先生[せんせい]はきびしい字[じ]を書[か]きます。",
+        "alternative_3": "たなか先生[せんせい]はきびしいかおをしています。",
+        "alternative_4": "たなか先生[せんせい]はきびしいいぬをもっています。",
         "correct_alternative": 3
       },
       "media": null,
@@ -3613,9 +3613,9 @@
     {
       "id": 191,
       "question_type": "vocabulary",
-      "question_text": "7時にレストランを （[blank]） してあります。",
+      "question_text": "7時[とき]にレストランを （[blank]） してあります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ごちそう",
@@ -3632,9 +3632,9 @@
     {
       "id": 192,
       "question_type": "vocabulary",
-      "question_text": "車のかぎはきのう （[blank]） ここにありました。",
+      "question_text": "車[くるま]のかぎはきのう （[blank]） ここにありました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きゅうに",
@@ -3651,9 +3651,9 @@
     {
       "id": 193,
       "question_type": "vocabulary",
-      "question_text": "わたしは日本のぶんがくに （[blank]） があります。",
+      "question_text": "わたしは日本[にほん]のぶんがくに （[blank]） があります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けいざい",
@@ -3672,7 +3672,7 @@
       "question_type": "vocabulary",
       "question_text": "すみませんが、たなかさんのでんわばんごうを （[blank]） ください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かけて",
@@ -3689,9 +3689,9 @@
     {
       "id": 195,
       "question_type": "vocabulary",
-      "question_text": "「ケンさんはほんとうに日本語がじょうずですね。」「いえ、（[blank]）でもありません。」",
+      "question_text": "「ケンさんはほんとうに日本語[にほんご]がじょうずですね。」「いえ、（[blank]）でもありません。」",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ほんとう",
@@ -3708,9 +3708,9 @@
     {
       "id": 196,
       "question_type": "vocabulary",
-      "question_text": "わたしがとうきょうにいったとき、山川さんが （[blank]） してくれた。",
+      "question_text": "わたしがとうきょうにいったとき、山川[やまかわ]さんが （[blank]） してくれた。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あんない",
@@ -3729,7 +3729,7 @@
       "question_type": "vocabulary",
       "question_text": "きむらくんと （[blank]） して、けがをしてしまった。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けんか",
@@ -3746,9 +3746,9 @@
     {
       "id": 198,
       "question_type": "vocabulary",
-      "question_text": "わたしの国はアジアの国々との （[blank]） がさかんです。",
+      "question_text": "わたしの国[くに]はアジアの国々[くにぐに]との （[blank]） がさかんです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かがく",
@@ -3767,7 +3767,7 @@
       "question_type": "vocabulary",
       "question_text": "むずかしいもんだいでしたが、（[blank]） こたえがわかりました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "もうすぐ",
@@ -3784,9 +3784,9 @@
     {
       "id": 200,
       "question_type": "vocabulary",
-      "question_text": "車が （[blank]） 、うごかなくなってしましました。",
+      "question_text": "車[くるま]が （[blank]） 、うごかなくなってしましました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "こしょうして",
@@ -3805,7 +3805,7 @@
       "question_type": "vocabulary",
       "question_text": "わからないことばは じじょで （[blank]） ください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "よんで",
@@ -3824,7 +3824,7 @@
       "question_type": "vocabulary",
       "question_text": "このテストは７０てん （[blank]） とるとそつぎょうできます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いか",
@@ -3843,7 +3843,7 @@
       "question_type": "vocabulary",
       "question_text": "らいねんのカレンダーをへやの （[blank]） にかけました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かべ",
@@ -3860,9 +3860,9 @@
     {
       "id": 204,
       "question_type": "vocabulary",
-      "question_text": "大きなにもつをはこんで （[blank]） がいたくなった。",
+      "question_text": "大[おお]きなにもつをはこんで （[blank]） がいたくなった。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うで",
@@ -3879,9 +3879,9 @@
     {
       "id": 205,
       "question_type": "vocabulary",
-      "question_text": "べんきょうしている人の （[blank]） になりますから、しずかにしてください。",
+      "question_text": "べんきょうしている人[ひと]の （[blank]） になりますから、しずかにしてください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けんか",
@@ -3898,15 +3898,15 @@
     {
       "id": 206,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 6. {父はるすです。}",
+      "question_text": "{父はるすです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "父は出かけています。",
-        "alternative_2": "父はいそがしいです。",
-        "alternative_3": "父はうちにいます。",
-        "alternative_4": "父はねています。",
+        "alternative_1": "父[ちち]は出[で]かけています。",
+        "alternative_2": "父[ちち]はいそがしいです。",
+        "alternative_3": "父[ちち]はうちにいます。",
+        "alternative_4": "父[ちち]はねています。",
         "correct_alternative": 1
       },
       "media": null,
@@ -3919,13 +3919,13 @@
       "question_type": "vocabulary",
       "question_text": "{そのニュースを聞いてびっくりしました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "そのニュースを聞いてよろこびました。",
-        "alternative_2": "そのニュースを聞いておもいだしました。",
-        "alternative_3": "そのニュースを聞いてわかりました。",
-        "alternative_4": "そのニュースを聞いておどろきました。",
+        "alternative_1": "そのニュースを聞[き]いてよろこびました。",
+        "alternative_2": "そのニュースを聞[き]いておもいだしました。",
+        "alternative_3": "そのニュースを聞[き]いてわかりました。",
+        "alternative_4": "そのニュースを聞[き]いておどろきました。",
         "correct_alternative": 4
       },
       "media": null,
@@ -3938,7 +3938,7 @@
       "question_type": "vocabulary",
       "question_text": "{ここはすばらしいえを見せるところです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ここはびじゅつかんです。",
@@ -3957,13 +3957,13 @@
       "question_type": "vocabulary",
       "question_text": "{あした先生のおたくにうかがいます。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "あした先生のおたくにいらっしゃいます。",
-        "alternative_2": "あした先生のおたくにかえります。",
-        "alternative_3": "あした先生のおたくにまいります。",
-        "alternative_4": "あした先生のおたくにみえます。",
+        "alternative_1": "あした先生[せんせい]のおたくにいらっしゃいます。",
+        "alternative_2": "あした先生[せんせい]のおたくにかえります。",
+        "alternative_3": "あした先生[せんせい]のおたくにまいります。",
+        "alternative_4": "あした先生[せんせい]のおたくにみえます。",
         "correct_alternative": 3
       },
       "media": null,
@@ -3976,7 +3976,7 @@
       "question_type": "vocabulary",
       "question_text": "{こどもはおとうさんにしかられました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "こどもはおとうさんにわらわれました。",
@@ -3993,9 +3993,9 @@
     {
       "id": 211,
       "question_type": "vocabulary",
-      "question_text": "日本ではほんとんど一日中テレビの （[blank]） がある。",
+      "question_text": "日本[にほん]ではほんとんど一日中[いちにちじゅう]テレビの （[blank]） がある。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きせつ",
@@ -4014,7 +4014,7 @@
       "question_type": "vocabulary",
       "question_text": "かぜで （[blank]） がいたい。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "のど",
@@ -4033,7 +4033,7 @@
       "question_type": "vocabulary",
       "question_text": "たいふうでまどガラスが （[blank]） 、あぶないです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "われて",
@@ -4050,9 +4050,9 @@
     {
       "id": 214,
       "question_type": "vocabulary",
-      "question_text": "へやに入ると、 （[blank]） にいすがおいてありました。",
+      "question_text": "へやに入[はい]ると、 （[blank]） にいすがおいてありました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うら",
@@ -4071,7 +4071,7 @@
       "question_type": "vocabulary",
       "question_text": "（[blank]） なりますから、いりぐちににもつをおかないでください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あんぜんに",
@@ -4088,9 +4088,9 @@
     {
       "id": 216,
       "question_type": "vocabulary",
-      "question_text": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一つえらびなさい。 6. いくら",
+      "question_text": "いくら",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いくらちゅういしてもしずかになりません。",
@@ -4109,13 +4109,13 @@
       "question_type": "vocabulary",
       "question_text": "ちゅうし",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "あした雨だったらしあいはちゅうしします。",
-        "alternative_2": "あの人は会社をちゅうしして大学にいくらしい。",
+        "alternative_1": "あした雨[あめ]だったらしあいはちゅうしします。",
+        "alternative_2": "あの人[ひと]は会社[かいしゃ]をちゅうしして大学[だいがく]にいくらしい。",
         "alternative_3": "けんこうによくないのでたばこをすうのはちゅうしします。",
-        "alternative_4": "バスがちゅうしして学校におくれた。",
+        "alternative_4": "バスがちゅうしして学校[がっこう]におくれた。",
         "correct_alternative": 1
       },
       "media": null,
@@ -4128,13 +4128,13 @@
       "question_type": "vocabulary",
       "question_text": "きかい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "ざんねんですが、その日はべつのきかいがあります。",
-        "alternative_2": "わたしは日本のれきしにきかいがあります。",
-        "alternative_3": "両親は外国へいったきかいがありません。",
-        "alternative_4": "近くに来るきかいがあったら、ぜひあそびに来てください。",
+        "alternative_1": "ざんねんですが、その日[ひ]はべつのきかいがあります。",
+        "alternative_2": "わたしは日本[にほん]のれきしにきかいがあります。",
+        "alternative_3": "両親[りょうしん]は外国[がいこく]へいったきかいがありません。",
+        "alternative_4": "近[ちか]くに来[く]るきかいがあったら、ぜひあそびに来[き]てください。",
         "correct_alternative": 4
       },
       "media": null,
@@ -4147,7 +4147,7 @@
       "question_type": "vocabulary",
       "question_text": "あんぜん",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "このまちはよるもあんぜんです。",
@@ -4166,13 +4166,13 @@
       "question_type": "vocabulary",
       "question_text": "さしあげる",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "つまにピアノをさしあげました。",
-        "alternative_2": "先生にケーキをさしあげました。",
+        "alternative_2": "先生[せんせい]にケーキをさしあげました。",
         "alternative_3": "とりにむしをさしあげました。",
-        "alternative_4": "花に水をさしあげました。",
+        "alternative_4": "花[はな]に水[みず]をさしあげました。",
         "correct_alternative": 2
       },
       "media": null,
@@ -4185,7 +4185,7 @@
       "question_type": "vocabulary",
       "question_text": "えいがの （[blank]） を２まいかいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "イベント",
@@ -4202,9 +4202,9 @@
     {
       "id": 222,
       "question_type": "vocabulary",
-      "question_text": "わたしたちのけっこんは父に （[blank]） 。",
+      "question_text": "わたしたちのけっこんは父[ちち]に （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はんたいされました",
@@ -4223,7 +4223,7 @@
       "question_type": "vocabulary",
       "question_text": "あしたのパーティーは、どんなのみものを （[blank]） しましょうか。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しんぱい",
@@ -4240,15 +4240,15 @@
     {
       "id": 224,
       "question_type": "vocabulary",
-      "question_text": "だいじなうでどけいがこわれてしまいました。（[blank]） 、とてもお金がかかりました。",
+      "question_text": "だいじなうでどけいがこわれてしまいました。（[blank]） 、とてもお金[きん]がかかりました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かえしたら",
         "alternative_2": "すてたら",
         "alternative_3": "なおしたら",
-        "alternative_4": "見つけたら",
+        "alternative_4": "見[み]つけたら",
         "correct_alternative": 3
       },
       "media": null,
@@ -4259,9 +4259,9 @@
     {
       "id": 225,
       "question_type": "vocabulary",
-      "question_text": "きのうは母のたんじょうびだったので、（[blank]） にくつをあげました。",
+      "question_text": "きのうは母[はは]のたんじょうびだったので、（[blank]） にくつをあげました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あいさつ",
@@ -4280,7 +4280,7 @@
       "question_type": "vocabulary",
       "question_text": "このガラスのにんぎょうはこわれやすいので、 （[blank]） ください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うつらないで",
@@ -4297,9 +4297,9 @@
     {
       "id": 227,
       "question_type": "vocabulary",
-      "question_text": "子どもが （[blank]） をこわしてしまった。",
+      "question_text": "子[こ]どもが （[blank]） をこわしてしまった。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ぐあい",
@@ -4318,7 +4318,7 @@
       "question_type": "vocabulary",
       "question_text": "きょうのおまつりはたいふうのため （[blank]） します。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ちゅうし",
@@ -4335,15 +4335,15 @@
     {
       "id": 229,
       "question_type": "vocabulary",
-      "question_text": "でんきだいは毎月ぎんこうで （[blank]） ください。",
+      "question_text": "でんきだいは毎月[まいつき]ぎんこうで （[blank]） ください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "出して",
+        "alternative_1": "出[だ]して",
         "alternative_2": "とどけて",
         "alternative_3": "はらって",
-        "alternative_4": "出かけて",
+        "alternative_4": "出[で]かけて",
         "correct_alternative": 3
       },
       "media": null,
@@ -4354,9 +4354,9 @@
     {
       "id": 230,
       "question_type": "vocabulary",
-      "question_text": "うちを出るとき、「 （[blank]） 。」といいます。",
+      "question_text": "うちを出[で]るとき、「 （[blank]） 。」といいます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おはようございます",
@@ -4373,9 +4373,9 @@
     {
       "id": 231,
       "question_type": "vocabulary",
-      "question_text": "たなかさんは、毎日 （[blank]） にけんきゅうをしている。",
+      "question_text": "たなかさんは、毎日[まいにち] （[blank]） にけんきゅうをしている。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あんしん",
@@ -4392,9 +4392,9 @@
     {
       "id": 232,
       "question_type": "vocabulary",
-      "question_text": "わたしの車は日本 （[blank]） です。",
+      "question_text": "わたしの車[くるま]は日本[にほん] （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いん",
@@ -4411,9 +4411,9 @@
     {
       "id": 233,
       "question_type": "vocabulary",
-      "question_text": "５ （[blank]） おきに木をうえました。",
+      "question_text": "５ （[blank]） おきに木[き]をうえました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ページ",
@@ -4430,9 +4430,9 @@
     {
       "id": 234,
       "question_type": "vocabulary",
-      "question_text": "これからはコンピューターの （[blank]） をもつ人がひつようになるだろう。",
+      "question_text": "これからはコンピューターの （[blank]） をもつ人[ひと]がひつようになるだろう。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ぎじゅつ",
@@ -4451,7 +4451,7 @@
       "question_type": "vocabulary",
       "question_text": "「いま、ファックスをおくってもいいですか。」「ええ、（[blank]） 。」",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おだいじに",
@@ -4468,13 +4468,13 @@
     {
       "id": 236,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 6. {１ばんのへや、または２ばんのへやにいってください。}",
+      "question_text": "{１ばんのへや、または２ばんのへやにいってください。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "１ばんのへやにいってから、２ばんのへやにいってください。",
-        "alternative_2": "１ばんのへやにいく前に、２ばんのへやにいってください。",
+        "alternative_2": "１ばんのへやにいく前[まえ]に、２ばんのへやにいってください。",
         "alternative_3": "１ばんのへやか２ばんのへやにいってください。",
         "alternative_4": "１ばんのへやと２ばんのへやにいってください。",
         "correct_alternative": 3
@@ -4489,7 +4489,7 @@
       "question_type": "vocabulary",
       "question_text": "{どうぞえんりょなくめしあがってください。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "どうぞたくさんめしあがってください。",
@@ -4508,13 +4508,13 @@
       "question_type": "vocabulary",
       "question_text": "{よる１２時に電話がかかってきたのでびっくりしました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "よる１２時に電話がかかってきたのでおこりました。",
-        "alternative_2": "よる１２時に電話がかかってきたのでおどろきました。",
-        "alternative_3": "よる１２時に電話がかかってきたのでこまりました。",
-        "alternative_4": "よる１２時に電話がかかってきたのでなきました。",
+        "alternative_1": "よる１２時[とき]に電話[でんわ]がかかってきたのでおこりました。",
+        "alternative_2": "よる１２時[とき]に電話[でんわ]がかかってきたのでおどろきました。",
+        "alternative_3": "よる１２時[とき]に電話[でんわ]がかかってきたのでこまりました。",
+        "alternative_4": "よる１２時[とき]に電話[でんわ]がかかってきたのでなきました。",
         "correct_alternative": 2
       },
       "media": null,
@@ -4527,7 +4527,7 @@
       "question_type": "vocabulary",
       "question_text": "{わたしはやまださんにおれいをいいました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "わたしはやまださんに「おめでとうございます」といいました。",
@@ -4546,13 +4546,13 @@
       "question_type": "vocabulary",
       "question_text": "{あした5時に来るのはむりです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "あさいた5時に来ることにします。",
-        "alternative_2": "あした5時に来なければなりません。",
-        "alternative_3": "あした5時に来られません。",
-        "alternative_4": "あした5時に来るようにします。",
+        "alternative_1": "あさいた5時[とき]に来[く]ることにします。",
+        "alternative_2": "あした5時[とき]に来[こ]なければなりません。",
+        "alternative_3": "あした5時[とき]に来[こ]られません。",
+        "alternative_4": "あした5時[とき]に来[く]るようにします。",
         "correct_alternative": 3
       },
       "media": null,
@@ -4565,7 +4565,7 @@
       "question_type": "vocabulary",
       "question_text": "さむくなったのでそろそろ （[blank]） がほしいですね。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ゆしゅつ",
@@ -4582,9 +4582,9 @@
     {
       "id": 242,
       "question_type": "vocabulary",
-      "question_text": "あしたはしけんですから、（[blank]） はやく来てください。",
+      "question_text": "あしたはしけんですから、（[blank]） はやく来[き]てください。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "なるほど",
@@ -4603,7 +4603,7 @@
       "question_type": "vocabulary",
       "question_text": "このまちには、ほんやは （[blank]） しかありません。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いちだい",
@@ -4620,9 +4620,9 @@
     {
       "id": 244,
       "question_type": "vocabulary",
-      "question_text": "わたしは毎朝 さんぽするのが （[blank]） です。",
+      "question_text": "わたしは毎朝[まいあさ] さんぽするのが （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しゅうかん",
@@ -4641,7 +4641,7 @@
       "question_type": "vocabulary",
       "question_text": "あたらしい （[blank]） を２だいかいました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "オーバー",
@@ -4658,15 +4658,15 @@
     {
       "id": 246,
       "question_type": "vocabulary",
-      "question_text": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一つえらびなさい。 6. てきとう",
+      "question_text": "てきとう",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "このきせつはとてもてきとうでよくねむれます。",
-        "alternative_2": "せんそうは人びとのせいかつにてきとうではありません。",
-        "alternative_3": "わかい人にてきとうするホテルをしょうかいしてください。",
-        "alternative_4": "日本についてしらべるのにてきとうな本はありませんか。",
+        "alternative_2": "せんそうは人[ひと]びとのせいかつにてきとうではありません。",
+        "alternative_3": "わかい人[ひと]にてきとうするホテルをしょうかいしてください。",
+        "alternative_4": "日本[にほん]についてしらべるのにてきとうな本[ほん]はありませんか。",
         "correct_alternative": 4
       },
       "media": null,
@@ -4679,13 +4679,13 @@
       "question_type": "vocabulary",
       "question_text": "おかげさまで",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "Ａ「ごめんなさい。」Ｂ「いいえ、おかげさまで。」",
-        "alternative_2": "Ａ「おげんきですか。」Ｂ「ええ、おかげさまで。」",
-        "alternative_3": "Ａ「それは いけませんね。」Ｂ「ええ、おかげさまで。」",
-        "alternative_4": "Ａ「ありがとうございました。」Ｂ「いいえ、おかげさまで。」",
+        "alternative_1": "Ａ：「ごめんなさい。」Ｂ：「いいえ、おかげさまで。」",
+        "alternative_2": "Ａ：「おげんきですか。」Ｂ：「ええ、おかげさまで。」",
+        "alternative_3": "Ａ：「それは いけませんね。」Ｂ：「ええ、おかげさまで。」",
+        "alternative_4": "Ａ：「ありがとうございました。」Ｂ：「いいえ、おかげさまで。」",
         "correct_alternative": 2
       },
       "media": null,
@@ -4698,7 +4698,7 @@
       "question_type": "vocabulary",
       "question_text": "しかる",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "「もうだいじょうぶですか。」としかられました。",
@@ -4717,12 +4717,12 @@
       "question_type": "vocabulary",
       "question_text": "じゅんび",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "パーティーのじゅんびができました。",
-        "alternative_2": "車のこしょりのじゅんびがまだできません。",
-        "alternative_3": "空気がかわいているので、火事のじゅんびをします。",
+        "alternative_2": "車[くるま]のこしょりのじゅんびがまだできません。",
+        "alternative_3": "空気[くうき]がかわいているので、火事[かじ]のじゅんびをします。",
         "alternative_4": "きょうならったかんじのじゅんびをもういちどいえでします。",
         "correct_alternative": 1
       },
@@ -4736,7 +4736,7 @@
       "question_type": "vocabulary",
       "question_text": "うまい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "わたしのおとうとはすうがくがうまくありません。",
@@ -4753,9 +4753,9 @@
     {
       "id": 251,
       "question_type": "vocabulary",
-      "question_text": "わたしは （[blank]） をしながら、大学でべんきょうしています。",
+      "question_text": "わたしは （[blank]） をしながら、大学[だいがく]でべんきょうしています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "アルバイト",
@@ -4772,9 +4772,9 @@
     {
       "id": 252,
       "question_type": "vocabulary",
-      "question_text": "さいふはつくえの （[blank]） の中にあります。",
+      "question_text": "さいふはつくえの （[blank]） の中[なか]にあります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おしいれ",
@@ -4793,7 +4793,7 @@
       "question_type": "vocabulary",
       "question_text": "じしんでいえが （[blank]） います。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ゆれて",
@@ -4810,9 +4810,9 @@
     {
       "id": 254,
       "question_type": "vocabulary",
-      "question_text": "ことばはぶんかとふかい （[blank]） があると言われています。",
+      "question_text": "ことばはぶんかとふかい （[blank]） があると言[い]われています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はいかん",
@@ -4829,9 +4829,9 @@
     {
       "id": 255,
       "question_type": "vocabulary",
-      "question_text": "今年しけんに （[blank]） しても、また来年がんばります。",
+      "question_text": "今年[ことし]しけんに （[blank]） しても、また来年[らいねん]がんばります。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しつれい",
@@ -4848,9 +4848,9 @@
     {
       "id": 256,
       "question_type": "vocabulary",
-      "question_text": "ずっと日本にすむつもりです。 （[blank]） 今、日本語をべんきょうしています。",
+      "question_text": "ずっと日本[にほん]にすむつもりです。 （[blank]） 今[いま]、日本語[にほんご]をべんきょうしています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "では",
@@ -4869,7 +4869,7 @@
       "question_type": "vocabulary",
       "question_text": "きのうはじこで でんしゃが （[blank]） たいへんでした。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おくれて",
@@ -4886,9 +4886,9 @@
     {
       "id": 258,
       "question_type": "vocabulary",
-      "question_text": "このビルの （[blank]） からうみが見えます。",
+      "question_text": "このビルの （[blank]） からうみが見[み]えます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かいがん",
@@ -4905,9 +4905,9 @@
     {
       "id": 259,
       "question_type": "vocabulary",
-      "question_text": "外国語の本を日本語に （[blank]） する。",
+      "question_text": "外国語[がいこくご]の本[ほん]を日本語[にほんご]に （[blank]） する。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あんない",
@@ -4924,9 +4924,9 @@
     {
       "id": 260,
       "question_type": "vocabulary",
-      "question_text": "新しいじしょをつかってみたけれど、あまり （[blank]） 。",
+      "question_text": "新[あたら]しいじしょをつかってみたけれど、あまり （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かたづけなかった",
@@ -4943,15 +4943,15 @@
     {
       "id": 261,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 1. {むすめのにゅうがくしきがありました。}",
+      "question_text": "{むすめのにゅうがくしきがありました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "むすめがけっこんしました。",
         "alternative_2": "むすめがそつぎょうしました。",
-        "alternative_3": "むすめが大学生になりました。",
-        "alternative_4": "むすめが社会人になりました。",
+        "alternative_3": "むすめが大学生[だいがくせい]になりました。",
+        "alternative_4": "むすめが社会人[しゃかいじん]になりました。",
         "correct_alternative": 3
       },
       "media": null,
@@ -4964,13 +4964,13 @@
       "question_type": "vocabulary",
       "question_text": "{日本語はほとんどわすれてしまいました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "日本語はなにもおぼえていません。",
-        "alternative_2": "日本語はすこししかおぼえていません。",
-        "alternative_3": "日本語はぜんぶわすれてしまいました。",
-        "alternative_4": "日本語はすっかりわすれてしまいました。",
+        "alternative_1": "日本語[にほんご]はなにもおぼえていません。",
+        "alternative_2": "日本語[にほんご]はすこししかおぼえていません。",
+        "alternative_3": "日本語[にほんご]はぜんぶわすれてしまいました。",
+        "alternative_4": "日本語[にほんご]はすっかりわすれてしまいました。",
         "correct_alternative": 2
       },
       "media": null,
@@ -4983,13 +4983,13 @@
       "question_type": "vocabulary",
       "question_text": "{ひさしぶりに山田さんにあいました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "よく山田さんにあっていました。",
-        "alternative_2": "ときどき山田さんにあっていました。",
-        "alternative_3": "何時間か山田さんにあっていませんでした。",
-        "alternative_4": "何年も山田さんにあっていませんでした。",
+        "alternative_1": "よく山田[やまだ]さんにあっていました。",
+        "alternative_2": "ときどき山田[やまだ]さんにあっていました。",
+        "alternative_3": "何時間[なんじかん]か山田[やまだ]さんにあっていませんでした。",
+        "alternative_4": "何年[なんねん]も山田[やまだ]さんにあっていませんでした。",
         "correct_alternative": 4
       },
       "media": null,
@@ -5002,13 +5002,13 @@
       "question_type": "vocabulary",
       "question_text": "{友だちをむかえにくうこうへ行きました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "くうこうで友だちにあいました。",
-        "alternative_2": "くうこうで友だちをおくりました。",
-        "alternative_3": "くうこうで友だちを見ました。",
-        "alternative_4": "くうこうで友だちとわかれました。",
+        "alternative_1": "くうこうで友[とも]だちにあいました。",
+        "alternative_2": "くうこうで友[とも]だちをおくりました。",
+        "alternative_3": "くうこうで友[とも]だちを見[み]ました。",
+        "alternative_4": "くうこうで友[とも]だちとわかれました。",
         "correct_alternative": 1
       },
       "media": null,
@@ -5021,7 +5021,7 @@
       "question_type": "vocabulary",
       "question_text": "{ひとりでぜんぶ食べるのはむりです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひとりでぜんぶたべられます。",
@@ -5040,13 +5040,13 @@
       "question_type": "vocabulary",
       "question_text": "{とうきょうはこうつうがべんりです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "とうきょうはス－パ－やデパ－トがたくさんあります。",
-        "alternative_2": "とうきょうはたくさんの国の人がせいかつしあています。",
+        "alternative_2": "とうきょうはたくさんの国[くに]の人[ひと]がせいかつしあています。",
         "alternative_3": "とうきょうはバスやちかてつがたくさんはしっています。",
-        "alternative_4": "とうきょうは駅のそばにたくさんのアパ－トがあります。",
+        "alternative_4": "とうきょうは駅[えき]のそばにたくさんのアパ－トがあります。",
         "correct_alternative": 3
       },
       "media": null,
@@ -5059,13 +5059,13 @@
       "question_type": "vocabulary",
       "question_text": "{きのうやまもとさんをたずねました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きのうやまもとさんのしつもんにこたえました。",
-        "alternative_2": "きのうやまもとさんのいえに行きました。",
+        "alternative_2": "きのうやまもとさんのいえに行[い]きました。",
         "alternative_3": "きのうやまもとさんのしごとをてつだいました。",
-        "alternative_4": "きのうやまもとさんのつごうを聞きました。",
+        "alternative_4": "きのうやまもとさんのつごうを聞[き]きました。",
         "correct_alternative": 2
       },
       "media": null,
@@ -5078,7 +5078,7 @@
       "question_type": "vocabulary",
       "question_text": "{きびしいじだいはもうすぎました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じゆうなじだいでした。",
@@ -5095,12 +5095,12 @@
     {
       "id": 269,
       "question_type": "vocabulary",
-      "question_text": "{Ａ「あしたしょくじに行きませんか。」}\n{Ｂ「あしたはちょっと。」}",
+      "question_text": "{Ａ：「あしたしょくじに行きませんか。」}\n{Ｂ：「あしたはちょっと。」}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "あしたは行けます。",
+        "alternative_1": "あしたは行[い]けます。",
         "alternative_2": "あしたはかまいません。",
         "alternative_3": "あしたはだいじょうぶです。",
         "alternative_4": "あしたはだめです。",
@@ -5116,7 +5116,7 @@
       "question_type": "vocabulary",
       "question_text": "{たまにうんどうします。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うんどうはなにもしていません。",
@@ -5135,7 +5135,7 @@
       "question_type": "vocabulary",
       "question_text": "おとうとはわたしより （[blank]） がつよいです。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あたま",
@@ -5154,7 +5154,7 @@
       "question_type": "vocabulary",
       "question_text": "このにくは （[blank]） のでうまくきれない。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "めずらしい",
@@ -5173,7 +5173,7 @@
       "question_type": "vocabulary",
       "question_text": "２に３を （[blank]） と５になる。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たす",
@@ -5192,7 +5192,7 @@
       "question_type": "vocabulary",
       "question_text": "（[blank]） でんわがありましたよ。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さっき",
@@ -5211,7 +5211,7 @@
       "question_type": "vocabulary",
       "question_text": "ぎんこうを （[blank]） するときには、このカードをもっていきます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うけつけ",
@@ -5230,7 +5230,7 @@
       "question_type": "vocabulary",
       "question_text": "こんしゅうのつぎは （[blank]） です。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さらいしゅう",
@@ -5249,7 +5249,7 @@
       "question_type": "vocabulary",
       "question_text": "このへんは （[blank]） ですみやすいですよ。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あんぜん",
@@ -5266,9 +5266,9 @@
     {
       "id": 278,
       "question_type": "vocabulary",
-      "question_text": "わたしは （[blank]） で一日3時間はたらいています。",
+      "question_text": "わたしは （[blank]） で一日[いちにち]3時間[じかん]はたらいています。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ステレオ",
@@ -5287,7 +5287,7 @@
       "question_type": "vocabulary",
       "question_text": "わたしのしゅみはりょうりです。たいていはおいしくできますが、たまに （[blank]） します。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けいかく",
@@ -5306,7 +5306,7 @@
       "question_type": "vocabulary",
       "question_text": "（[blank]） けれど、しごとがあるからねられません。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "すごい",
@@ -5323,15 +5323,15 @@
     {
       "id": 281,
       "question_type": "vocabulary",
-      "question_text": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一つえらびなさい。 1. はずかしい",
+      "question_text": "はずかしい",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かんたんなもんだいをまちがえて、はずかしいです。",
-        "alternative_2": "かぞくに会えなくて、はずかしいです。",
+        "alternative_2": "かぞくに会[あ]えなくて、はずかしいです。",
         "alternative_3": "ピアノがひけるようになって、はずかしいです。",
-        "alternative_4": "見たいばんぐみがなくて、はずかしいです。",
+        "alternative_4": "見[み]たいばんぐみがなくて、はずかしいです。",
         "correct_alternative": 1
       },
       "media": null,
@@ -5344,13 +5344,13 @@
       "question_type": "vocabulary",
       "question_text": "かしこまりました",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "Ａ「こうちゃを二つ、おねがいします。」Ｂ「はい、かしこまりました。」",
-        "alternative_2": "Ａ「あいつので、まどをあけてもいいですか。」Ｂ「はい、かしこまりました。」",
-        "alternative_3": "Ａ「先生、もういちどいってください。」Ｂ「はい、かしこまりました。」",
-        "alternative_4": "Ａ「こたえがわかりましたか。」Ｂ「はい、かしこまりました。」",
+        "alternative_1": "Ａ：「こうちゃを二[ふた]つ、おねがいします。」Ｂ：「はい、かしこまりました。」",
+        "alternative_2": "Ａ：「あいつので、まどをあけてもいいですか。」Ｂ：「はい、かしこまりました。」",
+        "alternative_3": "Ａ：「先生[せんせい]、もういちどいってください。」Ｂ：「はい、かしこまりました。」",
+        "alternative_4": "Ａ：「こたえがわかりましたか。」Ｂ：「はい、かしこまりました。」",
         "correct_alternative": 1
       },
       "media": null,
@@ -5363,13 +5363,13 @@
       "question_type": "vocabulary",
       "question_text": "ねつ",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "ねつがあるので、学校をやすみました。",
+        "alternative_1": "ねつがあるので、学校[がっこう]をやすみました。",
         "alternative_2": "このへやのねつはどのぐらいですか。",
-        "alternative_3": "このおちゃはねつが高すぎて飲めません。",
-        "alternative_4": "駅のちかくは人がたくさんいて、ねつがいっぱいです。",
+        "alternative_3": "このおちゃはねつが高[たか]すぎて飲[の]めません。",
+        "alternative_4": "駅[えき]のちかくは人[ひと]がたくさんいて、ねつがいっぱいです。",
         "correct_alternative": 1
       },
       "media": null,
@@ -5382,7 +5382,7 @@
       "question_type": "vocabulary",
       "question_text": "ゆっくり",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "もっとゆっくりにはなしてください。",
@@ -5401,13 +5401,13 @@
       "question_type": "vocabulary",
       "question_text": "まじめ",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎのことばのつかいかたでいちばんいいものをしたのを１・２・３・４から一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "きょうはまじめな天気で空がきれいです。",
-        "alternative_2": "さとうを入れないで、まじめなコーヒーを飲みました。",
-        "alternative_3": "子どもたちは先生の話をまじめに聞いています。",
-        "alternative_4": "駅はこの道をまじめにいったところにあります。",
+        "alternative_1": "きょうはまじめな天気[てんき]で空[そら]がきれいです。",
+        "alternative_2": "さとうを入[い]れないで、まじめなコーヒーを飲[の]みました。",
+        "alternative_3": "子[こ]どもたちは先生[せんせい]の話[はなし]をまじめに聞[き]いています。",
+        "alternative_4": "駅[えき]はこの道[みち]をまじめにいったところにあります。",
         "correct_alternative": 3
       },
       "media": null,
@@ -5418,9 +5418,9 @@
     {
       "id": 286,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 6. {あのはなしはうそです。}",
+      "question_text": "{あのはなしはうそです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あのはなしはたいせつです。",
@@ -5439,7 +5439,7 @@
       "question_type": "vocabulary",
       "question_text": "{ずっとそとにいたので、からだがひえてしまいました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "そとはあつかったです。",
@@ -5458,7 +5458,7 @@
       "question_type": "vocabulary",
       "question_text": "{どろぼうにさいふをぬすまれました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "どろぼうがさいふをひろってくれました。",
@@ -5477,12 +5477,12 @@
       "question_type": "vocabulary",
       "question_text": "{そろそろしょくじにしましょう。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "そろそろごはんを食べましょう。",
+        "alternative_1": "そろそろごはんを食[た]べましょう。",
         "alternative_2": "そろそろしつれいしましょう。",
-        "alternative_3": "そろそろおふろに入りましょう。",
+        "alternative_3": "そろそろおふろに入[はい]りましょう。",
         "alternative_4": "そろそろねましょう。",
         "correct_alternative": 1
       },
@@ -5496,13 +5496,13 @@
       "question_type": "vocabulary",
       "question_text": "{ごごからこうぎにしゅっせきします。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "ごごから大学で先生とかいぎをします。",
-        "alternative_2": "ごごから大学で先生の話を聞きます。",
-        "alternative_3": "ごごから会社で社長とかいぎをします。",
-        "alternative_4": "ごごから会社で社長の話を聞きます。",
+        "alternative_1": "ごごから大学[だいがく]で先生[せんせい]とかいぎをします。",
+        "alternative_2": "ごごから大学[だいがく]で先生[せんせい]の話[はなし]を聞[き]きます。",
+        "alternative_3": "ごごから会社[かいしゃ]で社長[しゃちょう]とかいぎをします。",
+        "alternative_4": "ごごから会社[かいしゃ]で社長[しゃちょう]の話[はなし]を聞[き]きます。",
         "correct_alternative": 2
       },
       "media": null,
@@ -5513,9 +5513,9 @@
     {
       "id": 291,
       "question_type": "vocabulary",
-      "question_text": "にわにきれいな花を （[blank]） 。",
+      "question_text": "にわにきれいな花[はな]を （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うえましょう",
@@ -5534,7 +5534,7 @@
       "question_type": "vocabulary",
       "question_text": "このじしょは、かんじを しらべる ときに とても （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おしえます",
@@ -5553,7 +5553,7 @@
       "question_type": "vocabulary",
       "question_text": "ここにおいたはずなのですが、かぎが （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おちません",
@@ -5572,7 +5572,7 @@
       "question_type": "vocabulary",
       "question_text": "けっこんしきにだれを （[blank]） しましょうか。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しょうらい",
@@ -5589,9 +5589,9 @@
     {
       "id": 295,
       "question_type": "vocabulary",
-      "question_text": "じぶんのかおを （[blank]） で見ました。",
+      "question_text": "じぶんのかおを （[blank]） で見[み]ました。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ふとん",
@@ -5610,7 +5610,7 @@
       "question_type": "vocabulary",
       "question_text": "どうぶつえんでは、（[blank]） どうぶつをみることができます。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "つまらない",
@@ -5627,9 +5627,9 @@
     {
       "id": 297,
       "question_type": "vocabulary",
-      "question_text": "これは彼らの問題よ。わたしたちが何を言おうと （[blank]） ないわ。",
+      "question_text": "これは彼[かれ]らの問題[もんだい]よ。わたしたちが何[なに]を言[い]おうと （[blank]） ないわ。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かんけい",
@@ -5646,9 +5646,9 @@
     {
       "id": 298,
       "question_type": "vocabulary",
-      "question_text": "きみの心を動かすような （[blank]） はいつ現れるのかね。",
+      "question_text": "きみの心[こころ]を動[うご]かすような （[blank]） はいつ現[あらわ]れるのかね。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひとびと",
@@ -5665,9 +5665,9 @@
     {
       "id": 299,
       "question_type": "vocabulary",
-      "question_text": "どうせわかることだから、隠さないで本当の姿を （[blank]） から見せてしまえばいい。",
+      "question_text": "どうせわかることだから、隠[かく]さないで本当[ほんとう]の姿[すがた]を （[blank]） から見[み]せてしまえばいい。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さいきん",
@@ -5684,9 +5684,9 @@
     {
       "id": 300,
       "question_type": "vocabulary",
-      "question_text": "ショーンは顔色を （[blank]） 。",
+      "question_text": "ショーンは顔色[かおいろ]を （[blank]） 。",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "（[blank]）に入[い]れるのに最[もっと]もよいものを、1・2・3・4から一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きえた",
@@ -5703,15 +5703,15 @@
     {
       "id": 301,
       "question_type": "vocabulary",
-      "question_text": "つぎの （[blank]） の文とだいたい同じいみの文はどれですか。１・２・３・４からいちばんいいものを一つえらびなさい。 1. {けしきのいいところでおべんとうを食べました。}",
+      "question_text": "{けしきのいいところでおべんとうを食べました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "きれいな花がおいてあるレストランで食べました。",
-        "alternative_2": "きれいな山やもりが見えるこうえんで食べました。",
-        "alternative_3": "きれいなしゃしんがかけてあるへやで食べました。",
-        "alternative_4": "きれいなつくえやいすがあるきょうしつで食べました。",
+        "alternative_1": "きれいな花[はな]がおいてあるレストランで食[た]べました。",
+        "alternative_2": "きれいな山[やま]やもりが見[み]えるこうえんで食[た]べました。",
+        "alternative_3": "きれいなしゃしんがかけてあるへやで食[た]べました。",
+        "alternative_4": "きれいなつくえやいすがあるきょうしつで食[た]べました。",
         "correct_alternative": 2
       },
       "media": null,
@@ -5724,13 +5724,13 @@
       "question_type": "vocabulary",
       "question_text": "{ほかの人のいけんを聞いてみましょう。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "ほかの人が何を見ているか聞いてみましょう。",
-        "alternative_2": "ほかの人が何をかえているか聞いてみましょう。",
-        "alternative_3": "ほかの人が何をかんがえているか聞いてみましょう。",
-        "alternative_4": "ほかの人が何をおこなっているか聞いてみましょう。",
+        "alternative_1": "ほかの人[ひと]が何[なに]を見[み]ているか聞[き]いてみましょう。",
+        "alternative_2": "ほかの人[ひと]が何[なに]をかえているか聞[き]いてみましょう。",
+        "alternative_3": "ほかの人[ひと]が何[なに]をかんがえているか聞[き]いてみましょう。",
+        "alternative_4": "ほかの人[ひと]が何[なに]をおこなっているか聞[き]いてみましょう。",
         "correct_alternative": 3
       },
       "media": null,
@@ -5743,13 +5743,13 @@
       "question_type": "vocabulary",
       "question_text": "{わたしはかみをきってきました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "わたしはりょうかんへ行きました。",
-        "alternative_2": "わたしはとこやへ行きました。",
-        "alternative_3": "わたしはこうじょうへ行きました。",
-        "alternative_4": "わたしはけいさつへ行きました。",
+        "alternative_1": "わたしはりょうかんへ行[い]きました。",
+        "alternative_2": "わたしはとこやへ行[い]きました。",
+        "alternative_3": "わたしはこうじょうへ行[い]きました。",
+        "alternative_4": "わたしはけいさつへ行[い]きました。",
         "correct_alternative": 2
       },
       "media": null,
@@ -5762,7 +5762,7 @@
       "question_type": "vocabulary",
       "question_text": "{わたしはかちょうのかわりにかいぎにいきました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "わたしとかちょうはかいぎにいきました。",
@@ -5781,13 +5781,13 @@
       "question_type": "vocabulary",
       "question_text": "{社長のかわりに田中さんがパーティーにでました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "社長はパーティーにでました。",
-        "alternative_2": "社長はパーティーにでませんでした。",
-        "alternative_3": "社長も田中さんもパーティーにでました。",
-        "alternative_4": "社長も田中さんもパーティーにでませんでした。",
+        "alternative_1": "社長[しゃちょう]はパーティーにでました。",
+        "alternative_2": "社長[しゃちょう]はパーティーにでませんでした。",
+        "alternative_3": "社長[しゃちょう]も田中[たなか]さんもパーティーにでました。",
+        "alternative_4": "社長[しゃちょう]も田中[たなか]さんもパーティーにでませんでした。",
         "correct_alternative": 2
       },
       "media": null,
@@ -5800,7 +5800,7 @@
       "question_type": "vocabulary",
       "question_text": "{びょういんでさわいではいけません。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "びょういんでいそいではいけません。",
@@ -5819,13 +5819,13 @@
       "question_type": "vocabulary",
       "question_text": "{すずきさんはかならず来ると思います。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "すずきさんはきっと来ます。",
-        "alternative_2": "すずきさんはたまに来ます。",
-        "alternative_3": "すずきさんはまっすぐ来ます。",
-        "alternative_4": "すずきさんはゆっくり来ます。",
+        "alternative_1": "すずきさんはきっと来[き]ます。",
+        "alternative_2": "すずきさんはたまに来[き]ます。",
+        "alternative_3": "すずきさんはまっすぐ来[き]ます。",
+        "alternative_4": "すずきさんはゆっくり来[き]ます。",
         "correct_alternative": 1
       },
       "media": null,
@@ -5838,13 +5838,13 @@
       "question_type": "vocabulary",
       "question_text": "{じろうはあかんぼうです。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "じろうは生まれて３か月です。",
-        "alternative_2": "じろうは来年小学校に入ります。",
-        "alternative_3": "じろうは今年中学校に入ります。",
-        "alternative_4": "じろうは今年大学をそつぎょうします。",
+        "alternative_1": "じろうは生[う]まれて３か月[がつ]です。",
+        "alternative_2": "じろうは来年[らいねん]小学校[しょうがっこう]に入[はい]ります。",
+        "alternative_3": "じろうは今年[ことし]中学校[ちゅうがっこう]に入[はい]ります。",
+        "alternative_4": "じろうは今年[ことし]大学[だいがく]をそつぎょうします。",
         "correct_alternative": 1
       },
       "media": null,
@@ -5857,13 +5857,13 @@
       "question_type": "vocabulary",
       "question_text": "{わたしはその人にあいさつしました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "わたしはその人に「それはよかったですね。」と言いました。",
-        "alternative_2": "わたしはその人に「どうぞおすわりください。」と言いました。",
-        "alternative_3": "わたしはその人に「おはようございます。」と言いました。",
-        "alternative_4": "わたしはその人に「もういっぱいいかがですか。」と言いました。",
+        "alternative_1": "わたしはその人[ひと]に「それはよかったですね。」と言[い]いました。",
+        "alternative_2": "わたしはその人[ひと]に「どうぞおすわりください。」と言[い]いました。",
+        "alternative_3": "わたしはその人[ひと]に「おはようございます。」と言[い]いました。",
+        "alternative_4": "わたしはその人[ひと]に「もういっぱいいかがですか。」と言[い]いました。",
         "correct_alternative": 3
       },
       "media": null,
@@ -5876,13 +5876,13 @@
       "question_type": "vocabulary",
       "question_text": "{日がくれました。}",
       "statement": {
-        "question_command": "（　）に入れるのに最もよいものを、1・2・3・4から一つえらびなさい。"
+        "question_command": "つぎの[underline_blank]の文[ぶん]とだいたい同[おな]じいみの文[ぶん]はどれですか。１・２・３・４からいちばんいいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
-        "alternative_1": "空がはれました。",
-        "alternative_2": "空がくもりました。",
-        "alternative_3": "空がくらくなりました。",
-        "alternative_4": "空があかるくなりました。",
+        "alternative_1": "空[そら]がはれました。",
+        "alternative_2": "空[そら]がくもりました。",
+        "alternative_3": "空[そら]がくらくなりました。",
+        "alternative_4": "空[そら]があかるくなりました。",
         "correct_alternative": 3
       },
       "media": null,

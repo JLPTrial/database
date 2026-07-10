@@ -3,9 +3,9 @@
     {
       "id": 1,
       "question_type": "kanji",
-      "question_text": "{{自分}}で旅行を計画するのは楽しいです。",
+      "question_text": "{自分}で旅行[りょこう]を計画[けいかく]するのは楽[たの]しいです。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じぶん",
@@ -22,9 +22,9 @@
     {
       "id": 2,
       "question_type": "kanji",
-      "question_text": "自分で{旅行}を計画するのは楽しいです。",
+      "question_text": "自分[じぶん]で{旅行}を計画[けいかく]するのは楽[たの]しいです。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "りゅうこ",
@@ -41,9 +41,9 @@
     {
       "id": 3,
       "question_type": "kanji",
-      "question_text": "自分で旅行を{{計画}}するのは楽しいです。",
+      "question_text": "自分[じぶん]で旅行[りょこう]を{計画}するのは楽[たの]しいです。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けいかく",
@@ -60,9 +60,9 @@
     {
       "id": 4,
       "question_type": "kanji",
-      "question_text": "自分で旅行を計画するのは{{楽しい}}です。",
+      "question_text": "自分[じぶん]で旅行[りょこう]を計画[けいかく]するのは{楽しい}です。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うれしい",
@@ -79,9 +79,9 @@
     {
       "id": 5,
       "question_type": "kanji",
-      "question_text": "この学生は毎日{{地下鉄}}で大学に通っています。",
+      "question_text": "この学生[がくせい]は毎日[まいにち]{地下鉄}で大学[だいがく]に通[とお]っています。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じげてつ",
@@ -98,9 +98,9 @@
     {
       "id": 6,
       "question_type": "kanji",
-      "question_text": "この学生は毎日地下鉄で{{大学}}に通っています。",
+      "question_text": "この学生[がくせい]は毎日[まいにち]地下鉄[ちかてつ]で{大学}に通[とお]っています。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たいがく",
@@ -117,9 +117,9 @@
     {
       "id": 7,
       "question_type": "kanji",
-      "question_text": "この学生は毎日地下鉄で大学に{{通って}}います。",
+      "question_text": "この学生[がくせい]は毎日[まいにち]地下鉄[ちかてつ]で大学[だいがく]に{通って}います。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かえって",
@@ -136,9 +136,9 @@
     {
       "id": 8,
       "question_type": "kanji",
-      "question_text": "{{姉}}がいつも食事の用意をしてくれます。",
+      "question_text": "{姉}がいつも食事[しょくじ]の用意[ようい]をしてくれます。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いもうと",
@@ -155,9 +155,9 @@
     {
       "id": 9,
       "question_type": "kanji",
-      "question_text": "姉がいつも{{食事}}の用意をしてくれます。",
+      "question_text": "姉[あね]がいつも{食事}の用意[ようい]をしてくれます。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しょくじ",
@@ -174,9 +174,9 @@
     {
       "id": 10,
       "question_type": "kanji",
-      "question_text": "姉がいつも食事の{{用意}}をしてくれます。",
+      "question_text": "姉[あね]がいつも食事[しょくじ]の{用意}をしてくれます。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "よい",
@@ -193,9 +193,9 @@
     {
       "id": 11,
       "question_type": "kanji",
-      "question_text": "彼女はこうちょくしたように{うごかない}。",
+      "question_text": "彼女[かのじょ]はこうちょくしたように{うごかない}。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "動かない",
@@ -212,9 +212,9 @@
     {
       "id": 12,
       "question_type": "kanji",
-      "question_text": "奈良と京都は日本の古い{都}です。",
+      "question_text": "奈良[なら]と京都[きょうと]は日本[にほん]の古[ふる]い{都}です。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "みなと",
@@ -231,9 +231,9 @@
     {
       "id": 13,
       "question_type": "kanji",
-      "question_text": "{趣味}としてじゅうどうを習うつもりです。",
+      "question_text": "{趣味}としてじゅうどうを習[なら]うつもりです。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しゅみ",
@@ -250,9 +250,9 @@
     {
       "id": 14,
       "question_type": "kanji",
-      "question_text": "{きゅうに}空が暗くなりました。",
+      "question_text": "{きゅうに}空[そら]が暗[くら]くなりました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "早に",
@@ -269,9 +269,9 @@
     {
       "id": 15,
       "question_type": "kanji",
-      "question_text": "兄が入院したので、花を持って{お見舞い}に行った。",
+      "question_text": "兄[あに]が入院[にゅういん]したので、花[はな]を持[も]って{お見舞い}に行[い]った。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おみあい",
@@ -288,9 +288,9 @@
     {
       "id": 16,
       "question_type": "kanji",
-      "question_text": "のどが{かわいて}います。水が飲みたいです。",
+      "question_text": "のどが{かわいて}います。水[みず]が飲[の]みたいです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "乾いて",
@@ -307,9 +307,9 @@
     {
       "id": 17,
       "question_type": "kanji",
-      "question_text": "先生の奥さんはとても{優しい}です。",
+      "question_text": "先生[せんせい]の奥[おく]さんはとても{優しい}です。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きびしい",
@@ -326,9 +326,9 @@
     {
       "id": 18,
       "question_type": "kanji",
-      "question_text": "ディズニーランドで姉に{人形を}買ってやった。",
+      "question_text": "ディズニーランドで姉[あね]に{人形を}買[か]ってやった。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "にんけい",
@@ -345,9 +345,9 @@
     {
       "id": 19,
       "question_type": "kanji",
-      "question_text": "おばあさんが昔のいろんな{物語}を話してくれた。",
+      "question_text": "おばあさんが昔[むかし]のいろんな{物語}を話[はな]してくれた。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ものはなし",
@@ -364,9 +364,9 @@
     {
       "id": 20,
       "question_type": "kanji",
-      "question_text": "友達がいなくて、{さびしい}です。",
+      "question_text": "友達[ともだち]がいなくて、{さびしい}です。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "悲しい",
@@ -383,9 +383,9 @@
     {
       "id": 21,
       "question_type": "kanji",
-      "question_text": "海 から 強い 風 がふいてきた。 1. 海",
+      "question_text": "{海}から強[つよ]い風[かぜ]がふいてきた。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うみ",
@@ -402,9 +402,9 @@
     {
       "id": 22,
       "question_type": "kanji",
-      "question_text": "強い",
+      "question_text": "海[うみ]から{強い}風[かぜ]がふいてきた。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おもい",
@@ -421,9 +421,9 @@
     {
       "id": 23,
       "question_type": "kanji",
-      "question_text": "風",
+      "question_text": "海[うみ]から強[つよ]い{風}がふいてきた。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かべ",
@@ -440,9 +440,9 @@
     {
       "id": 24,
       "question_type": "kanji",
-      "question_text": "川で 魚 をとりました。今日の 夕飯 はその魚を 使った料理 にします。 4. 魚",
+      "question_text": "川[かわ]で{魚}をとりました。今日[きょう]の夕飯[ゆうはん]はその魚[さかな]を使[つか]った料理[りょうり]にします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "こめ",
@@ -459,9 +459,9 @@
     {
       "id": 25,
       "question_type": "kanji",
-      "question_text": "夕飯",
+      "question_text": "川[かわ]で魚[さかな]をとりました。今日[きょう]の{夕飯}はその魚[さかな]を使[つか]った料理[りょうり]にします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ちゅうはん",
@@ -478,9 +478,9 @@
     {
       "id": 26,
       "question_type": "kanji",
-      "question_text": "使った",
+      "question_text": "川[かわ]で魚[さかな]をとりました。今日[きょう]の夕飯[ゆうはん]はその魚[さかな]を{使った}料理[りょうり]にします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "つかった",
@@ -497,9 +497,9 @@
     {
       "id": 27,
       "question_type": "kanji",
-      "question_text": "料理",
+      "question_text": "川[かわ]で魚[さかな]をとりました。今日[きょう]の夕飯[ゆうはん]はその魚[さかな]を使[つか]った{料理}にします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "りょり",
@@ -516,9 +516,9 @@
     {
       "id": 28,
       "question_type": "kanji",
-      "question_text": "となりの 教室 から 歌 が聞こえるので、まどを 閉めて ください。 8. 教室",
+      "question_text": "となりの{教室}から歌[うた]が聞[き]こえるので、まどを閉[し]めてください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きょうじつ",
@@ -535,9 +535,9 @@
     {
       "id": 29,
       "question_type": "kanji",
-      "question_text": "歌",
+      "question_text": "となりの教室[きょうしつ]から{歌}が聞[き]こえるので、まどを閉[し]めてください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うた",
@@ -554,9 +554,9 @@
     {
       "id": 30,
       "question_type": "kanji",
-      "question_text": "閉めて",
+      "question_text": "となりの教室[きょうしつ]から歌[うた]が聞[き]こえるので、まどを{閉めて}ください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あめて",
@@ -573,9 +573,9 @@
     {
       "id": 31,
       "question_type": "kanji",
-      "question_text": "電話代 は 夜 の 間 と日曜日が 安い です。 1. 電話代",
+      "question_text": "{電話代}は夜[よる]の間[あいだ]と日曜日[にちようび]が安[やす]いです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "でんわきん",
@@ -592,9 +592,9 @@
     {
       "id": 32,
       "question_type": "kanji",
-      "question_text": "夜",
+      "question_text": "電話代[でんわだい]は{夜}の間[あいだ]と日曜日[にちようび]が安[やす]いです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひる",
@@ -611,9 +611,9 @@
     {
       "id": 33,
       "question_type": "kanji",
-      "question_text": "間",
+      "question_text": "電話代[でんわだい]は夜[よる]の{間}と日曜日[にちようび]が安[やす]いです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "あいだ",
@@ -630,9 +630,9 @@
     {
       "id": 34,
       "question_type": "kanji",
-      "question_text": "安い",
+      "question_text": "電話代[でんわだい]は夜[よる]の間[あいだ]と日曜日[にちようび]が{安い}です。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "やすい",
@@ -649,9 +649,9 @@
     {
       "id": 35,
       "question_type": "kanji",
-      "question_text": "母親 は 台所 で料理をしながら、 食堂 にいる 家族 と 楽しそう に 会話 をしてします。 5. 母親",
+      "question_text": "{母親}は台所[だいどころ]で料理[りょうり]をしながら、食堂[しょくどう]にいる家族[かぞく]と楽[たの]しそうに会話[かいわ]をしてします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ちちおや",
@@ -668,9 +668,9 @@
     {
       "id": 36,
       "question_type": "kanji",
-      "question_text": "台所",
+      "question_text": "母親[ははおや]は{台所}で料理[りょうり]をしながら、食堂[しょくどう]にいる家族[かぞく]と楽[たの]しそうに会話[かいわ]をしてします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たいこころ",
@@ -687,9 +687,9 @@
     {
       "id": 37,
       "question_type": "kanji",
-      "question_text": "食堂",
+      "question_text": "母親[ははおや]は台所[だいどころ]で料理[りょうり]をしながら、{食堂}にいる家族[かぞく]と楽[たの]しそうに会話[かいわ]をしてします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しょっとう",
@@ -706,9 +706,9 @@
     {
       "id": 38,
       "question_type": "kanji",
-      "question_text": "家族",
+      "question_text": "母親[ははおや]は台所[だいどころ]で料理[りょうり]をしながら、食堂[しょくどう]にいる{家族}と楽[たの]しそうに会話[かいわ]をしてします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かぞく",
@@ -725,9 +725,9 @@
     {
       "id": 39,
       "question_type": "kanji",
-      "question_text": "楽しそう",
+      "question_text": "母親[ははおや]は台所[だいどころ]で料理[りょうり]をしながら、食堂[しょくどう]にいる家族[かぞく]と{楽しそう}に会話[かいわ]をしてします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かなしそう",
@@ -744,9 +744,9 @@
     {
       "id": 40,
       "question_type": "kanji",
-      "question_text": "会話",
+      "question_text": "母親[ははおや]は台所[だいどころ]で料理[りょうり]をしながら、食堂[しょくどう]にいる家族[かぞく]と楽[たの]しそうに{会話}をしてします。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かいわ",
@@ -763,9 +763,9 @@
     {
       "id": 41,
       "question_type": "kanji",
-      "question_text": "田中さんの お兄さん はあの 建物 の 出口 のところに立っています。 茶色 の 服 を 着て います。 1. お兄さん",
+      "question_text": "田中[たなか]さんの{お兄さん}はあの建物[たてもの]の出口[でぐち]のところに立[た]っています。茶色[ちゃいろ]の服[ふく]を着[き]ています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おねえさん",
@@ -782,9 +782,9 @@
     {
       "id": 42,
       "question_type": "kanji",
-      "question_text": "建物",
+      "question_text": "田中[たなか]さんのお兄[にい]さんはあの{建物}の出口[でぐち]のところに立[た]っています。茶色[ちゃいろ]の服[ふく]を着[き]ています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たてもの",
@@ -801,9 +801,9 @@
     {
       "id": 43,
       "question_type": "kanji",
-      "question_text": "出口",
+      "question_text": "田中[たなか]さんのお兄[にい]さんはあの建物[たてもの]の{出口}のところに立[た]っています。茶色[ちゃいろ]の服[ふく]を着[き]ています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "でるぐち",
@@ -820,9 +820,9 @@
     {
       "id": 44,
       "question_type": "kanji",
-      "question_text": "茶色",
+      "question_text": "田中[たなか]さんのお兄[にい]さんはあの建物[たてもの]の出口[でぐち]のところに立[た]っています。{茶色}の服[ふく]を着[き]ています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "くさいろ",
@@ -839,9 +839,9 @@
     {
       "id": 45,
       "question_type": "kanji",
-      "question_text": "服",
+      "question_text": "田中[たなか]さんのお兄[にい]さんはあの建物[たてもの]の出口[でぐち]のところに立[た]っています。茶色[ちゃいろ]の{服}を着[き]ています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "くつ",
@@ -858,9 +858,9 @@
     {
       "id": 46,
       "question_type": "kanji",
-      "question_text": "着て",
+      "question_text": "田中[たなか]さんのお兄[にい]さんはあの建物[たてもの]の出口[でぐち]のところに立[た]っています。茶色[ちゃいろ]の服[ふく]を{着て}います。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かぶって",
@@ -877,9 +877,9 @@
     {
       "id": 47,
       "question_type": "kanji",
-      "question_text": "この 町 の 人口 は 去年 より 多く なりました。 7. 町",
+      "question_text": "この　{町}の　人口[じんこう]は　去年[きょねん]より　多[おお]く　なりました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "まち",
@@ -896,9 +896,9 @@
     {
       "id": 48,
       "question_type": "kanji",
-      "question_text": "人口",
+      "question_text": "この　町[まち]の　{人口}は　去年[きょねん]より　多[おお]く　なりました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひとくち",
@@ -915,9 +915,9 @@
     {
       "id": 49,
       "question_type": "kanji",
-      "question_text": "去年",
+      "question_text": "この　町[まち]の　人口[じんこう]は　{去年}より　多[おお]く　なりました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さくねん",
@@ -934,9 +934,9 @@
     {
       "id": 50,
       "question_type": "kanji",
-      "question_text": "多く",
+      "question_text": "この　町[まち]の　人口[じんこう]は　去年[きょねん]より　{多く}　なりました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おもく",
@@ -953,9 +953,9 @@
     {
       "id": 51,
       "question_type": "kanji",
-      "question_text": "その 有名 な 写真家 は、 世界 のいろいろな 鳥 や 動物 を写しました。その人のてんらんかいが新宿で 行われて います。 1. 有名",
+      "question_text": "その{有名}な写真家[しゃしんか]は、世界[せかい]のいろいろな鳥[とり]や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ゆめい",
@@ -972,9 +972,9 @@
     {
       "id": 52,
       "question_type": "kanji",
-      "question_text": "写真家",
+      "question_text": "その有名[ゆうめい]な{写真家}は、世界[せかい]のいろいろな鳥[とり]や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しゃしんか",
@@ -991,9 +991,9 @@
     {
       "id": 53,
       "question_type": "kanji",
-      "question_text": "世界",
+      "question_text": "その有名[ゆうめい]な写真家[しゃしんか]は、{世界}のいろいろな鳥[とり]や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "せかく",
@@ -1010,9 +1010,9 @@
     {
       "id": 54,
       "question_type": "kanji",
-      "question_text": "鳥",
+      "question_text": "その有名[ゆうめい]な写真家[しゃしんか]は、世界[せかい]のいろいろな{鳥}や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "むし",
@@ -1029,9 +1029,9 @@
     {
       "id": 55,
       "question_type": "kanji",
-      "question_text": "動物",
+      "question_text": "その有名[ゆうめい]な写真家[しゃしんか]は、世界[せかい]のいろいろな鳥[とり]や{動物}を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しょくぶつ",
@@ -1048,9 +1048,9 @@
     {
       "id": 56,
       "question_type": "kanji",
-      "question_text": "行われて",
+      "question_text": "その有名[ゆうめい]な写真家[しゃしんか]は、世界[せかい]のいろいろな鳥[とり]や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で{行われて}います。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さそわれて",
@@ -1067,9 +1067,9 @@
     {
       "id": 57,
       "question_type": "kanji",
-      "question_text": "わたしは 医者 に「 働き すぎないように 注意 してください。」と 言われ ました。 7. 医者",
+      "question_text": "わたしは{医者}に「働[はたら]きすぎないように注意[ちゅうい]してください。」と言[い]われました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いしゃ",
@@ -1086,9 +1086,9 @@
     {
       "id": 58,
       "question_type": "kanji",
-      "question_text": "働き",
+      "question_text": "わたしは医者[いしゃ]に「{働き}すぎないように注意[ちゅうい]してください。」と言[い]われました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "はたらき",
@@ -1105,9 +1105,9 @@
     {
       "id": 59,
       "question_type": "kanji",
-      "question_text": "注意",
+      "question_text": "わたしは医者[いしゃ]に「働[はたら]きすぎないように{注意}してください。」と言[い]われました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ちゅうい",
@@ -1124,9 +1124,9 @@
     {
       "id": 60,
       "question_type": "kanji",
-      "question_text": "言われ",
+      "question_text": "わたしは医者[いしゃ]に「働[はたら]きすぎないように注意[ちゅうい]してください。」と{言われ}ました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きわれ",
@@ -1143,9 +1143,9 @@
     {
       "id": 61,
       "question_type": "kanji",
-      "question_text": "わたしの 住んで いる町は、 海 に 近くて 、 自動車工業 がさかんです。 1. 住んで",
+      "question_text": "わたしの{住んで}いる町[まち]は、海[うみ]に近[ちか]くて、自動車[じどうしゃ]工業[こうぎょう]がさかんです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しんで",
@@ -1162,9 +1162,9 @@
     {
       "id": 62,
       "question_type": "kanji",
-      "question_text": "海",
+      "question_text": "わたしの住[す]んでいる町[まち]は、{海}に近[ちか]くて、自動車[じどうしゃ]工業[こうぎょう]がさかんです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かい",
@@ -1181,9 +1181,9 @@
     {
       "id": 63,
       "question_type": "kanji",
-      "question_text": "近くて",
+      "question_text": "わたしの住[す]んでいる町[まち]は、海[うみ]に{近くて}、自動車[じどうしゃ]工業[こうぎょう]がさかんです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ながくて",
@@ -1200,9 +1200,9 @@
     {
       "id": 64,
       "question_type": "kanji",
-      "question_text": "自動車",
+      "question_text": "わたしの住[す]んでいる町[まち]は、海[うみ]に近[ちか]くて、{自動車}工業[こうぎょう]がさかんです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じてんしゃ",
@@ -1219,9 +1219,9 @@
     {
       "id": 65,
       "question_type": "kanji",
-      "question_text": "工業",
+      "question_text": "わたしの住[す]んでいる町[まち]は、海[うみ]に近[ちか]くて、自動車[じどうしゃ]{工業}がさかんです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "こうごう",
@@ -1238,9 +1238,9 @@
     {
       "id": 66,
       "question_type": "kanji",
-      "question_text": "ふうとうに80円 切手 をはって、 送って ください。 6. 切手",
+      "question_text": "ふうとうに80円[えん]{切手}をはって、送[おく]ってください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きっぷ",
@@ -1257,9 +1257,9 @@
     {
       "id": 67,
       "question_type": "kanji",
-      "question_text": "送って",
+      "question_text": "ふうとうに80円[えん]切手[きって]をはって、{送って}ください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おこって",
@@ -1276,9 +1276,9 @@
     {
       "id": 68,
       "question_type": "kanji",
-      "question_text": "きょねん の はる 、そつぎょうしきが おわって から 日本へ 来ました。 8. きょねん",
+      "question_text": "{きょねん}の　はる、そつぎょうしきが　おわってから　日本[にほん]へ　来[き]ました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "昨年",
@@ -1295,9 +1295,9 @@
     {
       "id": 69,
       "question_type": "kanji",
-      "question_text": "はる",
+      "question_text": "きょねんの　{はる}、そつぎょうしきが　おわってから　日本[にほん]へ　来[き]ました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "春",
@@ -1314,9 +1314,9 @@
     {
       "id": 70,
       "question_type": "kanji",
-      "question_text": "おわって",
+      "question_text": "きょねんの　はる、そつぎょうしきが　{おわって}から　日本[にほん]へ　来[き]ました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "終わって",
@@ -1333,9 +1333,9 @@
     {
       "id": 71,
       "question_type": "kanji",
-      "question_text": "その 店 の 主人 はいつも 着物 を着ています。 1. 店",
+      "question_text": "その{店}の主人[しゅじん]はいつも着物[きもの]を着[き]ています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "みせ",
@@ -1352,9 +1352,9 @@
     {
       "id": 72,
       "question_type": "kanji",
-      "question_text": "主人",
+      "question_text": "その店[みせ]の{主人}はいつも着物[きもの]を着[き]ています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しゅうじん",
@@ -1371,9 +1371,9 @@
     {
       "id": 73,
       "question_type": "kanji",
-      "question_text": "着物",
+      "question_text": "その店[みせ]の主人[しゅじん]はいつも{着物}を着[き]ています。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おきもの",
@@ -1390,9 +1390,9 @@
     {
       "id": 74,
       "question_type": "kanji",
-      "question_text": "こうちょう 先生の かんがえかた は ただしい とおもう。 4. こうちょう",
+      "question_text": "{こうちょう}先生[せんせい]のかんがえかたはただしいとおもう。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "高長",
@@ -1409,9 +1409,9 @@
     {
       "id": 75,
       "question_type": "kanji",
-      "question_text": "かんがえかた",
+      "question_text": "こうちょう先生[せんせい]の{かんがえかた}はただしいとおもう。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "老え方",
@@ -1428,9 +1428,9 @@
     {
       "id": 76,
       "question_type": "kanji",
-      "question_text": "ただしい",
+      "question_text": "こうちょう先生[せんせい]のかんがえかたは{ただしい}とおもう。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "止しい",
@@ -1447,9 +1447,9 @@
     {
       "id": 77,
       "question_type": "kanji",
-      "question_text": "銀行 から 三百万以上 のお金を 借りて いる。 7. 銀行",
+      "question_text": "{銀行}から三百[さんびゃく]万[まん]以上[いじょう]のお金[きん]を借[か]りている。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きんこ",
@@ -1466,9 +1466,9 @@
     {
       "id": 78,
       "question_type": "kanji",
-      "question_text": "三百万",
+      "question_text": "銀行[ぎんこう]から{三百万}以上[いじょう]のお金[きん]を借[か]りている。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さんひゃくまん",
@@ -1485,9 +1485,9 @@
     {
       "id": 79,
       "question_type": "kanji",
-      "question_text": "以上",
+      "question_text": "銀行[ぎんこう]から三百[さんびゃく]万[まん]{以上}のお金[きん]を借[か]りている。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いか",
@@ -1504,9 +1504,9 @@
     {
       "id": 80,
       "question_type": "kanji",
-      "question_text": "借りて",
+      "question_text": "銀行[ぎんこう]から三百[さんびゃく]万[まん]以上[いじょう]のお金[きん]を{借りて}いる。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かりて",
@@ -1523,9 +1523,9 @@
     {
       "id": 81,
       "question_type": "kanji",
-      "question_text": "あおい いろ のシャツを おくって ください。 1. あおい",
+      "question_text": "{あおい}いろのシャツをおくってください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "素い",
@@ -1542,9 +1542,9 @@
     {
       "id": 82,
       "question_type": "kanji",
-      "question_text": "いろ",
+      "question_text": "あおい{いろ}のシャツをおくってください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "亀",
@@ -1561,9 +1561,9 @@
     {
       "id": 83,
       "question_type": "kanji",
-      "question_text": "おくって",
+      "question_text": "あおいいろのシャツを{おくって}ください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "達って",
@@ -1580,9 +1580,9 @@
     {
       "id": 84,
       "question_type": "kanji",
-      "question_text": "大使 の 自転車 は 何度 もこわれたそうです。 4. 大使",
+      "question_text": "{大使}の自転車[じてんしゃ]は何度[なんど]もこわれたそうです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "だいし",
@@ -1599,9 +1599,9 @@
     {
       "id": 85,
       "question_type": "kanji",
-      "question_text": "自転車",
+      "question_text": "大使[たいし]の{自転車}は何度[なんど]もこわれたそうです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じてんしゃ",
@@ -1618,9 +1618,9 @@
     {
       "id": 86,
       "question_type": "kanji",
-      "question_text": "何度",
+      "question_text": "大使[たいし]の自転車[じてんしゃ]は{何度}もこわれたそうです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "なにど",
@@ -1637,9 +1637,9 @@
     {
       "id": 87,
       "question_type": "kanji",
-      "question_text": "土曜日は、 有名 な 写真家 のてんらんかいを見てから、 夕方 友だちと 食事 をしました。 7. 有名",
+      "question_text": "土曜日[どようび]は、{有名}な写真家[しゃしんか]のてんらんかいを見[み]てから、夕方[ゆうがた]友[とも]だちと食事[しょくじ]をしました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ゆめ",
@@ -1656,9 +1656,9 @@
     {
       "id": 88,
       "question_type": "kanji",
-      "question_text": "写真家",
+      "question_text": "土曜日[どようび]は、有名[ゆうめい]な{写真家}のてんらんかいを見[み]てから、夕方[ゆうがた]友[とも]だちと食事[しょくじ]をしました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しゃしんか",
@@ -1675,9 +1675,9 @@
     {
       "id": 89,
       "question_type": "kanji",
-      "question_text": "夕方",
+      "question_text": "土曜日[どようび]は、有名[ゆうめい]な写真家[しゃしんか]のてんらんかいを見[み]てから、{夕方}友[とも]だちと食事[しょくじ]をしました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ゆうかた",
@@ -1694,9 +1694,9 @@
     {
       "id": 90,
       "question_type": "kanji",
-      "question_text": "食事",
+      "question_text": "土曜日[どようび]は、有名[ゆうめい]な写真家[しゃしんか]のてんらんかいを見[み]てから、夕方[ゆうがた]友[とも]だちと{食事}をしました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しょうじ",
@@ -1713,9 +1713,9 @@
     {
       "id": 91,
       "question_type": "kanji",
-      "question_text": "おもい にもつ を もって 、 えき まで あるき ました。 1. おもい",
+      "question_text": "{おもい}にもつを もって、えきまであるきました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "高い",
@@ -1732,9 +1732,9 @@
     {
       "id": 92,
       "question_type": "kanji",
-      "question_text": "にもつ",
+      "question_text": "おもい{にもつ}を もって、えきまであるきました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "貨物",
@@ -1751,9 +1751,9 @@
     {
       "id": 93,
       "question_type": "kanji",
-      "question_text": "もって",
+      "question_text": "おもいにもつを {もって}、えきまであるきました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "持って",
@@ -1770,9 +1770,9 @@
     {
       "id": 94,
       "question_type": "kanji",
-      "question_text": "えき",
+      "question_text": "おもいにもつを もって、{えき}まであるきました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "馬",
@@ -1789,9 +1789,9 @@
     {
       "id": 95,
       "question_type": "kanji",
-      "question_text": "あるき",
+      "question_text": "おもいにもつを もって、えきまで{あるき}ました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "小き",
@@ -1808,9 +1808,9 @@
     {
       "id": 96,
       "question_type": "kanji",
-      "question_text": "地下鉄 で行くと、その 病院 までどのくらいかかりますか。 6. 地下鉄",
+      "question_text": "{地下鉄}で行[い]くと、その病院[びょういん]までどのくらいかかりますか。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じかてつ",
@@ -1827,9 +1827,9 @@
     {
       "id": 97,
       "question_type": "kanji",
-      "question_text": "病院",
+      "question_text": "地下鉄[ちかてつ]で行[い]くと、その{病院}までどのくらいかかりますか。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "びょういん",
@@ -1846,9 +1846,9 @@
     {
       "id": 98,
       "question_type": "kanji",
-      "question_text": "あの ふるいえいが は おんがく がすばらしいです。 8. ふるい",
+      "question_text": "あの{ふるい}えいがはおんがくがすばらしいです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "軽い",
@@ -1865,9 +1865,9 @@
     {
       "id": 99,
       "question_type": "kanji",
-      "question_text": "えいが",
+      "question_text": "あのふるい{えいが}はおんがくがすばらしいです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "英画",
@@ -1884,9 +1884,9 @@
     {
       "id": 100,
       "question_type": "kanji",
-      "question_text": "おんがく",
+      "question_text": "あのふるいえいがは{おんがく}がすばらしいです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "音楽",
@@ -1903,9 +1903,9 @@
     {
       "id": 101,
       "question_type": "kanji",
-      "question_text": "お薬ができるまでその{待合室}で待っていてください。",
+      "question_text": "お薬[くすり]ができるまでその{待合室}で待[ま]っていてください。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たいごうしつ",
@@ -1922,9 +1922,9 @@
     {
       "id": 102,
       "question_type": "kanji",
-      "question_text": "{下着}のうりばは階段を下りたところにあります。",
+      "question_text": "{下着}のうりばは階段[かいだん]を下[くだ]りたところにあります。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かちゃく",
@@ -1941,9 +1941,9 @@
     {
       "id": 103,
       "question_type": "kanji",
-      "question_text": "{十分}な理由がなければ、会社を休みません。",
+      "question_text": "{十分}な理由[りゆう]がなければ、会社[かいしゃ]を休[やす]みません。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じゅうぶん",
@@ -1960,9 +1960,9 @@
     {
       "id": 104,
       "question_type": "kanji",
-      "question_text": "彼は人にとても{やさしい}。",
+      "question_text": "彼[かれ]は人[ひと]にとても{やさしい}。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "易しい",
@@ -1979,9 +1979,9 @@
     {
       "id": 105,
       "question_type": "kanji",
-      "question_text": "昨日近くの公園では小さなコンサートを{行い}ました。",
+      "question_text": "昨日[きのう]近[ちか]くの公園[こうえん]では小[ちい]さなコンサートを{行い}ました。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いい",
@@ -1998,9 +1998,9 @@
     {
       "id": 106,
       "question_type": "kanji",
-      "question_text": "{卒業}してもせいじのけんきゅうを続けるつもりです。",
+      "question_text": "{卒業}してもせいじのけんきゅうを続[つづ]けるつもりです。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "そつぎょう",
@@ -2017,9 +2017,9 @@
     {
       "id": 107,
       "question_type": "kanji",
-      "question_text": "{もり}の緑を守らなければならない。",
+      "question_text": "{もり}の緑[みどり]を守[まも]らなければならない。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "森",
@@ -2036,9 +2036,9 @@
     {
       "id": 108,
       "question_type": "kanji",
-      "question_text": "うわさが口から口へと{つたわる}。",
+      "question_text": "うわさが口[くち]から口[くち]へと{つたわる}。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "番わる",
@@ -2055,9 +2055,9 @@
     {
       "id": 109,
       "question_type": "kanji",
-      "question_text": "{こうちょう}先生は今日こうぎをしてくれました。",
+      "question_text": "{こうちょう}先生[せんせい]は今日[きょう]こうぎをしてくれました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "学長",
@@ -2074,9 +2074,9 @@
     {
       "id": 110,
       "question_type": "kanji",
-      "question_text": "彼女は{しんせつ}で心がやさしいです。",
+      "question_text": "彼女[かのじょ]は{しんせつ}で心[こころ]がやさしいです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "親熱",
@@ -2093,9 +2093,9 @@
     {
       "id": 111,
       "question_type": "kanji",
-      "question_text": "{水着}を着た姿を写真にとった。",
+      "question_text": "{水着}を着[き]た姿[すがた]を写真[しゃしん]にとった。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "みずき",
@@ -2112,9 +2112,9 @@
     {
       "id": 112,
       "question_type": "kanji",
-      "question_text": "{はずかしい}話ですが、昨日の試験にパスしませんでした。",
+      "question_text": "{はずかしい}話[はなし]ですが、昨日[きのう]の試験[しけん]にパスしませんでした。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "耿ずかしい",
@@ -2131,9 +2131,9 @@
     {
       "id": 113,
       "question_type": "kanji",
-      "question_text": "このお茶は{こくて}苦い。",
+      "question_text": "このお茶[ちゃ]は{こくて}苦[にが]い。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "濃くて",
@@ -2150,9 +2150,9 @@
     {
       "id": 114,
       "question_type": "kanji",
-      "question_text": "わたしは{甘い}果物が好きです。",
+      "question_text": "わたしは{甘い}果物[くだもの]が好[す]きです。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "にがい",
@@ -2169,9 +2169,9 @@
     {
       "id": 115,
       "question_type": "kanji",
-      "question_text": "山田先生は田中さんの研究計画に{興味}を持っているようです。",
+      "question_text": "山田[やまだ]先生[せんせい]は田中[たなか]さんの研究計画[けんきゅうけいかく]に{興味}を持[も]っているようです。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きょうみ",
@@ -2188,9 +2188,9 @@
     {
       "id": 116,
       "question_type": "kanji",
-      "question_text": "ゆうべ遅く寝たから、今は{ねむい}。",
+      "question_text": "ゆうべ遅[おそ]く寝[ね]たから、今[いま]は{ねむい}。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "睡い",
@@ -2207,9 +2207,9 @@
     {
       "id": 117,
       "question_type": "kanji",
-      "question_text": "みんなは歌いながら{踊って}いる。",
+      "question_text": "みんなは歌[うた]いながら{踊って}いる。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "もとって",
@@ -2226,9 +2226,9 @@
     {
       "id": 118,
       "question_type": "kanji",
-      "question_text": "買ったばかりの靴がもう{壊れ}ました。",
+      "question_text": "買[か]ったばかりの靴[くつ]がもう{壊れ}ました。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "わすれ",
@@ -2245,9 +2245,9 @@
     {
       "id": 119,
       "question_type": "kanji",
-      "question_text": "{げんかん}に犬がいます。気をつけてください。",
+      "question_text": "{げんかん}に犬[いぬ]がいます。気[き]をつけてください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "玄関",
@@ -2264,9 +2264,9 @@
     {
       "id": 120,
       "question_type": "kanji",
-      "question_text": "ズボンに{泥}が付いている。",
+      "question_text": "ズボンに{泥}が付[つ]いている。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "つち",
@@ -2283,9 +2283,9 @@
     {
       "id": 121,
       "question_type": "kanji",
-      "question_text": "６時５分の電車に{遅れて}しまった。",
+      "question_text": "６時[じ]５分[ふん]の電車[でんしゃ]に{遅れて}しまった。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おくれて",
@@ -2302,9 +2302,9 @@
     {
       "id": 122,
       "question_type": "kanji",
-      "question_text": "計算が{正しく}ないから、答えはもちろん合わない。",
+      "question_text": "計算[けいさん]が{正しく}ないから、答[こた]えはもちろん合[あ]わない。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひとしく",
@@ -2321,9 +2321,9 @@
     {
       "id": 123,
       "question_type": "kanji",
-      "question_text": "昨日勉強した内容を{ふくしゅう}する。",
+      "question_text": "昨日[きのう]勉強[べんきょう]した内容[ないよう]を{ふくしゅう}する。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "予修",
@@ -2340,9 +2340,9 @@
     {
       "id": 124,
       "question_type": "kanji",
-      "question_text": "外国人にとって、漢字はあまり{簡単}ではありません。",
+      "question_text": "外国人[がいこくじん]にとって、漢字[かんじ]はあまり{簡単}ではありません。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けんだん",
@@ -2359,9 +2359,9 @@
     {
       "id": 125,
       "question_type": "kanji",
-      "question_text": "日本人は{お正月}にかならずじんじゃに行きます。",
+      "question_text": "日本人[にほんじん]は{お正月}にかならずじんじゃに行[い]きます。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おせいがつ",
@@ -2378,9 +2378,9 @@
     {
       "id": 126,
       "question_type": "kanji",
-      "question_text": "子供にものを{与え}すぎるのはよくない。",
+      "question_text": "子供[こども]にものを{与え}すぎるのはよくない。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "きたえ",
@@ -2397,9 +2397,9 @@
     {
       "id": 127,
       "question_type": "kanji",
-      "question_text": "風邪がすっかり{なおる}まで、ちゃんと薬を飲みなさい。",
+      "question_text": "風邪[かぜ]がすっかり{なおる}まで、ちゃんと薬[くすり]を飲[の]みなさい。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "氷る",
@@ -2418,7 +2418,7 @@
       "question_type": "kanji",
       "question_text": "{暗く}なってきたので、しつれいします。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "くろく",
@@ -2435,9 +2435,9 @@
     {
       "id": 129,
       "question_type": "kanji",
-      "question_text": "父は全然たばこを{吸い}ません。",
+      "question_text": "父[ちち]は全然[ぜんぜん]たばこを{吸い}ません。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しい",
@@ -2454,9 +2454,9 @@
     {
       "id": 130,
       "question_type": "kanji",
-      "question_text": "家はやはり{こうつう}が便利なところがいいです。",
+      "question_text": "家[いえ]はやはり{こうつう}が便利[べんり]なところがいいです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "交渉",
@@ -2473,9 +2473,9 @@
     {
       "id": 131,
       "question_type": "kanji",
-      "question_text": "とても{重要}な書類をなくしてしまった。",
+      "question_text": "とても{重要}な書類[しょるい]をなくしてしまった。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "じゅうよ",
@@ -2492,9 +2492,9 @@
     {
       "id": 132,
       "question_type": "kanji",
-      "question_text": "忙しかったので、友達の誘いを{断った}。",
+      "question_text": "忙[いそが]しかったので、友達[ともだち]の誘[さそ]いを{断った}。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ことわった",
@@ -2511,9 +2511,9 @@
     {
       "id": 133,
       "question_type": "kanji",
-      "question_text": "この靴は皮に見えるが、実際は{ぬの}です。",
+      "question_text": "この靴[くつ]は皮[かわ]に見[み]えるが、実際[じっさい]は{ぬの}です。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "布",
@@ -2530,9 +2530,9 @@
     {
       "id": 134,
       "question_type": "kanji",
-      "question_text": "荷物がおもいので、せんもんの会社に{届けて}もらいました。",
+      "question_text": "荷物[にもつ]がおもいので、せんもんの会社[かいしゃ]に{届けて}もらいました。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ととけて",
@@ -2549,9 +2549,9 @@
     {
       "id": 135,
       "question_type": "kanji",
-      "question_text": "この{指輪}は自分で作りました。",
+      "question_text": "この{指輪}は自分[じぶん]で作[つく]りました。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しりん",
@@ -2568,9 +2568,9 @@
     {
       "id": 136,
       "question_type": "kanji",
-      "question_text": "{しっぱい}しても大丈夫です。またがんばればいいですから。",
+      "question_text": "{しっぱい}しても大丈夫[だいじょうぶ]です。またがんばればいいですから。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "失敗",
@@ -2587,9 +2587,9 @@
     {
       "id": 137,
       "question_type": "kanji",
-      "question_text": "野菜は、{適当}な大きさに切ればいい。",
+      "question_text": "野菜[やさい]は、{適当}な大[おお]きさに切[き]ればいい。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ていどう",
@@ -2606,9 +2606,9 @@
     {
       "id": 138,
       "question_type": "kanji",
-      "question_text": "これは{普段}あまり使わない言葉です。",
+      "question_text": "これは{普段}あまり使[つか]わない言葉[ことば]です。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ふたん",
@@ -2625,9 +2625,9 @@
     {
       "id": 139,
       "question_type": "kanji",
-      "question_text": "正午の太陽は{ひかり}が特に強い。",
+      "question_text": "正午[しょうご]の太陽[たいよう]は{ひかり}が特[とく]に強[つよ]い。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "明",
@@ -2644,9 +2644,9 @@
     {
       "id": 140,
       "question_type": "kanji",
-      "question_text": "知らない人がさいふを{ひろって}くれました。",
+      "question_text": "知[し]らない人[ひと]がさいふを{ひろって}くれました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "広って",
@@ -2665,7 +2665,7 @@
       "question_type": "kanji",
       "question_text": "{親}におこづかいもらってもすぐなくなっちゃうもんね。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しん",
@@ -2682,9 +2682,9 @@
     {
       "id": 142,
       "question_type": "kanji",
-      "question_text": "外国にいくとき、りょこう{案内}や安全じょうほうをよくみてください。",
+      "question_text": "外国[がいこく]にいくとき、りょこう{案内}や安全[あんぜん]じょうほうをよくみてください。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "えんない",
@@ -2701,9 +2701,9 @@
     {
       "id": 143,
       "question_type": "kanji",
-      "question_text": "お金を{数える}仕事って？銀行員だろう。",
+      "question_text": "お金[きん]を{数える}仕事[しごと]って？銀行員[ぎんこういん]だろう。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かぞえる",
@@ -2720,9 +2720,9 @@
     {
       "id": 144,
       "question_type": "kanji",
-      "question_text": "世の中にわたしほど人生に失望している{高校生}なんていないと思う。",
+      "question_text": "世[よ]の中[なか]にわたしほど人生[じんせい]に失望[しつぼう]している{高校生}なんていないと思[おも]う。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ここせい",
@@ -2739,9 +2739,9 @@
     {
       "id": 145,
       "question_type": "kanji",
-      "question_text": "{違った}ボタンを押したので、ほしいのみものがでてきませんでした。",
+      "question_text": "{違った}ボタンを押[お]したので、ほしいのみものがでてきませんでした。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おわった",
@@ -2758,9 +2758,9 @@
     {
       "id": 146,
       "question_type": "kanji",
-      "question_text": "校門の前には、{やくそく}通り由中尾さんが待っていた。",
+      "question_text": "校門[こうもん]の前[まえ]には、{やくそく}通[とお]り由[ゆ]中尾[なかお]さんが待[ま]っていた。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "約束",
@@ -2777,9 +2777,9 @@
     {
       "id": 147,
       "question_type": "kanji",
-      "question_text": "{きんじょ}のおじいさんは昔警官でした。",
+      "question_text": "{きんじょ}のおじいさんは昔[むかし]警官[けいかん]でした。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "近所",
@@ -2796,9 +2796,9 @@
     {
       "id": 148,
       "question_type": "kanji",
-      "question_text": "今日はちょっとバタバタしていて、ゆっくり{おあいて}できないので、日を改めて来てもらえないかな。",
+      "question_text": "今日[きょう]はちょっとバタバタしていて、ゆっくり{おあいて}できないので、日[ひ]を改[あらた]めて来[き]てもらえないかな。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "お箱手",
@@ -2815,9 +2815,9 @@
     {
       "id": 149,
       "question_type": "kanji",
-      "question_text": "{かじ}のために電車が遅れて、かいぎに間に合いませんでした。",
+      "question_text": "{かじ}のために電車[でんしゃ]が遅[おく]れて、かいぎに間[ま]に合[あ]いませんでした。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "家事",
@@ -2834,9 +2834,9 @@
     {
       "id": 150,
       "question_type": "kanji",
-      "question_text": "ここまでちゃんと{いきて}きたから、神様がプレゼントをくださったのかもしれないわね。",
+      "question_text": "ここまでちゃんと{いきて}きたから、神様[かみさま]がプレゼントをくださったのかもしれないわね。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "生きて",
@@ -2853,9 +2853,9 @@
     {
       "id": 151,
       "question_type": "kanji",
-      "question_text": "学校が休みで{寂しい}なんて思ったこと、もしかして生まれて初めてかもしれない。",
+      "question_text": "学校[がっこう]が休[やす]みで{寂しい}なんて思[おも]ったこと、もしかして生[う]まれて初[はじ]めてかもしれない。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "かなしい",
@@ -2872,9 +2872,9 @@
     {
       "id": 152,
       "question_type": "kanji",
-      "question_text": "{冷えた}体を温めようと思って、ストーブをつけた。",
+      "question_text": "{冷えた}体[からだ]を温[あたた]めようと思[おも]って、ストーブをつけた。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "さえた",
@@ -2891,9 +2891,9 @@
     {
       "id": 153,
       "question_type": "kanji",
-      "question_text": "家でゲームやパソコンの画面に{向かって}いるほうが楽だけど学校にはちゃんと通っている。",
+      "question_text": "家[いえ]でゲームやパソコンの画面[がめん]に{向かって}いるほうが楽[らく]だけど学校[がっこう]にはちゃんと通[とお]っている。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たたかって",
@@ -2910,9 +2910,9 @@
     {
       "id": 154,
       "question_type": "kanji",
-      "question_text": "高いものだから、{大事}に使ってください。",
+      "question_text": "高[たか]いものだから、{大事}に使[つか]ってください。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "だいじ",
@@ -2929,9 +2929,9 @@
     {
       "id": 155,
       "question_type": "kanji",
-      "question_text": "おしゃべりする元気があるなら教室に{戻り}なさい。",
+      "question_text": "おしゃべりする元気[げんき]があるなら教室[きょうしつ]に{戻り}なさい。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "もどり",
@@ -2948,9 +2948,9 @@
     {
       "id": 156,
       "question_type": "kanji",
-      "question_text": "きのう{暇}があって、家族といっしょに花見にいきました。",
+      "question_text": "きのう{暇}があって、家族[かぞく]といっしょに花見[はなみ]にいきました。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ひま",
@@ -2967,9 +2967,9 @@
     {
       "id": 157,
       "question_type": "kanji",
-      "question_text": "学校側が{しょうせつ}書いたくらいで、生徒を退学にするわけないじゃないの。",
+      "question_text": "学校側[がっこうがわ]が{しょうせつ}書[か]いたくらいで、生徒[せいと]を退学[たいがく]にするわけないじゃないの。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "小脱",
@@ -2986,9 +2986,9 @@
     {
       "id": 158,
       "question_type": "kanji",
-      "question_text": "一度でもいいから、{いけん}をいってください。",
+      "question_text": "一度[いちど]でもいいから、{いけん}をいってください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "儀建",
@@ -3005,9 +3005,9 @@
     {
       "id": 159,
       "question_type": "kanji",
-      "question_text": "徒歩十分とか、それより少ないかもしれない時間で、マルコさんの家に{とうちゃく}した。",
+      "question_text": "徒歩[とほ]十分[じゅうぶん]とか、それより少[すく]ないかもしれない時間[じかん]で、マルコさんの家[いえ]に{とうちゃく}した。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "致着",
@@ -3024,9 +3024,9 @@
     {
       "id": 160,
       "question_type": "kanji",
-      "question_text": "{さくぶん}を書いて出してください。",
+      "question_text": "{さくぶん}を書[か]いて出[だ]してください。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "作文",
@@ -3043,9 +3043,9 @@
     {
       "id": 161,
       "question_type": "kanji",
-      "question_text": "このドアは、手で軽く{触る}と自動的に開く。",
+      "question_text": "このドアは、手[て]で軽[かる]く{触る}と自動的[じどうてき]に開[あ]く。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しかる",
@@ -3062,9 +3062,9 @@
     {
       "id": 162,
       "question_type": "kanji",
-      "question_text": "世の中にわたしほど人生に失望している{高校生}なんていないと思う。",
+      "question_text": "世[よ]の中[なか]にわたしほど人生[じんせい]に失望[しつぼう]している{高校生}なんていないと思[おも]う。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ここせい",
@@ -3081,9 +3081,9 @@
     {
       "id": 163,
       "question_type": "kanji",
-      "question_text": "妹と町へ{お祭り}を見に行った。",
+      "question_text": "妹[いもうと]と町[まち]へ{お祭り}を見[み]に行[い]った。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おまつり",
@@ -3100,9 +3100,9 @@
     {
       "id": 164,
       "question_type": "kanji",
-      "question_text": "僕もいい結果出ること{祈って}るよ。",
+      "question_text": "僕[ぼく]もいい結果[けっか]出[で]ること{祈って}るよ。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "とどって",
@@ -3119,9 +3119,9 @@
     {
       "id": 165,
       "question_type": "kanji",
-      "question_text": "{遠慮}しないで、どんどん食べてください。",
+      "question_text": "{遠慮}しないで、どんどん食[た]べてください。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おんりょ",
@@ -3138,9 +3138,9 @@
     {
       "id": 166,
       "question_type": "kanji",
-      "question_text": "いきなり店員が失神して{たおれた}。",
+      "question_text": "いきなり店員[てんいん]が失神[しっしん]して{たおれた}。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "致れた",
@@ -3157,9 +3157,9 @@
     {
       "id": 167,
       "question_type": "kanji",
-      "question_text": "お母さんの体の{ぐあい}はどうですか。",
+      "question_text": "お母[かあ]さんの体[からだ]の{ぐあい}はどうですか。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "真合",
@@ -3176,9 +3176,9 @@
     {
       "id": 168,
       "question_type": "kanji",
-      "question_text": "あなたの{じゆう}を縛ってる気がする。",
+      "question_text": "あなたの{じゆう}を縛[しば]ってる気[き]がする。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "自曲",
@@ -3195,9 +3195,9 @@
     {
       "id": 169,
       "question_type": "kanji",
-      "question_text": "こころを開いて、{楽しく}いきてください。",
+      "question_text": "こころを開[あ]いて、{楽しく}いきてください。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "うれしく",
@@ -3214,9 +3214,9 @@
     {
       "id": 170,
       "question_type": "kanji",
-      "question_text": "わたしたちの{けいかく}がすべて水の泡になった。",
+      "question_text": "わたしたちの{けいかく}がすべて水[みず]の泡[あわ]になった。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "針画",
@@ -3233,9 +3233,9 @@
     {
       "id": 171,
       "question_type": "kanji",
-      "question_text": "とても{珍しい}植物を集めている。",
+      "question_text": "とても{珍しい}植物[しょくぶつ]を集[あつ]めている。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "めずらしい",
@@ -3252,9 +3252,9 @@
     {
       "id": 172,
       "question_type": "kanji",
-      "question_text": "{食事}が終わった後、流しで皿を洗いました。",
+      "question_text": "{食事}が終[お]わった後[あと]、流[なが]しで皿[さら]を洗[あら]いました。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "たべごと",
@@ -3271,9 +3271,9 @@
     {
       "id": 173,
       "question_type": "kanji",
-      "question_text": "おばあさんが昔のいろんな{物語}を話してくれた。",
+      "question_text": "おばあさんが昔[むかし]のいろんな{物語}を話[はな]してくれた。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ものはなし",
@@ -3292,7 +3292,7 @@
       "question_type": "kanji",
       "question_text": "{親}におこづかいもらってもすぐなくなっちゃうもんね。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "しん",
@@ -3309,9 +3309,9 @@
     {
       "id": 175,
       "question_type": "kanji",
-      "question_text": "ディズニーランドで姉に{人形}を買ってやった。",
+      "question_text": "ディズニーランドで姉[あね]に{人形}を買[か]ってやった。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "にんけい",
@@ -3328,9 +3328,9 @@
     {
       "id": 176,
       "question_type": "kanji",
-      "question_text": "{説明書}ちゃんと読みなさい。",
+      "question_text": "{説明書}ちゃんと読[よ]みなさい。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "けつめいしょ",
@@ -3347,9 +3347,9 @@
     {
       "id": 177,
       "question_type": "kanji",
-      "question_text": "友達がいなくて、{さびしい}です。",
+      "question_text": "友達[ともだち]がいなくて、{さびしい}です。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "悲しい",
@@ -3366,9 +3366,9 @@
     {
       "id": 178,
       "question_type": "kanji",
-      "question_text": "彼女は硬直したように{うごかない}。",
+      "question_text": "彼女[かのじょ]は硬直[こうちょく]したように{うごかない}。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "動かない",
@@ -3385,9 +3385,9 @@
     {
       "id": 179,
       "question_type": "kanji",
-      "question_text": "お酒を飲むと、{きぶん}が悪くなります。",
+      "question_text": "お酒[さけ]を飲[の]むと、{きぶん}が悪[わる]くなります。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "希分",
@@ -3406,7 +3406,7 @@
       "question_type": "kanji",
       "question_text": "ご{しんせつ}ありがとうございました。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "親切",
@@ -3423,9 +3423,9 @@
     {
       "id": 181,
       "question_type": "kanji",
-      "question_text": "手紙を二つに{折って}封筒に入れました。",
+      "question_text": "手紙[てがみ]を二[ふた]つに{折って}封筒[ふうとう]に入[い]れました。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "おって",
@@ -3442,9 +3442,9 @@
     {
       "id": 182,
       "question_type": "kanji",
-      "question_text": "彼に電話をかけようとしたとき、授業のベルが{鳴った}。",
+      "question_text": "彼[かれ]に電話[でんわ]をかけようとしたとき、授業[じゅぎょう]のベルが{鳴った}。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ぬった",
@@ -3461,9 +3461,9 @@
     {
       "id": 183,
       "question_type": "kanji",
-      "question_text": "{よろこんで}パーティーに参加させていただきます。",
+      "question_text": "{よろこんで}パーティーに参加[さんか]させていただきます。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "楽んで",
@@ -3480,9 +3480,9 @@
     {
       "id": 184,
       "question_type": "kanji",
-      "question_text": "工場のきかいが{故障}したので、今大変です。",
+      "question_text": "工場[こうじょう]のきかいが{故障}したので、今[いま]大変[たいへん]です。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "こしょう",
@@ -3499,9 +3499,9 @@
     {
       "id": 185,
       "question_type": "kanji",
-      "question_text": "{みな}さん、また東京であいましょう。",
+      "question_text": "{みな}さん、また東京[とうきょう]であいましょう。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "階",
@@ -3518,9 +3518,9 @@
     {
       "id": 186,
       "question_type": "kanji",
-      "question_text": "子供をお医者さんに{そだて}たいです。",
+      "question_text": "子供[こども]をお医者[いしゃ]さんに{そだて}たいです。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "養て",
@@ -3537,9 +3537,9 @@
     {
       "id": 187,
       "question_type": "kanji",
-      "question_text": "がくせいは{一生}懸命勉強しなければなりません。",
+      "question_text": "がくせいは{一生}懸命[けんめい]勉強[べんきょう]しなければなりません。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "いしょう",
@@ -3556,9 +3556,9 @@
     {
       "id": 188,
       "question_type": "kanji",
-      "question_text": "{まわり}の人たちからいろいろお世話になった。",
+      "question_text": "{まわり}の人[ひと]たちからいろいろお世話[せわ]になった。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "回り",
@@ -3575,9 +3575,9 @@
     {
       "id": 189,
       "question_type": "kanji",
-      "question_text": "わたしは{貿易}会社で働いている。",
+      "question_text": "わたしは{貿易}会社[かいしゃ]で働[はたら]いている。",
       "statement": {
-        "question_command": "の言葉はひらがなでどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はひらがなでどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "ぼういき",
@@ -3594,9 +3594,9 @@
     {
       "id": 190,
       "question_type": "kanji",
-      "question_text": "わたしたちの{けいかく}がすべて水の泡になった。",
+      "question_text": "わたしたちの{けいかく}がすべて水[みず]の泡[あわ]になった。",
       "statement": {
-        "question_command": "の言葉はどう書きますか。1・2・3・4から最もよいものを一つえらびなさい。"
+        "question_command": "[underline_blank]の言葉[ことば]はどう書[か]きますか。1・2・3・4から最[もっと]もよいものを一[ひと]つえらびなさい。"
       },
       "alternatives": {
         "alternative_1": "針画",
