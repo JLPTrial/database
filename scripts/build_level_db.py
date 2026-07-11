@@ -24,6 +24,7 @@ def validate_inputs(schema_path: Path, data_dir: Path) -> None:
 
 def create_database(schema_path: Path, db_path: Path) -> None:
     db_path.parent.mkdir(parents=True, exist_ok=True)
+    db_path.unlink(missing_ok=True)
     schema_sql = schema_path.read_text(encoding="utf-8")
 
     conn = sqlite3.connect(str(db_path))
@@ -187,6 +188,12 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
             if not question_type or not question_text:
                 raise ValueError("Questão sem question_type ou question_text")
 
+            uid = question.get("uid")
+            if not uid:
+                raise ValueError(
+                    f"Questão sem uid (id={question.get('id')}, tipo={question_type})"
+                )
+
             statement_id = _upsert_statement(conn, question_command)
             alternative_id = _insert_alternatives(conn, alternatives)
             media_id = _insert_media(conn, question.get("media"))
@@ -194,14 +201,16 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
             cursor = conn.execute(
                 """
                 INSERT INTO questions (
+                    uid,
                     alternative_id,
                     media_id,
                     statement_id,
                     question_text,
                     question_type
-                ) VALUES (?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?)
                 """,
                 (
+                    uid,
                     alternative_id,
                     media_id,
                     statement_id,

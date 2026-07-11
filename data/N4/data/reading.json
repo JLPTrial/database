@@ -2,6 +2,7 @@
   "questions": [
     {
       "id": 1,
+      "uid": "N4-reading-0001",
       "question_type": "reading",
       "question_text": "[ 1 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -25,6 +26,7 @@
     },
     {
       "id": 2,
+      "uid": "N4-reading-0002",
       "question_type": "reading",
       "question_text": "[ 2 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -48,6 +50,7 @@
     },
     {
       "id": 3,
+      "uid": "N4-reading-0003",
       "question_type": "reading",
       "question_text": "日本人[にほんじん]は昼[ひる]ごはんによく食[た]べるものは何[なん]ですか。",
       "statement": {
@@ -71,6 +74,7 @@
     },
     {
       "id": 4,
+      "uid": "N4-reading-0004",
       "question_type": "reading",
       "question_text": "正[ただ]しいものはどれですか。",
       "statement": {
@@ -94,6 +98,7 @@
     },
     {
       "id": 5,
+      "uid": "N4-reading-0005",
       "question_type": "reading",
       "question_text": "ジョンさんが日本語[にほんご]の勉強[べんきょう]を始[はじ]めたのはどうしてですか。",
       "statement": {
@@ -117,6 +122,7 @@
     },
     {
       "id": 6,
+      "uid": "N4-reading-0006",
       "question_type": "reading",
       "question_text": "ジョンさんはまんがについてどう思[おも]っていますか。",
       "statement": {
@@ -140,6 +146,7 @@
     },
     {
       "id": 7,
+      "uid": "N4-reading-0007",
       "question_type": "reading",
       "question_text": "（　　　）には何[なに]を入[い]れますか。",
       "statement": {
@@ -163,6 +170,7 @@
     },
     {
       "id": 8,
+      "uid": "N4-reading-0008",
       "question_type": "reading",
       "question_text": "[ 1 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -186,6 +194,7 @@
     },
     {
       "id": 9,
+      "uid": "N4-reading-0009",
       "question_type": "reading",
       "question_text": "[ 2 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -209,6 +218,7 @@
     },
     {
       "id": 10,
+      "uid": "N4-reading-0010",
       "question_type": "reading",
       "question_text": "[ 3 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -232,6 +242,7 @@
     },
     {
       "id": 11,
+      "uid": "N4-reading-0011",
       "question_type": "reading",
       "question_text": "医者[いしゃ]は、川田[かわだ]さんの病気[びょうき]のげんいんは何[なん]だと言[い]っていますか。",
       "statement": {
@@ -255,6 +266,7 @@
     },
     {
       "id": 12,
+      "uid": "N4-reading-0012",
       "question_type": "reading",
       "question_text": "このビルにはかいぎ室[しつ]がぜんぶでいくつありますか。",
       "statement": {
@@ -279,6 +291,7 @@
     },
     {
       "id": 13,
+      "uid": "N4-reading-0013",
       "question_type": "reading",
       "question_text": "３日前[にちまえ]によやくできるかいぎ室[しつ]はどれですか。",
       "statement": {
@@ -303,6 +316,7 @@
     },
     {
       "id": 14,
+      "uid": "N4-reading-0014",
       "question_type": "reading",
       "question_text": "４月[がつ]５日に80人[にん]でかいぎをします。正[ただ]しくよやくしているのはどれですか。",
       "statement": {
@@ -327,6 +341,7 @@
     },
     {
       "id": 15,
+      "uid": "N4-reading-0015",
       "question_type": "reading",
       "question_text": "この町[まち]のアパ－トの説明[せつめい]で正[ただ]しいものはどれですか。",
       "statement": {
@@ -350,6 +365,7 @@
     },
     {
       "id": 16,
+      "uid": "N4-reading-0016",
       "question_type": "reading",
       "question_text": "花田[はなだ]さんのおくさんの説明[せつめい]で正[ただ]しいものはどれですか。",
       "statement": {
@@ -373,6 +389,7 @@
     },
     {
       "id": 17,
+      "uid": "N4-reading-0017",
       "question_type": "reading",
       "question_text": "「ペットと住[す]んでみたい」と思[おも]ったのはどうしてですか。",
       "statement": {
@@ -396,6 +413,7 @@
     },
     {
       "id": 18,
+      "uid": "N4-reading-0018",
       "question_type": "reading",
       "question_text": "[ 1 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -419,6 +437,7 @@
     },
     {
       "id": 19,
+      "uid": "N4-reading-0019",
       "question_type": "reading",
       "question_text": "[ 2 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -442,6 +461,7 @@
     },
     {
       "id": 20,
+      "uid": "N4-reading-0020",
       "question_type": "reading",
       "question_text": "[ 3 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -465,6 +485,7 @@
     },
     {
       "id": 21,
+      "uid": "N4-reading-0021",
       "question_type": "reading",
       "question_text": "すずきさんはこれからどんなアパートを見[み]に行[い]きますか。",
       "statement": {
@@ -488,6 +509,7 @@
     },
     {
       "id": 22,
+      "uid": "N4-reading-0022",
       "question_type": "reading",
       "question_text": "日本[にほん]ではふつう「天気[てんき]が悪[わる]い日[ひ]」とはどんな日[ひ]ですか。",
       "statement": {
@@ -511,6 +533,7 @@
     },
     {
       "id": 23,
+      "uid": "N4-reading-0023",
       "question_type": "reading",
       "question_text": "「わたし」はどうして雨[あめ]の日[ひ]好[す]きですか",
       "statement": {
@@ -534,6 +557,7 @@
     },
     {
       "id": 24,
+      "uid": "N4-reading-0024",
       "question_type": "reading",
       "question_text": "( …………. ) には何[なに]を入[い]れますか。",
       "statement": {
@@ -557,6 +581,7 @@
     },
     {
       "id": 25,
+      "uid": "N4-reading-0025",
       "question_type": "reading",
       "question_text": "[ 1 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -580,6 +605,7 @@
     },
     {
       "id": 26,
+      "uid": "N4-reading-0026",
       "question_type": "reading",
       "question_text": "[ 2 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -603,6 +629,7 @@
     },
     {
       "id": 27,
+      "uid": "N4-reading-0027",
       "question_type": "reading",
       "question_text": "[ 3 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -626,6 +653,7 @@
     },
     {
       "id": 28,
+      "uid": "N4-reading-0028",
       "question_type": "reading",
       "question_text": "[ 4 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -649,6 +677,7 @@
     },
     {
       "id": 29,
+      "uid": "N4-reading-0029",
       "question_type": "reading",
       "question_text": "おまつりのひに男[おとこ]の人[ひと]は何[なに]をしますか。",
       "statement": {
@@ -672,6 +701,7 @@
     },
     {
       "id": 30,
+      "uid": "N4-reading-0030",
       "question_type": "reading",
       "question_text": "おまつりのひに子[こ]どもは何[なに]をしますか。",
       "statement": {
@@ -695,6 +725,7 @@
     },
     {
       "id": 31,
+      "uid": "N4-reading-0031",
       "question_type": "reading",
       "question_text": "この町[まち]では秋[あき]にどんなおまつりをしますか。",
       "statement": {
@@ -718,6 +749,7 @@
     },
     {
       "id": 32,
+      "uid": "N4-reading-0032",
       "question_type": "reading",
       "question_text": "[ 1 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -741,6 +773,7 @@
     },
     {
       "id": 33,
+      "uid": "N4-reading-0033",
       "question_type": "reading",
       "question_text": "[ 2 ] には何[なに]を入[い]れますか。",
       "statement": {
@@ -764,6 +797,7 @@
     },
     {
       "id": 34,
+      "uid": "N4-reading-0034",
       "question_type": "reading",
       "question_text": "リーさんは田中[たなか]さんの家[いえ]に来[き]てから何[なに]をしますか。",
       "statement": {
@@ -787,6 +821,7 @@
     },
     {
       "id": 35,
+      "uid": "N4-reading-0035",
       "question_type": "reading",
       "question_text": "小林[こばやし]さんはどんな音楽[おんがく]が好[す]きですか。",
       "statement": {
@@ -810,6 +845,7 @@
     },
     {
       "id": 36,
+      "uid": "N4-reading-0036",
       "question_type": "reading",
       "question_text": "アンさんは日本[にほん]へ来[く]る前[まえ]、何[なに]をしていまいたか。",
       "statement": {
@@ -833,6 +869,7 @@
     },
     {
       "id": 37,
+      "uid": "N4-reading-0037",
       "question_type": "reading",
       "question_text": "手紙[てがみ]といっしょに何[なん]の写真[しゃしん]を送[おく]りますか。",
       "statement": {
@@ -856,6 +893,7 @@
     },
     {
       "id": 38,
+      "uid": "N4-reading-0038",
       "question_type": "reading",
       "question_text": "[ 1 ] には何[なに]をいれますか。",
       "statement": {
@@ -879,6 +917,7 @@
     },
     {
       "id": 39,
+      "uid": "N4-reading-0039",
       "question_type": "reading",
       "question_text": "[ 2 ] には何[なに]をいれますか。",
       "statement": {
@@ -902,6 +941,7 @@
     },
     {
       "id": 40,
+      "uid": "N4-reading-0040",
       "question_type": "reading",
       "question_text": "[ 3 ] には何[なに]をいれますか。",
       "statement": {
@@ -925,6 +965,7 @@
     },
     {
       "id": 41,
+      "uid": "N4-reading-0041",
       "question_type": "reading",
       "question_text": "この人[ひと]はいつアルバイトをしますか。",
       "statement": {
@@ -948,6 +989,7 @@
     },
     {
       "id": 42,
+      "uid": "N4-reading-0042",
       "question_type": "reading",
       "question_text": "夏休[なつやす]みに何[なに]をしましたか。",
       "statement": {
@@ -971,6 +1013,7 @@
     },
     {
       "id": 43,
+      "uid": "N4-reading-0043",
       "question_type": "reading",
       "question_text": "みずうみで何[なに]をしましたか。",
       "statement": {
@@ -994,6 +1037,7 @@
     },
     {
       "id": 44,
+      "uid": "N4-reading-0044",
       "question_type": "reading",
       "question_text": "お店[みせ]で何[なに]をしましたか。",
       "statement": {
@@ -1017,6 +1061,7 @@
     },
     {
       "id": 45,
+      "uid": "N4-reading-0045",
       "question_type": "reading",
       "question_text": "石川[いしかわ]さんは、来週[らいしゅう]、何[なに]をすると言[い]っていますか。",
       "statement": {
@@ -1041,6 +1086,7 @@
     },
     {
       "id": 46,
+      "uid": "N4-reading-0046",
       "question_type": "reading",
       "question_text": "どんなホテルに泊[と]まりましたか。",
       "statement": {
@@ -1064,6 +1110,7 @@
     },
     {
       "id": 47,
+      "uid": "N4-reading-0047",
       "question_type": "reading",
       "question_text": "駅[えき]からホテルまでどうやって行[い]きましたか。",
       "statement": {
@@ -1087,6 +1134,7 @@
     },
     {
       "id": 48,
+      "uid": "N4-reading-0048",
       "question_type": "reading",
       "question_text": "ホテルに着[つ]いてから、何[なに]をしましたか。",
       "statement": {
@@ -1110,6 +1158,7 @@
     },
     {
       "id": 49,
+      "uid": "N4-reading-0049",
       "question_type": "reading",
       "question_text": "こんな生活[せいかつ]とありますが、どんな生活[せいかつ]ですか。",
       "statement": {
@@ -1133,6 +1182,7 @@
     },
     {
       "id": 50,
+      "uid": "N4-reading-0050",
       "question_type": "reading",
       "question_text": "自転車[じてんしゃ]を借[か]りて乗[の]りたい人[ひと]は、いくら払[はら]わなければなりませんか。",
       "statement": {
@@ -1157,6 +1207,7 @@
     },
     {
       "id": 51,
+      "uid": "N4-reading-0051",
       "question_type": "reading",
       "question_text": "バスケットボールのルールや、やり方[かた]を習[なら]ってから試合[しあい]に出[で]たい人[ひと]は、まずどうしなければなりませんか。",
       "statement": {
@@ -1181,6 +1232,7 @@
     },
     {
       "id": 52,
+      "uid": "N4-reading-0052",
       "question_type": "reading",
       "question_text": "東京[とうきょう]では人々[ひとびと]はどうしてそんなにたくさんゴミを捨[す]てるのか。",
       "statement": {
@@ -1204,6 +1256,7 @@
     },
     {
       "id": 53,
+      "uid": "N4-reading-0053",
       "question_type": "reading",
       "question_text": "「このように」とあるが、どのようにすることか。",
       "statement": {
@@ -1227,6 +1280,7 @@
     },
     {
       "id": 54,
+      "uid": "N4-reading-0054",
       "question_type": "reading",
       "question_text": "著者[ちょしゃ]の考[かんが]えに合[あ]うものはどれか。",
       "statement": {
@@ -1250,6 +1304,7 @@
     },
     {
       "id": 55,
+      "uid": "N4-reading-0055",
       "question_type": "reading",
       "question_text": "このお知[し]らせから、公園[こうえん]についてわかることは何[なん]ですか。",
       "statement": {
@@ -1274,6 +1329,7 @@
     },
     {
       "id": 56,
+      "uid": "N4-reading-0056",
       "question_type": "reading",
       "question_text": "トムさんは、山田[やまだ]先生[せんせい]に何[なに]を知[し]らせなければなりませんか。",
       "statement": {
@@ -1297,6 +1353,7 @@
     },
     {
       "id": 57,
+      "uid": "N4-reading-0057",
       "question_type": "reading",
       "question_text": "石田[いしだ]さんの仕事[しごと]ではないものはどれですか。",
       "statement": {
@@ -1320,6 +1377,7 @@
     },
     {
       "id": 58,
+      "uid": "N4-reading-0058",
       "question_type": "reading",
       "question_text": "この人[ひと]はこれからどうしますか。",
       "statement": {
@@ -1343,6 +1401,7 @@
     },
     {
       "id": 59,
+      "uid": "N4-reading-0059",
       "question_type": "reading",
       "question_text": "著者[ちょしゃ]はタバコを吸[す]うことについて、どう思[おも]っていますか。",
       "statement": {
@@ -1366,6 +1425,7 @@
     },
     {
       "id": 60,
+      "uid": "N4-reading-0060",
       "question_type": "reading",
       "question_text": "ただしいものはどれですか。",
       "statement": {
@@ -1389,6 +1449,7 @@
     },
     {
       "id": 61,
+      "uid": "N4-reading-0061",
       "question_type": "reading",
       "question_text": "（[blank]）　に入[はい]るものは、つぎのどれがいちばんいいですか。",
       "statement": {
@@ -1412,6 +1473,7 @@
     },
     {
       "id": 62,
+      "uid": "N4-reading-0062",
       "question_type": "reading",
       "question_text": "タローのことを正[ただ]しくせつめいしているのはどれですか。",
       "statement": {
@@ -1435,6 +1497,7 @@
     },
     {
       "id": 63,
+      "uid": "N4-reading-0063",
       "question_type": "reading",
       "question_text": "なぜ動物病院[どうぶつびょういん]へ行[い]きましたか。",
       "statement": {
@@ -1458,6 +1521,7 @@
     },
     {
       "id": 64,
+      "uid": "N4-reading-0064",
       "question_type": "reading",
       "question_text": "医者[いしゃ]は何[なん]と言[い]いましたか。",
       "statement": {
@@ -1481,6 +1545,7 @@
     },
     {
       "id": 65,
+      "uid": "N4-reading-0065",
       "question_type": "reading",
       "question_text": "この人[ひと]（「わたし」）のことを正[ただ]しくせつめいしているのはどれですか。",
       "statement": {
@@ -1504,6 +1569,7 @@
     },
     {
       "id": 66,
+      "uid": "N4-reading-0066",
       "question_type": "reading",
       "question_text": "この文[ぶん]からわかることはつぎのどれですか。",
       "statement": {
@@ -1527,6 +1593,7 @@
     },
     {
       "id": 67,
+      "uid": "N4-reading-0067",
       "question_type": "reading",
       "question_text": "田中[たなか]さんがしなければならないことはつぎのどれですか。",
       "statement": {
@@ -1550,6 +1617,7 @@
     },
     {
       "id": 68,
+      "uid": "N4-reading-0068",
       "question_type": "reading",
       "question_text": "ヤンさんの手紙[てがみ]はいつ着[つ]きましたか。",
       "statement": {
@@ -1573,6 +1641,7 @@
     },
     {
       "id": 69,
+      "uid": "N4-reading-0069",
       "question_type": "reading",
       "question_text": "ヤンさんの手紙[てがみ]がおそくなったのはどうしてですか。",
       "statement": {
@@ -1596,6 +1665,7 @@
     },
     {
       "id": 70,
+      "uid": "N4-reading-0070",
       "question_type": "reading",
       "question_text": "ヤンさんはこの手紙[てがみ]を読[よ]んで、何[なに]をしますか。",
       "statement": {
@@ -1619,6 +1689,7 @@
     },
     {
       "id": 71,
+      "uid": "N4-reading-0071",
       "question_type": "reading",
       "question_text": "どれがただしいですか。",
       "statement": {
@@ -1642,6 +1713,7 @@
     },
     {
       "id": 72,
+      "uid": "N4-reading-0072",
       "question_type": "reading",
       "question_text": "この人[ひと]はどうして花見[はなみ]がおもしろかったのですか。",
       "statement": {
@@ -1665,6 +1737,7 @@
     },
     {
       "id": 73,
+      "uid": "N4-reading-0073",
       "question_type": "reading",
       "question_text": "いちばんおどろいたことは何[なん]ですか。",
       "statement": {
@@ -1688,6 +1761,7 @@
     },
     {
       "id": 74,
+      "uid": "N4-reading-0074",
       "question_type": "reading",
       "question_text": "「少[すこ]しおかしいと思[おも]った」のはなぜですか。",
       "statement": {
@@ -1711,6 +1785,7 @@
     },
     {
       "id": 75,
+      "uid": "N4-reading-0075",
       "question_type": "reading",
       "question_text": "（[blank]） に入[い]れるものは、どれがいちばんいいですか。",
       "statement": {
@@ -1734,6 +1809,7 @@
     },
     {
       "id": 76,
+      "uid": "N4-reading-0076",
       "question_type": "reading",
       "question_text": "この人[ひと]はどうして会社[かいしゃ]に遅[おく]れたのですか。",
       "statement": {
@@ -1757,6 +1833,7 @@
     },
     {
       "id": 77,
+      "uid": "N4-reading-0077",
       "question_type": "reading",
       "question_text": "リーさんはどうしますか。",
       "statement": {
@@ -1780,6 +1857,7 @@
     },
     {
       "id": 78,
+      "uid": "N4-reading-0078",
       "question_type": "reading",
       "question_text": "「１」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -1803,6 +1881,7 @@
     },
     {
       "id": 79,
+      "uid": "N4-reading-0079",
       "question_type": "reading",
       "question_text": "「２」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -1826,6 +1905,7 @@
     },
     {
       "id": 80,
+      "uid": "N4-reading-0080",
       "question_type": "reading",
       "question_text": "「３」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -1849,6 +1929,7 @@
     },
     {
       "id": 81,
+      "uid": "N4-reading-0081",
       "question_type": "reading",
       "question_text": "この手紙[てがみ]からわかることはどれですか。",
       "statement": {
@@ -1872,6 +1953,7 @@
     },
     {
       "id": 82,
+      "uid": "N4-reading-0082",
       "question_type": "reading",
       "question_text": "ただしいものはどれですか。",
       "statement": {
@@ -1895,6 +1977,7 @@
     },
     {
       "id": 83,
+      "uid": "N4-reading-0083",
       "question_type": "reading",
       "question_text": "つぎの中[なか]で、林[はやし]さんの子[こ]どもが金曜日[きんようび]の朝[あさ]しなければならないのはどれですか。",
       "statement": {
@@ -1919,6 +2002,7 @@
     },
     {
       "id": 84,
+      "uid": "N4-reading-0084",
       "question_type": "reading",
       "question_text": "「１」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -1942,6 +2026,7 @@
     },
     {
       "id": 85,
+      "uid": "N4-reading-0085",
       "question_type": "reading",
       "question_text": "「２」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -1965,6 +2050,7 @@
     },
     {
       "id": 86,
+      "uid": "N4-reading-0086",
       "question_type": "reading",
       "question_text": "「３」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -1988,6 +2074,7 @@
     },
     {
       "id": 87,
+      "uid": "N4-reading-0087",
       "question_type": "reading",
       "question_text": "「４」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2011,6 +2098,7 @@
     },
     {
       "id": 88,
+      "uid": "N4-reading-0088",
       "question_type": "reading",
       "question_text": "どれがただしいです。",
       "statement": {
@@ -2034,6 +2122,7 @@
     },
     {
       "id": 89,
+      "uid": "N4-reading-0089",
       "question_type": "reading",
       "question_text": "ただしいものはどれですか。",
       "statement": {
@@ -2057,6 +2146,7 @@
     },
     {
       "id": 90,
+      "uid": "N4-reading-0090",
       "question_type": "reading",
       "question_text": "この町[まち]はどんな町[まち]ですか。",
       "statement": {
@@ -2080,6 +2170,7 @@
     },
     {
       "id": 91,
+      "uid": "N4-reading-0091",
       "question_type": "reading",
       "question_text": "この町[まち]には、どんな問題[もんだい]がありますか。",
       "statement": {
@@ -2103,6 +2194,7 @@
     },
     {
       "id": 92,
+      "uid": "N4-reading-0092",
       "question_type": "reading",
       "question_text": "この町[まち]のせつめいで正[ただ]しいものはどれですか。",
       "statement": {
@@ -2126,6 +2218,7 @@
     },
     {
       "id": 93,
+      "uid": "N4-reading-0093",
       "question_type": "reading",
       "question_text": "「１」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2149,6 +2242,7 @@
     },
     {
       "id": 94,
+      "uid": "N4-reading-0094",
       "question_type": "reading",
       "question_text": "「２」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2172,6 +2266,7 @@
     },
     {
       "id": 95,
+      "uid": "N4-reading-0095",
       "question_type": "reading",
       "question_text": "これを書[か]いた人[ひと]のきもちといちばんちかいのは、どれですか。",
       "statement": {
@@ -2195,6 +2290,7 @@
     },
     {
       "id": 96,
+      "uid": "N4-reading-0096",
       "question_type": "reading",
       "question_text": "まっているのはだれですか。",
       "statement": {
@@ -2219,6 +2315,7 @@
     },
     {
       "id": 97,
+      "uid": "N4-reading-0097",
       "question_type": "reading",
       "question_text": "ただしいものはどれですか。",
       "statement": {
@@ -2242,6 +2339,7 @@
     },
     {
       "id": 98,
+      "uid": "N4-reading-0098",
       "question_type": "reading",
       "question_text": "山本[やまもと]さんは、りょうしんから毎月[まいつき]送[おく]ってもらうお金[きん]はどうしていますか。",
       "statement": {
@@ -2265,6 +2363,7 @@
     },
     {
       "id": 99,
+      "uid": "N4-reading-0099",
       "question_type": "reading",
       "question_text": "山本[やまもと]さんは今[いま]のアルバイトをどう思[おも]っていますか。",
       "statement": {
@@ -2288,6 +2387,7 @@
     },
     {
       "id": 100,
+      "uid": "N4-reading-0100",
       "question_type": "reading",
       "question_text": "アルバイトのことを正[ただ]しくせつめいしているのはどれですか。",
       "statement": {
@@ -2311,6 +2411,7 @@
     },
     {
       "id": 101,
+      "uid": "N4-reading-0101",
       "question_type": "reading",
       "question_text": "これを書[か]いた人[ひと]のかんがえといちばんちかいのは、つぎのどれですか。",
       "statement": {
@@ -2334,6 +2435,7 @@
     },
     {
       "id": 102,
+      "uid": "N4-reading-0102",
       "question_type": "reading",
       "question_text": "「１」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2357,6 +2459,7 @@
     },
     {
       "id": 103,
+      "uid": "N4-reading-0103",
       "question_type": "reading",
       "question_text": "「２」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2380,6 +2483,7 @@
     },
     {
       "id": 104,
+      "uid": "N4-reading-0104",
       "question_type": "reading",
       "question_text": "「３」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2403,6 +2507,7 @@
     },
     {
       "id": 105,
+      "uid": "N4-reading-0105",
       "question_type": "reading",
       "question_text": "「４」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2426,6 +2531,7 @@
     },
     {
       "id": 106,
+      "uid": "N4-reading-0106",
       "question_type": "reading",
       "question_text": "リーさんはどんなところへ行[い]きたいと言[い]っていますか。",
       "statement": {
@@ -2449,6 +2555,7 @@
     },
     {
       "id": 107,
+      "uid": "N4-reading-0107",
       "question_type": "reading",
       "question_text": "いっしょうけんめいはたらくとどうなりますか。",
       "statement": {
@@ -2472,6 +2579,7 @@
     },
     {
       "id": 108,
+      "uid": "N4-reading-0108",
       "question_type": "reading",
       "question_text": "この会話[かいわ]では、山川[やまかわ]さんはこれからどうするつもりですか。",
       "statement": {
@@ -2495,6 +2603,7 @@
     },
     {
       "id": 109,
+      "uid": "N4-reading-0109",
       "question_type": "reading",
       "question_text": "ただしいものはどれですか。",
       "statement": {
@@ -2518,6 +2627,7 @@
     },
     {
       "id": 110,
+      "uid": "N4-reading-0110",
       "question_type": "reading",
       "question_text": "「１」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2541,6 +2651,7 @@
     },
     {
       "id": 111,
+      "uid": "N4-reading-0111",
       "question_type": "reading",
       "question_text": "「２」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2564,6 +2675,7 @@
     },
     {
       "id": 112,
+      "uid": "N4-reading-0112",
       "question_type": "reading",
       "question_text": "「３」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2587,6 +2699,7 @@
     },
     {
       "id": 113,
+      "uid": "N4-reading-0113",
       "question_type": "reading",
       "question_text": "「４」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2610,6 +2723,7 @@
     },
     {
       "id": 114,
+      "uid": "N4-reading-0114",
       "question_type": "reading",
       "question_text": "あつまる時間[じかん]と場所[ばしょ]はつぎのどれですか。",
       "statement": {
@@ -2634,6 +2748,7 @@
     },
     {
       "id": 115,
+      "uid": "N4-reading-0115",
       "question_type": "reading",
       "question_text": "ただしいものはどれですか。",
       "statement": {
@@ -2657,6 +2772,7 @@
     },
     {
       "id": 116,
+      "uid": "N4-reading-0116",
       "question_type": "reading",
       "question_text": "「１」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2680,6 +2796,7 @@
     },
     {
       "id": 117,
+      "uid": "N4-reading-0117",
       "question_type": "reading",
       "question_text": "「２」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2703,6 +2820,7 @@
     },
     {
       "id": 118,
+      "uid": "N4-reading-0118",
       "question_type": "reading",
       "question_text": "「３」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2726,6 +2844,7 @@
     },
     {
       "id": 119,
+      "uid": "N4-reading-0119",
       "question_type": "reading",
       "question_text": "「４」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2749,6 +2868,7 @@
     },
     {
       "id": 120,
+      "uid": "N4-reading-0120",
       "question_type": "reading",
       "question_text": "ただしいものはどれですか。",
       "statement": {
@@ -2772,6 +2892,7 @@
     },
     {
       "id": 121,
+      "uid": "N4-reading-0121",
       "question_type": "reading",
       "question_text": "この文章[ぶんしょう]からわかることはつぎのどれですか。",
       "statement": {
@@ -2795,6 +2916,7 @@
     },
     {
       "id": 122,
+      "uid": "N4-reading-0122",
       "question_type": "reading",
       "question_text": "「１」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2818,6 +2940,7 @@
     },
     {
       "id": 123,
+      "uid": "N4-reading-0123",
       "question_type": "reading",
       "question_text": "「２」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2841,6 +2964,7 @@
     },
     {
       "id": 124,
+      "uid": "N4-reading-0124",
       "question_type": "reading",
       "question_text": "「３」にはどんなことばを入[い]れたらいいですか。",
       "statement": {
@@ -2864,6 +2988,7 @@
     },
     {
       "id": 125,
+      "uid": "N4-reading-0125",
       "question_type": "reading",
       "question_text": "「４」にはどんなことばを入[い]れたらいいですか。",
       "statement": {

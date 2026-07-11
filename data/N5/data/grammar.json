@@ -2,6 +2,7 @@
   "questions": [
     {
       "id": 1,
+      "uid": "N5-grammar-0001",
       "question_type": "grammar",
       "question_text": "まいにち　しんぶん　（[blank]）　読[よ]みます。",
       "statement": {
@@ -21,6 +22,7 @@
     },
     {
       "id": 2,
+      "uid": "N5-grammar-0002",
       "question_type": "grammar",
       "question_text": "田中[たなか]さん　は　（[blank]）　来[き]て　いませんよ。",
       "statement": {
@@ -40,6 +42,7 @@
     },
     {
       "id": 3,
+      "uid": "N5-grammar-0003",
       "question_type": "grammar",
       "question_text": "ナイフ　（[blank]）　パン　を　きりました。",
       "statement": {
@@ -59,6 +62,7 @@
     },
     {
       "id": 4,
+      "uid": "N5-grammar-0004",
       "question_type": "grammar",
       "question_text": "家[いえ]　に　かえって　ねたほう　（[blank]）　いいですよ。",
       "statement": {
@@ -78,6 +82,7 @@
     },
     {
       "id": 5,
+      "uid": "N5-grammar-0005",
       "question_type": "grammar",
       "question_text": "お母[かあ]さん、もう　あそび　に　（[blank]）　も　いいですか？",
       "statement": {
@@ -97,6 +102,7 @@
     },
     {
       "id": 6,
+      "uid": "N5-grammar-0006",
       "question_type": "grammar",
       "question_text": "すいようび　に　は　日本[にほん]語[ご]　の　テスト　（[blank]）　。",
       "statement": {
@@ -116,6 +122,7 @@
     },
     {
       "id": 7,
+      "uid": "N5-grammar-0007",
       "question_type": "grammar",
       "question_text": "あなた　の　かみ　は　（[blank]）　よ。",
       "statement": {
@@ -135,6 +142,7 @@
     },
     {
       "id": 8,
+      "uid": "N5-grammar-0008",
       "question_type": "grammar",
       "question_text": "わたし　は　けいかん　に　（[blank]）　です。",
       "statement": {
@@ -154,6 +162,7 @@
     },
     {
       "id": 9,
+      "uid": "N5-grammar-0009",
       "question_type": "grammar",
       "question_text": "わたし　は、これから　（[blank]）　に　行[い]きます。",
       "statement": {
@@ -173,6 +182,7 @@
     },
     {
       "id": 10,
+      "uid": "N5-grammar-0010",
       "question_type": "grammar",
       "question_text": "あの　人[ひと]たち　は　どこ　に　行[い]っているん　（[blank]）　。",
       "statement": {
@@ -192,6 +202,7 @@
     },
     {
       "id": 11,
+      "uid": "N5-grammar-0011",
       "question_type": "grammar",
       "question_text": "この　本[ほん]　は　（[blank]）　読[よ]みました。",
       "statement": {
@@ -211,6 +222,7 @@
     },
     {
       "id": 12,
+      "uid": "N5-grammar-0012",
       "question_type": "grammar",
       "question_text": "山田[やまだ]さん　は　たいへん　いい　人[ひと]　ですよ。なに　も　わるい　こと　は　きいた　こと　が　（[blank]）　わ。",
       "statement": {
@@ -230,6 +242,7 @@
     },
     {
       "id": 13,
+      "uid": "N5-grammar-0013",
       "question_type": "grammar",
       "question_text": "ここ　に　じゅうしょ　を　書[か]いて　（[blank]）　か？",
       "statement": {
@@ -249,6 +262,7 @@
     },
     {
       "id": 14,
+      "uid": "N5-grammar-0014",
       "question_type": "grammar",
       "question_text": "あなた　は　あそこ　へ　行[い]って　（[blank]）　いけませんよ。",
       "statement": {
@@ -268,6 +282,7 @@
     },
     {
       "id": 15,
+      "uid": "N5-grammar-0015",
       "question_type": "grammar",
       "question_text": "どれ　（[blank]）　ここ　で　はたらいて　いましたか？",
       "statement": {
@@ -287,6 +302,7 @@
     },
     {
       "id": 16,
+      "uid": "N5-grammar-0016",
       "question_type": "grammar",
       "question_text": "わたし　は　おんがく　を　きく　（[blank]）　好[す]きです。",
       "statement": {
@@ -306,6 +322,7 @@
     },
     {
       "id": 17,
+      "uid": "N5-grammar-0017",
       "question_type": "grammar",
       "question_text": "わたし　は　一人[ひとり]　で　クリスマス　を　すごす　（[blank]）　です。",
       "statement": {
@@ -325,6 +342,7 @@
     },
     {
       "id": 18,
+      "uid": "N5-grammar-0018",
       "question_type": "grammar",
       "question_text": "（[blank]）　ながら　水[みず]　を　飲[の]まないで　ください。",
       "statement": {
@@ -344,6 +362,7 @@
     },
     {
       "id": 19,
+      "uid": "N5-grammar-0019",
       "question_type": "grammar",
       "question_text": "れいぞうこ　に　ビール　が　入[はい]って　いる　（[blank]）　、そこ　に　すわって　飲[の]みましょう。",
       "statement": {
@@ -363,6 +382,7 @@
     },
     {
       "id": 20,
+      "uid": "N5-grammar-0020",
       "question_type": "grammar",
       "question_text": "わたし　の　こと　を　いつ　までも　（[blank]）　　ください。",
       "statement": {
@@ -382,6 +402,7 @@
     },
     {
       "id": 21,
+      "uid": "N5-grammar-0021",
       "question_type": "grammar",
       "question_text": "まっすぐ　ベッド　に　行[い]き　なさい。明日[あす]　は　（[blank]）　なりますよ。",
       "statement": {
@@ -401,6 +422,7 @@
     },
     {
       "id": 22,
+      "uid": "N5-grammar-0022",
       "question_type": "grammar",
       "question_text": "とうきょう　に　かえる　（[blank]）　、もう　いちど　あなた　に　会[あ]いたいです。",
       "statement": {
@@ -420,6 +442,7 @@
     },
     {
       "id": 23,
+      "uid": "N5-grammar-0023",
       "question_type": "grammar",
       "question_text": "もう　すこし　（[blank]）　して　くださいませんか。",
       "statement": {
@@ -439,6 +462,7 @@
     },
     {
       "id": 24,
+      "uid": "N5-grammar-0024",
       "question_type": "grammar",
       "question_text": "わたし　は、あなた　に　（[blank]）　に　ここ　に　来[き]ました。",
       "statement": {
@@ -458,6 +482,7 @@
     },
     {
       "id": 25,
+      "uid": "N5-grammar-0025",
       "question_type": "grammar",
       "question_text": "そんなに　しんぱい　（[blank]）　な。彼[かれ]　は　ぜったい　大丈夫[だいじょうぶ]だ。",
       "statement": {
@@ -477,6 +502,7 @@
     },
     {
       "id": 26,
+      "uid": "N5-grammar-0026",
       "question_type": "grammar",
       "question_text": "わたしたち　は　もう　あの　家[いえ]　に　すんで　（[blank]）　。",
       "statement": {
@@ -496,6 +522,7 @@
     },
     {
       "id": 27,
+      "uid": "N5-grammar-0027",
       "question_type": "grammar",
       "question_text": "それ、母[はは]　に　は　（[blank]）　ほう　が　いいですよ。",
       "statement": {
@@ -515,6 +542,7 @@
     },
     {
       "id": 28,
+      "uid": "N5-grammar-0028",
       "question_type": "grammar",
       "question_text": "こどもたち　が　先生[せんせい]　の　まわり　に　（[blank]）　います。",
       "statement": {
@@ -534,6 +562,7 @@
     },
     {
       "id": 29,
+      "uid": "N5-grammar-0029",
       "question_type": "grammar",
       "question_text": "兄[あに]　は　たにん　に　もの　を　教[おし]える　（[blank]）　上手[じょうず]なんです。",
       "statement": {
@@ -553,6 +582,7 @@
     },
     {
       "id": 30,
+      "uid": "N5-grammar-0030",
       "question_type": "grammar",
       "question_text": "かのじょ　の　へや　は　あまり　きれい　（[blank]）　。",
       "statement": {
@@ -572,6 +602,7 @@
     },
     {
       "id": 31,
+      "uid": "N5-grammar-0031",
       "question_type": "grammar",
       "question_text": "わたし　は　ここ　に　いちど　（[blank]）　来[き]た　こと　が　あります。",
       "statement": {
@@ -591,6 +622,7 @@
     },
     {
       "id": 32,
+      "uid": "N5-grammar-0032",
       "question_type": "grammar",
       "question_text": "アキラ　（[blank]）　わたし　（[blank]）　あなた　の　ともだちなんですよ。",
       "statement": {
@@ -610,6 +642,7 @@
     },
     {
       "id": 33,
+      "uid": "N5-grammar-0033",
       "question_type": "grammar",
       "question_text": "母[はは]　は　となり　の　おくさん　と　少[すこ]し　話[はなし]　を　（[blank]）　から　家[いえ]　に　かえって　いった。",
       "statement": {
@@ -629,6 +662,7 @@
     },
     {
       "id": 34,
+      "uid": "N5-grammar-0034",
       "question_type": "grammar",
       "question_text": "家[いえ]　に　いる　より　ここ　（[blank]）　ほう　が　きけんですよ。",
       "statement": {
@@ -648,6 +682,7 @@
     },
     {
       "id": 35,
+      "uid": "N5-grammar-0035",
       "question_type": "grammar",
       "question_text": "わたし　が　あなた　（[blank]）　ならんで　立[た]って　も　いいですか？",
       "statement": {
@@ -667,6 +702,7 @@
     },
     {
       "id": 36,
+      "uid": "N5-grammar-0036",
       "question_type": "grammar",
       "question_text": "コーヒー　で　も　飲[の]みながら　（[blank]）　。",
       "statement": {
@@ -686,6 +722,7 @@
     },
     {
       "id": 37,
+      "uid": "N5-grammar-0037",
       "question_type": "grammar",
       "question_text": "みなさん、なぜ　ここ　に　あつまったか、わかって　いる　（[blank]）　。",
       "statement": {
@@ -705,6 +742,7 @@
     },
     {
       "id": 38,
+      "uid": "N5-grammar-0038",
       "question_type": "grammar",
       "question_text": "わたし　の　学校[がっこう]　に　は　たくさん　の　学生[がくせい]　が　（[blank]）　。",
       "statement": {
@@ -724,6 +762,7 @@
     },
     {
       "id": 39,
+      "uid": "N5-grammar-0039",
       "question_type": "grammar",
       "question_text": "このじしょ　は　ここ　（[blank]）　つかって　ください。",
       "statement": {
@@ -743,6 +782,7 @@
     },
     {
       "id": 40,
+      "uid": "N5-grammar-0040",
       "question_type": "grammar",
       "question_text": "なに　か　（[blank]）　こと　が　ありますか？",
       "statement": {
@@ -762,6 +802,7 @@
     },
     {
       "id": 41,
+      "uid": "N5-grammar-0041",
       "question_type": "grammar",
       "question_text": "これ　（[blank]）　ちずです。",
       "statement": {
@@ -781,6 +822,7 @@
     },
     {
       "id": 42,
+      "uid": "N5-grammar-0042",
       "question_type": "grammar",
       "question_text": "スーパー　（[blank]）　かいもの　を　しました。",
       "statement": {
@@ -800,6 +842,7 @@
     },
     {
       "id": 43,
+      "uid": "N5-grammar-0043",
       "question_type": "grammar",
       "question_text": "犬[いぬ]　が　２ひき　います。ねこ　（[blank]）　２ひき　います。",
       "statement": {
@@ -819,6 +862,7 @@
     },
     {
       "id": 44,
+      "uid": "N5-grammar-0044",
       "question_type": "grammar",
       "question_text": "らい　げつ　おきなわ　へ　りょこう　（[blank]）　行[い]きます。",
       "statement": {
@@ -838,6 +882,7 @@
     },
     {
       "id": 45,
+      "uid": "N5-grammar-0045",
       "question_type": "grammar",
       "question_text": "ぼく　は　まいにち　中国[ちゅうごく]語[ご]　（[blank]）　べんきょう　します。",
       "statement": {
@@ -857,6 +902,7 @@
     },
     {
       "id": 46,
+      "uid": "N5-grammar-0046",
       "question_type": "grammar",
       "question_text": "A: らいしゅう　も　ひとり　で　来[き]ますか？\nＢ：いいえ、らいしゅう　は　ともだち　（[blank]）　来[き]ます。",
       "statement": {
@@ -876,6 +922,7 @@
     },
     {
       "id": 47,
+      "uid": "N5-grammar-0047",
       "question_type": "grammar",
       "question_text": "“どう　いたしまして”は　えいご　（[blank]）　なん　と　いいますか？",
       "statement": {
@@ -895,6 +942,7 @@
     },
     {
       "id": 48,
+      "uid": "N5-grammar-0048",
       "question_type": "grammar",
       "question_text": "ここ　に　じゅうしょ　（[blank]）　せいねんがっ　ぴ　を　かいて　ください。",
       "statement": {
@@ -914,6 +962,7 @@
     },
     {
       "id": 49,
+      "uid": "N5-grammar-0049",
       "question_type": "grammar",
       "question_text": "わたし　は　いつも　うち　から　がっこう　（[blank]）　くる　まで　行[い]きます。",
       "statement": {
@@ -933,6 +982,7 @@
     },
     {
       "id": 50,
+      "uid": "N5-grammar-0050",
       "question_type": "grammar",
       "question_text": "この　バス　は　ゆうびん　きょく　の　まえ　（[blank]）　と　おります。",
       "statement": {
@@ -952,6 +1002,7 @@
     },
     {
       "id": 51,
+      "uid": "N5-grammar-0051",
       "question_type": "grammar",
       "question_text": "どれ　（[blank]）　あなた　の　かぎですか？",
       "statement": {
@@ -971,6 +1022,7 @@
     },
     {
       "id": 52,
+      "uid": "N5-grammar-0052",
       "question_type": "grammar",
       "question_text": "なつやすみ　は　なん　にち　（[blank]）　はじまりますか？",
       "statement": {
@@ -990,6 +1042,7 @@
     },
     {
       "id": 53,
+      "uid": "N5-grammar-0053",
       "question_type": "grammar",
       "question_text": "しんぶん　を　さがしましたが、どこ　（[blank]）　ありません。",
       "statement": {
@@ -1009,6 +1062,7 @@
     },
     {
       "id": 54,
+      "uid": "N5-grammar-0054",
       "question_type": "grammar",
       "question_text": "パーティー　は　なんじ　に　はじまる　（[blank]）　しって　いますか？",
       "statement": {
@@ -1028,6 +1082,7 @@
     },
     {
       "id": 55,
+      "uid": "N5-grammar-0055",
       "question_type": "grammar",
       "question_text": "おかね　は　1000　円[えん]　（[blank]）　あります。",
       "statement": {
@@ -1047,6 +1102,7 @@
     },
     {
       "id": 56,
+      "uid": "N5-grammar-0056",
       "question_type": "grammar",
       "question_text": "かさ　は　そこ　（[blank]）　おいて　ください。",
       "statement": {
@@ -1066,6 +1122,7 @@
     },
     {
       "id": 57,
+      "uid": "N5-grammar-0057",
       "question_type": "grammar",
       "question_text": "わたし　は　あまり　（[blank]）　ありませんでした。",
       "statement": {
@@ -1085,6 +1142,7 @@
     },
     {
       "id": 58,
+      "uid": "N5-grammar-0058",
       "question_type": "grammar",
       "question_text": "わたし　の　へや　は　（[blank]）　ないです。",
       "statement": {
@@ -1104,6 +1162,7 @@
     },
     {
       "id": 59,
+      "uid": "N5-grammar-0059",
       "question_type": "grammar",
       "question_text": "あの　子[こ]　は　うた　を　（[blank]）　うたいます。",
       "statement": {
@@ -1123,6 +1182,7 @@
     },
     {
       "id": 60,
+      "uid": "N5-grammar-0060",
       "question_type": "grammar",
       "question_text": "字[じ]　を　もう　すこし　（[blank]）　かきましょう。",
       "statement": {
@@ -1142,6 +1202,7 @@
     },
     {
       "id": 61,
+      "uid": "N5-grammar-0061",
       "question_type": "grammar",
       "question_text": "わたし　は　もっと　（[blank]）　たいです。",
       "statement": {
@@ -1161,6 +1222,7 @@
     },
     {
       "id": 62,
+      "uid": "N5-grammar-0062",
       "question_type": "grammar",
       "question_text": "ここ　で　（[blank]）　　ください。",
       "statement": {
@@ -1180,6 +1242,7 @@
     },
     {
       "id": 63,
+      "uid": "N5-grammar-0063",
       "question_type": "grammar",
       "question_text": "わたし　は　きのう　（[blank]）　まえ　に、てがみ　を　かきました。",
       "statement": {
@@ -1199,6 +1262,7 @@
     },
     {
       "id": 64,
+      "uid": "N5-grammar-0064",
       "question_type": "grammar",
       "question_text": "きのう　本[ほん]　を　（[blank]）　に　行[い]きました。",
       "statement": {
@@ -1218,6 +1282,7 @@
     },
     {
       "id": 65,
+      "uid": "N5-grammar-0065",
       "question_type": "grammar",
       "question_text": "わたし　は　おんがく　を　（[blank]）　ながら　べんきょう　します。",
       "statement": {
@@ -1237,6 +1302,7 @@
     },
     {
       "id": 66,
+      "uid": "N5-grammar-0066",
       "question_type": "grammar",
       "question_text": "あ　した　山田[やまだ]さん　が　（[blank]）　人[ひと]　は　だれですか？",
       "statement": {
@@ -1256,6 +1322,7 @@
     },
     {
       "id": 67,
+      "uid": "N5-grammar-0067",
       "question_type": "grammar",
       "question_text": "いま　すぐ　ビール　を　のみますか？いいえ、おふろ　に　（[blank]）　から　の　みます。",
       "statement": {
@@ -1275,6 +1342,7 @@
     },
     {
       "id": 68,
+      "uid": "N5-grammar-0068",
       "question_type": "grammar",
       "question_text": "かべ　に　ポスター　が　はって　（[blank]）　。",
       "statement": {
@@ -1294,6 +1362,7 @@
     },
     {
       "id": 69,
+      "uid": "N5-grammar-0069",
       "question_type": "grammar",
       "question_text": "この　え　は　わたし　が　きのう　こうえん　で　（[blank]）　えです。",
       "statement": {
@@ -1313,6 +1382,7 @@
     },
     {
       "id": 70,
+      "uid": "N5-grammar-0070",
       "question_type": "grammar",
       "question_text": "こども　は　ゆうべ　ばん　ごはん　を　（[blank]）　ねました。",
       "statement": {
@@ -1332,6 +1402,7 @@
     },
     {
       "id": 71,
+      "uid": "N5-grammar-0071",
       "question_type": "grammar",
       "question_text": "しんぶん　は　あまり　（[blank]）　。",
       "statement": {
@@ -1351,6 +1422,7 @@
     },
     {
       "id": 72,
+      "uid": "N5-grammar-0072",
       "question_type": "grammar",
       "question_text": "りょこう　は　（[blank]）　でしたか？",
       "statement": {
@@ -1370,6 +1442,7 @@
     },
     {
       "id": 73,
+      "uid": "N5-grammar-0073",
       "question_type": "grammar",
       "question_text": "A:　（[blank]）　しごと　を　やすみましたか？\nＢ：びょうきだったからです。",
       "statement": {
@@ -1389,6 +1462,7 @@
     },
     {
       "id": 74,
+      "uid": "N5-grammar-0074",
       "question_type": "grammar",
       "question_text": "Ａ：それ　は　（[blank]）　の　国[くに]　の　きってですか？\nＢ：日本[にっぽん]　のです。",
       "statement": {
@@ -1408,6 +1482,7 @@
     },
     {
       "id": 75,
+      "uid": "N5-grammar-0075",
       "question_type": "grammar",
       "question_text": "Ａ：パーティー　で　は　どんな　（[blank]）　を　のみましたか？\nＢ：ジュース　や　コーラ　を　のみました。",
       "statement": {
@@ -1427,6 +1502,7 @@
     },
     {
       "id": 76,
+      "uid": "N5-grammar-0076",
       "question_type": "grammar",
       "question_text": "びょうき　で　きょう　いち　にち、　（[blank]）　たべませんでした。",
       "statement": {
@@ -1446,6 +1522,7 @@
     },
     {
       "id": 77,
+      "uid": "N5-grammar-0077",
       "question_type": "grammar",
       "question_text": "（[blank]）　　ください。",
       "statement": {
@@ -1465,6 +1542,7 @@
     },
     {
       "id": 78,
+      "uid": "N5-grammar-0078",
       "question_type": "grammar",
       "question_text": "Ａ：おにいさん　は　おげんきですか？\nＢ：　（[blank]）　",
       "statement": {
@@ -1485,6 +1563,7 @@
     },
     {
       "id": 79,
+      "uid": "N5-grammar-0079",
       "question_type": "grammar",
       "question_text": "Ａ：さとうさん　は　もう　来[き]ましたか？\nＢ：　（[blank]）　",
       "statement": {
@@ -1505,6 +1584,7 @@
     },
     {
       "id": 80,
+      "uid": "N5-grammar-0080",
       "question_type": "grammar",
       "question_text": "Ａ：えき　から　がっこう　まで　は　とおいですか？\nＢ：いいえ、　（[blank]）　。",
       "statement": {
@@ -1525,6 +1605,7 @@
     },
     {
       "id": 81,
+      "uid": "N5-grammar-0081",
       "question_type": "grammar",
       "question_text": "パ－ティー　は　いつ　（[blank]）　いいですか。",
       "statement": {
@@ -1544,6 +1625,7 @@
     },
     {
       "id": 82,
+      "uid": "N5-grammar-0082",
       "question_type": "grammar",
       "question_text": "目[め]　の　中[なか]　に　ゴミ　（[blank]）　入[はい]って、いたいです。",
       "statement": {
@@ -1563,6 +1645,7 @@
     },
     {
       "id": 83,
+      "uid": "N5-grammar-0083",
       "question_type": "grammar",
       "question_text": "あの　店[みせ]　は　何[なん]　（[blank]）　いう　名前[なまえ]ですか。",
       "statement": {
@@ -1582,6 +1665,7 @@
     },
     {
       "id": 84,
+      "uid": "N5-grammar-0084",
       "question_type": "grammar",
       "question_text": "30　分[ふん]　（[blank]）　まちましたが、バス　は　来[き]ませんでした。",
       "statement": {
@@ -1601,6 +1685,7 @@
     },
     {
       "id": 85,
+      "uid": "N5-grammar-0085",
       "question_type": "grammar",
       "question_text": "1　日[にち]　（[blank]）　3　かい　くすり　を　のみます。",
       "statement": {
@@ -1620,6 +1705,7 @@
     },
     {
       "id": 86,
+      "uid": "N5-grammar-0086",
       "question_type": "grammar",
       "question_text": "大学[だいがく]　（[blank]）　電車[でんしゃ]　で　30　分[ふん]　かかります。",
       "statement": {
@@ -1639,6 +1725,7 @@
     },
     {
       "id": 87,
+      "uid": "N5-grammar-0087",
       "question_type": "grammar",
       "question_text": "この　しんぶん　は　（[blank]）　から　もう　いりません。",
       "statement": {
@@ -1658,6 +1745,7 @@
     },
     {
       "id": 88,
+      "uid": "N5-grammar-0088",
       "question_type": "grammar",
       "question_text": "この　ことば　を　（[blank]）　　ください。",
       "statement": {
@@ -1677,6 +1765,7 @@
     },
     {
       "id": 89,
+      "uid": "N5-grammar-0089",
       "question_type": "grammar",
       "question_text": "公園[こうえん]　の　花[はな]　は　とても　（[blank]）　。",
       "statement": {
@@ -1696,6 +1785,7 @@
     },
     {
       "id": 90,
+      "uid": "N5-grammar-0090",
       "question_type": "grammar",
       "question_text": "まい　あさ　うち　で　せんたく　を　（[blank]）　から、学校[がっこう]　に　行[い]きます。",
       "statement": {
@@ -1715,6 +1805,7 @@
     },
     {
       "id": 91,
+      "uid": "N5-grammar-0091",
       "question_type": "grammar",
       "question_text": "パン　を　（[blank]）　きります。",
       "statement": {
@@ -1734,6 +1825,7 @@
     },
     {
       "id": 92,
+      "uid": "N5-grammar-0092",
       "question_type": "grammar",
       "question_text": "Ａ：もう　この　本[ほん]　を　読[よ]みましたか。\nＢ：いいえ、　（[blank]）　。",
       "statement": {
@@ -1754,6 +1846,7 @@
     },
     {
       "id": 93,
+      "uid": "N5-grammar-0093",
       "question_type": "grammar",
       "question_text": "ひる　ごはん　の　時間[じかん]　を　もっと　（[blank]）　しませんか。",
       "statement": {
@@ -1773,6 +1866,7 @@
     },
     {
       "id": 94,
+      "uid": "N5-grammar-0094",
       "question_type": "grammar",
       "question_text": "その　こうさてん　（[blank]）　左[ひだり]　に　まがって　ください。",
       "statement": {
@@ -1792,6 +1886,7 @@
     },
     {
       "id": 95,
+      "uid": "N5-grammar-0095",
       "question_type": "grammar",
       "question_text": "パーティー　で、だれ　（[blank]）　ギター　を　ひきましたか。",
       "statement": {
@@ -1811,6 +1906,7 @@
     },
     {
       "id": 96,
+      "uid": "N5-grammar-0096",
       "question_type": "grammar",
       "question_text": "わたし　が　きのう　（[blank]）　カメラ　は　どこ　に　ありますか。",
       "statement": {
@@ -1830,6 +1926,7 @@
     },
     {
       "id": 97,
+      "uid": "N5-grammar-0097",
       "question_type": "grammar",
       "question_text": "あたらしい　ようふく　（[blank]）　ほしいです。",
       "statement": {
@@ -1849,6 +1946,7 @@
     },
     {
       "id": 98,
+      "uid": "N5-grammar-0098",
       "question_type": "grammar",
       "question_text": "時間[じかん]　が　ありません。　（[blank]）　　ください。",
       "statement": {
@@ -1868,6 +1966,7 @@
     },
     {
       "id": 99,
+      "uid": "N5-grammar-0099",
       "question_type": "grammar",
       "question_text": "駅[えき]　まで　いっしょ　に　（[blank]）　ましょう。",
       "statement": {
@@ -1887,6 +1986,7 @@
     },
     {
       "id": 100,
+      "uid": "N5-grammar-0100",
       "question_type": "grammar",
       "question_text": "この　テスト　は、じしょ　を　（[blank]）　　ください。",
       "statement": {
@@ -1906,6 +2006,7 @@
     },
     {
       "id": 101,
+      "uid": "N5-grammar-0101",
       "question_type": "grammar",
       "question_text": "これ　は　何[なん]　（[blank]）　いう　花[はな]ですか。",
       "statement": {
@@ -1925,6 +2026,7 @@
     },
     {
       "id": 102,
+      "uid": "N5-grammar-0102",
       "question_type": "grammar",
       "question_text": "えき　まで　タクシー　で　１０００　円[えん]　（[blank]）　です。",
       "statement": {
@@ -1944,6 +2046,7 @@
     },
     {
       "id": 103,
+      "uid": "N5-grammar-0103",
       "question_type": "grammar",
       "question_text": "本田[ほんだ]：はい、本田[ほんだ]です。\n北山[きたやま]：あ、北山[きたやま]　花子[はなこ]です。すみません、　（[blank]）　\n本田[ほんだ]：はい。ちょっと　まって　くださいね。",
       "statement": {
@@ -1964,6 +2067,7 @@
     },
     {
       "id": 104,
+      "uid": "N5-grammar-0104",
       "question_type": "grammar",
       "question_text": "日本[にっぽん]　（[blank]）　ラーメン　は　おいしいです。",
       "statement": {
@@ -1983,6 +2087,7 @@
     },
     {
       "id": 105,
+      "uid": "N5-grammar-0105",
       "question_type": "grammar",
       "question_text": "女[おんな]　１：さようなら。\n女[おんな]　２：さようなら。また　（[blank]）　。",
       "statement": {
@@ -2003,6 +2108,7 @@
     },
     {
       "id": 106,
+      "uid": "N5-grammar-0106",
       "question_type": "grammar",
       "question_text": "「１」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -2027,6 +2133,7 @@
     },
     {
       "id": 107,
+      "uid": "N5-grammar-0107",
       "question_type": "grammar",
       "question_text": "「２」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -2051,6 +2158,7 @@
     },
     {
       "id": 108,
+      "uid": "N5-grammar-0108",
       "question_type": "grammar",
       "question_text": "「３」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -2075,6 +2183,7 @@
     },
     {
       "id": 109,
+      "uid": "N5-grammar-0109",
       "question_type": "grammar",
       "question_text": "「４」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -2099,6 +2208,7 @@
     },
     {
       "id": 110,
+      "uid": "N5-grammar-0110",
       "question_type": "grammar",
       "question_text": "「５」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -2123,6 +2233,7 @@
     },
     {
       "id": 111,
+      "uid": "N5-grammar-0111",
       "question_type": "grammar",
       "question_text": "まいにち　おふろ　に　（[blank]）　から　ねます。",
       "statement": {
@@ -2142,6 +2253,7 @@
     },
     {
       "id": 112,
+      "uid": "N5-grammar-0112",
       "question_type": "grammar",
       "question_text": "きのう　友達[ともだち]　に　電話[でんわ]　を　（[blank]）　が、いませんでした。",
       "statement": {
@@ -2161,6 +2273,7 @@
     },
     {
       "id": 113,
+      "uid": "N5-grammar-0113",
       "question_type": "grammar",
       "question_text": "土[ど]よう　日[ひ]　は　さんぽ　（[blank]）　ギター　を　れんしゅう　（[blank]）　します。",
       "statement": {
@@ -2180,6 +2293,7 @@
     },
     {
       "id": 114,
+      "uid": "N5-grammar-0114",
       "question_type": "grammar",
       "question_text": "この　みかん　は　ぜんぶ　（[blank]）　いくらですか。",
       "statement": {
@@ -2199,6 +2313,7 @@
     },
     {
       "id": 115,
+      "uid": "N5-grammar-0115",
       "question_type": "grammar",
       "question_text": "おさけ　を　飲[の]みます　（[blank]）　？",
       "statement": {
@@ -2218,6 +2333,7 @@
     },
     {
       "id": 116,
+      "uid": "N5-grammar-0116",
       "question_type": "grammar",
       "question_text": "きょう　は　（[blank]）　ねます。",
       "statement": {
@@ -2237,6 +2353,7 @@
     },
     {
       "id": 117,
+      "uid": "N5-grammar-0117",
       "question_type": "grammar",
       "question_text": "本[ほん]　を　（[blank]）　前[まえ]　に、この　かみ　に　名前[なまえ]　を　書[か]いて　ください。",
       "statement": {
@@ -2256,6 +2373,7 @@
     },
     {
       "id": 118,
+      "uid": "N5-grammar-0118",
       "question_type": "grammar",
       "question_text": "わたし　は　音楽[おんがく]　を　（[blank]）　ながら　べんきょう　を　します。",
       "statement": {
@@ -2275,6 +2393,7 @@
     },
     {
       "id": 119,
+      "uid": "N5-grammar-0119",
       "question_type": "grammar",
       "question_text": "わたし　は　まいばん　こども　が　（[blank]）　あと　で　本[ほん]　を　読[よ]みます。",
       "statement": {
@@ -2294,6 +2413,7 @@
     },
     {
       "id": 120,
+      "uid": "N5-grammar-0120",
       "question_type": "grammar",
       "question_text": "さいふ　は　どこ　（[blank]）　ありませんでした。",
       "statement": {
@@ -2313,6 +2433,7 @@
     },
     {
       "id": 121,
+      "uid": "N5-grammar-0121",
       "question_type": "grammar",
       "question_text": "きのう　は　あたたかかったですが、きょう　は　（[blank]）　。",
       "statement": {
@@ -2332,6 +2453,7 @@
     },
     {
       "id": 122,
+      "uid": "N5-grammar-0122",
       "question_type": "grammar",
       "question_text": "田中[たなか]さん　（[blank]）　来[く]る　日[ひ]　は　火[か]よう　日[ひ]です。",
       "statement": {
@@ -2351,6 +2473,7 @@
     },
     {
       "id": 123,
+      "uid": "N5-grammar-0123",
       "question_type": "grammar",
       "question_text": "あした　雨[あめ]　が　ふるか　ふらない　（[blank]）　わかりません。",
       "statement": {
@@ -2370,6 +2493,7 @@
     },
     {
       "id": 124,
+      "uid": "N5-grammar-0124",
       "question_type": "grammar",
       "question_text": "どこ　（[blank]）　来[き]ましたか。",
       "statement": {
@@ -2389,6 +2513,7 @@
     },
     {
       "id": 125,
+      "uid": "N5-grammar-0125",
       "question_type": "grammar",
       "question_text": "テニス　を　しました。それから、ピンポン　（[blank]）　しました。",
       "statement": {
@@ -2408,6 +2533,7 @@
     },
     {
       "id": 126,
+      "uid": "N5-grammar-0126",
       "question_type": "grammar",
       "question_text": "わたし　の　ケーキ　を　（[blank]）　　ください。",
       "statement": {
@@ -2427,6 +2553,7 @@
     },
     {
       "id": 127,
+      "uid": "N5-grammar-0127",
       "question_type": "grammar",
       "question_text": "外国[がいこく]　に　りょこう　（[blank]）　行[い]きます。",
       "statement": {
@@ -2446,6 +2573,7 @@
     },
     {
       "id": 128,
+      "uid": "N5-grammar-0128",
       "question_type": "grammar",
       "question_text": "テスト　が　（[blank]）　あと　で　パ－ティ－を　します。",
       "statement": {
@@ -2465,6 +2593,7 @@
     },
     {
       "id": 129,
+      "uid": "N5-grammar-0129",
       "question_type": "grammar",
       "question_text": "その　大[おお]きい　にもつ　は　わたし　（[blank]）　です。",
       "statement": {
@@ -2484,6 +2613,7 @@
     },
     {
       "id": 130,
+      "uid": "N5-grammar-0130",
       "question_type": "grammar",
       "question_text": "コーヒー　を　（[blank]）　いかがですか。",
       "statement": {
@@ -2503,6 +2633,7 @@
     },
     {
       "id": 131,
+      "uid": "N5-grammar-0131",
       "question_type": "grammar",
       "question_text": "おとうと　は　いしゃ　（[blank]）　なりました。",
       "statement": {
@@ -2522,6 +2653,7 @@
     },
     {
       "id": 132,
+      "uid": "N5-grammar-0132",
       "question_type": "grammar",
       "question_text": "雨[あめ]　が　ふって　いる　（[blank]）　、きょう　は　出[で]かけません。",
       "statement": {
@@ -2541,6 +2673,7 @@
     },
     {
       "id": 133,
+      "uid": "N5-grammar-0133",
       "question_type": "grammar",
       "question_text": "きょう　は、午後[ごご]　ゆうびん　きょく　へ　行[い]きますが、ぎんこう　（[blank]）　行[い]きません。",
       "statement": {
@@ -2560,6 +2693,7 @@
     },
     {
       "id": 134,
+      "uid": "N5-grammar-0134",
       "question_type": "grammar",
       "question_text": "からだ　が　（[blank]）　なりました。",
       "statement": {
@@ -2579,6 +2713,7 @@
     },
     {
       "id": 135,
+      "uid": "N5-grammar-0135",
       "question_type": "grammar",
       "question_text": "いもうと　は　17さい　（[blank]）　、学生[がくせい]です。",
       "statement": {
@@ -2598,6 +2733,7 @@
     },
     {
       "id": 136,
+      "uid": "N5-grammar-0136",
       "question_type": "grammar",
       "question_text": "きょう　の　テスト　は　（[blank]）　なかったです。",
       "statement": {
@@ -2617,6 +2753,7 @@
     },
     {
       "id": 137,
+      "uid": "N5-grammar-0137",
       "question_type": "grammar",
       "question_text": "みんな　が　たくさん　飲[の]みましたから、　（[blank]）　おさけ　は　ありません。",
       "statement": {
@@ -2636,6 +2773,7 @@
     },
     {
       "id": 138,
+      "uid": "N5-grammar-0138",
       "question_type": "grammar",
       "question_text": "ドア　が　（[blank]）　。",
       "statement": {
@@ -2655,6 +2793,7 @@
     },
     {
       "id": 139,
+      "uid": "N5-grammar-0139",
       "question_type": "grammar",
       "question_text": "きょう　は　とても　あついです　（[blank]）　。",
       "statement": {
@@ -2674,6 +2813,7 @@
     },
     {
       "id": 140,
+      "uid": "N5-grammar-0140",
       "question_type": "grammar",
       "question_text": "A: その　へや　に　入[はい]らないで　ください。\nＢ： 　（[blank]）　。",
       "statement": {
@@ -2694,6 +2834,7 @@
     },
     {
       "id": 141,
+      "uid": "N5-grammar-0141",
       "question_type": "grammar",
       "question_text": "きょねん　の　ふゆ　は　ゆき　が　１　かい　（[blank]）　ふりませんでした。",
       "statement": {
@@ -2713,6 +2854,7 @@
     },
     {
       "id": 142,
+      "uid": "N5-grammar-0142",
       "question_type": "grammar",
       "question_text": "ぎんこう　（[blank]）　デパ－ト　（[blank]）　行[い]きませんでした。",
       "statement": {
@@ -2732,6 +2874,7 @@
     },
     {
       "id": 143,
+      "uid": "N5-grammar-0143",
       "question_type": "grammar",
       "question_text": "まい　あさ　会社[かいしゃ]　に　（[blank]）　まえ　に　スポーツ　を　します。",
       "statement": {
@@ -2751,6 +2894,7 @@
     },
     {
       "id": 144,
+      "uid": "N5-grammar-0144",
       "question_type": "grammar",
       "question_text": "りょうり　は　じぶん　（[blank]）　つくりますか。",
       "statement": {
@@ -2770,6 +2914,7 @@
     },
     {
       "id": 145,
+      "uid": "N5-grammar-0145",
       "question_type": "grammar",
       "question_text": "すみません、ちょっと　（[blank]）　ください。",
       "statement": {
@@ -2789,6 +2934,7 @@
     },
     {
       "id": 146,
+      "uid": "N5-grammar-0146",
       "question_type": "grammar",
       "question_text": "びょうき　に　（[blank]）　時[じ]　は、びょういん　へ　行[い]きます。",
       "statement": {
@@ -2808,6 +2954,7 @@
     },
     {
       "id": 147,
+      "uid": "N5-grammar-0147",
       "question_type": "grammar",
       "question_text": "へや　に　は　だれ　（[blank]）　いません。",
       "statement": {
@@ -2827,6 +2974,7 @@
     },
     {
       "id": 148,
+      "uid": "N5-grammar-0148",
       "question_type": "grammar",
       "question_text": "わたし　は　なつ　に　うみ　で　（[blank]）　たいです。",
       "statement": {
@@ -2846,6 +2994,7 @@
     },
     {
       "id": 149,
+      "uid": "N5-grammar-0149",
       "question_type": "grammar",
       "question_text": "山田[やまだ]さん　は　テニス　は　しますが、ゴルフ　（[blank]）　しません。",
       "statement": {
@@ -2865,6 +3014,7 @@
     },
     {
       "id": 150,
+      "uid": "N5-grammar-0150",
       "question_type": "grammar",
       "question_text": "あした　の　パーディー　は　たぶん　（[blank]）　でしょう。",
       "statement": {
@@ -2884,6 +3034,7 @@
     },
     {
       "id": 151,
+      "uid": "N5-grammar-0151",
       "question_type": "grammar",
       "question_text": "月[げつ]よう　日[ひ]　（[blank]）　火[か]よう　日[ひ]　に　テスト　が　あります。",
       "statement": {
@@ -2903,6 +3054,7 @@
     },
     {
       "id": 152,
+      "uid": "N5-grammar-0152",
       "question_type": "grammar",
       "question_text": "これ　は　先週[せんしゅう]　友[とも]だち　の　いえ　で　（[blank]）　しゃしんです。",
       "statement": {
@@ -2922,6 +3074,7 @@
     },
     {
       "id": 153,
+      "uid": "N5-grammar-0153",
       "question_type": "grammar",
       "question_text": "くだもの　が　（[blank]）　です。",
       "statement": {
@@ -2941,6 +3094,7 @@
     },
     {
       "id": 154,
+      "uid": "N5-grammar-0154",
       "question_type": "grammar",
       "question_text": "えき　（[blank]）　むこう　に　びょういん　が　あります。",
       "statement": {
@@ -2960,6 +3114,7 @@
     },
     {
       "id": 155,
+      "uid": "N5-grammar-0155",
       "question_type": "grammar",
       "question_text": "本[ほん]　を　（[blank]）　とき、じしょ　を　つかいます。",
       "statement": {
@@ -2979,6 +3134,7 @@
     },
     {
       "id": 156,
+      "uid": "N5-grammar-0156",
       "question_type": "grammar",
       "question_text": "魚[さかな]　が　たくさん　（[blank]）　います。",
       "statement": {
@@ -2998,6 +3154,7 @@
     },
     {
       "id": 157,
+      "uid": "N5-grammar-0157",
       "question_type": "grammar",
       "question_text": "A: すみませんが、その　しお　を　とって　ください。\nＢ： 　（[blank]）　。",
       "statement": {
@@ -3018,6 +3175,7 @@
     },
     {
       "id": 158,
+      "uid": "N5-grammar-0158",
       "question_type": "grammar",
       "question_text": "いもうと　が　（[blank]）　とき、父[ちち]　は　外国[がいこく]　に　いました。",
       "statement": {
@@ -3037,6 +3195,7 @@
     },
     {
       "id": 159,
+      "uid": "N5-grammar-0159",
       "question_type": "grammar",
       "question_text": "いっしょ　に　（[blank]）　ましょう。",
       "statement": {
@@ -3056,6 +3215,7 @@
     },
     {
       "id": 160,
+      "uid": "N5-grammar-0160",
       "question_type": "grammar",
       "question_text": "と　しょかん　へ　本[ほん]　を　かえし　（[blank]）　行[い]きます。",
       "statement": {
@@ -3075,6 +3235,7 @@
     },
     {
       "id": 161,
+      "uid": "N5-grammar-0161",
       "question_type": "grammar",
       "question_text": "きのう　は、6　時間[じかん]　（[blank]）　ねました。",
       "statement": {
@@ -3094,6 +3255,7 @@
     },
     {
       "id": 162,
+      "uid": "N5-grammar-0162",
       "question_type": "grammar",
       "question_text": "お金[かね]　が　（[blank]）　、こまって　います。",
       "statement": {
@@ -3113,6 +3275,7 @@
     },
     {
       "id": 163,
+      "uid": "N5-grammar-0163",
       "question_type": "grammar",
       "question_text": "日[にち]よう　日[ひ]　に　そうじ　（[blank]）　せんたく　を　します。",
       "statement": {
@@ -3132,6 +3295,7 @@
     },
     {
       "id": 164,
+      "uid": "N5-grammar-0164",
       "question_type": "grammar",
       "question_text": "あに　の　新[あたら]しい　カメラ　は　（[blank]）　かるい。",
       "statement": {
@@ -3151,6 +3315,7 @@
     },
     {
       "id": 165,
+      "uid": "N5-grammar-0165",
       "question_type": "grammar",
       "question_text": "来週[らいしゅう]　（[blank]）　人[ひと]　は　だれですか。",
       "statement": {
@@ -3170,6 +3335,7 @@
     },
     {
       "id": 166,
+      "uid": "N5-grammar-0166",
       "question_type": "grammar",
       "question_text": "わたし　は　かぞく　（[blank]）　てがみ　を　もらいました。",
       "statement": {
@@ -3189,6 +3355,7 @@
     },
     {
       "id": 167,
+      "uid": "N5-grammar-0167",
       "question_type": "grammar",
       "question_text": "おかし　は　あまり　すき　（[blank]）　。",
       "statement": {
@@ -3208,6 +3375,7 @@
     },
     {
       "id": 168,
+      "uid": "N5-grammar-0168",
       "question_type": "grammar",
       "question_text": "じしょ　を　（[blank]）　から　かんじ　を　書[か]きます。",
       "statement": {
@@ -3227,6 +3395,7 @@
     },
     {
       "id": 169,
+      "uid": "N5-grammar-0169",
       "question_type": "grammar",
       "question_text": "まだ　ゆうびん　きょく　は　（[blank]）　。早[はや]く　行[い]きましょう。",
       "statement": {
@@ -3246,6 +3415,7 @@
     },
     {
       "id": 170,
+      "uid": "N5-grammar-0170",
       "question_type": "grammar",
       "question_text": "この　りょうり　は　あまり　（[blank]）　よ。",
       "statement": {
@@ -3265,6 +3435,7 @@
     },
     {
       "id": 171,
+      "uid": "N5-grammar-0171",
       "question_type": "grammar",
       "question_text": "母[はは]　は　１　か月[げつ]　（[blank]）　１　かい　びょういん　へ　行[い]きます。",
       "statement": {
@@ -3284,6 +3455,7 @@
     },
     {
       "id": 172,
+      "uid": "N5-grammar-0172",
       "question_type": "grammar",
       "question_text": "しゅく　だい　を　（[blank]）　あと　で、てがみ　を　書[か]きます。",
       "statement": {
@@ -3303,6 +3475,7 @@
     },
     {
       "id": 173,
+      "uid": "N5-grammar-0173",
       "question_type": "grammar",
       "question_text": "きのう　は　雨[あめ]　が　（[blank]）　かぜ　が　（[blank]）　しました。",
       "statement": {
@@ -3322,6 +3495,7 @@
     },
     {
       "id": 174,
+      "uid": "N5-grammar-0174",
       "question_type": "grammar",
       "question_text": "この　りょうり　は　ぎゅうにく　（[blank]）　ぶたにく　を　つかいます。",
       "statement": {
@@ -3341,6 +3515,7 @@
     },
     {
       "id": 175,
+      "uid": "N5-grammar-0175",
       "question_type": "grammar",
       "question_text": "きょねん　の　ふゆ　は　（[blank]）　。",
       "statement": {
@@ -3360,6 +3535,7 @@
     },
     {
       "id": 176,
+      "uid": "N5-grammar-0176",
       "question_type": "grammar",
       "question_text": "あした　は　かぜ　が　（[blank]）　でしょう。",
       "statement": {
@@ -3379,6 +3555,7 @@
     },
     {
       "id": 177,
+      "uid": "N5-grammar-0177",
       "question_type": "grammar",
       "question_text": "あした　は　（[blank]）　から、あそび　に　行[い]きませんか。",
       "statement": {
@@ -3398,6 +3575,7 @@
     },
     {
       "id": 178,
+      "uid": "N5-grammar-0178",
       "question_type": "grammar",
       "question_text": "ここ　は　とても　しずか　（[blank]）　いい　ところです。",
       "statement": {
@@ -3417,6 +3595,7 @@
     },
     {
       "id": 179,
+      "uid": "N5-grammar-0179",
       "question_type": "grammar",
       "question_text": "どんな　いろ　（[blank]）　すきですか。",
       "statement": {
@@ -3436,6 +3615,7 @@
     },
     {
       "id": 180,
+      "uid": "N5-grammar-0180",
       "question_type": "grammar",
       "question_text": "会社[かいしゃ]　へ　（[blank]）　まえ　に、ぎんこう　へ　行[い]きました。",
       "statement": {
@@ -3455,6 +3635,7 @@
     },
     {
       "id": 181,
+      "uid": "N5-grammar-0181",
       "question_type": "grammar",
       "question_text": "きょう　は　あまり　（[blank]）　ありません。",
       "statement": {
@@ -3474,6 +3655,7 @@
     },
     {
       "id": 182,
+      "uid": "N5-grammar-0182",
       "question_type": "grammar",
       "question_text": "山川[やまかわ]さん　と　（[blank]）　ながら、ごはん　を　食[た]べました。",
       "statement": {
@@ -3493,6 +3675,7 @@
     },
     {
       "id": 183,
+      "uid": "N5-grammar-0183",
       "question_type": "grammar",
       "question_text": "へや　を　もっと　（[blank]）　して　ください。",
       "statement": {
@@ -3512,6 +3695,7 @@
     },
     {
       "id": 184,
+      "uid": "N5-grammar-0184",
       "question_type": "grammar",
       "question_text": "先生[せんせい]　の　へや　は　（[blank]）　です。",
       "statement": {
@@ -3531,6 +3715,7 @@
     },
     {
       "id": 185,
+      "uid": "N5-grammar-0185",
       "question_type": "grammar",
       "question_text": "この　たまご　は　６こ　（[blank]）　３００　円[えん]です。",
       "statement": {
@@ -3550,6 +3735,7 @@
     },
     {
       "id": 186,
+      "uid": "N5-grammar-0186",
       "question_type": "grammar",
       "question_text": "休[やす]み　の　日[ひ]　は　えいが　を　（[blank]）　たり　買[か]いもの　を　したり　します。",
       "statement": {
@@ -3569,6 +3755,7 @@
     },
     {
       "id": 187,
+      "uid": "N5-grammar-0187",
       "question_type": "grammar",
       "question_text": "えいが　は　何[なん]　時[じ]　（[blank]）　おわりますか。",
       "statement": {
@@ -3588,6 +3775,7 @@
     },
     {
       "id": 188,
+      "uid": "N5-grammar-0188",
       "question_type": "grammar",
       "question_text": "山[やま]　へ　は　ぼうし　を　（[blank]）　行[い]きましょう。",
       "statement": {
@@ -3607,6 +3795,7 @@
     },
     {
       "id": 189,
+      "uid": "N5-grammar-0189",
       "question_type": "grammar",
       "question_text": "パーティー　は　まだ　（[blank]）　。",
       "statement": {
@@ -3626,6 +3815,7 @@
     },
     {
       "id": 190,
+      "uid": "N5-grammar-0190",
       "question_type": "grammar",
       "question_text": "Ａ：先週[せんしゅう]　の　にちようび　に　どこ　か　へ　行[い]きましたか。\nＢ：いいえ、雨[あめ]　が　ふったから、　（[blank]）　。",
       "statement": {
@@ -3645,6 +3835,7 @@
     },
     {
       "id": 191,
+      "uid": "N5-grammar-0191",
       "question_type": "grammar",
       "question_text": "りんご　（[blank]）　みかん　を　買[か]いました。",
       "statement": {
@@ -3664,6 +3855,7 @@
     },
     {
       "id": 192,
+      "uid": "N5-grammar-0192",
       "question_type": "grammar",
       "question_text": "あなた　は　いま、お金[かね]　を　（[blank]）　か。",
       "statement": {
@@ -3683,6 +3875,7 @@
     },
     {
       "id": 193,
+      "uid": "N5-grammar-0193",
       "question_type": "grammar",
       "question_text": "はる休[やす]み　は　（[blank]）　ありますか。",
       "statement": {
@@ -3702,6 +3895,7 @@
     },
     {
       "id": 194,
+      "uid": "N5-grammar-0194",
       "question_type": "grammar",
       "question_text": "ここ　に　かばん　を　（[blank]）　ないで　ください。",
       "statement": {
@@ -3721,6 +3915,7 @@
     },
     {
       "id": 195,
+      "uid": "N5-grammar-0195",
       "question_type": "grammar",
       "question_text": "ゆき　が、たくさん　ふったから、一人[ひとり]　しか　（[blank]）　。",
       "statement": {
@@ -3740,6 +3935,7 @@
     },
     {
       "id": 196,
+      "uid": "N5-grammar-0196",
       "question_type": "grammar",
       "question_text": "きのう　は　（[blank]）　早[はや]く　かえりましたか。",
       "statement": {
@@ -3759,6 +3955,7 @@
     },
     {
       "id": 197,
+      "uid": "N5-grammar-0197",
       "question_type": "grammar",
       "question_text": "きのう　の　よる　は　６　時[じ]　に　（[blank]）　、ごはん　を　つくりました。",
       "statement": {
@@ -3778,6 +3975,7 @@
     },
     {
       "id": 198,
+      "uid": "N5-grammar-0198",
       "question_type": "grammar",
       "question_text": "Ａ：マリーさん　の　かさ　は　どれですか。\nＢ：あれです。　（[blank]）　。",
       "statement": {
@@ -3798,6 +3996,7 @@
     },
     {
       "id": 199,
+      "uid": "N5-grammar-0199",
       "question_type": "grammar",
       "question_text": "もしもし、山本[やまもと]です　（[blank]）　、木下[きのした]さん　は　いますか。",
       "statement": {
@@ -3817,6 +4016,7 @@
     },
     {
       "id": 200,
+      "uid": "N5-grammar-0200",
       "question_type": "grammar",
       "question_text": "（[blank]）　うんどう　を　して　いますか。",
       "statement": {
@@ -3836,6 +4036,7 @@
     },
     {
       "id": 201,
+      "uid": "N5-grammar-0201",
       "question_type": "grammar",
       "question_text": "ヤンさん　は　この　つくえ　を[underline_blank][underline_blank][star_underline_blank][underline_blank]よ。",
       "statement": {
@@ -3856,6 +4057,7 @@
     },
     {
       "id": 202,
+      "uid": "N5-grammar-0202",
       "question_type": "grammar",
       "question_text": "ここ　に[underline_blank][underline_blank][star_underline_blank][underline_blank]　ください。",
       "statement": {
@@ -3876,6 +4078,7 @@
     },
     {
       "id": 203,
+      "uid": "N5-grammar-0203",
       "question_type": "grammar",
       "question_text": "わたし　は[underline_blank][underline_blank][star_underline_blank][underline_blank]。",
       "statement": {
@@ -3896,6 +4099,7 @@
     },
     {
       "id": 204,
+      "uid": "N5-grammar-0204",
       "question_type": "grammar",
       "question_text": "日本[にっぽん]　の[underline_blank][underline_blank][star_underline_blank][underline_blank]です。",
       "statement": {
@@ -3916,6 +4120,7 @@
     },
     {
       "id": 205,
+      "uid": "N5-grammar-0205",
       "question_type": "grammar",
       "question_text": "女[おんな]　１：すみません、えき　[underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　。みち　を　おしえて　くださいませんか。\n女[おんな]　２　えきですか。えき　は…",
       "statement": {
@@ -3936,6 +4141,7 @@
     },
     {
       "id": 206,
+      "uid": "N5-grammar-0206",
       "question_type": "grammar",
       "question_text": "「１」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -3960,6 +4166,7 @@
     },
     {
       "id": 207,
+      "uid": "N5-grammar-0207",
       "question_type": "grammar",
       "question_text": "「２」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -3984,6 +4191,7 @@
     },
     {
       "id": 208,
+      "uid": "N5-grammar-0208",
       "question_type": "grammar",
       "question_text": "「３」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4008,6 +4216,7 @@
     },
     {
       "id": 209,
+      "uid": "N5-grammar-0209",
       "question_type": "grammar",
       "question_text": "「４」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4032,6 +4241,7 @@
     },
     {
       "id": 210,
+      "uid": "N5-grammar-0210",
       "question_type": "grammar",
       "question_text": "「５」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4056,6 +4266,7 @@
     },
     {
       "id": 211,
+      "uid": "N5-grammar-0211",
       "question_type": "grammar",
       "question_text": "明日[あす]　と　しょかん　へ　本[ほん]　を　（[blank]）　に　行[い]きます。",
       "statement": {
@@ -4075,6 +4286,7 @@
     },
     {
       "id": 212,
+      "uid": "N5-grammar-0212",
       "question_type": "grammar",
       "question_text": "子[こ]ども　は　かみ　（[blank]）　ふね　を　つくって　います。",
       "statement": {
@@ -4094,6 +4306,7 @@
     },
     {
       "id": 213,
+      "uid": "N5-grammar-0213",
       "question_type": "grammar",
       "question_text": "あなた　は　今[いま]じしょ　を　（[blank]）　か。",
       "statement": {
@@ -4113,6 +4326,7 @@
     },
     {
       "id": 214,
+      "uid": "N5-grammar-0214",
       "question_type": "grammar",
       "question_text": "きのう　は　あまり　（[blank]）　です。",
       "statement": {
@@ -4132,6 +4346,7 @@
     },
     {
       "id": 215,
+      "uid": "N5-grammar-0215",
       "question_type": "grammar",
       "question_text": "長江[ちょうこう]　は　ちゅうごく　（[blank]）　ながれて　います。",
       "statement": {
@@ -4151,6 +4366,7 @@
     },
     {
       "id": 216,
+      "uid": "N5-grammar-0216",
       "question_type": "grammar",
       "question_text": "まい　あさ　８　時[じ]　ごろ　いえ　を　（[blank]）　か　いしゃ　へ　行[い]きます。",
       "statement": {
@@ -4170,6 +4386,7 @@
     },
     {
       "id": 217,
+      "uid": "N5-grammar-0217",
       "question_type": "grammar",
       "question_text": "日本[にっぽん]　りょうり　は　あまり　すき　（[blank]）　。",
       "statement": {
@@ -4189,6 +4406,7 @@
     },
     {
       "id": 218,
+      "uid": "N5-grammar-0218",
       "question_type": "grammar",
       "question_text": "きのう　母[はは]　（[blank]）　フラー　を　あげました。",
       "statement": {
@@ -4208,6 +4426,7 @@
     },
     {
       "id": 219,
+      "uid": "N5-grammar-0219",
       "question_type": "grammar",
       "question_text": "日本[にほん]語[ご]　の　べんきょう　は　何[なん]　時[じ]　（[blank]）　ですか。",
       "statement": {
@@ -4227,6 +4446,7 @@
     },
     {
       "id": 220,
+      "uid": "N5-grammar-0220",
       "question_type": "grammar",
       "question_text": "その　ちいさい　とけい　（[blank]）　　ください。",
       "statement": {
@@ -4246,6 +4466,7 @@
     },
     {
       "id": 221,
+      "uid": "N5-grammar-0221",
       "question_type": "grammar",
       "question_text": "わたし　の　旅行[りょこう]中[ちゅう]、[underline_blank][underline_blank][star_underline_blank][underline_blank]を　忘[わす]れないです。",
       "statement": {
@@ -4266,6 +4487,7 @@
     },
     {
       "id": 222,
+      "uid": "N5-grammar-0222",
       "question_type": "grammar",
       "question_text": "いま　は[underline_blank][underline_blank][star_underline_blank][underline_blank]です。",
       "statement": {
@@ -4286,6 +4508,7 @@
     },
     {
       "id": 223,
+      "uid": "N5-grammar-0223",
       "question_type": "grammar",
       "question_text": "[underline_blank][underline_blank][star_underline_blank][underline_blank]かかります。",
       "statement": {
@@ -4306,6 +4529,7 @@
     },
     {
       "id": 224,
+      "uid": "N5-grammar-0224",
       "question_type": "grammar",
       "question_text": "ここ　は[underline_blank][underline_blank][star_underline_blank][underline_blank]できます。",
       "statement": {
@@ -4326,6 +4550,7 @@
     },
     {
       "id": 225,
+      "uid": "N5-grammar-0225",
       "question_type": "grammar",
       "question_text": "男[おとこ]　１：これ、使[つか]って　も　いいですか。\n男[おとこ]　２：どうぞ。でも　あまり　きれいじゃ　ないですか、[underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]。",
       "statement": {
@@ -4346,6 +4571,7 @@
     },
     {
       "id": 226,
+      "uid": "N5-grammar-0226",
       "question_type": "grammar",
       "question_text": "「１」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4370,6 +4596,7 @@
     },
     {
       "id": 227,
+      "uid": "N5-grammar-0227",
       "question_type": "grammar",
       "question_text": "「２」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4394,6 +4621,7 @@
     },
     {
       "id": 228,
+      "uid": "N5-grammar-0228",
       "question_type": "grammar",
       "question_text": "「３」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4418,6 +4646,7 @@
     },
     {
       "id": 229,
+      "uid": "N5-grammar-0229",
       "question_type": "grammar",
       "question_text": "「４」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4442,6 +4671,7 @@
     },
     {
       "id": 230,
+      "uid": "N5-grammar-0230",
       "question_type": "grammar",
       "question_text": "「５」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4466,6 +4696,7 @@
     },
     {
       "id": 231,
+      "uid": "N5-grammar-0231",
       "question_type": "grammar",
       "question_text": "なつやすみ　に　一人[ひとり]　（[blank]）　祖母[そぼ]　の　いえ　に　行[い]きます。",
       "statement": {
@@ -4485,6 +4716,7 @@
     },
     {
       "id": 232,
+      "uid": "N5-grammar-0232",
       "question_type": "grammar",
       "question_text": "テーブル　の　上[うえ]　に　ナイフ　と　フォーク　が　（[blank]）　。",
       "statement": {
@@ -4504,6 +4736,7 @@
     },
     {
       "id": 233,
+      "uid": "N5-grammar-0233",
       "question_type": "grammar",
       "question_text": "もう　少[すこ]し　（[blank]）　食[た]べて　ください。",
       "statement": {
@@ -4523,6 +4756,7 @@
     },
     {
       "id": 234,
+      "uid": "N5-grammar-0234",
       "question_type": "grammar",
       "question_text": "いつも　母[はは]　（[blank]）　いっしょ　に　しょくじ　を　します。",
       "statement": {
@@ -4542,6 +4776,7 @@
     },
     {
       "id": 235,
+      "uid": "N5-grammar-0235",
       "question_type": "grammar",
       "question_text": "しゅく　だい　を　（[blank]）　あと　で、テレビ　を　見[み]ます。",
       "statement": {
@@ -4561,6 +4796,7 @@
     },
     {
       "id": 236,
+      "uid": "N5-grammar-0236",
       "question_type": "grammar",
       "question_text": "今日[きょう]　は　（[blank]）　ねましょう。",
       "statement": {
@@ -4580,6 +4816,7 @@
     },
     {
       "id": 237,
+      "uid": "N5-grammar-0237",
       "question_type": "grammar",
       "question_text": "わたし　は　よく　ラジオ　（[blank]）　おんがく　を　聞[き]きます。",
       "statement": {
@@ -4599,6 +4836,7 @@
     },
     {
       "id": 238,
+      "uid": "N5-grammar-0238",
       "question_type": "grammar",
       "question_text": "ばん　ごはん　を　（[blank]）　あと　で、さんぽ　します。",
       "statement": {
@@ -4618,6 +4856,7 @@
     },
     {
       "id": 239,
+      "uid": "N5-grammar-0239",
       "question_type": "grammar",
       "question_text": "わたし　は　さく　ぶん　を　（[blank]）　とき、いつもじしょ　を　つかいます。",
       "statement": {
@@ -4637,6 +4876,7 @@
     },
     {
       "id": 240,
+      "uid": "N5-grammar-0240",
       "question_type": "grammar",
       "question_text": "わたし　は　たなかさん　を　３　時間[じかん]　（[blank]）　まって　いました。",
       "statement": {
@@ -4656,6 +4896,7 @@
     },
     {
       "id": 241,
+      "uid": "N5-grammar-0241",
       "question_type": "grammar",
       "question_text": "妹[いもうと]さん　は[underline_blank][underline_blank][star_underline_blank][underline_blank]か。",
       "statement": {
@@ -4676,6 +4917,7 @@
     },
     {
       "id": 242,
+      "uid": "N5-grammar-0242",
       "question_type": "grammar",
       "question_text": "時間[じかん]　が[underline_blank][underline_blank][star_underline_blank][underline_blank]。",
       "statement": {
@@ -4696,6 +4938,7 @@
     },
     {
       "id": 243,
+      "uid": "N5-grammar-0243",
       "question_type": "grammar",
       "question_text": "しけん　は[underline_blank][underline_blank][star_underline_blank][underline_blank]でした。",
       "statement": {
@@ -4716,6 +4959,7 @@
     },
     {
       "id": 244,
+      "uid": "N5-grammar-0244",
       "question_type": "grammar",
       "question_text": "まっすぐ　いくと[underline_blank][underline_blank][star_underline_blank][underline_blank]そこ　で　肉[にく]　を　買[か]って　ください。",
       "statement": {
@@ -4736,6 +4980,7 @@
     },
     {
       "id": 245,
+      "uid": "N5-grammar-0245",
       "question_type": "grammar",
       "question_text": "男[おとこ]　１：これから、田中[たなか]さん　[underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　行[い]きます。キムさん　も　いっしょ　に　どうですか。\n男[おとこ]　２：えっ、いいですか。お願[ねが]い　します。",
       "statement": {
@@ -4756,6 +5001,7 @@
     },
     {
       "id": 246,
+      "uid": "N5-grammar-0246",
       "question_type": "grammar",
       "question_text": "「１」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4780,6 +5026,7 @@
     },
     {
       "id": 247,
+      "uid": "N5-grammar-0247",
       "question_type": "grammar",
       "question_text": "「２」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4804,6 +5051,7 @@
     },
     {
       "id": 248,
+      "uid": "N5-grammar-0248",
       "question_type": "grammar",
       "question_text": "「３」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4828,6 +5076,7 @@
     },
     {
       "id": 249,
+      "uid": "N5-grammar-0249",
       "question_type": "grammar",
       "question_text": "「４」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4852,6 +5101,7 @@
     },
     {
       "id": 250,
+      "uid": "N5-grammar-0250",
       "question_type": "grammar",
       "question_text": "「５」に　何[なん]　を　入[い]れますか。",
       "statement": {
@@ -4876,6 +5126,7 @@
     },
     {
       "id": 251,
+      "uid": "N5-grammar-0251",
       "question_type": "grammar",
       "question_text": "わたし　の　母[はは]　は　５０さいです。父[ちち]　は　５５さいです。母[はは]　は　父[ちち]　（[blank]）　５さい　わかいです。",
       "statement": {
@@ -4895,6 +5146,7 @@
     },
     {
       "id": 252,
+      "uid": "N5-grammar-0252",
       "question_type": "grammar",
       "question_text": "わたし　の　うち　は　がっこう　の　隣[となり]　（[blank]）　あります。",
       "statement": {
@@ -4914,6 +5166,7 @@
     },
     {
       "id": 253,
+      "uid": "N5-grammar-0253",
       "question_type": "grammar",
       "question_text": "こん　げつ　は　雨[あめ]　が　１　回[かい]　（[blank]）　ふりませんでした。",
       "statement": {
@@ -4933,6 +5186,7 @@
     },
     {
       "id": 254,
+      "uid": "N5-grammar-0254",
       "question_type": "grammar",
       "question_text": "子供[こども]「いただきます。」",
       "statement": {
@@ -4952,6 +5206,7 @@
     },
     {
       "id": 255,
+      "uid": "N5-grammar-0255",
       "question_type": "grammar",
       "question_text": "父[ちち]　は　へや　（[blank]）　で　て　会社[かいしゃ]　へ　行[い]きました。",
       "statement": {
@@ -4971,6 +5226,7 @@
     },
     {
       "id": 256,
+      "uid": "N5-grammar-0256",
       "question_type": "grammar",
       "question_text": "男[おとこ]　１　「あの　[underline_blank]　[underline_blank]　[star_underline_blank]　[underline_blank]　人[ひと]　は　どなたですか。」\n\n男[おとこ]　２　「ああ、あの　赤[あか]い　シャツ　を　着[き]た　人[ひと]　ね。あれ　は　リーさんですよ。」",
       "statement": {
@@ -4991,6 +5247,7 @@
     },
     {
       "id": 257,
+      "uid": "N5-grammar-0257",
       "question_type": "grammar",
       "question_text": "佐藤[さとう]さん　は[underline_blank][underline_blank][star_underline_blank][underline_blank]います。",
       "statement": {
@@ -5011,6 +5268,7 @@
     },
     {
       "id": 258,
+      "uid": "N5-grammar-0258",
       "question_type": "grammar",
       "question_text": "ここ　は　車[くるま]　を[underline_blank][underline_blank][star_underline_blank][underline_blank]こうじょうです",
       "statement": {
@@ -5031,6 +5289,7 @@
     },
     {
       "id": 259,
+      "uid": "N5-grammar-0259",
       "question_type": "grammar",
       "question_text": "６　時[じ]　に　おきて[underline_blank][underline_blank][star_underline_blank][underline_blank]行[い]きます。",
       "statement": {
@@ -5051,6 +5310,7 @@
     },
     {
       "id": 260,
+      "uid": "N5-grammar-0260",
       "question_type": "grammar",
       "question_text": "とうきょう　えき　で[underline_blank][underline_blank][star_underline_blank][underline_blank]　ください。",
       "statement": {

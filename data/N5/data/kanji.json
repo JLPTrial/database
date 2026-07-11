@@ -2,6 +2,7 @@
   "questions": [
     {
       "id": 1,
+      "uid": "N5-kanji-0001",
       "question_type": "kanji",
       "question_text": "しけん　は　{来月}　の　七月八日[しちがつようか]、木[もく]よう日[び]、九時[くじ]　から　です。",
       "statement": {
@@ -21,6 +22,7 @@
     },
     {
       "id": 2,
+      "uid": "N5-kanji-0002",
       "question_type": "kanji",
       "question_text": "しけん　は　来月[らいげつ]　の　{七月}　八日[ようか]、木[もく]よう日[び]、九時[くじ]　から　です。",
       "statement": {
@@ -40,6 +42,7 @@
     },
     {
       "id": 3,
+      "uid": "N5-kanji-0003",
       "question_type": "kanji",
       "question_text": "しけん　は　来月[らいげつ]　の　七月八日[しちがつようか]、{木よう日}、九時[くじ]　から　です。",
       "statement": {
@@ -59,6 +62,7 @@
     },
     {
       "id": 4,
+      "uid": "N5-kanji-0004",
       "question_type": "kanji",
       "question_text": "しけん　は　来月[らいげつ]　の　七月八日[しちがつようか]、木[もく]よう日[び]、{九時}　から　です。",
       "statement": {
@@ -78,6 +82,7 @@
     },
     {
       "id": 5,
+      "uid": "N5-kanji-0005",
       "question_type": "kanji",
       "question_text": "ふうとう　に　{お金}　が　八万円[はちまんえん]　入[はい]っていました。",
       "statement": {
@@ -97,6 +102,7 @@
     },
     {
       "id": 6,
+      "uid": "N5-kanji-0006",
       "question_type": "kanji",
       "question_text": "ふうとう　に　お金[かね]　が　{八万円}　入[はい]っていました。",
       "statement": {
@@ -116,6 +122,7 @@
     },
     {
       "id": 7,
+      "uid": "N5-kanji-0007",
       "question_type": "kanji",
       "question_text": "ふうとう　に　お金[かね]　が　八万円[はちまんえん]　{入って}いました。",
       "statement": {
@@ -135,6 +142,7 @@
     },
     {
       "id": 8,
+      "uid": "N5-kanji-0008",
       "question_type": "kanji",
       "question_text": "きょう　は　{天気}　が　いい　です。がっこう　の　5　かい　の　まど　から、北[きた]　に　白[しろ]い　山[やま]　が　よく　見[み]えます。",
       "statement": {
@@ -154,6 +162,7 @@
     },
     {
       "id": 9,
+      "uid": "N5-kanji-0009",
       "question_type": "kanji",
       "question_text": "きょう　は　天気[てんき]　が　いい　です。がっこう　の　5　かい　の　まど　から、{北}　に　白[しろ]い　山[やま]　が　よく　見[み]えます。",
       "statement": {
@@ -173,6 +182,7 @@
     },
     {
       "id": 10,
+      "uid": "N5-kanji-0010",
       "question_type": "kanji",
       "question_text": "きょう　は　天気[てんき]　が　いい　です。がっこう　の　5　かい　の　まど　から、北[きた]　に　{白い}　山[やま]　が　よく　見[み]えます。",
       "statement": {
@@ -192,6 +202,7 @@
     },
     {
       "id": 11,
+      "uid": "N5-kanji-0011",
       "question_type": "kanji",
       "question_text": "この　{山}　には　百本[ひゃっぽん]　の　さくら　が　あります。春[はる]　には　おおぜい　の　人[ひと]　が　花見[はなみ]　に　きます。",
       "statement": {
@@ -211,6 +222,7 @@
     },
     {
       "id": 12,
+      "uid": "N5-kanji-0012",
       "question_type": "kanji",
       "question_text": "この　山[やま]　には　{百本}　の　さくら　が　あります。春[はる]　には　おおぜい　の　人[ひと]　が　花見[はなみ]　に　きます。",
       "statement": {
@@ -230,6 +242,7 @@
     },
     {
       "id": 13,
+      "uid": "N5-kanji-0013",
       "question_type": "kanji",
       "question_text": "この　山[やま]　には　百本[ひゃっぽん]　の　さくら　が　あります。{春}　には　おおぜい　の　人[ひと]　が　花見[はなみ]　に　きます。",
       "statement": {
@@ -249,6 +262,7 @@
     },
     {
       "id": 14,
+      "uid": "N5-kanji-0014",
       "question_type": "kanji",
       "question_text": "この　山[やま]　には　百本[ひゃっぽん]　の　さくら　が　あります。春[はる]　には　おおぜい　の　人[ひと]　が　{花見}　に　きます。",
       "statement": {
@@ -268,6 +282,7 @@
     },
     {
       "id": 15,
+      "uid": "N5-kanji-0015",
       "question_type": "kanji",
       "question_text": "{はは}　は　まいにち、だいがく　の　としょかん　で　はたらいています。",
       "statement": {
@@ -287,6 +302,7 @@
     },
     {
       "id": 16,
+      "uid": "N5-kanji-0016",
       "question_type": "kanji",
       "question_text": "はは　は　{まいにち}、だいがく　の　としょかん　で　はたらいています。",
       "statement": {
@@ -306,6 +322,7 @@
     },
     {
       "id": 17,
+      "uid": "N5-kanji-0017",
       "question_type": "kanji",
       "question_text": "はは　は　まいにち、{だいがく}　の　としょかん　で　はたらいています。",
       "statement": {
@@ -325,6 +342,7 @@
     },
     {
       "id": 18,
+      "uid": "N5-kanji-0018",
       "question_type": "kanji",
       "question_text": "はは　は　まいにち、だいがく　の　{としょかん}　で　はたらいています。",
       "statement": {
@@ -344,6 +362,7 @@
     },
     {
       "id": 19,
+      "uid": "N5-kanji-0019",
       "question_type": "kanji",
       "question_text": "はは　は　まいにち、だいがく　の　としょかん　で　{はたらいて}います。",
       "statement": {
@@ -363,6 +382,7 @@
     },
     {
       "id": 20,
+      "uid": "N5-kanji-0020",
       "question_type": "kanji",
       "question_text": "あに　は、{ちいさい}　ラジオ　を　ぽけっと　に　いれて　でかけます。",
       "statement": {
@@ -382,6 +402,7 @@
     },
     {
       "id": 21,
+      "uid": "N5-kanji-0021",
       "question_type": "kanji",
       "question_text": "あに　は、ちいさい　{らじお}　を　ぽけっと　に　いれて　でかけます。",
       "statement": {
@@ -401,6 +422,7 @@
     },
     {
       "id": 22,
+      "uid": "N5-kanji-0022",
       "question_type": "kanji",
       "question_text": "あに　は、ちいさい　ラジオ　を　{ぽけっと}　に　いれて　でかけます。",
       "statement": {
@@ -420,6 +442,7 @@
     },
     {
       "id": 23,
+      "uid": "N5-kanji-0023",
       "question_type": "kanji",
       "question_text": "あに　は、ちいさい　ラジオ　を　ぽけっと　に　いれて　{でかけ}ます。",
       "statement": {
@@ -439,6 +462,7 @@
     },
     {
       "id": 24,
+      "uid": "N5-kanji-0024",
       "question_type": "kanji",
       "question_text": "{でんしゃ}　の　なか　で　ききながら　かいしゃ　に　いきます。",
       "statement": {
@@ -458,6 +482,7 @@
     },
     {
       "id": 25,
+      "uid": "N5-kanji-0025",
       "question_type": "kanji",
       "question_text": "でんしゃ　の　なか　で　{きき}ながら　かいしゃ　に　いきます。",
       "statement": {
@@ -477,6 +502,7 @@
     },
     {
       "id": 26,
+      "uid": "N5-kanji-0026",
       "question_type": "kanji",
       "question_text": "でんしゃ　の　なか　で　ききながら　{かいしゃ}　に　いきます。",
       "statement": {
@@ -496,6 +522,7 @@
     },
     {
       "id": 27,
+      "uid": "N5-kanji-0027",
       "question_type": "kanji",
       "question_text": "{先}　に　食[た]べて　ください。わたし　は　後[あと]で　食[た]べます。",
       "statement": {
@@ -515,6 +542,7 @@
     },
     {
       "id": 28,
+      "uid": "N5-kanji-0028",
       "question_type": "kanji",
       "question_text": "先[さき]　に　{食べて}　ください。わたし　は　後[あと]で　食[た]べます。",
       "statement": {
@@ -534,6 +562,7 @@
     },
     {
       "id": 29,
+      "uid": "N5-kanji-0029",
       "question_type": "kanji",
       "question_text": "先[さき]　に　食[た]べて　ください。わたし　は　{後で}　食[た]べます。",
       "statement": {
@@ -553,6 +582,7 @@
     },
     {
       "id": 30,
+      "uid": "N5-kanji-0030",
       "question_type": "kanji",
       "question_text": "水[みず]　を　{買って}いきます。",
       "statement": {
@@ -572,6 +602,7 @@
     },
     {
       "id": 31,
+      "uid": "N5-kanji-0031",
       "question_type": "kanji",
       "question_text": "お{先}　に　しつれいします。",
       "statement": {
@@ -591,6 +622,7 @@
     },
     {
       "id": 32,
+      "uid": "N5-kanji-0032",
       "question_type": "kanji",
       "question_text": "きのう　は　ゆうはん　に　{ぎゅうにく}　を　たべた。",
       "statement": {
@@ -610,6 +642,7 @@
     },
     {
       "id": 33,
+      "uid": "N5-kanji-0033",
       "question_type": "kanji",
       "question_text": "{毎朝}、なんじ　に　おきますか。",
       "statement": {
@@ -629,6 +662,7 @@
     },
     {
       "id": 34,
+      "uid": "N5-kanji-0034",
       "question_type": "kanji",
       "question_text": "わたし　の　{こども}　は　はな　が　すき　です。",
       "statement": {
@@ -648,6 +682,7 @@
     },
     {
       "id": 35,
+      "uid": "N5-kanji-0035",
       "question_type": "kanji",
       "question_text": "この　部屋[へや]　は　{明るく}て　ひろい　です。",
       "statement": {
@@ -667,6 +702,7 @@
     },
     {
       "id": 36,
+      "uid": "N5-kanji-0036",
       "question_type": "kanji",
       "question_text": "むいか　の　{ごご}　に　あいましょう。",
       "statement": {
@@ -686,6 +722,7 @@
     },
     {
       "id": 37,
+      "uid": "N5-kanji-0037",
       "question_type": "kanji",
       "question_text": "えき　の　{北口}　を　でて、まっすぐ　いって　ください。",
       "statement": {
@@ -705,6 +742,7 @@
     },
     {
       "id": 38,
+      "uid": "N5-kanji-0038",
       "question_type": "kanji",
       "question_text": "これ　は　なん　の　{ぱーていー}　ですか。",
       "statement": {
@@ -724,6 +762,7 @@
     },
     {
       "id": 39,
+      "uid": "N5-kanji-0039",
       "question_type": "kanji",
       "question_text": "せんせい　は　{黒い}　メガネ　を　かけています。",
       "statement": {
@@ -743,6 +782,7 @@
     },
     {
       "id": 40,
+      "uid": "N5-kanji-0040",
       "question_type": "kanji",
       "question_text": "きのう　の　{朝}　は　七時[しちじ]　に　おきました。雨[あめ]　が　ふって　さむかった　から、あつい　コーヒー　を　飲[の]みました。",
       "statement": {
@@ -762,6 +802,7 @@
     },
     {
       "id": 41,
+      "uid": "N5-kanji-0041",
       "question_type": "kanji",
       "question_text": "きのう　の　朝[あさ]　は　{七時}　に　おきました。雨[あめ]　が　ふって　さむかった　から、あつい　コーヒー　を　飲[の]みました。",
       "statement": {
@@ -781,6 +822,7 @@
     },
     {
       "id": 42,
+      "uid": "N5-kanji-0042",
       "question_type": "kanji",
       "question_text": "きのう　の　朝[あさ]　は　七時[しちじ]　に　おきました。{雨}　が　ふって　さむかった　から、あつい　コーヒー　を　飲[の]みました。",
       "statement": {
@@ -800,6 +842,7 @@
     },
     {
       "id": 43,
+      "uid": "N5-kanji-0043",
       "question_type": "kanji",
       "question_text": "きのう　の　朝[あさ]　は　七時[しちじ]　に　おきました。雨[あめ]　が　ふって　さむかった　から、あつい　コーヒー　を　{飲み}ました。",
       "statement": {
@@ -819,6 +862,7 @@
     },
     {
       "id": 44,
+      "uid": "N5-kanji-0044",
       "question_type": "kanji",
       "question_text": "わたし　は　{きた}　の　くに　でうまれました。",
       "statement": {
@@ -838,6 +882,7 @@
     },
     {
       "id": 45,
+      "uid": "N5-kanji-0045",
       "question_type": "kanji",
       "question_text": "わたし　は　きた　の　くに　で　{うまれ}ました。",
       "statement": {
@@ -857,6 +902,7 @@
     },
     {
       "id": 46,
+      "uid": "N5-kanji-0046",
       "question_type": "kanji",
       "question_text": "{学校}　の　後[うし]ろ　に　何[なに]　が　ありますか。",
       "statement": {
@@ -876,6 +922,7 @@
     },
     {
       "id": 47,
+      "uid": "N5-kanji-0047",
       "question_type": "kanji",
       "question_text": "学校[がっこう]　の　{後ろ}　に　何[なに]　が　ありますか。",
       "statement": {
@@ -895,6 +942,7 @@
     },
     {
       "id": 48,
+      "uid": "N5-kanji-0048",
       "question_type": "kanji",
       "question_text": "学校[がっこう]　の　後[うし]ろ　に　{何}　が　ありますか。",
       "statement": {
@@ -914,6 +962,7 @@
     },
     {
       "id": 49,
+      "uid": "N5-kanji-0049",
       "question_type": "kanji",
       "question_text": "{小さい}　こうえん　が　あります。",
       "statement": {
@@ -933,6 +982,7 @@
     },
     {
       "id": 50,
+      "uid": "N5-kanji-0050",
       "question_type": "kanji",
       "question_text": "{雨}　の　日[ひ]　は　外[そと]　へ　出[で]ないで、家[いえ]　で　ゆっくり　休[やす]みます。",
       "statement": {
@@ -952,6 +1002,7 @@
     },
     {
       "id": 51,
+      "uid": "N5-kanji-0051",
       "question_type": "kanji",
       "question_text": "雨[あめ]　の　日[ひ]　は　{外}　へ　出[で]ない　で、家[いえ]　で　ゆっくり　休[やす]みます。",
       "statement": {
@@ -971,6 +1022,7 @@
     },
     {
       "id": 52,
+      "uid": "N5-kanji-0052",
       "question_type": "kanji",
       "question_text": "雨[あめ]　の　日[ひ]　は　外[そと]　へ　{出ない}　で、家[いえ]　で　ゆっくり　休[やす]みます。",
       "statement": {
@@ -990,6 +1042,7 @@
     },
     {
       "id": 53,
+      "uid": "N5-kanji-0053",
       "question_type": "kanji",
       "question_text": "雨[あめ]　の　日[ひ]　は　外[そと]　へ　出[で]ない　で、{家}　で　ゆっくり　休[やす]みます。",
       "statement": {
@@ -1009,6 +1062,7 @@
     },
     {
       "id": 54,
+      "uid": "N5-kanji-0054",
       "question_type": "kanji",
       "question_text": "雨[あめ]　の　日[ひ]　は　外[そと]　へ　出[で]ない　で、家[いえ]　で　ゆっくり　{休み}ます。",
       "statement": {
@@ -1028,6 +1082,7 @@
     },
     {
       "id": 55,
+      "uid": "N5-kanji-0055",
       "question_type": "kanji",
       "question_text": "{すいようび}　は　がっこう　で　おべんとう　を　たべます。",
       "statement": {
@@ -1047,6 +1102,7 @@
     },
     {
       "id": 56,
+      "uid": "N5-kanji-0056",
       "question_type": "kanji",
       "question_text": "すいようび　は　がっこう　で　おべんとう　を　{たべ}ます。",
       "statement": {
@@ -1066,6 +1122,7 @@
     },
     {
       "id": 57,
+      "uid": "N5-kanji-0057",
       "question_type": "kanji",
       "question_text": "{手紙}　を　まだ　半分[はんぶん]　しか　読[よ]んでいません。",
       "statement": {
@@ -1085,6 +1142,7 @@
     },
     {
       "id": 58,
+      "uid": "N5-kanji-0058",
       "question_type": "kanji",
       "question_text": "手紙[てがみ]　を　まだ　{半分}　しか　読[よ]んでいません。",
       "statement": {
@@ -1104,6 +1162,7 @@
     },
     {
       "id": 59,
+      "uid": "N5-kanji-0059",
       "question_type": "kanji",
       "question_text": "手紙[てがみ]　を　まだ　半分[はんぶん]　しか　{読んで}いません。",
       "statement": {
@@ -1123,6 +1182,7 @@
     },
     {
       "id": 60,
+      "uid": "N5-kanji-0060",
       "question_type": "kanji",
       "question_text": "その　カメラ　は　{すこし}　たかい　です。",
       "statement": {
@@ -1142,6 +1202,7 @@
     },
     {
       "id": 61,
+      "uid": "N5-kanji-0061",
       "question_type": "kanji",
       "question_text": "その　カメラ　は　すこし　{たかい}　です。",
       "statement": {
@@ -1161,6 +1222,7 @@
     },
     {
       "id": 62,
+      "uid": "N5-kanji-0062",
       "question_type": "kanji",
       "question_text": "{銀行}　は、この　道[みち]　を　西[にし]　は　四[よん]　キロ　いって　左[ひだり]　がわ　に　あります。",
       "statement": {
@@ -1180,6 +1242,7 @@
     },
     {
       "id": 63,
+      "uid": "N5-kanji-0063",
       "question_type": "kanji",
       "question_text": "銀行[ぎんこう]　は、この　{道}　を　西[にし]　は　四[よん]　キロ　いって　左[ひだり]　がわ　に　あります。",
       "statement": {
@@ -1199,6 +1262,7 @@
     },
     {
       "id": 64,
+      "uid": "N5-kanji-0064",
       "question_type": "kanji",
       "question_text": "銀行[ぎんこう]　は、この　道[みち]　を　{西}　は　四[よん]　キロ　いって　左[ひだり]　がわ　に　あります。",
       "statement": {
@@ -1218,6 +1282,7 @@
     },
     {
       "id": 65,
+      "uid": "N5-kanji-0065",
       "question_type": "kanji",
       "question_text": "銀行[ぎんこう]　は、この　道[みち]　を　西[にし]　は　{四}　キロ　いって　左[ひだり]　がわ　に　あります。",
       "statement": {
@@ -1237,6 +1302,7 @@
     },
     {
       "id": 66,
+      "uid": "N5-kanji-0066",
       "question_type": "kanji",
       "question_text": "銀行[ぎんこう]　は、この　道[みち]　を　西[にし]　は　四[よん]　キロ　いって　{左}　がわ　に　あります。",
       "statement": {
@@ -1256,6 +1322,7 @@
     },
     {
       "id": 67,
+      "uid": "N5-kanji-0067",
       "question_type": "kanji",
       "question_text": "{駅}　の　南[みなみ]　に　おおきい　川[かわ]　が　あります。",
       "statement": {
@@ -1275,6 +1342,7 @@
     },
     {
       "id": 68,
+      "uid": "N5-kanji-0068",
       "question_type": "kanji",
       "question_text": "駅[えき]　の　{南}　に　おおきい　川[かわ]　が　あります。",
       "statement": {
@@ -1294,6 +1362,7 @@
     },
     {
       "id": 69,
+      "uid": "N5-kanji-0069",
       "question_type": "kanji",
       "question_text": "駅[えき]　の　南[みなみ]　に　おおきい　{川}　が　あります。",
       "statement": {
@@ -1313,6 +1382,7 @@
     },
     {
       "id": 70,
+      "uid": "N5-kanji-0070",
       "question_type": "kanji",
       "question_text": "{らいねん}　の　なつ　は　がいこく　へ　いきたい　です。",
       "statement": {
@@ -1332,6 +1402,7 @@
     },
     {
       "id": 71,
+      "uid": "N5-kanji-0071",
       "question_type": "kanji",
       "question_text": "らいねん　の　{なつ}　は　がいこく　へ　いきたい　です。",
       "statement": {
@@ -1351,6 +1422,7 @@
     },
     {
       "id": 72,
+      "uid": "N5-kanji-0072",
       "question_type": "kanji",
       "question_text": "らいねん　の　なつ　は　{がいこく}　へ　いきたい　です。",
       "statement": {
@@ -1370,6 +1442,7 @@
     },
     {
       "id": 73,
+      "uid": "N5-kanji-0073",
       "question_type": "kanji",
       "question_text": "らいねん　の　なつ　は　がいこく　へ　{いきたい}　です。",
       "statement": {
@@ -1389,6 +1462,7 @@
     },
     {
       "id": 74,
+      "uid": "N5-kanji-0074",
       "question_type": "kanji",
       "question_text": "{天気}　が　いい　から、じゅぎょう　の　後[あと]で、外[そと]　で　テニス　を　しましょう。",
       "statement": {
@@ -1408,6 +1482,7 @@
     },
     {
       "id": 75,
+      "uid": "N5-kanji-0075",
       "question_type": "kanji",
       "question_text": "天気[てんき]　が　いい　から、じゅぎょう　の　{後で}、外[そと]　で　テニス　を　しましょう。",
       "statement": {
@@ -1427,6 +1502,7 @@
     },
     {
       "id": 76,
+      "uid": "N5-kanji-0076",
       "question_type": "kanji",
       "question_text": "天気[てんき]　が　いい　から、じゅぎょう　の　後[あと]で、{外}　で　テニス　を　しましょう。",
       "statement": {
@@ -1446,6 +1522,7 @@
     },
     {
       "id": 77,
+      "uid": "N5-kanji-0077",
       "question_type": "kanji",
       "question_text": "{今月}　の　五日[いつか]　に　さ　とうさん　と　話[はなし]　を　しました。",
       "statement": {
@@ -1465,6 +1542,7 @@
     },
     {
       "id": 78,
+      "uid": "N5-kanji-0078",
       "question_type": "kanji",
       "question_text": "今月[こんげつ]　の　{五日}　に　さとうさん　と　話[はなし]　を　しました。",
       "statement": {
@@ -1484,6 +1562,7 @@
     },
     {
       "id": 79,
+      "uid": "N5-kanji-0079",
       "question_type": "kanji",
       "question_text": "今月[こんげつ]　の　五日[いつか]　に　さとうさん　と　{話}　を　しました。",
       "statement": {
@@ -1503,6 +1582,7 @@
     },
     {
       "id": 80,
+      "uid": "N5-kanji-0080",
       "question_type": "kanji",
       "question_text": "えき　の　{まえ}　で　バス　を　おります。そして、みなみ　の　ほう　へ　100　メートル　ぐらい　いって　ください。ひだり　がわ　に　おおきい　ホテル　が　あります。",
       "statement": {
@@ -1522,6 +1602,7 @@
     },
     {
       "id": 81,
+      "uid": "N5-kanji-0081",
       "question_type": "kanji",
       "question_text": "えき　の　まえ　で　バス　を　おります。そして、{みなみ}　の　ほう　へ　100　メートル　ぐらい　いって　ください。ひだり　がわ　に　おおきい　ホテル　が　あります。",
       "statement": {
@@ -1541,6 +1622,7 @@
     },
     {
       "id": 82,
+      "uid": "N5-kanji-0082",
       "question_type": "kanji",
       "question_text": "えき　の　まえ　で　バス　を　おります。そして、みなみ　の　ほう　へ　100　メートル　ぐらい　{いって}　ください。ひだり　がわ　に　おおきい　ホテル　が　あります。",
       "statement": {
@@ -1560,6 +1642,7 @@
     },
     {
       "id": 83,
+      "uid": "N5-kanji-0083",
       "question_type": "kanji",
       "question_text": "えき　の　まえ　で　バス　を　おります。そして、みなみ　の　ほう　へ　100　メートル　ぐらい　いって　ください。{ひだり}　がわ　に　おおきい　ホテル　が　あります。",
       "statement": {
@@ -1579,6 +1662,7 @@
     },
     {
       "id": 84,
+      "uid": "N5-kanji-0084",
       "question_type": "kanji",
       "question_text": "えき　の　まえ　で　バス　を　おります。そして、みなみ　の　ほう　へ　100　メートル　ぐらい　いって　ください。ひだり　がわ　に　{おおきい}　ホテル　が　あります。",
       "statement": {
@@ -1598,6 +1682,7 @@
     },
     {
       "id": 85,
+      "uid": "N5-kanji-0085",
       "question_type": "kanji",
       "question_text": "おふろ　に　{入って}　すこし　休[やす]んで　から、べんきょうします。",
       "statement": {
@@ -1617,6 +1702,7 @@
     },
     {
       "id": 86,
+      "uid": "N5-kanji-0086",
       "question_type": "kanji",
       "question_text": "おふろ　に　入[はい]って　すこし　{休んで}　から、べんきょうします。",
       "statement": {
@@ -1636,6 +1722,7 @@
     },
     {
       "id": 87,
+      "uid": "N5-kanji-0087",
       "question_type": "kanji",
       "question_text": "いつも　ここ　で　{しんぶん}　を　かいます。",
       "statement": {
@@ -1655,6 +1742,7 @@
     },
     {
       "id": 88,
+      "uid": "N5-kanji-0088",
       "question_type": "kanji",
       "question_text": "いつも　ここ　で　しんぶん　を　{かい}ます。",
       "statement": {
@@ -1674,6 +1762,7 @@
     },
     {
       "id": 89,
+      "uid": "N5-kanji-0089",
       "question_type": "kanji",
       "question_text": "{一日}　は　二十四時間[にじゅうよじかん]　です。そして、一時間[いちじかん]　は　六十分[ろくじゅっぷん]で、一分[いっぷん]　は　六十[ろくじゅう]びょう　です。",
       "statement": {
@@ -1693,6 +1782,7 @@
     },
     {
       "id": 90,
+      "uid": "N5-kanji-0090",
       "question_type": "kanji",
       "question_text": "一日[いちにち]　は　{二十四}　時間[じかん]　です。そして、一時間[いちじかん]　は　六十分[ろくじゅっぷん]で、一分[いっぷん]　は　六十[ろくじゅう]びょう　です。",
       "statement": {
@@ -1712,6 +1802,7 @@
     },
     {
       "id": 91,
+      "uid": "N5-kanji-0091",
       "question_type": "kanji",
       "question_text": "一日[いちにち]　は　二十四[にじゅうよ]　{時間}　です。そして、一時間[いちじかん]　は　六十分[ろくじゅっぷん]で、一分[いっぷん]　は　六十[ろくじゅう]びょう　です。",
       "statement": {
@@ -1731,6 +1822,7 @@
     },
     {
       "id": 92,
+      "uid": "N5-kanji-0092",
       "question_type": "kanji",
       "question_text": "一日[いちにち]　は　二十四時間[にじゅうよじかん]　です。そして、一時間[いちじかん]　は　{六十分}　で、一分[いっぷん]　は　六十[ろくじゅう]びょう　です。",
       "statement": {
@@ -1750,6 +1842,7 @@
     },
     {
       "id": 93,
+      "uid": "N5-kanji-0093",
       "question_type": "kanji",
       "question_text": "一日[いちにち]　は　二十四時間[にじゅうよじかん]　です。そして、一時間[いちじかん]　は　六十分[ろくじゅっぷん]で、{一分}　は　六十[ろくじゅう]びょう　です。",
       "statement": {
@@ -1769,6 +1862,7 @@
     },
     {
       "id": 94,
+      "uid": "N5-kanji-0094",
       "question_type": "kanji",
       "question_text": "{ながい}　じかん　でんしゃ　に　のりました。",
       "statement": {
@@ -1788,6 +1882,7 @@
     },
     {
       "id": 95,
+      "uid": "N5-kanji-0095",
       "question_type": "kanji",
       "question_text": "ながい　じかん　{でんしゃ}　に　のりました。",
       "statement": {
@@ -1807,6 +1902,7 @@
     },
     {
       "id": 96,
+      "uid": "N5-kanji-0096",
       "question_type": "kanji",
       "question_text": "ひがし　の　そら　が　{あかるく}なりました。",
       "statement": {
@@ -1826,6 +1922,7 @@
     },
     {
       "id": 97,
+      "uid": "N5-kanji-0097",
       "question_type": "kanji",
       "question_text": "この　ほん　を　{よんで}　ください。",
       "statement": {
@@ -1845,6 +1942,7 @@
     },
     {
       "id": 98,
+      "uid": "N5-kanji-0098",
       "question_type": "kanji",
       "question_text": "日本語[にほんご]　の　{授業}　を　うけます。",
       "statement": {
@@ -1864,6 +1962,7 @@
     },
     {
       "id": 99,
+      "uid": "N5-kanji-0099",
       "question_type": "kanji",
       "question_text": "あの　古[ふる]い　いえ　には　{電話}　が　ありません。",
       "statement": {
@@ -1883,6 +1982,7 @@
     },
     {
       "id": 100,
+      "uid": "N5-kanji-0100",
       "question_type": "kanji",
       "question_text": "{かようび}　に　としょかん　へ　いきました。",
       "statement": {
@@ -1902,6 +2002,7 @@
     },
     {
       "id": 101,
+      "uid": "N5-kanji-0101",
       "question_type": "kanji",
       "question_text": "かわいい　女[おんな]の子[こ]　が　{生まれました}。",
       "statement": {
@@ -1921,6 +2022,7 @@
     },
     {
       "id": 102,
+      "uid": "N5-kanji-0102",
       "question_type": "kanji",
       "question_text": "みなさん、みぎ　の　ドア　から　{でて}　ください。",
       "statement": {
@@ -1940,6 +2042,7 @@
     },
     {
       "id": 103,
+      "uid": "N5-kanji-0103",
       "question_type": "kanji",
       "question_text": "きのう　は　はじめて　{魚}　を　たべました。",
       "statement": {
@@ -1959,6 +2062,7 @@
     },
     {
       "id": 104,
+      "uid": "N5-kanji-0104",
       "question_type": "kanji",
       "question_text": "この　白[しろ]い　魚[さかな]　は　{高い}　です。",
       "statement": {
@@ -1978,6 +2082,7 @@
     },
     {
       "id": 105,
+      "uid": "N5-kanji-0105",
       "question_type": "kanji",
       "question_text": "せんせい　の　{はなし}　を　よく　きいて　ください。",
       "statement": {
@@ -1997,6 +2102,7 @@
     },
     {
       "id": 106,
+      "uid": "N5-kanji-0106",
       "question_type": "kanji",
       "question_text": "さとうさん　は　きょう　{がっこう}　を　やすんだ。",
       "statement": {
@@ -2016,6 +2122,7 @@
     },
     {
       "id": 107,
+      "uid": "N5-kanji-0107",
       "question_type": "kanji",
       "question_text": "{母}　は　かぜ　を　ひいていて　手[て]　が　あつかった　です。",
       "statement": {
@@ -2035,6 +2142,7 @@
     },
     {
       "id": 108,
+      "uid": "N5-kanji-0108",
       "question_type": "kanji",
       "question_text": "{ぎんこう}　は　どこ　ですか。",
       "statement": {
@@ -2054,6 +2162,7 @@
     },
     {
       "id": 109,
+      "uid": "N5-kanji-0109",
       "question_type": "kanji",
       "question_text": "あの　{人}　は　とても　有名[ゆうめい]　です。",
       "statement": {
@@ -2073,6 +2182,7 @@
     },
     {
       "id": 110,
+      "uid": "N5-kanji-0110",
       "question_type": "kanji",
       "question_text": "わたし　は　{えいご}　が　ぜんぜん　できません。",
       "statement": {
@@ -2092,6 +2202,7 @@
     },
     {
       "id": 111,
+      "uid": "N5-kanji-0111",
       "question_type": "kanji",
       "question_text": "ドア　の　前[まえ]　に　{立って}　ください。",
       "statement": {
@@ -2111,6 +2222,7 @@
     },
     {
       "id": 112,
+      "uid": "N5-kanji-0112",
       "question_type": "kanji",
       "question_text": "きのう　の　{ごご}　へや　で　ラジオ　を　ききました。",
       "statement": {
@@ -2130,6 +2242,7 @@
     },
     {
       "id": 113,
+      "uid": "N5-kanji-0113",
       "question_type": "kanji",
       "question_text": "火[か]よう日[び]　に　{駅}　で　会[あ]いましょう。",
       "statement": {
@@ -2149,6 +2262,7 @@
     },
     {
       "id": 114,
+      "uid": "N5-kanji-0114",
       "question_type": "kanji",
       "question_text": "ビール　を　{三本}　か　いました。",
       "statement": {
@@ -2168,6 +2282,7 @@
     },
     {
       "id": 115,
+      "uid": "N5-kanji-0115",
       "question_type": "kanji",
       "question_text": "この　へや　は　{くらくて}　さむい。",
       "statement": {
@@ -2187,6 +2302,7 @@
     },
     {
       "id": 116,
+      "uid": "N5-kanji-0116",
       "question_type": "kanji",
       "question_text": "あした　{れぽーと}　を　だします。",
       "statement": {
@@ -2206,6 +2322,7 @@
     },
     {
       "id": 117,
+      "uid": "N5-kanji-0117",
       "question_type": "kanji",
       "question_text": "昨日[きのう]　は　となり　の　村[むら]　から　{歩いて}　帰[かえ]ってきた。",
       "statement": {
@@ -2225,6 +2342,7 @@
     },
     {
       "id": 118,
+      "uid": "N5-kanji-0118",
       "question_type": "kanji",
       "question_text": "わたし　は　りょうしん　と　{一緒}　に　すんでいます。",
       "statement": {
@@ -2244,6 +2362,7 @@
     },
     {
       "id": 119,
+      "uid": "N5-kanji-0119",
       "question_type": "kanji",
       "question_text": "ふく　が　よごれた　から、{あらった}。",
       "statement": {
@@ -2263,6 +2382,7 @@
     },
     {
       "id": 120,
+      "uid": "N5-kanji-0120",
       "question_type": "kanji",
       "question_text": "テーブル　の　うえ　に　おさら　が　{並んで}います。",
       "statement": {
@@ -2282,6 +2402,7 @@
     },
     {
       "id": 121,
+      "uid": "N5-kanji-0121",
       "question_type": "kanji",
       "question_text": "わたし　の　かいしゃ　は　あの　ビル　の　{なか}　です。",
       "statement": {
@@ -2301,6 +2422,7 @@
     },
     {
       "id": 122,
+      "uid": "N5-kanji-0122",
       "question_type": "kanji",
       "question_text": "あの　{男}　の　ひと　は　だれ　ですか。",
       "statement": {
@@ -2320,6 +2442,7 @@
     },
     {
       "id": 123,
+      "uid": "N5-kanji-0123",
       "question_type": "kanji",
       "question_text": "ひがし　の　{そら}　が　きれい　です。",
       "statement": {
@@ -2339,6 +2462,7 @@
     },
     {
       "id": 124,
+      "uid": "N5-kanji-0124",
       "question_type": "kanji",
       "question_text": "きのう、{雨}　が　ふりました。",
       "statement": {
@@ -2358,6 +2482,7 @@
     },
     {
       "id": 125,
+      "uid": "N5-kanji-0125",
       "question_type": "kanji",
       "question_text": "店[みせ]　の　{入り口}　は　どこ　ですか。",
       "statement": {
@@ -2377,6 +2502,7 @@
     },
     {
       "id": 126,
+      "uid": "N5-kanji-0126",
       "question_type": "kanji",
       "question_text": "おかあさん　は　お{げんき}　ですか。",
       "statement": {
@@ -2396,6 +2522,7 @@
     },
     {
       "id": 127,
+      "uid": "N5-kanji-0127",
       "question_type": "kanji",
       "question_text": "この　門[もん]　は　子[こ]ども　の　力[ちから]　では　{開けられません}。",
       "statement": {
@@ -2415,6 +2542,7 @@
     },
     {
       "id": 128,
+      "uid": "N5-kanji-0128",
       "question_type": "kanji",
       "question_text": "パン　を　{はんぶん}　たべました。",
       "statement": {
@@ -2434,6 +2562,7 @@
     },
     {
       "id": 129,
+      "uid": "N5-kanji-0129",
       "question_type": "kanji",
       "question_text": "きょう　は　{お金}　が　たくさん　あります。",
       "statement": {
@@ -2453,6 +2582,7 @@
     },
     {
       "id": 130,
+      "uid": "N5-kanji-0130",
       "question_type": "kanji",
       "question_text": "この　レストラン　の　{りょうり}　は　おいしい　です。",
       "statement": {
@@ -2472,6 +2602,7 @@
     },
     {
       "id": 131,
+      "uid": "N5-kanji-0131",
       "question_type": "kanji",
       "question_text": "これ　は　一[ひと]つ　{千円}　です。",
       "statement": {
@@ -2491,6 +2622,7 @@
     },
     {
       "id": 132,
+      "uid": "N5-kanji-0132",
       "question_type": "kanji",
       "question_text": "こどもたち　は　かわ　で　{およいで}います。",
       "statement": {
@@ -2510,6 +2642,7 @@
     },
     {
       "id": 133,
+      "uid": "N5-kanji-0133",
       "question_type": "kanji",
       "question_text": "これ　は　{なん}　ですか。",
       "statement": {
@@ -2529,6 +2662,7 @@
     },
     {
       "id": 134,
+      "uid": "N5-kanji-0134",
       "question_type": "kanji",
       "question_text": "今日[きょう]　は　じゅうがつ　{十日}　です。",
       "statement": {
@@ -2548,6 +2682,7 @@
     },
     {
       "id": 135,
+      "uid": "N5-kanji-0135",
       "question_type": "kanji",
       "question_text": "この　{道}　を　百[ひゃく]　メートル　いって　ください。左[ひだり]　に　こうばん　が　あります。",
       "statement": {
@@ -2567,6 +2702,7 @@
     },
     {
       "id": 136,
+      "uid": "N5-kanji-0136",
       "question_type": "kanji",
       "question_text": "この　へや　は　{せまい}　です。",
       "statement": {
@@ -2586,6 +2722,7 @@
     },
     {
       "id": 137,
+      "uid": "N5-kanji-0137",
       "question_type": "kanji",
       "question_text": "その　{ちいさい}　カレンダー　を　ください。",
       "statement": {
@@ -2605,6 +2742,7 @@
     },
     {
       "id": 138,
+      "uid": "N5-kanji-0138",
       "question_type": "kanji",
       "question_text": "いす　の　{した}　に　ねこ　が　います。",
       "statement": {
@@ -2624,6 +2762,7 @@
     },
     {
       "id": 139,
+      "uid": "N5-kanji-0139",
       "question_type": "kanji",
       "question_text": "{むいか}　の　ごご　に　あいましょう。",
       "statement": {
@@ -2643,6 +2782,7 @@
     },
     {
       "id": 140,
+      "uid": "N5-kanji-0140",
       "question_type": "kanji",
       "question_text": "しんかんせん　に　{乗った}こと　が　ありますか。",
       "statement": {
@@ -2662,6 +2802,7 @@
     },
     {
       "id": 141,
+      "uid": "N5-kanji-0141",
       "question_type": "kanji",
       "question_text": "よく　考[かんが]えて　から　{質問}　に　答[こた]えて　ください。",
       "statement": {
@@ -2681,6 +2822,7 @@
     },
     {
       "id": 142,
+      "uid": "N5-kanji-0142",
       "question_type": "kanji",
       "question_text": "たなかさん　は　あした　{会社}　を　やすみます。",
       "statement": {
@@ -2700,6 +2842,7 @@
     },
     {
       "id": 143,
+      "uid": "N5-kanji-0143",
       "question_type": "kanji",
       "question_text": "この　まち　の　{にし}　には　おおきな　かわ　が　あります。",
       "statement": {
@@ -2719,6 +2862,7 @@
     },
     {
       "id": 144,
+      "uid": "N5-kanji-0144",
       "question_type": "kanji",
       "question_text": "きのう　{たくしー}　で　かいしゃ　へ　いきました。",
       "statement": {
@@ -2738,6 +2882,7 @@
     },
     {
       "id": 145,
+      "uid": "N5-kanji-0145",
       "question_type": "kanji",
       "question_text": "{らいねん}　は　ながい　やすみ　が　ほしい　です。",
       "statement": {
@@ -2757,6 +2902,7 @@
     },
     {
       "id": 146,
+      "uid": "N5-kanji-0146",
       "question_type": "kanji",
       "question_text": "うち　の　ちかく　に　{新しい}　としょかん　が　あります。",
       "statement": {
@@ -2776,6 +2922,7 @@
     },
     {
       "id": 147,
+      "uid": "N5-kanji-0147",
       "question_type": "kanji",
       "question_text": "{今月}　の　とおか　に　えんそく　に　いきます。",
       "statement": {
@@ -2795,6 +2942,7 @@
     },
     {
       "id": 148,
+      "uid": "N5-kanji-0148",
       "question_type": "kanji",
       "question_text": "北[きた]　の　まち　に　{電車}　で　でかけました。",
       "statement": {
@@ -2814,6 +2962,7 @@
     },
     {
       "id": 149,
+      "uid": "N5-kanji-0149",
       "question_type": "kanji",
       "question_text": "この　かばん　を　{だいじ}　に　つかっています。",
       "statement": {
@@ -2833,6 +2982,7 @@
     },
     {
       "id": 150,
+      "uid": "N5-kanji-0150",
       "question_type": "kanji",
       "question_text": "あの　{えいがかん}　は　おと　が　いい　です。",
       "statement": {
@@ -2852,6 +3002,7 @@
     },
     {
       "id": 151,
+      "uid": "N5-kanji-0151",
       "question_type": "kanji",
       "question_text": "ちち　は　いま　しんぶん　を　{読んで}います。",
       "statement": {
@@ -2871,6 +3022,7 @@
     },
     {
       "id": 152,
+      "uid": "N5-kanji-0152",
       "question_type": "kanji",
       "question_text": "父[ちち]　は　目[め]　も　{耳}　も　おおきい。",
       "statement": {
@@ -2890,6 +3042,7 @@
     },
     {
       "id": 153,
+      "uid": "N5-kanji-0153",
       "question_type": "kanji",
       "question_text": "その　ほん　を　{みせて}　ください。",
       "statement": {
@@ -2909,6 +3062,7 @@
     },
     {
       "id": 154,
+      "uid": "N5-kanji-0154",
       "question_type": "kanji",
       "question_text": "わたし　の　こども　は　{はな}　が　すき　です。",
       "statement": {
@@ -2928,6 +3082,7 @@
     },
     {
       "id": 155,
+      "uid": "N5-kanji-0155",
       "question_type": "kanji",
       "question_text": "らいねん　{外国}　へ　りゅうがく　に　いきます。",
       "statement": {
@@ -2947,6 +3102,7 @@
     },
     {
       "id": 156,
+      "uid": "N5-kanji-0156",
       "question_type": "kanji",
       "question_text": "{妹}　の　代[か]わり　に　手紙[てがみ]　を　書[か]きました。",
       "statement": {
@@ -2966,6 +3122,7 @@
     },
     {
       "id": 157,
+      "uid": "N5-kanji-0157",
       "question_type": "kanji",
       "question_text": "スポーツ　を　して　頭[あたま]　も　{体}　も　すっきりしました。",
       "statement": {
@@ -2985,6 +3142,7 @@
     },
     {
       "id": 158,
+      "uid": "N5-kanji-0158",
       "question_type": "kanji",
       "question_text": "ここ　は　こうつう　が　{不便}　です。",
       "statement": {
@@ -3004,6 +3162,7 @@
     },
     {
       "id": 159,
+      "uid": "N5-kanji-0159",
       "question_type": "kanji",
       "question_text": "この　ぶん　を　{えいご}　に　して　ください。",
       "statement": {
@@ -3023,6 +3182,7 @@
     },
     {
       "id": 160,
+      "uid": "N5-kanji-0160",
       "question_type": "kanji",
       "question_text": "{あに}　は　まいにち　だいがく　へ　いきます。",
       "statement": {
@@ -3042,6 +3202,7 @@
     },
     {
       "id": 161,
+      "uid": "N5-kanji-0161",
       "question_type": "kanji",
       "question_text": "{世界}　の　歴史[れきし]　を　あまり　知[し]らない　ので　もっと　勉強[べんきょう]したい。",
       "statement": {
@@ -3061,6 +3222,7 @@
     },
     {
       "id": 162,
+      "uid": "N5-kanji-0162",
       "question_type": "kanji",
       "question_text": "シャワー　を　{浴びます}。",
       "statement": {
@@ -3080,6 +3242,7 @@
     },
     {
       "id": 163,
+      "uid": "N5-kanji-0163",
       "question_type": "kanji",
       "question_text": "{はやく}　しゃしん　を　おくって　ください。",
       "statement": {
@@ -3099,6 +3262,7 @@
     },
     {
       "id": 164,
+      "uid": "N5-kanji-0164",
       "question_type": "kanji",
       "question_text": "たばこ　を　{吸って}もいい　ですか。",
       "statement": {
@@ -3118,6 +3282,7 @@
     },
     {
       "id": 165,
+      "uid": "N5-kanji-0165",
       "question_type": "kanji",
       "question_text": "この　道[みち]　を　{百}　メート　いって　ください。左[ひだり]　に　こうばん　が　あります。",
       "statement": {
@@ -3137,6 +3302,7 @@
     },
     {
       "id": 166,
+      "uid": "N5-kanji-0166",
       "question_type": "kanji",
       "question_text": "{しがつ}　は　さくら　が　さきます。",
       "statement": {
@@ -3156,6 +3322,7 @@
     },
     {
       "id": 167,
+      "uid": "N5-kanji-0167",
       "question_type": "kanji",
       "question_text": "はは　と　{やま}　に　のぼりました。",
       "statement": {
@@ -3175,6 +3342,7 @@
     },
     {
       "id": 168,
+      "uid": "N5-kanji-0168",
       "question_type": "kanji",
       "question_text": "きのう　じゅぎょう　に　{遅れました}。",
       "statement": {
@@ -3194,6 +3362,7 @@
     },
     {
       "id": 169,
+      "uid": "N5-kanji-0169",
       "question_type": "kanji",
       "question_text": "きのう　は　{ゆうはん}　に　ぎゅうにく　を　たべた。",
       "statement": {
@@ -3213,6 +3382,7 @@
     },
     {
       "id": 170,
+      "uid": "N5-kanji-0170",
       "question_type": "kanji",
       "question_text": "また　{病気}　に　なりました。",
       "statement": {
@@ -3232,6 +3402,7 @@
     },
     {
       "id": 171,
+      "uid": "N5-kanji-0171",
       "question_type": "kanji",
       "question_text": "きかい　は　{ただしく}　つかって　ください。",
       "statement": {
@@ -3251,6 +3422,7 @@
     },
     {
       "id": 172,
+      "uid": "N5-kanji-0172",
       "question_type": "kanji",
       "question_text": "きょうしつ　に　{何人}　いますか。",
       "statement": {
@@ -3270,6 +3442,7 @@
     },
     {
       "id": 173,
+      "uid": "N5-kanji-0173",
       "question_type": "kanji",
       "question_text": "こんしゅう　は　{てんき}　が　よかった。",
       "statement": {
@@ -3289,6 +3462,7 @@
     },
     {
       "id": 174,
+      "uid": "N5-kanji-0174",
       "question_type": "kanji",
       "question_text": "人[ひと]　に　よって　考[かんが]え方[かた]　も　{違います}。",
       "statement": {
@@ -3308,6 +3482,7 @@
     },
     {
       "id": 175,
+      "uid": "N5-kanji-0175",
       "question_type": "kanji",
       "question_text": "それ　は　いい　{かめら}　ですね。",
       "statement": {
@@ -3327,6 +3502,7 @@
     },
     {
       "id": 176,
+      "uid": "N5-kanji-0176",
       "question_type": "kanji",
       "question_text": "{ことし}　の　ふゆやすみ　に　くに　へ　かえります。",
       "statement": {
@@ -3346,6 +3522,7 @@
     },
     {
       "id": 177,
+      "uid": "N5-kanji-0177",
       "question_type": "kanji",
       "question_text": "おがわさん　は　四月[しがつ]　から　毎朝[まいあさ]　ぎゅうにゅう　を　{飲んで}います。",
       "statement": {
@@ -3365,6 +3542,7 @@
     },
     {
       "id": 178,
+      "uid": "N5-kanji-0178",
       "question_type": "kanji",
       "question_text": "あそこ　には　{ながい}　かわ　が　あります。",
       "statement": {
@@ -3384,6 +3562,7 @@
     },
     {
       "id": 179,
+      "uid": "N5-kanji-0179",
       "question_type": "kanji",
       "question_text": "この　{門}　は　子[こ]ども　の　力[ちから]　では　開[あ]けられません。",
       "statement": {
@@ -3403,6 +3582,7 @@
     },
     {
       "id": 180,
+      "uid": "N5-kanji-0180",
       "question_type": "kanji",
       "question_text": "はやく　{しゃしん}　を　おくって　ください。",
       "statement": {
@@ -3422,6 +3602,7 @@
     },
     {
       "id": 181,
+      "uid": "N5-kanji-0181",
       "question_type": "kanji",
       "question_text": "中田[なかた]さん　は　くろい　{背広}　を　きています。",
       "statement": {
@@ -3441,6 +3622,7 @@
     },
     {
       "id": 182,
+      "uid": "N5-kanji-0182",
       "question_type": "kanji",
       "question_text": "この　国[くに]　は　ふゆ　でも　{２０ど}　いじょう　に　なること　が　ある。",
       "statement": {
@@ -3460,6 +3642,7 @@
     },
     {
       "id": 183,
+      "uid": "N5-kanji-0183",
       "question_type": "kanji",
       "question_text": "この　ことば　の　{意味}　は　なん　ですか。",
       "statement": {
@@ -3479,6 +3662,7 @@
     },
     {
       "id": 184,
+      "uid": "N5-kanji-0184",
       "question_type": "kanji",
       "question_text": "かわいい　{女の子}　が　生[う]まれました。",
       "statement": {
@@ -3498,6 +3682,7 @@
     },
     {
       "id": 185,
+      "uid": "N5-kanji-0185",
       "question_type": "kanji",
       "question_text": "えき　の　{後ろ}　に　こうえん　が　あります。",
       "statement": {
@@ -3517,6 +3702,7 @@
     },
     {
       "id": 186,
+      "uid": "N5-kanji-0186",
       "question_type": "kanji",
       "question_text": "この　まち　の　にし　には　{おおきな}　かわ　が　あります。",
       "statement": {

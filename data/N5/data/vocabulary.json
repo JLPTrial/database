@@ -2,6 +2,7 @@
   "questions": [
     {
       "id": 1,
+      "uid": "N5-vocabulary-0001",
       "question_type": "vocabulary",
       "question_text": "（[blank]）、　えいが　を　みにいきませんか？",
       "statement": {
@@ -21,6 +22,7 @@
     },
     {
       "id": 2,
+      "uid": "N5-vocabulary-0002",
       "question_type": "vocabulary",
       "question_text": "わたし　は　いつも　（[blank]）　を　ききながら　べんきょうします。",
       "statement": {
@@ -40,6 +42,7 @@
     },
     {
       "id": 3,
+      "uid": "N5-vocabulary-0003",
       "question_type": "vocabulary",
       "question_text": "わたし　の　すきな　のみもの　は　（[blank]）　です。",
       "statement": {
@@ -59,6 +62,7 @@
     },
     {
       "id": 4,
+      "uid": "N5-vocabulary-0004",
       "question_type": "vocabulary",
       "question_text": "わたし　は　じてんしゃ　を　（[blank]）　もっています。",
       "statement": {
@@ -78,6 +82,7 @@
     },
     {
       "id": 5,
+      "uid": "N5-vocabulary-0005",
       "question_type": "vocabulary",
       "question_text": "この　（[blank]）　じしょ　は　だれ　の　ですか？",
       "statement": {
@@ -97,6 +102,7 @@
     },
     {
       "id": 6,
+      "uid": "N5-vocabulary-0006",
       "question_type": "vocabulary",
       "question_text": "ちち　は　ことし　80さい　です　が、　（[blank]）　です。",
       "statement": {
@@ -116,6 +122,7 @@
     },
     {
       "id": 7,
+      "uid": "N5-vocabulary-0007",
       "question_type": "vocabulary",
       "question_text": "あめ　が　ふっています。　みんな　かさ　を　（[blank]）　います。",
       "statement": {
@@ -135,6 +142,7 @@
     },
     {
       "id": 8,
+      "uid": "N5-vocabulary-0008",
       "question_type": "vocabulary",
       "question_text": "がくせいたち　は　きょうしつ　で　やまだ　せんせい　に　にほんご　を　（[blank]）　います。",
       "statement": {
@@ -154,6 +162,7 @@
     },
     {
       "id": 9,
+      "uid": "N5-vocabulary-0009",
       "question_type": "vocabulary",
       "question_text": "やまださん　は　あかい　ぼうし　を　（[blank]）　います。",
       "statement": {
@@ -173,6 +182,7 @@
     },
     {
       "id": 10,
+      "uid": "N5-vocabulary-0010",
       "question_type": "vocabulary",
       "question_text": "やまださん　は　たいてい　おふろ　に　はいって、　（[blank]）　ねます。",
       "statement": {
@@ -192,6 +202,7 @@
     },
     {
       "id": 11,
+      "uid": "N5-vocabulary-0011",
       "question_type": "vocabulary",
       "question_text": "なのか　の　つぎ　は　（[blank]）　です。",
       "statement": {
@@ -211,6 +222,7 @@
     },
     {
       "id": 12,
+      "uid": "N5-vocabulary-0012",
       "question_type": "vocabulary",
       "question_text": "わたし　は　ゆうべ　ともだち　に　（[blank]）　を　かきました。",
       "statement": {
@@ -230,6 +242,7 @@
     },
     {
       "id": 13,
+      "uid": "N5-vocabulary-0013",
       "question_type": "vocabulary",
       "question_text": "わたし　の　すきな　スポーツ　は　（[blank]）　です。",
       "statement": {
@@ -249,6 +262,7 @@
     },
     {
       "id": 14,
+      "uid": "N5-vocabulary-0014",
       "question_type": "vocabulary",
       "question_text": "わたし　の　うち　に　ねこ　が　（[blank]）　います。",
       "statement": {
@@ -268,6 +282,7 @@
     },
     {
       "id": 15,
+      "uid": "N5-vocabulary-0015",
       "question_type": "vocabulary",
       "question_text": "この　みち　は　（[blank]）　です。",
       "statement": {
@@ -287,6 +302,7 @@
     },
     {
       "id": 16,
+      "uid": "N5-vocabulary-0016",
       "question_type": "vocabulary",
       "question_text": "さかな　が　かわ　を　（[blank]）　います。",
       "statement": {
@@ -306,6 +322,7 @@
     },
     {
       "id": 17,
+      "uid": "N5-vocabulary-0017",
       "question_type": "vocabulary",
       "question_text": "きのう　の　パーテイー　で　やまださん　に　（[blank]）　あいました。",
       "statement": {
@@ -325,6 +342,7 @@
     },
     {
       "id": 18,
+      "uid": "N5-vocabulary-0018",
       "question_type": "vocabulary",
       "question_text": "たなかさん　は　きょう　は　あおい　ズボン　を　（[blank]）　います。",
       "statement": {
@@ -344,6 +362,7 @@
     },
     {
       "id": 19,
+      "uid": "N5-vocabulary-0019",
       "question_type": "vocabulary",
       "question_text": "えき　で　でんしゃ　に　（[blank]）　ます。",
       "statement": {
@@ -363,6 +382,7 @@
     },
     {
       "id": 20,
+      "uid": "N5-vocabulary-0020",
       "question_type": "vocabulary",
       "question_text": "まちださん　は　せ　が　（[blank]）　です。",
       "statement": {
@@ -382,6 +402,7 @@
     },
     {
       "id": 21,
+      "uid": "N5-vocabulary-0021",
       "question_type": "vocabulary",
       "question_text": "わたし　は　よる　ねる　まえ　に　は　を　（[blank]）。",
       "statement": {
@@ -401,6 +422,7 @@
     },
     {
       "id": 22,
+      "uid": "N5-vocabulary-0022",
       "question_type": "vocabulary",
       "question_text": "つぎ　の　かど　を　みぎ　に　（[blank]）。",
       "statement": {
@@ -420,6 +442,7 @@
     },
     {
       "id": 23,
+      "uid": "N5-vocabulary-0023",
       "question_type": "vocabulary",
       "question_text": "わたし　の　いえ　は　えき　の　ちかく　です。　とても　（[blank]）　です。",
       "statement": {
@@ -439,6 +462,7 @@
     },
     {
       "id": 24,
+      "uid": "N5-vocabulary-0024",
       "question_type": "vocabulary",
       "question_text": "かぜ　を　（[blank]）、か　いしゃ　を　やすみました。",
       "statement": {
@@ -458,6 +482,7 @@
     },
     {
       "id": 25,
+      "uid": "N5-vocabulary-0025",
       "question_type": "vocabulary",
       "question_text": "まいつき　ほん　を　（[blank]）　よみます。",
       "statement": {
@@ -477,6 +502,7 @@
     },
     {
       "id": 26,
+      "uid": "N5-vocabulary-0026",
       "question_type": "vocabulary",
       "question_text": "きのう　（[blank]）　にほん　の　えいが　を　みました。",
       "statement": {
@@ -496,6 +522,7 @@
     },
     {
       "id": 27,
+      "uid": "N5-vocabulary-0027",
       "question_type": "vocabulary",
       "question_text": "きのうかぞく　の　しゃしん　を　（[blank]）。",
       "statement": {
@@ -515,6 +542,7 @@
     },
     {
       "id": 28,
+      "uid": "N5-vocabulary-0028",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　を　しめてか　いしゃ　へ　いきます。",
       "statement": {
@@ -534,6 +562,7 @@
     },
     {
       "id": 29,
+      "uid": "N5-vocabulary-0029",
       "question_type": "vocabulary",
       "question_text": "それ　は　とても　（[blank]）　もんだい　です。",
       "statement": {
@@ -553,6 +582,7 @@
     },
     {
       "id": 30,
+      "uid": "N5-vocabulary-0030",
       "question_type": "vocabulary",
       "question_text": "なつ　は　まいにち　（[blank]）　へ　およぎ　に　いきます。",
       "statement": {
@@ -572,6 +602,7 @@
     },
     {
       "id": 31,
+      "uid": "N5-vocabulary-0031",
       "question_type": "vocabulary",
       "question_text": "たなかさん　は　べんきょう　を　して、　（[blank]）　いしゃ　に　なりました。",
       "statement": {
@@ -591,6 +622,7 @@
     },
     {
       "id": 32,
+      "uid": "N5-vocabulary-0032",
       "question_type": "vocabulary",
       "question_text": "あの　おおきい　はし　を　（[blank]）、　みぎ　に　まがってください。",
       "statement": {
@@ -610,6 +642,7 @@
     },
     {
       "id": 33,
+      "uid": "N5-vocabulary-0033",
       "question_type": "vocabulary",
       "question_text": "この　ケーキ　に　は　さとう　が　たくさん　はいっています。　とても　（[blank]）　です。",
       "statement": {
@@ -629,6 +662,7 @@
     },
     {
       "id": 34,
+      "uid": "N5-vocabulary-0034",
       "question_type": "vocabulary",
       "question_text": "すずきさん　の　じてんしゃ　は　（[blank]）　きれい　です。",
       "statement": {
@@ -648,6 +682,7 @@
     },
     {
       "id": 35,
+      "uid": "N5-vocabulary-0035",
       "question_type": "vocabulary",
       "question_text": "「そろそろ、　（[blank]）　と　いって　せんせい　の　へや　を　でました。",
       "statement": {
@@ -667,6 +702,7 @@
     },
     {
       "id": 36,
+      "uid": "N5-vocabulary-0036",
       "question_type": "vocabulary",
       "question_text": "きょう　は　たくさん　しごと　を　した　から、　とても　（[blank]）",
       "statement": {
@@ -686,6 +722,7 @@
     },
     {
       "id": 37,
+      "uid": "N5-vocabulary-0037",
       "question_type": "vocabulary",
       "question_text": "ラジオ　を　けす　とき　は、　この　ボタン　を　（[blank]）　ください。",
       "statement": {
@@ -705,6 +742,7 @@
     },
     {
       "id": 38,
+      "uid": "N5-vocabulary-0038",
       "question_type": "vocabulary",
       "question_text": "わたし　は　（[blank]）　あさ　７じ　に　おきます。",
       "statement": {
@@ -724,6 +762,7 @@
     },
     {
       "id": 39,
+      "uid": "N5-vocabulary-0039",
       "question_type": "vocabulary",
       "question_text": "えいがかん　の　まえ　に　みせ　が　（[blank]）　ならんでいます。",
       "statement": {
@@ -743,6 +782,7 @@
     },
     {
       "id": 40,
+      "uid": "N5-vocabulary-0040",
       "question_type": "vocabulary",
       "question_text": "くるま　で　うち　から　びょういん　まで　２０ぷん　（[blank]）。",
       "statement": {
@@ -762,6 +802,7 @@
     },
     {
       "id": 41,
+      "uid": "N5-vocabulary-0041",
       "question_type": "vocabulary",
       "question_text": "この　ぎゅうにゅう　は　れいぞうこ　に　いれてありました。　とても　（[blank]）。",
       "statement": {
@@ -781,6 +822,7 @@
     },
     {
       "id": 42,
+      "uid": "N5-vocabulary-0042",
       "question_type": "vocabulary",
       "question_text": "ゆうびんきょく　へ　いって、　はがき　と　（[blank]）　を　かいます。",
       "statement": {
@@ -800,6 +842,7 @@
     },
     {
       "id": 43,
+      "uid": "N5-vocabulary-0043",
       "question_type": "vocabulary",
       "question_text": "コーヒー　に　さとう　を　いれて　（[blank]）　してください。",
       "statement": {
@@ -819,6 +862,7 @@
     },
     {
       "id": 44,
+      "uid": "N5-vocabulary-0044",
       "question_type": "vocabulary",
       "question_text": "きょう　は　（[blank]）　が　わるい　から、かさ　を　もっていきます。",
       "statement": {
@@ -838,6 +882,7 @@
     },
     {
       "id": 45,
+      "uid": "N5-vocabulary-0045",
       "question_type": "vocabulary",
       "question_text": "ひらがな　は　ぜんぶ　（[blank]）　が、かたかな　は　まだ　です。",
       "statement": {
@@ -857,6 +902,7 @@
     },
     {
       "id": 46,
+      "uid": "N5-vocabulary-0046",
       "question_type": "vocabulary",
       "question_text": "おとうさん　の　おとこ　の　きょうだい　は　（[blank]）　です。",
       "statement": {
@@ -876,6 +922,7 @@
     },
     {
       "id": 47,
+      "uid": "N5-vocabulary-0047",
       "question_type": "vocabulary",
       "question_text": "わたし　は　いつも　よる　（[blank]）　ねます。",
       "statement": {
@@ -895,6 +942,7 @@
     },
     {
       "id": 48,
+      "uid": "N5-vocabulary-0048",
       "question_type": "vocabulary",
       "question_text": "（[blank]）、　その　ニュース　を　しりました。",
       "statement": {
@@ -914,6 +962,7 @@
     },
     {
       "id": 49,
+      "uid": "N5-vocabulary-0049",
       "question_type": "vocabulary",
       "question_text": "Ａ：　はじめまして。　どうぞよろしく。　\nＢ：　（[blank]）。",
       "statement": {
@@ -933,6 +982,7 @@
     },
     {
       "id": 50,
+      "uid": "N5-vocabulary-0050",
       "question_type": "vocabulary",
       "question_text": "わたし　は　（[blank]）　が　おおきい　です。　ちょうど　いい　くつ　が　ありません。",
       "statement": {
@@ -952,6 +1002,7 @@
     },
     {
       "id": 51,
+      "uid": "N5-vocabulary-0051",
       "question_type": "vocabulary",
       "question_text": "この　くつした　は　うすい　です　が、　（[blank]）　です。",
       "statement": {
@@ -971,6 +1022,7 @@
     },
     {
       "id": 52,
+      "uid": "N5-vocabulary-0052",
       "question_type": "vocabulary",
       "question_text": "いっしゅかん　に　（[blank]）　テニス　を　します。",
       "statement": {
@@ -990,6 +1042,7 @@
     },
     {
       "id": 53,
+      "uid": "N5-vocabulary-0053",
       "question_type": "vocabulary",
       "question_text": "あの　（[blank]）　を　わたって、　だいがく　へ　いきます。",
       "statement": {
@@ -1009,6 +1062,7 @@
     },
     {
       "id": 54,
+      "uid": "N5-vocabulary-0054",
       "question_type": "vocabulary",
       "question_text": "このほん　を　たむらさん　に　（[blank]）　ください。",
       "statement": {
@@ -1028,6 +1082,7 @@
     },
     {
       "id": 55,
+      "uid": "N5-vocabulary-0055",
       "question_type": "vocabulary",
       "question_text": "ほんだな　にほん　を　（[blank]）。",
       "statement": {
@@ -1047,6 +1102,7 @@
     },
     {
       "id": 56,
+      "uid": "N5-vocabulary-0056",
       "question_type": "vocabulary",
       "question_text": "あの　レストラン　の　りょうり　は　とても　（[blank]）　です　よ。",
       "statement": {
@@ -1066,6 +1122,7 @@
     },
     {
       "id": 57,
+      "uid": "N5-vocabulary-0057",
       "question_type": "vocabulary",
       "question_text": "この　みち　を　（[blank]）　びょういん　へ　いきます。",
       "statement": {
@@ -1085,6 +1142,7 @@
     },
     {
       "id": 58,
+      "uid": "N5-vocabulary-0058",
       "question_type": "vocabulary",
       "question_text": "いもうと　は　きょねん　（[blank]）。　ことし、　いっさい　に　なります。",
       "statement": {
@@ -1104,6 +1162,7 @@
     },
     {
       "id": 59,
+      "uid": "N5-vocabulary-0059",
       "question_type": "vocabulary",
       "question_text": "やまだ：　この　ほん、　どうもありがとうございました。　\nたなか：　いいえ、　（[blank]）。",
       "statement": {
@@ -1123,6 +1182,7 @@
     },
     {
       "id": 60,
+      "uid": "N5-vocabulary-0060",
       "question_type": "vocabulary",
       "question_text": "たくさん　あります　から、　（[blank]）　たべてください。",
       "statement": {
@@ -1142,6 +1202,7 @@
     },
     {
       "id": 61,
+      "uid": "N5-vocabulary-0061",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　は　どうぶつ　です。",
       "statement": {
@@ -1161,6 +1222,7 @@
     },
     {
       "id": 62,
+      "uid": "N5-vocabulary-0062",
       "question_type": "vocabulary",
       "question_text": "ここ　は　としょかん　です。　（[blank]）　べんきょうしてください。",
       "statement": {
@@ -1180,6 +1242,7 @@
     },
     {
       "id": 63,
+      "uid": "N5-vocabulary-0063",
       "question_type": "vocabulary",
       "question_text": "やまだ：　はじめまして。　どうぞよろしく。　\nたなか：　（[blank]）。　どうぞよろしく。",
       "statement": {
@@ -1199,6 +1262,7 @@
     },
     {
       "id": 64,
+      "uid": "N5-vocabulary-0064",
       "question_type": "vocabulary",
       "question_text": "さとうさん　は　（[blank]）　こないでしょう。",
       "statement": {
@@ -1218,6 +1282,7 @@
     },
     {
       "id": 65,
+      "uid": "N5-vocabulary-0065",
       "question_type": "vocabulary",
       "question_text": "さむくなった　から、　（[blank]）　を　つけてください。",
       "statement": {
@@ -1237,6 +1302,7 @@
     },
     {
       "id": 66,
+      "uid": "N5-vocabulary-0066",
       "question_type": "vocabulary",
       "question_text": "ふうとう　に　きって　を　（[blank]）。",
       "statement": {
@@ -1256,6 +1322,7 @@
     },
     {
       "id": 67,
+      "uid": "N5-vocabulary-0067",
       "question_type": "vocabulary",
       "question_text": "おふろ　に　（[blank]）からだ　を　あらいました。",
       "statement": {
@@ -1275,6 +1342,7 @@
     },
     {
       "id": 68,
+      "uid": "N5-vocabulary-0068",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　て　で　ごはん　を　たべない　で　ください。",
       "statement": {
@@ -1294,6 +1362,7 @@
     },
     {
       "id": 69,
+      "uid": "N5-vocabulary-0069",
       "question_type": "vocabulary",
       "question_text": "いそがしくて　ほん　を　よむ　（[blank]）　が　ありません。",
       "statement": {
@@ -1313,6 +1382,7 @@
     },
     {
       "id": 70,
+      "uid": "N5-vocabulary-0070",
       "question_type": "vocabulary",
       "question_text": "すみません。　あの　おさら　を　（[blank]）　ください。",
       "statement": {
@@ -1332,6 +1402,7 @@
     },
     {
       "id": 71,
+      "uid": "N5-vocabulary-0071",
       "question_type": "vocabulary",
       "question_text": "{リーさん　は　にほんご　を　ならっています。}",
       "statement": {
@@ -1351,6 +1422,7 @@
     },
     {
       "id": 72,
+      "uid": "N5-vocabulary-0072",
       "question_type": "vocabulary",
       "question_text": "{おととし　りょこう　しました。}",
       "statement": {
@@ -1370,6 +1442,7 @@
     },
     {
       "id": 73,
+      "uid": "N5-vocabulary-0073",
       "question_type": "vocabulary",
       "question_text": "{やまださん　は　すずきさん　に　えいご　を　おしえました。}",
       "statement": {
@@ -1389,6 +1462,7 @@
     },
     {
       "id": 74,
+      "uid": "N5-vocabulary-0074",
       "question_type": "vocabulary",
       "question_text": "{じしょ　を　がっこう　に　わすれて　かえりました。}",
       "statement": {
@@ -1408,6 +1482,7 @@
     },
     {
       "id": 75,
+      "uid": "N5-vocabulary-0075",
       "question_type": "vocabulary",
       "question_text": "{きのう　せんたく　しました。}",
       "statement": {
@@ -1427,6 +1502,7 @@
     },
     {
       "id": 76,
+      "uid": "N5-vocabulary-0076",
       "question_type": "vocabulary",
       "question_text": "{わたし　の　うち　に　は　ペット　が　います。}",
       "statement": {
@@ -1446,6 +1522,7 @@
     },
     {
       "id": 77,
+      "uid": "N5-vocabulary-0077",
       "question_type": "vocabulary",
       "question_text": "{この　ホテル　は　ゆうめい　です。}",
       "statement": {
@@ -1465,6 +1542,7 @@
     },
     {
       "id": 78,
+      "uid": "N5-vocabulary-0078",
       "question_type": "vocabulary",
       "question_text": "{この　じしょ　を　かしてください。}",
       "statement": {
@@ -1484,6 +1562,7 @@
     },
     {
       "id": 79,
+      "uid": "N5-vocabulary-0079",
       "question_type": "vocabulary",
       "question_text": "{まいばん　１２じ　ごろ　やすみます。}",
       "statement": {
@@ -1503,6 +1582,7 @@
     },
     {
       "id": 80,
+      "uid": "N5-vocabulary-0080",
       "question_type": "vocabulary",
       "question_text": "{たなか：　あの　ひと　は　どなた　ですか。}",
       "statement": {
@@ -1522,6 +1602,7 @@
     },
     {
       "id": 81,
+      "uid": "N5-vocabulary-0081",
       "question_type": "vocabulary",
       "question_text": "友[とも]だち　は　しんせつ　です　が、　いつも　（[blank]）　です。",
       "statement": {
@@ -1541,6 +1622,7 @@
     },
     {
       "id": 82,
+      "uid": "N5-vocabulary-0082",
       "question_type": "vocabulary",
       "question_text": "インド　の　（[blank]）　は　どう　ですか？　おいしい　ですか？",
       "statement": {
@@ -1560,6 +1642,7 @@
     },
     {
       "id": 83,
+      "uid": "N5-vocabulary-0083",
       "question_type": "vocabulary",
       "question_text": "Ａ：　とうきょう　まで　の　きっぷ　は　いくら　ですか。　\nＢ：　（[blank]）　は　２００えん　で、　こども　は　１００えん　です。",
       "statement": {
@@ -1579,6 +1662,7 @@
     },
     {
       "id": 84,
+      "uid": "N5-vocabulary-0084",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　の　ちょうし　が　わるい　ですか？",
       "statement": {
@@ -1598,6 +1682,7 @@
     },
     {
       "id": 85,
+      "uid": "N5-vocabulary-0085",
       "question_type": "vocabulary",
       "question_text": "この　おかし　に　は　さとう　が　たくさん　はいっています。　とても　（[blank]）　です。",
       "statement": {
@@ -1617,6 +1702,7 @@
     },
     {
       "id": 86,
+      "uid": "N5-vocabulary-0086",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　まで　べんきょうしますか？",
       "statement": {
@@ -1636,6 +1722,7 @@
     },
     {
       "id": 87,
+      "uid": "N5-vocabulary-0087",
       "question_type": "vocabulary",
       "question_text": "すぐ　わたし　の　（[blank]）　へ　来[き]てください。",
       "statement": {
@@ -1655,6 +1742,7 @@
     },
     {
       "id": 88,
+      "uid": "N5-vocabulary-0088",
       "question_type": "vocabulary",
       "question_text": "きょう　は　とても　つかれました。　いえ　に　かえって　（[blank]）　ねます。",
       "statement": {
@@ -1674,6 +1762,7 @@
     },
     {
       "id": 89,
+      "uid": "N5-vocabulary-0089",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　は　サッカー　が　だいすき　です。",
       "statement": {
@@ -1693,6 +1782,7 @@
     },
     {
       "id": 90,
+      "uid": "N5-vocabulary-0090",
       "question_type": "vocabulary",
       "question_text": "こどもたち　は　かわ　で　（[blank]）　います。",
       "statement": {
@@ -1712,6 +1802,7 @@
     },
     {
       "id": 91,
+      "uid": "N5-vocabulary-0091",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　ぼうし　を　かいました。",
       "statement": {
@@ -1731,6 +1822,7 @@
     },
     {
       "id": 92,
+      "uid": "N5-vocabulary-0092",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　に　入[はい]ろう　と　おもっています。",
       "statement": {
@@ -1750,6 +1842,7 @@
     },
     {
       "id": 93,
+      "uid": "N5-vocabulary-0093",
       "question_type": "vocabulary",
       "question_text": "あなた　が　ここ　に　きて　から、　わたし　の　しごと　が　（[blank]）　いくよう　に　なったん　です　よ。",
       "statement": {
@@ -1769,6 +1862,7 @@
     },
     {
       "id": 94,
+      "uid": "N5-vocabulary-0094",
       "question_type": "vocabulary",
       "question_text": "Ａ：　ゆうびんきょく　は　どこ　ですか。　\nＢ：　この　みち　を　（[blank]）　いってください。　すぐ　そこ　です　よ。",
       "statement": {
@@ -1788,6 +1882,7 @@
     },
     {
       "id": 95,
+      "uid": "N5-vocabulary-0095",
       "question_type": "vocabulary",
       "question_text": "わたし　は　コーヒー　に　さとう　を　（[blank]）　のみます。",
       "statement": {
@@ -1807,6 +1902,7 @@
     },
     {
       "id": 96,
+      "uid": "N5-vocabulary-0096",
       "question_type": "vocabulary",
       "question_text": "きょう　は　つよい　かぜ　が　（[blank]）　います。",
       "statement": {
@@ -1826,6 +1922,7 @@
     },
     {
       "id": 97,
+      "uid": "N5-vocabulary-0097",
       "question_type": "vocabulary",
       "question_text": "しけん　は　おわりました。　きょうしつ　を　（[blank]）　ください。",
       "statement": {
@@ -1845,6 +1942,7 @@
     },
     {
       "id": 98,
+      "uid": "N5-vocabulary-0098",
       "question_type": "vocabulary",
       "question_text": "うち　から　かいしゃ　まで　あるいて　１５ふん　（[blank]）。",
       "statement": {
@@ -1864,6 +1962,7 @@
     },
     {
       "id": 99,
+      "uid": "N5-vocabulary-0099",
       "question_type": "vocabulary",
       "question_text": "いえ　に　は　いぬ　が　（[blank]）　います。",
       "statement": {
@@ -1883,6 +1982,7 @@
     },
     {
       "id": 100,
+      "uid": "N5-vocabulary-0100",
       "question_type": "vocabulary",
       "question_text": "もう　５じ　です　ね。　（[blank]）　失礼[しつれい]します。",
       "statement": {
@@ -1902,6 +2002,7 @@
     },
     {
       "id": 101,
+      "uid": "N5-vocabulary-0101",
       "question_type": "vocabulary",
       "question_text": "{この　たてもの　は　ぎんこう　です。}",
       "statement": {
@@ -1921,6 +2022,7 @@
     },
     {
       "id": 102,
+      "uid": "N5-vocabulary-0102",
       "question_type": "vocabulary",
       "question_text": "{その　えいが　は　おもしろくない　です。}",
       "statement": {
@@ -1940,6 +2042,7 @@
     },
     {
       "id": 103,
+      "uid": "N5-vocabulary-0103",
       "question_type": "vocabulary",
       "question_text": "{にほん　へ　は　はじめて　いきます。}",
       "statement": {
@@ -1959,6 +2062,7 @@
     },
     {
       "id": 104,
+      "uid": "N5-vocabulary-0104",
       "question_type": "vocabulary",
       "question_text": "{こうえん　に　けいかん　が　いました。}",
       "statement": {
@@ -1978,6 +2082,7 @@
     },
     {
       "id": 105,
+      "uid": "N5-vocabulary-0105",
       "question_type": "vocabulary",
       "question_text": "{おととい　と　しょかん　に　いきました。}",
       "statement": {
@@ -1997,6 +2102,7 @@
     },
     {
       "id": 106,
+      "uid": "N5-vocabulary-0106",
       "question_type": "vocabulary",
       "question_text": "{わたし　の　おばあさん　の　たんじょうび　は　じゅうがつ　いつか　です。}",
       "statement": {
@@ -2016,6 +2122,7 @@
     },
     {
       "id": 107,
+      "uid": "N5-vocabulary-0107",
       "question_type": "vocabulary",
       "question_text": "{こうばん　に　は　おまわりさん　が　います。}",
       "statement": {
@@ -2035,6 +2142,7 @@
     },
     {
       "id": 108,
+      "uid": "N5-vocabulary-0108",
       "question_type": "vocabulary",
       "question_text": "{きのう　は　もくようびでした。}",
       "statement": {
@@ -2054,6 +2162,7 @@
     },
     {
       "id": 109,
+      "uid": "N5-vocabulary-0109",
       "question_type": "vocabulary",
       "question_text": "{そうじ　を　してください。}",
       "statement": {
@@ -2073,6 +2182,7 @@
     },
     {
       "id": 110,
+      "uid": "N5-vocabulary-0110",
       "question_type": "vocabulary",
       "question_text": "{いつも　７じ　に　いえ　を　でて、　しごと　に　いきます。}",
       "statement": {
@@ -2092,6 +2202,7 @@
     },
     {
       "id": 111,
+      "uid": "N5-vocabulary-0111",
       "question_type": "vocabulary",
       "question_text": "ちゅうごくご　の　べんきょう　は　（[blank]）　ですか？",
       "statement": {
@@ -2111,6 +2222,7 @@
     },
     {
       "id": 112,
+      "uid": "N5-vocabulary-0112",
       "question_type": "vocabulary",
       "question_text": "この　クリニック　は　かんたんな　（[blank]）　なら　なおせる　よ。",
       "statement": {
@@ -2130,6 +2242,7 @@
     },
     {
       "id": 113,
+      "uid": "N5-vocabulary-0113",
       "question_type": "vocabulary",
       "question_text": "その　（[blank]）　は　きゃく　が　いっぱい　いる　ね。",
       "statement": {
@@ -2149,6 +2262,7 @@
     },
     {
       "id": 114,
+      "uid": "N5-vocabulary-0114",
       "question_type": "vocabulary",
       "question_text": "これ　は　（[blank]）　な　もんだい　です。",
       "statement": {
@@ -2168,6 +2282,7 @@
     },
     {
       "id": 115,
+      "uid": "N5-vocabulary-0115",
       "question_type": "vocabulary",
       "question_text": "Ａ：　なにか　（[blank]）　は　ありませんか。　\nＢ：　おちゃ　で　いい　ですか　\nＡ：　はい、　けっこう　です。",
       "statement": {
@@ -2187,6 +2302,7 @@
     },
     {
       "id": 116,
+      "uid": "N5-vocabulary-0116",
       "question_type": "vocabulary",
       "question_text": "なんじ　に　ごはん　を　（[blank]）か？",
       "statement": {
@@ -2206,6 +2322,7 @@
     },
     {
       "id": 117,
+      "uid": "N5-vocabulary-0117",
       "question_type": "vocabulary",
       "question_text": "この　（[blank]）　は　あまり　おいしくない　です　よ。",
       "statement": {
@@ -2225,6 +2342,7 @@
     },
     {
       "id": 118,
+      "uid": "N5-vocabulary-0118",
       "question_type": "vocabulary",
       "question_text": "きょう　は　ゴミ　の　ひだ　から、　あるなら　（[blank]）　ね。",
       "statement": {
@@ -2244,6 +2362,7 @@
     },
     {
       "id": 119,
+      "uid": "N5-vocabulary-0119",
       "question_type": "vocabulary",
       "question_text": "この　かばん　は　ふるい　です　が、　とても　（[blank]）。",
       "statement": {
@@ -2263,6 +2382,7 @@
     },
     {
       "id": 120,
+      "uid": "N5-vocabulary-0120",
       "question_type": "vocabulary",
       "question_text": "かさ　は　そこ　に　（[blank]）　ください。",
       "statement": {
@@ -2282,6 +2402,7 @@
     },
     {
       "id": 121,
+      "uid": "N5-vocabulary-0121",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　です　から、　ドア　を　あけてください。",
       "statement": {
@@ -2301,6 +2422,7 @@
     },
     {
       "id": 122,
+      "uid": "N5-vocabulary-0122",
       "question_type": "vocabulary",
       "question_text": "この　（[blank]）　を　おしてください。",
       "statement": {
@@ -2320,6 +2442,7 @@
     },
     {
       "id": 123,
+      "uid": "N5-vocabulary-0123",
       "question_type": "vocabulary",
       "question_text": "ゆうがた　まで　いもうと　と　いっしょ　に　にわ　で　（[blank]）。",
       "statement": {
@@ -2339,6 +2462,7 @@
     },
     {
       "id": 124,
+      "uid": "N5-vocabulary-0124",
       "question_type": "vocabulary",
       "question_text": "きのう　（[blank]）　べんきょうしませんでした。",
       "statement": {
@@ -2358,6 +2482,7 @@
     },
     {
       "id": 125,
+      "uid": "N5-vocabulary-0125",
       "question_type": "vocabulary",
       "question_text": "いつ　（[blank]）　へ　かえりますか？",
       "statement": {
@@ -2377,6 +2502,7 @@
     },
     {
       "id": 126,
+      "uid": "N5-vocabulary-0126",
       "question_type": "vocabulary",
       "question_text": "ちょっと　（[blank]）　を　見[み]ます　ね。　あそこ　しんごう　が　あります　ね。",
       "statement": {
@@ -2396,6 +2522,7 @@
     },
     {
       "id": 127,
+      "uid": "N5-vocabulary-0127",
       "question_type": "vocabulary",
       "question_text": "ちばさん　は　いつも　（[blank]）　ーヒー　を　買[か]いますか？",
       "statement": {
@@ -2415,6 +2542,7 @@
     },
     {
       "id": 128,
+      "uid": "N5-vocabulary-0128",
       "question_type": "vocabulary",
       "question_text": "じしょ　で　（[blank]）　の　いみ　を　しらべます。",
       "statement": {
@@ -2434,6 +2562,7 @@
     },
     {
       "id": 129,
+      "uid": "N5-vocabulary-0129",
       "question_type": "vocabulary",
       "question_text": "きょう　は　かぜ　が　（[blank]）　です。",
       "statement": {
@@ -2453,6 +2582,7 @@
     },
     {
       "id": 130,
+      "uid": "N5-vocabulary-0130",
       "question_type": "vocabulary",
       "question_text": "わたし　は　いつも　１０じ　に　ねて　５じ　に　（[blank]）。",
       "statement": {
@@ -2472,6 +2602,7 @@
     },
     {
       "id": 131,
+      "uid": "N5-vocabulary-0131",
       "question_type": "vocabulary",
       "question_text": "{あさ　こうえん　を　さんぽしました。}",
       "statement": {
@@ -2491,6 +2622,7 @@
     },
     {
       "id": 132,
+      "uid": "N5-vocabulary-0132",
       "question_type": "vocabulary",
       "question_text": "{きむらさん　の　おばさん　は　あの　ひと　です。}",
       "statement": {
@@ -2510,6 +2642,7 @@
     },
     {
       "id": 133,
+      "uid": "N5-vocabulary-0133",
       "question_type": "vocabulary",
       "question_text": "{あね　は　おんがく　が　すき　です。}",
       "statement": {
@@ -2529,6 +2662,7 @@
     },
     {
       "id": 134,
+      "uid": "N5-vocabulary-0134",
       "question_type": "vocabulary",
       "question_text": "{きょう　は　てんき　が　いい　です。}",
       "statement": {
@@ -2548,6 +2682,7 @@
     },
     {
       "id": 135,
+      "uid": "N5-vocabulary-0135",
       "question_type": "vocabulary",
       "question_text": "{わたし　の　あね　は　やまださん　と　けっこんします。}",
       "statement": {
@@ -2567,6 +2702,7 @@
     },
     {
       "id": 136,
+      "uid": "N5-vocabulary-0136",
       "question_type": "vocabulary",
       "question_text": "{ゆうべ　やましたさん　に　でんわ　を　しました。}",
       "statement": {
@@ -2586,6 +2722,7 @@
     },
     {
       "id": 137,
+      "uid": "N5-vocabulary-0137",
       "question_type": "vocabulary",
       "question_text": "{あそこ　は　ゆうびんきょく　です。}",
       "statement": {
@@ -2605,6 +2742,7 @@
     },
     {
       "id": 138,
+      "uid": "N5-vocabulary-0138",
       "question_type": "vocabulary",
       "question_text": "{これ　は　コップ　です。}",
       "statement": {
@@ -2624,6 +2762,7 @@
     },
     {
       "id": 139,
+      "uid": "N5-vocabulary-0139",
       "question_type": "vocabulary",
       "question_text": "{へや　が　くらい　です　ね。　あかるくしてください。}",
       "statement": {
@@ -2643,6 +2782,7 @@
     },
     {
       "id": 140,
+      "uid": "N5-vocabulary-0140",
       "question_type": "vocabulary",
       "question_text": "{にちようび　の　こうえん　は　にぎやか　です。}",
       "statement": {
@@ -2662,6 +2802,7 @@
     },
     {
       "id": 141,
+      "uid": "N5-vocabulary-0141",
       "question_type": "vocabulary",
       "question_text": "たなかさん：　やまもとさん、　（[blank]）　は　スミスさん　です。　\nやまもとさん：　はじめまして。",
       "statement": {
@@ -2681,6 +2822,7 @@
     },
     {
       "id": 142,
+      "uid": "N5-vocabulary-0142",
       "question_type": "vocabulary",
       "question_text": "あそこ　に　じてんしゃ　が　（[blank]）　とまっています。",
       "statement": {
@@ -2700,6 +2842,7 @@
     },
     {
       "id": 143,
+      "uid": "N5-vocabulary-0143",
       "question_type": "vocabulary",
       "question_text": "かんじ　の　おぼえかた　を　（[blank]）　ください。",
       "statement": {
@@ -2719,6 +2862,7 @@
     },
     {
       "id": 144,
+      "uid": "N5-vocabulary-0144",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　を　さんぽしましょう。",
       "statement": {
@@ -2738,6 +2882,7 @@
     },
     {
       "id": 145,
+      "uid": "N5-vocabulary-0145",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　じぶん　の　くるま　をかいたい　です。",
       "statement": {
@@ -2757,6 +2902,7 @@
     },
     {
       "id": 146,
+      "uid": "N5-vocabulary-0146",
       "question_type": "vocabulary",
       "question_text": "もう　（[blank]）　ゆっくり　いってください。",
       "statement": {
@@ -2776,6 +2922,7 @@
     },
     {
       "id": 147,
+      "uid": "N5-vocabulary-0147",
       "question_type": "vocabulary",
       "question_text": "昨日[きのう]　（[blank]）　を　しました。",
       "statement": {
@@ -2795,6 +2942,7 @@
     },
     {
       "id": 148,
+      "uid": "N5-vocabulary-0148",
       "question_type": "vocabulary",
       "question_text": "この　りょうり　は　（[blank]）　です。",
       "statement": {
@@ -2814,6 +2962,7 @@
     },
     {
       "id": 149,
+      "uid": "N5-vocabulary-0149",
       "question_type": "vocabulary",
       "question_text": "きょう　から　この　がっこう　に　（[blank]）　こと　に　なりました。",
       "statement": {
@@ -2833,6 +2982,7 @@
     },
     {
       "id": 150,
+      "uid": "N5-vocabulary-0150",
       "question_type": "vocabulary",
       "question_text": "これ　は　ラジカセ　と　（[blank]）。",
       "statement": {
@@ -2852,6 +3002,7 @@
     },
     {
       "id": 151,
+      "uid": "N5-vocabulary-0151",
       "question_type": "vocabulary",
       "question_text": "きんようび　に　しゅくだい　を　（[blank]）　ください。",
       "statement": {
@@ -2871,6 +3022,7 @@
     },
     {
       "id": 152,
+      "uid": "N5-vocabulary-0152",
       "question_type": "vocabulary",
       "question_text": "きょう　は　（[blank]）　です。　あした　は　みっか　です。",
       "statement": {
@@ -2890,6 +3042,7 @@
     },
     {
       "id": 153,
+      "uid": "N5-vocabulary-0153",
       "question_type": "vocabulary",
       "question_text": "この　ほん　は　（[blank]）かるい　です。",
       "statement": {
@@ -2909,6 +3062,7 @@
     },
     {
       "id": 154,
+      "uid": "N5-vocabulary-0154",
       "question_type": "vocabulary",
       "question_text": "ここ　で　は　（[blank]）　くに　の　ひと　が　はたらいています。",
       "statement": {
@@ -2928,6 +3082,7 @@
     },
     {
       "id": 155,
+      "uid": "N5-vocabulary-0155",
       "question_type": "vocabulary",
       "question_text": "Ａ：　この　カメラ　は　あなた　の　ですか。　\nＢ：　いいえ、　（[blank]）。",
       "statement": {
@@ -2947,6 +3102,7 @@
     },
     {
       "id": 156,
+      "uid": "N5-vocabulary-0156",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　ゆっくり　はなしてください。",
       "statement": {
@@ -2966,6 +3122,7 @@
     },
     {
       "id": 157,
+      "uid": "N5-vocabulary-0157",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　が　ふるそう　です。",
       "statement": {
@@ -2985,6 +3142,7 @@
     },
     {
       "id": 158,
+      "uid": "N5-vocabulary-0158",
       "question_type": "vocabulary",
       "question_text": "どんな　（[blank]）　を　したい　ですか。",
       "statement": {
@@ -3004,6 +3162,7 @@
     },
     {
       "id": 159,
+      "uid": "N5-vocabulary-0159",
       "question_type": "vocabulary",
       "question_text": "まじめ　に　（[blank]）　を　とってください。",
       "statement": {
@@ -3023,6 +3182,7 @@
     },
     {
       "id": 160,
+      "uid": "N5-vocabulary-0160",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　なまえ　を　かいてください。　つぎに、　しつもん　に　こたえてください。",
       "statement": {
@@ -3042,6 +3202,7 @@
     },
     {
       "id": 161,
+      "uid": "N5-vocabulary-0161",
       "question_type": "vocabulary",
       "question_text": "{ここ　は　でぐち　です。　いりぐち　は　あちら　です。}",
       "statement": {
@@ -3061,6 +3222,7 @@
     },
     {
       "id": 162,
+      "uid": "N5-vocabulary-0162",
       "question_type": "vocabulary",
       "question_text": "{この　しょくどう　は　まずい　です。}",
       "statement": {
@@ -3080,6 +3242,7 @@
     },
     {
       "id": 163,
+      "uid": "N5-vocabulary-0163",
       "question_type": "vocabulary",
       "question_text": "{この　みせ　で　は　やさい　や　くだもの　を　うっています。}",
       "statement": {
@@ -3099,6 +3262,7 @@
     },
     {
       "id": 164,
+      "uid": "N5-vocabulary-0164",
       "question_type": "vocabulary",
       "question_text": "{えいがかん　の　いりぐち　で　あいましょう。}",
       "statement": {
@@ -3118,6 +3282,7 @@
     },
     {
       "id": 165,
+      "uid": "N5-vocabulary-0165",
       "question_type": "vocabulary",
       "question_text": "{いそがしい　から　しんぶん　を　よみません。}",
       "statement": {
@@ -3137,6 +3302,7 @@
     },
     {
       "id": 166,
+      "uid": "N5-vocabulary-0166",
       "question_type": "vocabulary",
       "question_text": "{ヤンさん　は　せ　が　たかい　です。}",
       "statement": {
@@ -3156,6 +3322,7 @@
     },
     {
       "id": 167,
+      "uid": "N5-vocabulary-0167",
       "question_type": "vocabulary",
       "question_text": "{テーブル　に　おさら　を　８まい　ならべてください。}",
       "statement": {
@@ -3175,6 +3342,7 @@
     },
     {
       "id": 168,
+      "uid": "N5-vocabulary-0168",
       "question_type": "vocabulary",
       "question_text": "{あきらさん　は　けいこさん　と　きょうだい　です。}",
       "statement": {
@@ -3194,6 +3362,7 @@
     },
     {
       "id": 169,
+      "uid": "N5-vocabulary-0169",
       "question_type": "vocabulary",
       "question_text": "{かいぎ　は　ちょうど　３じ　に　おわりました。}",
       "statement": {
@@ -3213,6 +3382,7 @@
     },
     {
       "id": 170,
+      "uid": "N5-vocabulary-0170",
       "question_type": "vocabulary",
       "question_text": "{あさって　しごと　を　やすみます。}",
       "statement": {
@@ -3232,6 +3402,7 @@
     },
     {
       "id": 171,
+      "uid": "N5-vocabulary-0171",
       "question_type": "vocabulary",
       "question_text": "わからない　ひと　は　わたし　に　（[blank]）　ください。",
       "statement": {
@@ -3251,6 +3422,7 @@
     },
     {
       "id": 172,
+      "uid": "N5-vocabulary-0172",
       "question_type": "vocabulary",
       "question_text": "きょう　は　ざっし　を　（[blank]）　よみました。",
       "statement": {
@@ -3270,6 +3442,7 @@
     },
     {
       "id": 173,
+      "uid": "N5-vocabulary-0173",
       "question_type": "vocabulary",
       "question_text": "Ａ：　わたし　が　そうじ　を　しましょう　か。　\nＢ：　ええ、　（[blank]）。",
       "statement": {
@@ -3289,6 +3462,7 @@
     },
     {
       "id": 174,
+      "uid": "N5-vocabulary-0174",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　が　ある　から、　そんな　に　いそがなくてもいい　よ。",
       "statement": {
@@ -3308,6 +3482,7 @@
     },
     {
       "id": 175,
+      "uid": "N5-vocabulary-0175",
       "question_type": "vocabulary",
       "question_text": "もう　はる　です　ね。　これから、　（[blank]）　あたたかくなります　ね。",
       "statement": {
@@ -3327,6 +3502,7 @@
     },
     {
       "id": 176,
+      "uid": "N5-vocabulary-0176",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　で　いったほう　が　はやい　です　よ。",
       "statement": {
@@ -3346,6 +3522,7 @@
     },
     {
       "id": 177,
+      "uid": "N5-vocabulary-0177",
       "question_type": "vocabulary",
       "question_text": "わたし　は　よる　シャワー　を　（[blank]）。",
       "statement": {
@@ -3365,6 +3542,7 @@
     },
     {
       "id": 178,
+      "uid": "N5-vocabulary-0178",
       "question_type": "vocabulary",
       "question_text": "ギター　を　（[blank]）　こと　が　できますか。",
       "statement": {
@@ -3384,6 +3562,7 @@
     },
     {
       "id": 179,
+      "uid": "N5-vocabulary-0179",
       "question_type": "vocabulary",
       "question_text": "がくせい　（[blank]）　で　ひるごはん　を　たべます。",
       "statement": {
@@ -3403,6 +3582,7 @@
     },
     {
       "id": 180,
+      "uid": "N5-vocabulary-0180",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　は　午後[ごご]　4時[とき]　に　ともだち　に　あいます。",
       "statement": {
@@ -3422,6 +3602,7 @@
     },
     {
       "id": 181,
+      "uid": "N5-vocabulary-0181",
       "question_type": "vocabulary",
       "question_text": "国[くに]　で　日本語[にほんご]　を　（[blank]）　しましたか？",
       "statement": {
@@ -3441,6 +3622,7 @@
     },
     {
       "id": 182,
+      "uid": "N5-vocabulary-0182",
       "question_type": "vocabulary",
       "question_text": "ふうとう　に　きって　を　（[blank]）　だします。",
       "statement": {
@@ -3460,6 +3642,7 @@
     },
     {
       "id": 183,
+      "uid": "N5-vocabulary-0183",
       "question_type": "vocabulary",
       "question_text": "わたし　は　うた　が　へた　です。　でも、　うた　は　（[blank]）。",
       "statement": {
@@ -3479,6 +3662,7 @@
     },
     {
       "id": 184,
+      "uid": "N5-vocabulary-0184",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　が　ふりはじめた。",
       "statement": {
@@ -3498,6 +3682,7 @@
     },
     {
       "id": 185,
+      "uid": "N5-vocabulary-0185",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　です　ね。　でんき　を　つけましょう。",
       "statement": {
@@ -3517,6 +3702,7 @@
     },
     {
       "id": 186,
+      "uid": "N5-vocabulary-0186",
       "question_type": "vocabulary",
       "question_text": "Ａ：　ありがとうございます。　Ｂ：　いいえ、　（[blank]）。",
       "statement": {
@@ -3536,6 +3722,7 @@
     },
     {
       "id": 187,
+      "uid": "N5-vocabulary-0187",
       "question_type": "vocabulary",
       "question_text": "きょう　は　彼[かれ]　と　（[blank]）　に　来[き]ましたか？",
       "statement": {
@@ -3555,6 +3742,7 @@
     },
     {
       "id": 188,
+      "uid": "N5-vocabulary-0188",
       "question_type": "vocabulary",
       "question_text": "学校[がっこう]　の　（[blank]）　は　なん　ですか？",
       "statement": {
@@ -3574,6 +3762,7 @@
     },
     {
       "id": 189,
+      "uid": "N5-vocabulary-0189",
       "question_type": "vocabulary",
       "question_text": "だれ　に　いちばん　（[blank]）　ですか？",
       "statement": {
@@ -3593,6 +3782,7 @@
     },
     {
       "id": 190,
+      "uid": "N5-vocabulary-0190",
       "question_type": "vocabulary",
       "question_text": "へや　は　ストーブ　が　ついていて、　とても　（[blank]）　です。",
       "statement": {
@@ -3612,6 +3802,7 @@
     },
     {
       "id": 191,
+      "uid": "N5-vocabulary-0191",
       "question_type": "vocabulary",
       "question_text": "{おてあらい　は　あちら　です。}",
       "statement": {
@@ -3631,6 +3822,7 @@
     },
     {
       "id": 192,
+      "uid": "N5-vocabulary-0192",
       "question_type": "vocabulary",
       "question_text": "{わたし　の　くに　の　ふゆ　は、　あまり　さむくありません。}",
       "statement": {
@@ -3650,6 +3842,7 @@
     },
     {
       "id": 193,
+      "uid": "N5-vocabulary-0193",
       "question_type": "vocabulary",
       "question_text": "{げんかん　に　だれか　います　よ。}",
       "statement": {
@@ -3669,6 +3862,7 @@
     },
     {
       "id": 194,
+      "uid": "N5-vocabulary-0194",
       "question_type": "vocabulary",
       "question_text": "{まいにち　８じ　に　でかけます。}",
       "statement": {
@@ -3688,6 +3882,7 @@
     },
     {
       "id": 195,
+      "uid": "N5-vocabulary-0195",
       "question_type": "vocabulary",
       "question_text": "{いま、　２００１ねん　です。　さらいねん　がいこく　に　いきます。}",
       "statement": {
@@ -3707,6 +3902,7 @@
     },
     {
       "id": 196,
+      "uid": "N5-vocabulary-0196",
       "question_type": "vocabulary",
       "question_text": "{わたし　は　くだもの　が　すき　です。}",
       "statement": {
@@ -3726,6 +3922,7 @@
     },
     {
       "id": 197,
+      "uid": "N5-vocabulary-0197",
       "question_type": "vocabulary",
       "question_text": "{にちようび　は　ひまでした。}",
       "statement": {
@@ -3745,6 +3942,7 @@
     },
     {
       "id": 198,
+      "uid": "N5-vocabulary-0198",
       "question_type": "vocabulary",
       "question_text": "{あね　は　さとうさん　と　けっこんします。}",
       "statement": {
@@ -3764,6 +3962,7 @@
     },
     {
       "id": 199,
+      "uid": "N5-vocabulary-0199",
       "question_type": "vocabulary",
       "question_text": "{この　たてもの　は　ゆうびんきょく　です。}",
       "statement": {
@@ -3783,6 +3982,7 @@
     },
     {
       "id": 200,
+      "uid": "N5-vocabulary-0200",
       "question_type": "vocabulary",
       "question_text": "{おじ　は　６５さい　です。}",
       "statement": {
@@ -3802,6 +4002,7 @@
     },
     {
       "id": 201,
+      "uid": "N5-vocabulary-0201",
       "question_type": "vocabulary",
       "question_text": "いい　（[blank]）　を　とりました　ね。",
       "statement": {
@@ -3821,6 +4022,7 @@
     },
     {
       "id": 202,
+      "uid": "N5-vocabulary-0202",
       "question_type": "vocabulary",
       "question_text": "わたし　は　テレビ　を　（[blank]）　もっています。",
       "statement": {
@@ -3840,6 +4042,7 @@
     },
     {
       "id": 203,
+      "uid": "N5-vocabulary-0203",
       "question_type": "vocabulary",
       "question_text": "へや　に　は　ひと　が　（[blank]）　いて、　あつい　です。",
       "statement": {
@@ -3859,6 +4062,7 @@
     },
     {
       "id": 204,
+      "uid": "N5-vocabulary-0204",
       "question_type": "vocabulary",
       "question_text": "あの、　この　（[blank]）　を　少[すこ]し　もらってもいい　ですか？",
       "statement": {
@@ -3878,6 +4082,7 @@
     },
     {
       "id": 205,
+      "uid": "N5-vocabulary-0205",
       "question_type": "vocabulary",
       "question_text": "この　いす　は　（[blank]）　で　は　ありません。",
       "statement": {
@@ -3897,6 +4102,7 @@
     },
     {
       "id": 206,
+      "uid": "N5-vocabulary-0206",
       "question_type": "vocabulary",
       "question_text": "Ａ：　ごはん　を　もう　いっぱい　いかが　ですか。　\nＢ：　（[blank]）。",
       "statement": {
@@ -3916,6 +4122,7 @@
     },
     {
       "id": 207,
+      "uid": "N5-vocabulary-0207",
       "question_type": "vocabulary",
       "question_text": "ここから　がっこう　まで　２　（[blank]）　です。",
       "statement": {
@@ -3935,6 +4142,7 @@
     },
     {
       "id": 208,
+      "uid": "N5-vocabulary-0208",
       "question_type": "vocabulary",
       "question_text": "この　（[blank]）　を　まっすぐ　いってください。",
       "statement": {
@@ -3954,6 +4162,7 @@
     },
     {
       "id": 209,
+      "uid": "N5-vocabulary-0209",
       "question_type": "vocabulary",
       "question_text": "よる　（[blank]）　を　みがいてから　ねます。",
       "statement": {
@@ -3973,6 +4182,7 @@
     },
     {
       "id": 210,
+      "uid": "N5-vocabulary-0210",
       "question_type": "vocabulary",
       "question_text": "たいてい　は　あるいて　いきます　が、　（[blank]）　バス　で　いきます。",
       "statement": {
@@ -3992,6 +4202,7 @@
     },
     {
       "id": 211,
+      "uid": "N5-vocabulary-0211",
       "question_type": "vocabulary",
       "question_text": "なつやすみ　に　やま　に　（[blank]）。",
       "statement": {
@@ -4011,6 +4222,7 @@
     },
     {
       "id": 212,
+      "uid": "N5-vocabulary-0212",
       "question_type": "vocabulary",
       "question_text": "かぞく　が　（[blank]）　だいじだ　と　おもいます。",
       "statement": {
@@ -4030,6 +4242,7 @@
     },
     {
       "id": 213,
+      "uid": "N5-vocabulary-0213",
       "question_type": "vocabulary",
       "question_text": "さようなら。　（[blank]）　あした。",
       "statement": {
@@ -4049,6 +4262,7 @@
     },
     {
       "id": 214,
+      "uid": "N5-vocabulary-0214",
       "question_type": "vocabulary",
       "question_text": "ここ　で　たばこ　を　（[blank]）　ください。",
       "statement": {
@@ -4068,6 +4282,7 @@
     },
     {
       "id": 215,
+      "uid": "N5-vocabulary-0215",
       "question_type": "vocabulary",
       "question_text": "おんがく　が　（[blank]）か。",
       "statement": {
@@ -4087,6 +4302,7 @@
     },
     {
       "id": 216,
+      "uid": "N5-vocabulary-0216",
       "question_type": "vocabulary",
       "question_text": "あの　ゆうびんきょく　の　（[blank]）　で　止[し]めてください。",
       "statement": {
@@ -4106,6 +4322,7 @@
     },
     {
       "id": 217,
+      "uid": "N5-vocabulary-0217",
       "question_type": "vocabulary",
       "question_text": "あの　（[blank]）　をかぶっている　ひと　が　たなかさん　です。",
       "statement": {
@@ -4125,6 +4342,7 @@
     },
     {
       "id": 218,
+      "uid": "N5-vocabulary-0218",
       "question_type": "vocabulary",
       "question_text": "この　（[blank]）　で　はたらきたい　です。",
       "statement": {
@@ -4144,6 +4362,7 @@
     },
     {
       "id": 219,
+      "uid": "N5-vocabulary-0219",
       "question_type": "vocabulary",
       "question_text": "さむい　です　ね。　まど　を　（[blank]）　ください。",
       "statement": {
@@ -4163,6 +4382,7 @@
     },
     {
       "id": 220,
+      "uid": "N5-vocabulary-0220",
       "question_type": "vocabulary",
       "question_text": "たまご　は　（[blank]）　いりますか。",
       "statement": {
@@ -4182,6 +4402,7 @@
     },
     {
       "id": 221,
+      "uid": "N5-vocabulary-0221",
       "question_type": "vocabulary",
       "question_text": "{わたし　は　じ　が　へた　です。}",
       "statement": {
@@ -4201,6 +4422,7 @@
     },
     {
       "id": 222,
+      "uid": "N5-vocabulary-0222",
       "question_type": "vocabulary",
       "question_text": "{ちち　は　こうじょう　で　はたらいています。}",
       "statement": {
@@ -4220,6 +4442,7 @@
     },
     {
       "id": 223,
+      "uid": "N5-vocabulary-0223",
       "question_type": "vocabulary",
       "question_text": "{りょうしん　は　でかけています。}",
       "statement": {
@@ -4239,6 +4462,7 @@
     },
     {
       "id": 224,
+      "uid": "N5-vocabulary-0224",
       "question_type": "vocabulary",
       "question_text": "{マイケルさん　は　わたし　に　えいご　を　おしえます。}",
       "statement": {
@@ -4258,6 +4482,7 @@
     },
     {
       "id": 225,
+      "uid": "N5-vocabulary-0225",
       "question_type": "vocabulary",
       "question_text": "{この　まち　は　みどり　が　おおい　です。}",
       "statement": {
@@ -4277,6 +4502,7 @@
     },
     {
       "id": 226,
+      "uid": "N5-vocabulary-0226",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　な　とき　ほん　を　よみます。",
       "statement": {
@@ -4296,6 +4522,7 @@
     },
     {
       "id": 227,
+      "uid": "N5-vocabulary-0227",
       "question_type": "vocabulary",
       "question_text": "えき　で　さとうさん　を　２じかん　も　（[blank]）。",
       "statement": {
@@ -4315,6 +4542,7 @@
     },
     {
       "id": 228,
+      "uid": "N5-vocabulary-0228",
       "question_type": "vocabulary",
       "question_text": "大[おお]きい　にもつ　は　一[ひと]つ　です　が、　とても　（[blank]）　です。",
       "statement": {
@@ -4334,6 +4562,7 @@
     },
     {
       "id": 229,
+      "uid": "N5-vocabulary-0229",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　はな　をかってください。",
       "statement": {
@@ -4353,6 +4582,7 @@
     },
     {
       "id": 230,
+      "uid": "N5-vocabulary-0230",
       "question_type": "vocabulary",
       "question_text": "とり　が　ちいさな　こえ　で　（[blank]）　います。",
       "statement": {
@@ -4372,6 +4602,7 @@
     },
     {
       "id": 231,
+      "uid": "N5-vocabulary-0231",
       "question_type": "vocabulary",
       "question_text": "よっつ、　（[blank]）、　むっつ。　ぜんぶ　で　むっつ　あります。",
       "statement": {
@@ -4391,6 +4622,7 @@
     },
     {
       "id": 232,
+      "uid": "N5-vocabulary-0232",
       "question_type": "vocabulary",
       "question_text": "もう　（[blank]）　を　おくりました　よ。",
       "statement": {
@@ -4410,6 +4642,7 @@
     },
     {
       "id": 233,
+      "uid": "N5-vocabulary-0233",
       "question_type": "vocabulary",
       "question_text": "テーブル　の　した　に　（[blank]）　が　います。",
       "statement": {
@@ -4429,6 +4662,7 @@
     },
     {
       "id": 234,
+      "uid": "N5-vocabulary-0234",
       "question_type": "vocabulary",
       "question_text": "けさ　としょかん　で　ほん　を　（[blank]）。",
       "statement": {
@@ -4448,6 +4682,7 @@
     },
     {
       "id": 235,
+      "uid": "N5-vocabulary-0235",
       "question_type": "vocabulary",
       "question_text": "がっこう　は　えき　の　（[blank]）　です。",
       "statement": {
@@ -4467,6 +4702,7 @@
     },
     {
       "id": 236,
+      "uid": "N5-vocabulary-0236",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　を　つけましょうか？",
       "statement": {
@@ -4486,6 +4722,7 @@
     },
     {
       "id": 237,
+      "uid": "N5-vocabulary-0237",
       "question_type": "vocabulary",
       "question_text": "どんな　（[blank]）　が　すき　ですか？",
       "statement": {
@@ -4505,6 +4742,7 @@
     },
     {
       "id": 238,
+      "uid": "N5-vocabulary-0238",
       "question_type": "vocabulary",
       "question_text": "（[blank]）　が　のみたい　です。",
       "statement": {
@@ -4524,6 +4762,7 @@
     },
     {
       "id": 239,
+      "uid": "N5-vocabulary-0239",
       "question_type": "vocabulary",
       "question_text": "２０００ねん　に　（[blank]）。　いま　こども　は　３にん　です。",
       "statement": {
@@ -4543,6 +4782,7 @@
     },
     {
       "id": 240,
+      "uid": "N5-vocabulary-0240",
       "question_type": "vocabulary",
       "question_text": "ここ　は　（[blank]）　が　ふべん　です。",
       "statement": {

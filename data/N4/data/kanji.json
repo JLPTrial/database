@@ -2,6 +2,7 @@
   "questions": [
     {
       "id": 1,
+      "uid": "N4-kanji-0001",
       "question_type": "kanji",
       "question_text": "{自分}で旅行[りょこう]を計画[けいかく]するのは楽[たの]しいです。",
       "statement": {
@@ -21,6 +22,7 @@
     },
     {
       "id": 2,
+      "uid": "N4-kanji-0002",
       "question_type": "kanji",
       "question_text": "自分[じぶん]で{旅行}を計画[けいかく]するのは楽[たの]しいです。",
       "statement": {
@@ -40,6 +42,7 @@
     },
     {
       "id": 3,
+      "uid": "N4-kanji-0003",
       "question_type": "kanji",
       "question_text": "自分[じぶん]で旅行[りょこう]を{計画}するのは楽[たの]しいです。",
       "statement": {
@@ -59,6 +62,7 @@
     },
     {
       "id": 4,
+      "uid": "N4-kanji-0004",
       "question_type": "kanji",
       "question_text": "自分[じぶん]で旅行[りょこう]を計画[けいかく]するのは{楽しい}です。",
       "statement": {
@@ -78,6 +82,7 @@
     },
     {
       "id": 5,
+      "uid": "N4-kanji-0005",
       "question_type": "kanji",
       "question_text": "この学生[がくせい]は毎日[まいにち]{地下鉄}で大学[だいがく]に通[とお]っています。",
       "statement": {
@@ -97,6 +102,7 @@
     },
     {
       "id": 6,
+      "uid": "N4-kanji-0006",
       "question_type": "kanji",
       "question_text": "この学生[がくせい]は毎日[まいにち]地下鉄[ちかてつ]で{大学}に通[とお]っています。",
       "statement": {
@@ -116,6 +122,7 @@
     },
     {
       "id": 7,
+      "uid": "N4-kanji-0007",
       "question_type": "kanji",
       "question_text": "この学生[がくせい]は毎日[まいにち]地下鉄[ちかてつ]で大学[だいがく]に{通って}います。",
       "statement": {
@@ -135,6 +142,7 @@
     },
     {
       "id": 8,
+      "uid": "N4-kanji-0008",
       "question_type": "kanji",
       "question_text": "{姉}がいつも食事[しょくじ]の用意[ようい]をしてくれます。",
       "statement": {
@@ -154,6 +162,7 @@
     },
     {
       "id": 9,
+      "uid": "N4-kanji-0009",
       "question_type": "kanji",
       "question_text": "姉[あね]がいつも{食事}の用意[ようい]をしてくれます。",
       "statement": {
@@ -173,6 +182,7 @@
     },
     {
       "id": 10,
+      "uid": "N4-kanji-0010",
       "question_type": "kanji",
       "question_text": "姉[あね]がいつも食事[しょくじ]の{用意}をしてくれます。",
       "statement": {
@@ -192,6 +202,7 @@
     },
     {
       "id": 11,
+      "uid": "N4-kanji-0011",
       "question_type": "kanji",
       "question_text": "彼女[かのじょ]はこうちょくしたように{うごかない}。",
       "statement": {
@@ -211,6 +222,7 @@
     },
     {
       "id": 12,
+      "uid": "N4-kanji-0012",
       "question_type": "kanji",
       "question_text": "奈良[なら]と京都[きょうと]は日本[にほん]の古[ふる]い{都}です。",
       "statement": {
@@ -230,6 +242,7 @@
     },
     {
       "id": 13,
+      "uid": "N4-kanji-0013",
       "question_type": "kanji",
       "question_text": "{趣味}としてじゅうどうを習[なら]うつもりです。",
       "statement": {
@@ -249,6 +262,7 @@
     },
     {
       "id": 14,
+      "uid": "N4-kanji-0014",
       "question_type": "kanji",
       "question_text": "{きゅうに}空[そら]が暗[くら]くなりました。",
       "statement": {
@@ -268,6 +282,7 @@
     },
     {
       "id": 15,
+      "uid": "N4-kanji-0015",
       "question_type": "kanji",
       "question_text": "兄[あに]が入院[にゅういん]したので、花[はな]を持[も]って{お見舞い}に行[い]った。",
       "statement": {
@@ -287,6 +302,7 @@
     },
     {
       "id": 16,
+      "uid": "N4-kanji-0016",
       "question_type": "kanji",
       "question_text": "のどが{かわいて}います。水[みず]が飲[の]みたいです。",
       "statement": {
@@ -306,6 +322,7 @@
     },
     {
       "id": 17,
+      "uid": "N4-kanji-0017",
       "question_type": "kanji",
       "question_text": "先生[せんせい]の奥[おく]さんはとても{優しい}です。",
       "statement": {
@@ -325,6 +342,7 @@
     },
     {
       "id": 18,
+      "uid": "N4-kanji-0018",
       "question_type": "kanji",
       "question_text": "ディズニーランドで姉[あね]に{人形を}買[か]ってやった。",
       "statement": {
@@ -344,6 +362,7 @@
     },
     {
       "id": 19,
+      "uid": "N4-kanji-0019",
       "question_type": "kanji",
       "question_text": "おばあさんが昔[むかし]のいろんな{物語}を話[はな]してくれた。",
       "statement": {
@@ -363,6 +382,7 @@
     },
     {
       "id": 20,
+      "uid": "N4-kanji-0020",
       "question_type": "kanji",
       "question_text": "友達[ともだち]がいなくて、{さびしい}です。",
       "statement": {
@@ -382,6 +402,7 @@
     },
     {
       "id": 21,
+      "uid": "N4-kanji-0021",
       "question_type": "kanji",
       "question_text": "{海}から強[つよ]い風[かぜ]がふいてきた。",
       "statement": {
@@ -401,6 +422,7 @@
     },
     {
       "id": 22,
+      "uid": "N4-kanji-0022",
       "question_type": "kanji",
       "question_text": "海[うみ]から{強い}風[かぜ]がふいてきた。",
       "statement": {
@@ -420,6 +442,7 @@
     },
     {
       "id": 23,
+      "uid": "N4-kanji-0023",
       "question_type": "kanji",
       "question_text": "海[うみ]から強[つよ]い{風}がふいてきた。",
       "statement": {
@@ -439,6 +462,7 @@
     },
     {
       "id": 24,
+      "uid": "N4-kanji-0024",
       "question_type": "kanji",
       "question_text": "川[かわ]で{魚}をとりました。今日[きょう]の夕飯[ゆうはん]はその魚[さかな]を使[つか]った料理[りょうり]にします。",
       "statement": {
@@ -458,6 +482,7 @@
     },
     {
       "id": 25,
+      "uid": "N4-kanji-0025",
       "question_type": "kanji",
       "question_text": "川[かわ]で魚[さかな]をとりました。今日[きょう]の{夕飯}はその魚[さかな]を使[つか]った料理[りょうり]にします。",
       "statement": {
@@ -477,6 +502,7 @@
     },
     {
       "id": 26,
+      "uid": "N4-kanji-0026",
       "question_type": "kanji",
       "question_text": "川[かわ]で魚[さかな]をとりました。今日[きょう]の夕飯[ゆうはん]はその魚[さかな]を{使った}料理[りょうり]にします。",
       "statement": {
@@ -496,6 +522,7 @@
     },
     {
       "id": 27,
+      "uid": "N4-kanji-0027",
       "question_type": "kanji",
       "question_text": "川[かわ]で魚[さかな]をとりました。今日[きょう]の夕飯[ゆうはん]はその魚[さかな]を使[つか]った{料理}にします。",
       "statement": {
@@ -515,6 +542,7 @@
     },
     {
       "id": 28,
+      "uid": "N4-kanji-0028",
       "question_type": "kanji",
       "question_text": "となりの{教室}から歌[うた]が聞[き]こえるので、まどを閉[し]めてください。",
       "statement": {
@@ -534,6 +562,7 @@
     },
     {
       "id": 29,
+      "uid": "N4-kanji-0029",
       "question_type": "kanji",
       "question_text": "となりの教室[きょうしつ]から{歌}が聞[き]こえるので、まどを閉[し]めてください。",
       "statement": {
@@ -553,6 +582,7 @@
     },
     {
       "id": 30,
+      "uid": "N4-kanji-0030",
       "question_type": "kanji",
       "question_text": "となりの教室[きょうしつ]から歌[うた]が聞[き]こえるので、まどを{閉めて}ください。",
       "statement": {
@@ -572,6 +602,7 @@
     },
     {
       "id": 31,
+      "uid": "N4-kanji-0031",
       "question_type": "kanji",
       "question_text": "{電話代}は夜[よる]の間[あいだ]と日曜日[にちようび]が安[やす]いです。",
       "statement": {
@@ -591,6 +622,7 @@
     },
     {
       "id": 32,
+      "uid": "N4-kanji-0032",
       "question_type": "kanji",
       "question_text": "電話代[でんわだい]は{夜}の間[あいだ]と日曜日[にちようび]が安[やす]いです。",
       "statement": {
@@ -610,6 +642,7 @@
     },
     {
       "id": 33,
+      "uid": "N4-kanji-0033",
       "question_type": "kanji",
       "question_text": "電話代[でんわだい]は夜[よる]の{間}と日曜日[にちようび]が安[やす]いです。",
       "statement": {
@@ -629,6 +662,7 @@
     },
     {
       "id": 34,
+      "uid": "N4-kanji-0034",
       "question_type": "kanji",
       "question_text": "電話代[でんわだい]は夜[よる]の間[あいだ]と日曜日[にちようび]が{安い}です。",
       "statement": {
@@ -648,6 +682,7 @@
     },
     {
       "id": 35,
+      "uid": "N4-kanji-0035",
       "question_type": "kanji",
       "question_text": "{母親}は台所[だいどころ]で料理[りょうり]をしながら、食堂[しょくどう]にいる家族[かぞく]と楽[たの]しそうに会話[かいわ]をしてします。",
       "statement": {
@@ -667,6 +702,7 @@
     },
     {
       "id": 36,
+      "uid": "N4-kanji-0036",
       "question_type": "kanji",
       "question_text": "母親[ははおや]は{台所}で料理[りょうり]をしながら、食堂[しょくどう]にいる家族[かぞく]と楽[たの]しそうに会話[かいわ]をしてします。",
       "statement": {
@@ -686,6 +722,7 @@
     },
     {
       "id": 37,
+      "uid": "N4-kanji-0037",
       "question_type": "kanji",
       "question_text": "母親[ははおや]は台所[だいどころ]で料理[りょうり]をしながら、{食堂}にいる家族[かぞく]と楽[たの]しそうに会話[かいわ]をしてします。",
       "statement": {
@@ -705,6 +742,7 @@
     },
     {
       "id": 38,
+      "uid": "N4-kanji-0038",
       "question_type": "kanji",
       "question_text": "母親[ははおや]は台所[だいどころ]で料理[りょうり]をしながら、食堂[しょくどう]にいる{家族}と楽[たの]しそうに会話[かいわ]をしてします。",
       "statement": {
@@ -724,6 +762,7 @@
     },
     {
       "id": 39,
+      "uid": "N4-kanji-0039",
       "question_type": "kanji",
       "question_text": "母親[ははおや]は台所[だいどころ]で料理[りょうり]をしながら、食堂[しょくどう]にいる家族[かぞく]と{楽しそう}に会話[かいわ]をしてします。",
       "statement": {
@@ -743,6 +782,7 @@
     },
     {
       "id": 40,
+      "uid": "N4-kanji-0040",
       "question_type": "kanji",
       "question_text": "母親[ははおや]は台所[だいどころ]で料理[りょうり]をしながら、食堂[しょくどう]にいる家族[かぞく]と楽[たの]しそうに{会話}をしてします。",
       "statement": {
@@ -762,6 +802,7 @@
     },
     {
       "id": 41,
+      "uid": "N4-kanji-0041",
       "question_type": "kanji",
       "question_text": "田中[たなか]さんの{お兄さん}はあの建物[たてもの]の出口[でぐち]のところに立[た]っています。茶色[ちゃいろ]の服[ふく]を着[き]ています。",
       "statement": {
@@ -781,6 +822,7 @@
     },
     {
       "id": 42,
+      "uid": "N4-kanji-0042",
       "question_type": "kanji",
       "question_text": "田中[たなか]さんのお兄[にい]さんはあの{建物}の出口[でぐち]のところに立[た]っています。茶色[ちゃいろ]の服[ふく]を着[き]ています。",
       "statement": {
@@ -800,6 +842,7 @@
     },
     {
       "id": 43,
+      "uid": "N4-kanji-0043",
       "question_type": "kanji",
       "question_text": "田中[たなか]さんのお兄[にい]さんはあの建物[たてもの]の{出口}のところに立[た]っています。茶色[ちゃいろ]の服[ふく]を着[き]ています。",
       "statement": {
@@ -819,6 +862,7 @@
     },
     {
       "id": 44,
+      "uid": "N4-kanji-0044",
       "question_type": "kanji",
       "question_text": "田中[たなか]さんのお兄[にい]さんはあの建物[たてもの]の出口[でぐち]のところに立[た]っています。{茶色}の服[ふく]を着[き]ています。",
       "statement": {
@@ -838,6 +882,7 @@
     },
     {
       "id": 45,
+      "uid": "N4-kanji-0045",
       "question_type": "kanji",
       "question_text": "田中[たなか]さんのお兄[にい]さんはあの建物[たてもの]の出口[でぐち]のところに立[た]っています。茶色[ちゃいろ]の{服}を着[き]ています。",
       "statement": {
@@ -857,6 +902,7 @@
     },
     {
       "id": 46,
+      "uid": "N4-kanji-0046",
       "question_type": "kanji",
       "question_text": "田中[たなか]さんのお兄[にい]さんはあの建物[たてもの]の出口[でぐち]のところに立[た]っています。茶色[ちゃいろ]の服[ふく]を{着て}います。",
       "statement": {
@@ -876,6 +922,7 @@
     },
     {
       "id": 47,
+      "uid": "N4-kanji-0047",
       "question_type": "kanji",
       "question_text": "この　{町}の　人口[じんこう]は　去年[きょねん]より　多[おお]く　なりました。",
       "statement": {
@@ -895,6 +942,7 @@
     },
     {
       "id": 48,
+      "uid": "N4-kanji-0048",
       "question_type": "kanji",
       "question_text": "この　町[まち]の　{人口}は　去年[きょねん]より　多[おお]く　なりました。",
       "statement": {
@@ -914,6 +962,7 @@
     },
     {
       "id": 49,
+      "uid": "N4-kanji-0049",
       "question_type": "kanji",
       "question_text": "この　町[まち]の　人口[じんこう]は　{去年}より　多[おお]く　なりました。",
       "statement": {
@@ -933,6 +982,7 @@
     },
     {
       "id": 50,
+      "uid": "N4-kanji-0050",
       "question_type": "kanji",
       "question_text": "この　町[まち]の　人口[じんこう]は　去年[きょねん]より　{多く}　なりました。",
       "statement": {
@@ -952,6 +1002,7 @@
     },
     {
       "id": 51,
+      "uid": "N4-kanji-0051",
       "question_type": "kanji",
       "question_text": "その{有名}な写真家[しゃしんか]は、世界[せかい]のいろいろな鳥[とり]や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
@@ -971,6 +1022,7 @@
     },
     {
       "id": 52,
+      "uid": "N4-kanji-0052",
       "question_type": "kanji",
       "question_text": "その有名[ゆうめい]な{写真家}は、世界[せかい]のいろいろな鳥[とり]や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
@@ -990,6 +1042,7 @@
     },
     {
       "id": 53,
+      "uid": "N4-kanji-0053",
       "question_type": "kanji",
       "question_text": "その有名[ゆうめい]な写真家[しゃしんか]は、{世界}のいろいろな鳥[とり]や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
@@ -1009,6 +1062,7 @@
     },
     {
       "id": 54,
+      "uid": "N4-kanji-0054",
       "question_type": "kanji",
       "question_text": "その有名[ゆうめい]な写真家[しゃしんか]は、世界[せかい]のいろいろな{鳥}や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
@@ -1028,6 +1082,7 @@
     },
     {
       "id": 55,
+      "uid": "N4-kanji-0055",
       "question_type": "kanji",
       "question_text": "その有名[ゆうめい]な写真家[しゃしんか]は、世界[せかい]のいろいろな鳥[とり]や{動物}を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で行[おこな]われています。",
       "statement": {
@@ -1047,6 +1102,7 @@
     },
     {
       "id": 56,
+      "uid": "N4-kanji-0056",
       "question_type": "kanji",
       "question_text": "その有名[ゆうめい]な写真家[しゃしんか]は、世界[せかい]のいろいろな鳥[とり]や動物[どうぶつ]を写[うつ]しました。その人[ひと]のてんらんかいが新宿[しんじゅく]で{行われて}います。",
       "statement": {
@@ -1066,6 +1122,7 @@
     },
     {
       "id": 57,
+      "uid": "N4-kanji-0057",
       "question_type": "kanji",
       "question_text": "わたしは{医者}に「働[はたら]きすぎないように注意[ちゅうい]してください。」と言[い]われました。",
       "statement": {
@@ -1085,6 +1142,7 @@
     },
     {
       "id": 58,
+      "uid": "N4-kanji-0058",
       "question_type": "kanji",
       "question_text": "わたしは医者[いしゃ]に「{働き}すぎないように注意[ちゅうい]してください。」と言[い]われました。",
       "statement": {
@@ -1104,6 +1162,7 @@
     },
     {
       "id": 59,
+      "uid": "N4-kanji-0059",
       "question_type": "kanji",
       "question_text": "わたしは医者[いしゃ]に「働[はたら]きすぎないように{注意}してください。」と言[い]われました。",
       "statement": {
@@ -1123,6 +1182,7 @@
     },
     {
       "id": 60,
+      "uid": "N4-kanji-0060",
       "question_type": "kanji",
       "question_text": "わたしは医者[いしゃ]に「働[はたら]きすぎないように注意[ちゅうい]してください。」と{言われ}ました。",
       "statement": {
@@ -1142,6 +1202,7 @@
     },
     {
       "id": 61,
+      "uid": "N4-kanji-0061",
       "question_type": "kanji",
       "question_text": "わたしの{住んで}いる町[まち]は、海[うみ]に近[ちか]くて、自動車[じどうしゃ]工業[こうぎょう]がさかんです。",
       "statement": {
@@ -1161,6 +1222,7 @@
     },
     {
       "id": 62,
+      "uid": "N4-kanji-0062",
       "question_type": "kanji",
       "question_text": "わたしの住[す]んでいる町[まち]は、{海}に近[ちか]くて、自動車[じどうしゃ]工業[こうぎょう]がさかんです。",
       "statement": {
@@ -1180,6 +1242,7 @@
     },
     {
       "id": 63,
+      "uid": "N4-kanji-0063",
       "question_type": "kanji",
       "question_text": "わたしの住[す]んでいる町[まち]は、海[うみ]に{近くて}、自動車[じどうしゃ]工業[こうぎょう]がさかんです。",
       "statement": {
@@ -1199,6 +1262,7 @@
     },
     {
       "id": 64,
+      "uid": "N4-kanji-0064",
       "question_type": "kanji",
       "question_text": "わたしの住[す]んでいる町[まち]は、海[うみ]に近[ちか]くて、{自動車}工業[こうぎょう]がさかんです。",
       "statement": {
@@ -1218,6 +1282,7 @@
     },
     {
       "id": 65,
+      "uid": "N4-kanji-0065",
       "question_type": "kanji",
       "question_text": "わたしの住[す]んでいる町[まち]は、海[うみ]に近[ちか]くて、自動車[じどうしゃ]{工業}がさかんです。",
       "statement": {
@@ -1237,6 +1302,7 @@
     },
     {
       "id": 66,
+      "uid": "N4-kanji-0066",
       "question_type": "kanji",
       "question_text": "ふうとうに80円[えん]{切手}をはって、送[おく]ってください。",
       "statement": {
@@ -1256,6 +1322,7 @@
     },
     {
       "id": 67,
+      "uid": "N4-kanji-0067",
       "question_type": "kanji",
       "question_text": "ふうとうに80円[えん]切手[きって]をはって、{送って}ください。",
       "statement": {
@@ -1275,6 +1342,7 @@
     },
     {
       "id": 68,
+      "uid": "N4-kanji-0068",
       "question_type": "kanji",
       "question_text": "{きょねん}の　はる、そつぎょうしきが　おわってから　日本[にほん]へ　来[き]ました。",
       "statement": {
@@ -1294,6 +1362,7 @@
     },
     {
       "id": 69,
+      "uid": "N4-kanji-0069",
       "question_type": "kanji",
       "question_text": "きょねんの　{はる}、そつぎょうしきが　おわってから　日本[にほん]へ　来[き]ました。",
       "statement": {
@@ -1313,6 +1382,7 @@
     },
     {
       "id": 70,
+      "uid": "N4-kanji-0070",
       "question_type": "kanji",
       "question_text": "きょねんの　はる、そつぎょうしきが　{おわって}から　日本[にほん]へ　来[き]ました。",
       "statement": {
@@ -1332,6 +1402,7 @@
     },
     {
       "id": 71,
+      "uid": "N4-kanji-0071",
       "question_type": "kanji",
       "question_text": "その{店}の主人[しゅじん]はいつも着物[きもの]を着[き]ています。",
       "statement": {
@@ -1351,6 +1422,7 @@
     },
     {
       "id": 72,
+      "uid": "N4-kanji-0072",
       "question_type": "kanji",
       "question_text": "その店[みせ]の{主人}はいつも着物[きもの]を着[き]ています。",
       "statement": {
@@ -1370,6 +1442,7 @@
     },
     {
       "id": 73,
+      "uid": "N4-kanji-0073",
       "question_type": "kanji",
       "question_text": "その店[みせ]の主人[しゅじん]はいつも{着物}を着[き]ています。",
       "statement": {
@@ -1389,6 +1462,7 @@
     },
     {
       "id": 74,
+      "uid": "N4-kanji-0074",
       "question_type": "kanji",
       "question_text": "{こうちょう}先生[せんせい]のかんがえかたはただしいとおもう。",
       "statement": {
@@ -1408,6 +1482,7 @@
     },
     {
       "id": 75,
+      "uid": "N4-kanji-0075",
       "question_type": "kanji",
       "question_text": "こうちょう先生[せんせい]の{かんがえかた}はただしいとおもう。",
       "statement": {
@@ -1427,6 +1502,7 @@
     },
     {
       "id": 76,
+      "uid": "N4-kanji-0076",
       "question_type": "kanji",
       "question_text": "こうちょう先生[せんせい]のかんがえかたは{ただしい}とおもう。",
       "statement": {
@@ -1446,6 +1522,7 @@
     },
     {
       "id": 77,
+      "uid": "N4-kanji-0077",
       "question_type": "kanji",
       "question_text": "{銀行}から三百[さんびゃく]万[まん]以上[いじょう]のお金[きん]を借[か]りている。",
       "statement": {
@@ -1465,6 +1542,7 @@
     },
     {
       "id": 78,
+      "uid": "N4-kanji-0078",
       "question_type": "kanji",
       "question_text": "銀行[ぎんこう]から{三百万}以上[いじょう]のお金[きん]を借[か]りている。",
       "statement": {
@@ -1484,6 +1562,7 @@
     },
     {
       "id": 79,
+      "uid": "N4-kanji-0079",
       "question_type": "kanji",
       "question_text": "銀行[ぎんこう]から三百[さんびゃく]万[まん]{以上}のお金[きん]を借[か]りている。",
       "statement": {
@@ -1503,6 +1582,7 @@
     },
     {
       "id": 80,
+      "uid": "N4-kanji-0080",
       "question_type": "kanji",
       "question_text": "銀行[ぎんこう]から三百[さんびゃく]万[まん]以上[いじょう]のお金[きん]を{借りて}いる。",
       "statement": {
@@ -1522,6 +1602,7 @@
     },
     {
       "id": 81,
+      "uid": "N4-kanji-0081",
       "question_type": "kanji",
       "question_text": "{あおい}いろのシャツをおくってください。",
       "statement": {
@@ -1541,6 +1622,7 @@
     },
     {
       "id": 82,
+      "uid": "N4-kanji-0082",
       "question_type": "kanji",
       "question_text": "あおい{いろ}のシャツをおくってください。",
       "statement": {
@@ -1560,6 +1642,7 @@
     },
     {
       "id": 83,
+      "uid": "N4-kanji-0083",
       "question_type": "kanji",
       "question_text": "あおいいろのシャツを{おくって}ください。",
       "statement": {
@@ -1579,6 +1662,7 @@
     },
     {
       "id": 84,
+      "uid": "N4-kanji-0084",
       "question_type": "kanji",
       "question_text": "{大使}の自転車[じてんしゃ]は何度[なんど]もこわれたそうです。",
       "statement": {
@@ -1598,6 +1682,7 @@
     },
     {
       "id": 85,
+      "uid": "N4-kanji-0085",
       "question_type": "kanji",
       "question_text": "大使[たいし]の{自転車}は何度[なんど]もこわれたそうです。",
       "statement": {
@@ -1617,6 +1702,7 @@
     },
     {
       "id": 86,
+      "uid": "N4-kanji-0086",
       "question_type": "kanji",
       "question_text": "大使[たいし]の自転車[じてんしゃ]は{何度}もこわれたそうです。",
       "statement": {
@@ -1636,6 +1722,7 @@
     },
     {
       "id": 87,
+      "uid": "N4-kanji-0087",
       "question_type": "kanji",
       "question_text": "土曜日[どようび]は、{有名}な写真家[しゃしんか]のてんらんかいを見[み]てから、夕方[ゆうがた]友[とも]だちと食事[しょくじ]をしました。",
       "statement": {
@@ -1655,6 +1742,7 @@
     },
     {
       "id": 88,
+      "uid": "N4-kanji-0088",
       "question_type": "kanji",
       "question_text": "土曜日[どようび]は、有名[ゆうめい]な{写真家}のてんらんかいを見[み]てから、夕方[ゆうがた]友[とも]だちと食事[しょくじ]をしました。",
       "statement": {
@@ -1674,6 +1762,7 @@
     },
     {
       "id": 89,
+      "uid": "N4-kanji-0089",
       "question_type": "kanji",
       "question_text": "土曜日[どようび]は、有名[ゆうめい]な写真家[しゃしんか]のてんらんかいを見[み]てから、{夕方}友[とも]だちと食事[しょくじ]をしました。",
       "statement": {
@@ -1693,6 +1782,7 @@
     },
     {
       "id": 90,
+      "uid": "N4-kanji-0090",
       "question_type": "kanji",
       "question_text": "土曜日[どようび]は、有名[ゆうめい]な写真家[しゃしんか]のてんらんかいを見[み]てから、夕方[ゆうがた]友[とも]だちと{食事}をしました。",
       "statement": {
@@ -1712,6 +1802,7 @@
     },
     {
       "id": 91,
+      "uid": "N4-kanji-0091",
       "question_type": "kanji",
       "question_text": "{おもい}にもつを もって、えきまであるきました。",
       "statement": {
@@ -1731,6 +1822,7 @@
     },
     {
       "id": 92,
+      "uid": "N4-kanji-0092",
       "question_type": "kanji",
       "question_text": "おもい{にもつ}を もって、えきまであるきました。",
       "statement": {
@@ -1750,6 +1842,7 @@
     },
     {
       "id": 93,
+      "uid": "N4-kanji-0093",
       "question_type": "kanji",
       "question_text": "おもいにもつを {もって}、えきまであるきました。",
       "statement": {
@@ -1769,6 +1862,7 @@
     },
     {
       "id": 94,
+      "uid": "N4-kanji-0094",
       "question_type": "kanji",
       "question_text": "おもいにもつを もって、{えき}まであるきました。",
       "statement": {
@@ -1788,6 +1882,7 @@
     },
     {
       "id": 95,
+      "uid": "N4-kanji-0095",
       "question_type": "kanji",
       "question_text": "おもいにもつを もって、えきまで{あるき}ました。",
       "statement": {
@@ -1807,6 +1902,7 @@
     },
     {
       "id": 96,
+      "uid": "N4-kanji-0096",
       "question_type": "kanji",
       "question_text": "{地下鉄}で行[い]くと、その病院[びょういん]までどのくらいかかりますか。",
       "statement": {
@@ -1826,6 +1922,7 @@
     },
     {
       "id": 97,
+      "uid": "N4-kanji-0097",
       "question_type": "kanji",
       "question_text": "地下鉄[ちかてつ]で行[い]くと、その{病院}までどのくらいかかりますか。",
       "statement": {
@@ -1845,6 +1942,7 @@
     },
     {
       "id": 98,
+      "uid": "N4-kanji-0098",
       "question_type": "kanji",
       "question_text": "あの{ふるい}えいがはおんがくがすばらしいです。",
       "statement": {
@@ -1864,6 +1962,7 @@
     },
     {
       "id": 99,
+      "uid": "N4-kanji-0099",
       "question_type": "kanji",
       "question_text": "あのふるい{えいが}はおんがくがすばらしいです。",
       "statement": {
@@ -1883,6 +1982,7 @@
     },
     {
       "id": 100,
+      "uid": "N4-kanji-0100",
       "question_type": "kanji",
       "question_text": "あのふるいえいがは{おんがく}がすばらしいです。",
       "statement": {
@@ -1902,6 +2002,7 @@
     },
     {
       "id": 101,
+      "uid": "N4-kanji-0101",
       "question_type": "kanji",
       "question_text": "お薬[くすり]ができるまでその{待合室}で待[ま]っていてください。",
       "statement": {
@@ -1921,6 +2022,7 @@
     },
     {
       "id": 102,
+      "uid": "N4-kanji-0102",
       "question_type": "kanji",
       "question_text": "{下着}のうりばは階段[かいだん]を下[くだ]りたところにあります。",
       "statement": {
@@ -1940,6 +2042,7 @@
     },
     {
       "id": 103,
+      "uid": "N4-kanji-0103",
       "question_type": "kanji",
       "question_text": "{十分}な理由[りゆう]がなければ、会社[かいしゃ]を休[やす]みません。",
       "statement": {
@@ -1959,6 +2062,7 @@
     },
     {
       "id": 104,
+      "uid": "N4-kanji-0104",
       "question_type": "kanji",
       "question_text": "彼[かれ]は人[ひと]にとても{やさしい}。",
       "statement": {
@@ -1978,6 +2082,7 @@
     },
     {
       "id": 105,
+      "uid": "N4-kanji-0105",
       "question_type": "kanji",
       "question_text": "昨日[きのう]近[ちか]くの公園[こうえん]では小[ちい]さなコンサートを{行い}ました。",
       "statement": {
@@ -1997,6 +2102,7 @@
     },
     {
       "id": 106,
+      "uid": "N4-kanji-0106",
       "question_type": "kanji",
       "question_text": "{卒業}してもせいじのけんきゅうを続[つづ]けるつもりです。",
       "statement": {
@@ -2016,6 +2122,7 @@
     },
     {
       "id": 107,
+      "uid": "N4-kanji-0107",
       "question_type": "kanji",
       "question_text": "{もり}の緑[みどり]を守[まも]らなければならない。",
       "statement": {
@@ -2035,6 +2142,7 @@
     },
     {
       "id": 108,
+      "uid": "N4-kanji-0108",
       "question_type": "kanji",
       "question_text": "うわさが口[くち]から口[くち]へと{つたわる}。",
       "statement": {
@@ -2054,6 +2162,7 @@
     },
     {
       "id": 109,
+      "uid": "N4-kanji-0109",
       "question_type": "kanji",
       "question_text": "{こうちょう}先生[せんせい]は今日[きょう]こうぎをしてくれました。",
       "statement": {
@@ -2073,6 +2182,7 @@
     },
     {
       "id": 110,
+      "uid": "N4-kanji-0110",
       "question_type": "kanji",
       "question_text": "彼女[かのじょ]は{しんせつ}で心[こころ]がやさしいです。",
       "statement": {
@@ -2092,6 +2202,7 @@
     },
     {
       "id": 111,
+      "uid": "N4-kanji-0111",
       "question_type": "kanji",
       "question_text": "{水着}を着[き]た姿[すがた]を写真[しゃしん]にとった。",
       "statement": {
@@ -2111,6 +2222,7 @@
     },
     {
       "id": 112,
+      "uid": "N4-kanji-0112",
       "question_type": "kanji",
       "question_text": "{はずかしい}話[はなし]ですが、昨日[きのう]の試験[しけん]にパスしませんでした。",
       "statement": {
@@ -2130,6 +2242,7 @@
     },
     {
       "id": 113,
+      "uid": "N4-kanji-0113",
       "question_type": "kanji",
       "question_text": "このお茶[ちゃ]は{こくて}苦[にが]い。",
       "statement": {
@@ -2149,6 +2262,7 @@
     },
     {
       "id": 114,
+      "uid": "N4-kanji-0114",
       "question_type": "kanji",
       "question_text": "わたしは{甘い}果物[くだもの]が好[す]きです。",
       "statement": {
@@ -2168,6 +2282,7 @@
     },
     {
       "id": 115,
+      "uid": "N4-kanji-0115",
       "question_type": "kanji",
       "question_text": "山田[やまだ]先生[せんせい]は田中[たなか]さんの研究計画[けんきゅうけいかく]に{興味}を持[も]っているようです。",
       "statement": {
@@ -2187,6 +2302,7 @@
     },
     {
       "id": 116,
+      "uid": "N4-kanji-0116",
       "question_type": "kanji",
       "question_text": "ゆうべ遅[おそ]く寝[ね]たから、今[いま]は{ねむい}。",
       "statement": {
@@ -2206,6 +2322,7 @@
     },
     {
       "id": 117,
+      "uid": "N4-kanji-0117",
       "question_type": "kanji",
       "question_text": "みんなは歌[うた]いながら{踊って}いる。",
       "statement": {
@@ -2225,6 +2342,7 @@
     },
     {
       "id": 118,
+      "uid": "N4-kanji-0118",
       "question_type": "kanji",
       "question_text": "買[か]ったばかりの靴[くつ]がもう{壊れ}ました。",
       "statement": {
@@ -2244,6 +2362,7 @@
     },
     {
       "id": 119,
+      "uid": "N4-kanji-0119",
       "question_type": "kanji",
       "question_text": "{げんかん}に犬[いぬ]がいます。気[き]をつけてください。",
       "statement": {
@@ -2263,6 +2382,7 @@
     },
     {
       "id": 120,
+      "uid": "N4-kanji-0120",
       "question_type": "kanji",
       "question_text": "ズボンに{泥}が付[つ]いている。",
       "statement": {
@@ -2282,6 +2402,7 @@
     },
     {
       "id": 121,
+      "uid": "N4-kanji-0121",
       "question_type": "kanji",
       "question_text": "６時[じ]５分[ふん]の電車[でんしゃ]に{遅れて}しまった。",
       "statement": {
@@ -2301,6 +2422,7 @@
     },
     {
       "id": 122,
+      "uid": "N4-kanji-0122",
       "question_type": "kanji",
       "question_text": "計算[けいさん]が{正しく}ないから、答[こた]えはもちろん合[あ]わない。",
       "statement": {
@@ -2320,6 +2442,7 @@
     },
     {
       "id": 123,
+      "uid": "N4-kanji-0123",
       "question_type": "kanji",
       "question_text": "昨日[きのう]勉強[べんきょう]した内容[ないよう]を{ふくしゅう}する。",
       "statement": {
@@ -2339,6 +2462,7 @@
     },
     {
       "id": 124,
+      "uid": "N4-kanji-0124",
       "question_type": "kanji",
       "question_text": "外国人[がいこくじん]にとって、漢字[かんじ]はあまり{簡単}ではありません。",
       "statement": {
@@ -2358,6 +2482,7 @@
     },
     {
       "id": 125,
+      "uid": "N4-kanji-0125",
       "question_type": "kanji",
       "question_text": "日本人[にほんじん]は{お正月}にかならずじんじゃに行[い]きます。",
       "statement": {
@@ -2377,6 +2502,7 @@
     },
     {
       "id": 126,
+      "uid": "N4-kanji-0126",
       "question_type": "kanji",
       "question_text": "子供[こども]にものを{与え}すぎるのはよくない。",
       "statement": {
@@ -2396,6 +2522,7 @@
     },
     {
       "id": 127,
+      "uid": "N4-kanji-0127",
       "question_type": "kanji",
       "question_text": "風邪[かぜ]がすっかり{なおる}まで、ちゃんと薬[くすり]を飲[の]みなさい。",
       "statement": {
@@ -2415,6 +2542,7 @@
     },
     {
       "id": 128,
+      "uid": "N4-kanji-0128",
       "question_type": "kanji",
       "question_text": "{暗く}なってきたので、しつれいします。",
       "statement": {
@@ -2434,6 +2562,7 @@
     },
     {
       "id": 129,
+      "uid": "N4-kanji-0129",
       "question_type": "kanji",
       "question_text": "父[ちち]は全然[ぜんぜん]たばこを{吸い}ません。",
       "statement": {
@@ -2453,6 +2582,7 @@
     },
     {
       "id": 130,
+      "uid": "N4-kanji-0130",
       "question_type": "kanji",
       "question_text": "家[いえ]はやはり{こうつう}が便利[べんり]なところがいいです。",
       "statement": {
@@ -2472,6 +2602,7 @@
     },
     {
       "id": 131,
+      "uid": "N4-kanji-0131",
       "question_type": "kanji",
       "question_text": "とても{重要}な書類[しょるい]をなくしてしまった。",
       "statement": {
@@ -2491,6 +2622,7 @@
     },
     {
       "id": 132,
+      "uid": "N4-kanji-0132",
       "question_type": "kanji",
       "question_text": "忙[いそが]しかったので、友達[ともだち]の誘[さそ]いを{断った}。",
       "statement": {
@@ -2510,6 +2642,7 @@
     },
     {
       "id": 133,
+      "uid": "N4-kanji-0133",
       "question_type": "kanji",
       "question_text": "この靴[くつ]は皮[かわ]に見[み]えるが、実際[じっさい]は{ぬの}です。",
       "statement": {
@@ -2529,6 +2662,7 @@
     },
     {
       "id": 134,
+      "uid": "N4-kanji-0134",
       "question_type": "kanji",
       "question_text": "荷物[にもつ]がおもいので、せんもんの会社[かいしゃ]に{届けて}もらいました。",
       "statement": {
@@ -2548,6 +2682,7 @@
     },
     {
       "id": 135,
+      "uid": "N4-kanji-0135",
       "question_type": "kanji",
       "question_text": "この{指輪}は自分[じぶん]で作[つく]りました。",
       "statement": {
@@ -2567,6 +2702,7 @@
     },
     {
       "id": 136,
+      "uid": "N4-kanji-0136",
       "question_type": "kanji",
       "question_text": "{しっぱい}しても大丈夫[だいじょうぶ]です。またがんばればいいですから。",
       "statement": {
@@ -2586,6 +2722,7 @@
     },
     {
       "id": 137,
+      "uid": "N4-kanji-0137",
       "question_type": "kanji",
       "question_text": "野菜[やさい]は、{適当}な大[おお]きさに切[き]ればいい。",
       "statement": {
@@ -2605,6 +2742,7 @@
     },
     {
       "id": 138,
+      "uid": "N4-kanji-0138",
       "question_type": "kanji",
       "question_text": "これは{普段}あまり使[つか]わない言葉[ことば]です。",
       "statement": {
@@ -2624,6 +2762,7 @@
     },
     {
       "id": 139,
+      "uid": "N4-kanji-0139",
       "question_type": "kanji",
       "question_text": "正午[しょうご]の太陽[たいよう]は{ひかり}が特[とく]に強[つよ]い。",
       "statement": {
@@ -2643,6 +2782,7 @@
     },
     {
       "id": 140,
+      "uid": "N4-kanji-0140",
       "question_type": "kanji",
       "question_text": "知[し]らない人[ひと]がさいふを{ひろって}くれました。",
       "statement": {
@@ -2662,6 +2802,7 @@
     },
     {
       "id": 141,
+      "uid": "N4-kanji-0141",
       "question_type": "kanji",
       "question_text": "{親}におこづかいもらってもすぐなくなっちゃうもんね。",
       "statement": {
@@ -2681,6 +2822,7 @@
     },
     {
       "id": 142,
+      "uid": "N4-kanji-0142",
       "question_type": "kanji",
       "question_text": "外国[がいこく]にいくとき、りょこう{案内}や安全[あんぜん]じょうほうをよくみてください。",
       "statement": {
@@ -2700,6 +2842,7 @@
     },
     {
       "id": 143,
+      "uid": "N4-kanji-0143",
       "question_type": "kanji",
       "question_text": "お金[きん]を{数える}仕事[しごと]って？銀行員[ぎんこういん]だろう。",
       "statement": {
@@ -2719,6 +2862,7 @@
     },
     {
       "id": 144,
+      "uid": "N4-kanji-0144",
       "question_type": "kanji",
       "question_text": "世[よ]の中[なか]にわたしほど人生[じんせい]に失望[しつぼう]している{高校生}なんていないと思[おも]う。",
       "statement": {
@@ -2738,6 +2882,7 @@
     },
     {
       "id": 145,
+      "uid": "N4-kanji-0145",
       "question_type": "kanji",
       "question_text": "{違った}ボタンを押[お]したので、ほしいのみものがでてきませんでした。",
       "statement": {
@@ -2757,6 +2902,7 @@
     },
     {
       "id": 146,
+      "uid": "N4-kanji-0146",
       "question_type": "kanji",
       "question_text": "校門[こうもん]の前[まえ]には、{やくそく}通[とお]り由[ゆ]中尾[なかお]さんが待[ま]っていた。",
       "statement": {
@@ -2776,6 +2922,7 @@
     },
     {
       "id": 147,
+      "uid": "N4-kanji-0147",
       "question_type": "kanji",
       "question_text": "{きんじょ}のおじいさんは昔[むかし]警官[けいかん]でした。",
       "statement": {
@@ -2795,6 +2942,7 @@
     },
     {
       "id": 148,
+      "uid": "N4-kanji-0148",
       "question_type": "kanji",
       "question_text": "今日[きょう]はちょっとバタバタしていて、ゆっくり{おあいて}できないので、日[ひ]を改[あらた]めて来[き]てもらえないかな。",
       "statement": {
@@ -2814,6 +2962,7 @@
     },
     {
       "id": 149,
+      "uid": "N4-kanji-0149",
       "question_type": "kanji",
       "question_text": "{かじ}のために電車[でんしゃ]が遅[おく]れて、かいぎに間[ま]に合[あ]いませんでした。",
       "statement": {
@@ -2833,6 +2982,7 @@
     },
     {
       "id": 150,
+      "uid": "N4-kanji-0150",
       "question_type": "kanji",
       "question_text": "ここまでちゃんと{いきて}きたから、神様[かみさま]がプレゼントをくださったのかもしれないわね。",
       "statement": {
@@ -2852,6 +3002,7 @@
     },
     {
       "id": 151,
+      "uid": "N4-kanji-0151",
       "question_type": "kanji",
       "question_text": "学校[がっこう]が休[やす]みで{寂しい}なんて思[おも]ったこと、もしかして生[う]まれて初[はじ]めてかもしれない。",
       "statement": {
@@ -2871,6 +3022,7 @@
     },
     {
       "id": 152,
+      "uid": "N4-kanji-0152",
       "question_type": "kanji",
       "question_text": "{冷えた}体[からだ]を温[あたた]めようと思[おも]って、ストーブをつけた。",
       "statement": {
@@ -2890,6 +3042,7 @@
     },
     {
       "id": 153,
+      "uid": "N4-kanji-0153",
       "question_type": "kanji",
       "question_text": "家[いえ]でゲームやパソコンの画面[がめん]に{向かって}いるほうが楽[らく]だけど学校[がっこう]にはちゃんと通[とお]っている。",
       "statement": {
@@ -2909,6 +3062,7 @@
     },
     {
       "id": 154,
+      "uid": "N4-kanji-0154",
       "question_type": "kanji",
       "question_text": "高[たか]いものだから、{大事}に使[つか]ってください。",
       "statement": {
@@ -2928,6 +3082,7 @@
     },
     {
       "id": 155,
+      "uid": "N4-kanji-0155",
       "question_type": "kanji",
       "question_text": "おしゃべりする元気[げんき]があるなら教室[きょうしつ]に{戻り}なさい。",
       "statement": {
@@ -2947,6 +3102,7 @@
     },
     {
       "id": 156,
+      "uid": "N4-kanji-0156",
       "question_type": "kanji",
       "question_text": "きのう{暇}があって、家族[かぞく]といっしょに花見[はなみ]にいきました。",
       "statement": {
@@ -2966,6 +3122,7 @@
     },
     {
       "id": 157,
+      "uid": "N4-kanji-0157",
       "question_type": "kanji",
       "question_text": "学校側[がっこうがわ]が{しょうせつ}書[か]いたくらいで、生徒[せいと]を退学[たいがく]にするわけないじゃないの。",
       "statement": {
@@ -2985,6 +3142,7 @@
     },
     {
       "id": 158,
+      "uid": "N4-kanji-0158",
       "question_type": "kanji",
       "question_text": "一度[いちど]でもいいから、{いけん}をいってください。",
       "statement": {
@@ -3004,6 +3162,7 @@
     },
     {
       "id": 159,
+      "uid": "N4-kanji-0159",
       "question_type": "kanji",
       "question_text": "徒歩[とほ]十分[じゅうぶん]とか、それより少[すく]ないかもしれない時間[じかん]で、マルコさんの家[いえ]に{とうちゃく}した。",
       "statement": {
@@ -3023,6 +3182,7 @@
     },
     {
       "id": 160,
+      "uid": "N4-kanji-0160",
       "question_type": "kanji",
       "question_text": "{さくぶん}を書[か]いて出[だ]してください。",
       "statement": {
@@ -3042,6 +3202,7 @@
     },
     {
       "id": 161,
+      "uid": "N4-kanji-0161",
       "question_type": "kanji",
       "question_text": "このドアは、手[て]で軽[かる]く{触る}と自動的[じどうてき]に開[あ]く。",
       "statement": {
@@ -3061,6 +3222,7 @@
     },
     {
       "id": 162,
+      "uid": "N4-kanji-0162",
       "question_type": "kanji",
       "question_text": "世[よ]の中[なか]にわたしほど人生[じんせい]に失望[しつぼう]している{高校生}なんていないと思[おも]う。",
       "statement": {
@@ -3080,6 +3242,7 @@
     },
     {
       "id": 163,
+      "uid": "N4-kanji-0163",
       "question_type": "kanji",
       "question_text": "妹[いもうと]と町[まち]へ{お祭り}を見[み]に行[い]った。",
       "statement": {
@@ -3099,6 +3262,7 @@
     },
     {
       "id": 164,
+      "uid": "N4-kanji-0164",
       "question_type": "kanji",
       "question_text": "僕[ぼく]もいい結果[けっか]出[で]ること{祈って}るよ。",
       "statement": {
@@ -3118,6 +3282,7 @@
     },
     {
       "id": 165,
+      "uid": "N4-kanji-0165",
       "question_type": "kanji",
       "question_text": "{遠慮}しないで、どんどん食[た]べてください。",
       "statement": {
@@ -3137,6 +3302,7 @@
     },
     {
       "id": 166,
+      "uid": "N4-kanji-0166",
       "question_type": "kanji",
       "question_text": "いきなり店員[てんいん]が失神[しっしん]して{たおれた}。",
       "statement": {
@@ -3156,6 +3322,7 @@
     },
     {
       "id": 167,
+      "uid": "N4-kanji-0167",
       "question_type": "kanji",
       "question_text": "お母[かあ]さんの体[からだ]の{ぐあい}はどうですか。",
       "statement": {
@@ -3175,6 +3342,7 @@
     },
     {
       "id": 168,
+      "uid": "N4-kanji-0168",
       "question_type": "kanji",
       "question_text": "あなたの{じゆう}を縛[しば]ってる気[き]がする。",
       "statement": {
@@ -3194,6 +3362,7 @@
     },
     {
       "id": 169,
+      "uid": "N4-kanji-0169",
       "question_type": "kanji",
       "question_text": "こころを開[あ]いて、{楽しく}いきてください。",
       "statement": {
@@ -3213,6 +3382,7 @@
     },
     {
       "id": 170,
+      "uid": "N4-kanji-0170",
       "question_type": "kanji",
       "question_text": "わたしたちの{けいかく}がすべて水[みず]の泡[あわ]になった。",
       "statement": {
@@ -3232,6 +3402,7 @@
     },
     {
       "id": 171,
+      "uid": "N4-kanji-0171",
       "question_type": "kanji",
       "question_text": "とても{珍しい}植物[しょくぶつ]を集[あつ]めている。",
       "statement": {
@@ -3251,6 +3422,7 @@
     },
     {
       "id": 172,
+      "uid": "N4-kanji-0172",
       "question_type": "kanji",
       "question_text": "{食事}が終[お]わった後[あと]、流[なが]しで皿[さら]を洗[あら]いました。",
       "statement": {
@@ -3270,6 +3442,7 @@
     },
     {
       "id": 173,
+      "uid": "N4-kanji-0173",
       "question_type": "kanji",
       "question_text": "おばあさんが昔[むかし]のいろんな{物語}を話[はな]してくれた。",
       "statement": {
@@ -3289,6 +3462,7 @@
     },
     {
       "id": 174,
+      "uid": "N4-kanji-0174",
       "question_type": "kanji",
       "question_text": "{親}におこづかいもらってもすぐなくなっちゃうもんね。",
       "statement": {
@@ -3308,6 +3482,7 @@
     },
     {
       "id": 175,
+      "uid": "N4-kanji-0175",
       "question_type": "kanji",
       "question_text": "ディズニーランドで姉[あね]に{人形}を買[か]ってやった。",
       "statement": {
@@ -3327,6 +3502,7 @@
     },
     {
       "id": 176,
+      "uid": "N4-kanji-0176",
       "question_type": "kanji",
       "question_text": "{説明書}ちゃんと読[よ]みなさい。",
       "statement": {
@@ -3346,6 +3522,7 @@
     },
     {
       "id": 177,
+      "uid": "N4-kanji-0177",
       "question_type": "kanji",
       "question_text": "友達[ともだち]がいなくて、{さびしい}です。",
       "statement": {
@@ -3365,6 +3542,7 @@
     },
     {
       "id": 178,
+      "uid": "N4-kanji-0178",
       "question_type": "kanji",
       "question_text": "彼女[かのじょ]は硬直[こうちょく]したように{うごかない}。",
       "statement": {
@@ -3384,6 +3562,7 @@
     },
     {
       "id": 179,
+      "uid": "N4-kanji-0179",
       "question_type": "kanji",
       "question_text": "お酒[さけ]を飲[の]むと、{きぶん}が悪[わる]くなります。",
       "statement": {
@@ -3403,6 +3582,7 @@
     },
     {
       "id": 180,
+      "uid": "N4-kanji-0180",
       "question_type": "kanji",
       "question_text": "ご{しんせつ}ありがとうございました。",
       "statement": {
@@ -3422,6 +3602,7 @@
     },
     {
       "id": 181,
+      "uid": "N4-kanji-0181",
       "question_type": "kanji",
       "question_text": "手紙[てがみ]を二[ふた]つに{折って}封筒[ふうとう]に入[い]れました。",
       "statement": {
@@ -3441,6 +3622,7 @@
     },
     {
       "id": 182,
+      "uid": "N4-kanji-0182",
       "question_type": "kanji",
       "question_text": "彼[かれ]に電話[でんわ]をかけようとしたとき、授業[じゅぎょう]のベルが{鳴った}。",
       "statement": {
@@ -3460,6 +3642,7 @@
     },
     {
       "id": 183,
+      "uid": "N4-kanji-0183",
       "question_type": "kanji",
       "question_text": "{よろこんで}パーティーに参加[さんか]させていただきます。",
       "statement": {
@@ -3479,6 +3662,7 @@
     },
     {
       "id": 184,
+      "uid": "N4-kanji-0184",
       "question_type": "kanji",
       "question_text": "工場[こうじょう]のきかいが{故障}したので、今[いま]大変[たいへん]です。",
       "statement": {
@@ -3498,6 +3682,7 @@
     },
     {
       "id": 185,
+      "uid": "N4-kanji-0185",
       "question_type": "kanji",
       "question_text": "{みな}さん、また東京[とうきょう]であいましょう。",
       "statement": {
@@ -3517,6 +3702,7 @@
     },
     {
       "id": 186,
+      "uid": "N4-kanji-0186",
       "question_type": "kanji",
       "question_text": "子供[こども]をお医者[いしゃ]さんに{そだて}たいです。",
       "statement": {
@@ -3536,6 +3722,7 @@
     },
     {
       "id": 187,
+      "uid": "N4-kanji-0187",
       "question_type": "kanji",
       "question_text": "がくせいは{一生}懸命[けんめい]勉強[べんきょう]しなければなりません。",
       "statement": {
@@ -3555,6 +3742,7 @@
     },
     {
       "id": 188,
+      "uid": "N4-kanji-0188",
       "question_type": "kanji",
       "question_text": "{まわり}の人[ひと]たちからいろいろお世話[せわ]になった。",
       "statement": {
@@ -3574,6 +3762,7 @@
     },
     {
       "id": 189,
+      "uid": "N4-kanji-0189",
       "question_type": "kanji",
       "question_text": "わたしは{貿易}会社[かいしゃ]で働[はたら]いている。",
       "statement": {
@@ -3593,6 +3782,7 @@
     },
     {
       "id": 190,
+      "uid": "N4-kanji-0190",
       "question_type": "kanji",
       "question_text": "わたしたちの{けいかく}がすべて水[みず]の泡[あわ]になった。",
       "statement": {

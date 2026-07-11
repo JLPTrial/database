@@ -2,6 +2,7 @@
   "questions": [
     {
       "id": 1,
+      "uid": "N4-grammar-0001",
       "question_type": "grammar",
       "question_text": "あの人[ひと]は病気[びょうき]ではない　（[blank]） くすりをたくさん飲[の]んでいます。",
       "statement": {
@@ -21,6 +22,7 @@
     },
     {
       "id": 2,
+      "uid": "N4-grammar-0002",
       "question_type": "grammar",
       "question_text": "これから日本[にほん]に行[い]くけど１週間[しゅうかん]で戻[もど]る。戻[もど]ったらすぐに会[あ]いたいと思[おも]う。それまで、なにも　（[blank]） 。",
       "statement": {
@@ -40,6 +42,7 @@
     },
     {
       "id": 3,
+      "uid": "N4-grammar-0003",
       "question_type": "grammar",
       "question_text": "社長[しゃちょう]から電話[でんわ]が　（[blank]） とき、私[わたし]は子供[こども]とピクニックに出[で]かける準備[じゅんび]をしていた。",
       "statement": {
@@ -59,6 +62,7 @@
     },
     {
       "id": 4,
+      "uid": "N4-grammar-0004",
       "question_type": "grammar",
       "question_text": "でもあなたと話[はなし]が　（[blank]） よ。だって二人[ふたり]で話[はなし]をしたことなんて一度[いちど]もなかったものな。",
       "statement": {
@@ -78,6 +82,7 @@
     },
     {
       "id": 5,
+      "uid": "N4-grammar-0005",
       "question_type": "grammar",
       "question_text": "彼[かれ]は私[わたし]たちが部屋[へや]に入[はい]った　（[blank]） ドアを閉[し]めた。",
       "statement": {
@@ -97,6 +102,7 @@
     },
     {
       "id": 6,
+      "uid": "N4-grammar-0006",
       "question_type": "grammar",
       "question_text": "このバスは郵便局[ゆうびんきょく]の前[まえ]　（[blank]） 通[とお]りますか？",
       "statement": {
@@ -116,6 +122,7 @@
     },
     {
       "id": 7,
+      "uid": "N4-grammar-0007",
       "question_type": "grammar",
       "question_text": "この本[ほん]のほうがあなたには　（[blank]） はずだ。",
       "statement": {
@@ -135,6 +142,7 @@
     },
     {
       "id": 8,
+      "uid": "N4-grammar-0008",
       "question_type": "grammar",
       "question_text": "電車[でんしゃ]を待[ま]っていたとき、わたしは友[とも]だち　（[blank]） 名前[なまえ]を呼[よ]ばれました。",
       "statement": {
@@ -154,6 +162,7 @@
     },
     {
       "id": 9,
+      "uid": "N4-grammar-0009",
       "question_type": "grammar",
       "question_text": "昨日[きのう]は仕事[しごと]を守[まも]れる　（[blank]） が不安[ふあん]だった。しかしいまは、命[いのち]を守[まも]れる　（[blank]） が不安[ふあん]だ。",
       "statement": {
@@ -173,6 +182,7 @@
     },
     {
       "id": 10,
+      "uid": "N4-grammar-0010",
       "question_type": "grammar",
       "question_text": "明日[あした]の夕方[ゆうがた]　（[blank]） 東京[とうきょう]に戻[もど]りたい。アルバイトに行[い]かなければならないから。",
       "statement": {
@@ -192,6 +202,7 @@
     },
     {
       "id": 11,
+      "uid": "N4-grammar-0011",
       "question_type": "grammar",
       "question_text": "男[おとこ]の子[こ]がバケツ一杯[いっぱい]の水[みず]をもって帰[かえ]る　（[blank]） 一時間[いちじかん]近[ちか]くもかかった。",
       "statement": {
@@ -211,6 +222,7 @@
     },
     {
       "id": 12,
+      "uid": "N4-grammar-0012",
       "question_type": "grammar",
       "question_text": "食事[しょくじ]は果物[くだもの]と野菜[やさい]　（[blank]） にしています。",
       "statement": {
@@ -230,6 +242,7 @@
     },
     {
       "id": 13,
+      "uid": "N4-grammar-0013",
       "question_type": "grammar",
       "question_text": "三週間[さんしゅうかん]たっても彼女[かのじょ]　（[blank]） 返事[へんじ]は来[こ]なかった。",
       "statement": {
@@ -249,6 +262,7 @@
     },
     {
       "id": 14,
+      "uid": "N4-grammar-0014",
       "question_type": "grammar",
       "question_text": "あなた　（[blank]） 一番[いちばん]したいことはなんですか？",
       "statement": {
@@ -268,6 +282,7 @@
     },
     {
       "id": 15,
+      "uid": "N4-grammar-0015",
       "question_type": "grammar",
       "question_text": "このとき、二階[にかい]でことんという音[おと]　（[blank]） が誰[だれ]も気[き]づかなかった。",
       "statement": {
@@ -287,6 +302,7 @@
     },
     {
       "id": 16,
+      "uid": "N4-grammar-0016",
       "question_type": "grammar",
       "question_text": "兄[にい]さんったら、寝[ね]ながら　（[blank]） するもんだから、僕[ぼく]は半分[はんぶん]ぐらいしか眠[ねむ]れないよ。",
       "statement": {
@@ -306,6 +322,7 @@
     },
     {
       "id": 17,
+      "uid": "N4-grammar-0017",
       "question_type": "grammar",
       "question_text": "今日[きょう]はうんと楽[たの]しんで、好[す]きなだけ　（[blank]） つもりよ。",
       "statement": {
@@ -325,6 +342,7 @@
     },
     {
       "id": 18,
+      "uid": "N4-grammar-0018",
       "question_type": "grammar",
       "question_text": "電話[でんわ]で彼[かれ]に叫[さけ]んだ　（[blank]） わ。「そんなの違[ちが]うじゃない」って。",
       "statement": {
@@ -344,6 +362,7 @@
     },
     {
       "id": 19,
+      "uid": "N4-grammar-0019",
       "question_type": "grammar",
       "question_text": "子[こ]どものころきらいだったやさいが、さいきん　（[blank]） ようになりました。",
       "statement": {
@@ -363,6 +382,7 @@
     },
     {
       "id": 20,
+      "uid": "N4-grammar-0020",
       "question_type": "grammar",
       "question_text": "わたしは弟[おとうと]に　（[blank]） と思[おも]って、この本[ほん]を買[か]いました。",
       "statement": {
@@ -382,6 +402,7 @@
     },
     {
       "id": 21,
+      "uid": "N4-grammar-0021",
       "question_type": "grammar",
       "question_text": "私[わたし]はどうしても家[いえ]に帰[かえ]らなければ　（[blank]） 。",
       "statement": {
@@ -401,6 +422,7 @@
     },
     {
       "id": 22,
+      "uid": "N4-grammar-0022",
       "question_type": "grammar",
       "question_text": "窓[まど]の外[そと]では雨[あめ]が　（[blank]） いる。",
       "statement": {
@@ -420,6 +442,7 @@
     },
     {
       "id": 23,
+      "uid": "N4-grammar-0023",
       "question_type": "grammar",
       "question_text": "高木[たかぎ]くんはこの仕事[しごと]が気[き]に入[い]らなかった　（[blank]） だけど、僕[ぼく]はとっても楽[たの]しかったです。",
       "statement": {
@@ -439,6 +462,7 @@
     },
     {
       "id": 24,
+      "uid": "N4-grammar-0024",
       "question_type": "grammar",
       "question_text": "生[う]まれた　（[blank]） の子牛[こうし]が立[た]ち上[あ]がり、歩[ある]こうとしている。",
       "statement": {
@@ -458,6 +482,7 @@
     },
     {
       "id": 25,
+      "uid": "N4-grammar-0025",
       "question_type": "grammar",
       "question_text": "A：「今[いま]すぐ何[なに]かして働[はたら]きたいと思[おも]うわ。」\nB：「何[なに]かやさしいお料理[りょうり]を　（[blank]） どうですか？」",
       "statement": {
@@ -477,6 +502,7 @@
     },
     {
       "id": 26,
+      "uid": "N4-grammar-0026",
       "question_type": "grammar",
       "question_text": "しゃべりたくない　（[blank]） 、　しゃべらなくてもいいですよ。",
       "statement": {
@@ -496,6 +522,7 @@
     },
     {
       "id": 27,
+      "uid": "N4-grammar-0027",
       "question_type": "grammar",
       "question_text": "中国[ちゅうごく]を旅[たび]しているあいだ、実家[じっか]への連絡[れんらく]はあまり　（[blank]） 。",
       "statement": {
@@ -515,6 +542,7 @@
     },
     {
       "id": 28,
+      "uid": "N4-grammar-0028",
       "question_type": "grammar",
       "question_text": "機械工作[きかいこうさく]をすごいと言[い]ったけど、鈴木[すずき]は手[て]を　（[blank]） 。",
       "statement": {
@@ -534,6 +562,7 @@
     },
     {
       "id": 29,
+      "uid": "N4-grammar-0029",
       "question_type": "grammar",
       "question_text": "駅[えき]へ行[い]きたいんですが、どう　（[blank]） いいですか。",
       "statement": {
@@ -553,6 +582,7 @@
     },
     {
       "id": 30,
+      "uid": "N4-grammar-0030",
       "question_type": "grammar",
       "question_text": "けさはいつもより早[はや]く学校[がっこう]へ行[い]きました。しかし、山田[やまだ]さんはもう　（[blank]） 。",
       "statement": {
@@ -572,6 +602,7 @@
     },
     {
       "id": 31,
+      "uid": "N4-grammar-0031",
       "question_type": "grammar",
       "question_text": "今日[きょう]は寒[さむ]いので、風邪[かぜ]をひいて　（[blank]） そうです。",
       "statement": {
@@ -591,6 +622,7 @@
     },
     {
       "id": 32,
+      "uid": "N4-grammar-0032",
       "question_type": "grammar",
       "question_text": "彼[かれ]は「クラシック音楽[おんがく]」をタップした。悲[かな]しいメロディーと歌詞[かし]が　（[blank]） 。",
       "statement": {
@@ -610,6 +642,7 @@
     },
     {
       "id": 33,
+      "uid": "N4-grammar-0033",
       "question_type": "grammar",
       "question_text": "わたしはけさ山田[やまだ]さんがひとりで　（[blank]） を見[み]ました。",
       "statement": {
@@ -629,6 +662,7 @@
     },
     {
       "id": 34,
+      "uid": "N4-grammar-0034",
       "question_type": "grammar",
       "question_text": "彼[かれ]とはじめてデートした　（[blank]） 、新[あたら]しい生活[せいかつ]をはじめたいと思[おも]っていました。",
       "statement": {
@@ -648,6 +682,7 @@
     },
     {
       "id": 35,
+      "uid": "N4-grammar-0035",
       "question_type": "grammar",
       "question_text": "十五[じゅうご]分[ふん]　（[blank]） パトカーのサイレンがきこえた。",
       "statement": {
@@ -667,6 +702,7 @@
     },
     {
       "id": 36,
+      "uid": "N4-grammar-0036",
       "question_type": "grammar",
       "question_text": "両親[りょうしん]はふたりともわたしを理解[りかい]して　（[blank]） いた。",
       "statement": {
@@ -686,6 +722,7 @@
     },
     {
       "id": 37,
+      "uid": "N4-grammar-0037",
       "question_type": "grammar",
       "question_text": "これから新宿駅[しんじゅくえき]で松本[まつもと]さんに　（[blank]） 予定[よてい]です。",
       "statement": {
@@ -705,6 +742,7 @@
     },
     {
       "id": 38,
+      "uid": "N4-grammar-0038",
       "question_type": "grammar",
       "question_text": "このようなプロダクトを開発[かいはつ]させて （[blank]） 。",
       "statement": {
@@ -724,6 +762,7 @@
     },
     {
       "id": 39,
+      "uid": "N4-grammar-0039",
       "question_type": "grammar",
       "question_text": "同[おな]じような趣味[しゅみ]を持[も]つ人[ひと]の集[あつ]まりに参加[さんか]　（[blank]） はいかがでしょうか？",
       "statement": {
@@ -743,6 +782,7 @@
     },
     {
       "id": 40,
+      "uid": "N4-grammar-0040",
       "question_type": "grammar",
       "question_text": "彼[かれ]らはいつも　（[blank]） ソファーの上[うえ]でレコードをきいていた。",
       "statement": {
@@ -762,6 +802,7 @@
     },
     {
       "id": 41,
+      "uid": "N4-grammar-0041",
       "question_type": "grammar",
       "question_text": "お時間[じかん]をとりましたことを （[blank]） ください。ご健康[けんこう]とご幸福[こうふく]を祈[いの]ります。",
       "statement": {
@@ -781,6 +822,7 @@
     },
     {
       "id": 42,
+      "uid": "N4-grammar-0042",
       "question_type": "grammar",
       "question_text": "はじめにうまく　（[blank]） 、何度[なんど]でも、何度[なんど]でも、やってみるんだね。",
       "statement": {
@@ -800,6 +842,7 @@
     },
     {
       "id": 43,
+      "uid": "N4-grammar-0043",
       "question_type": "grammar",
       "question_text": "子供[こども]たちが動物園[どうぶつえん]への　（[blank]） をたずねた。",
       "statement": {
@@ -819,6 +862,7 @@
     },
     {
       "id": 44,
+      "uid": "N4-grammar-0044",
       "question_type": "grammar",
       "question_text": "電車[でんしゃ]を　（[blank]） としたとき、　ころんでけがをしました。",
       "statement": {
@@ -838,6 +882,7 @@
     },
     {
       "id": 45,
+      "uid": "N4-grammar-0045",
       "question_type": "grammar",
       "question_text": "誰[だれ]が相手[あいて]　（[blank]） 、どんなこと　（[blank]） 、彼[かれ]は納得[なっとく]させてしまう。",
       "statement": {
@@ -857,6 +902,7 @@
     },
     {
       "id": 46,
+      "uid": "N4-grammar-0046",
       "question_type": "grammar",
       "question_text": "隠[かく]れるところがない　（[blank]） ！",
       "statement": {
@@ -876,6 +922,7 @@
     },
     {
       "id": 47,
+      "uid": "N4-grammar-0047",
       "question_type": "grammar",
       "question_text": "りんごとバナナとではどちら　（[blank]） すきですか。",
       "statement": {
@@ -895,6 +942,7 @@
     },
     {
       "id": 48,
+      "uid": "N4-grammar-0048",
       "question_type": "grammar",
       "question_text": "彼女[かのじょ]は自分[じぶん]がとてもひどいことをして　（[blank]） と思[おも]って後悔[こうかい]した。",
       "statement": {
@@ -914,6 +962,7 @@
     },
     {
       "id": 49,
+      "uid": "N4-grammar-0049",
       "question_type": "grammar",
       "question_text": "私[わたし]、父[ちち]から五百[ごひゃく]万円[まんえん]を借[か]りる　（[blank]） 。",
       "statement": {
@@ -933,6 +982,7 @@
     },
     {
       "id": 50,
+      "uid": "N4-grammar-0050",
       "question_type": "grammar",
       "question_text": "一人[ひとり]　（[blank]） 子供[こども]のいない両親[りょうしん]はあまり仲[なか]が良[よ]くないっていうのは本当[ほんとう]だと思[おも]う？",
       "statement": {
@@ -952,6 +1002,7 @@
     },
     {
       "id": 51,
+      "uid": "N4-grammar-0051",
       "question_type": "grammar",
       "question_text": "わたしたちはバーでビールを　（[blank]） モノポリというゲームもした。",
       "statement": {
@@ -971,6 +1022,7 @@
     },
     {
       "id": 52,
+      "uid": "N4-grammar-0052",
       "question_type": "grammar",
       "question_text": "そんなこと気[き]に　（[blank]） もいいわ。",
       "statement": {
@@ -990,6 +1042,7 @@
     },
     {
       "id": 53,
+      "uid": "N4-grammar-0053",
       "question_type": "grammar",
       "question_text": "あのあたりには、バッテリー　（[blank]） レーダー　（[blank]） 、かっこいい仕事[しごと]をしている人[ひと]がたくさんいるんだ。",
       "statement": {
@@ -1009,6 +1062,7 @@
     },
     {
       "id": 54,
+      "uid": "N4-grammar-0054",
       "question_type": "grammar",
       "question_text": "じつはわたしにはあまり　（[blank]） いない秘密[ひみつ]があります。",
       "statement": {
@@ -1028,6 +1082,7 @@
     },
     {
       "id": 55,
+      "uid": "N4-grammar-0055",
       "question_type": "grammar",
       "question_text": "大事[だいじ]なお皿[さら]をこわしてわたしは母[はは]　（[blank]） しかられました。",
       "statement": {
@@ -1047,6 +1102,7 @@
     },
     {
       "id": 56,
+      "uid": "N4-grammar-0056",
       "question_type": "grammar",
       "question_text": "どの店[みせ]も建物[たてもの]はきれいで、中[なか]は明[あか]る　（[blank]） だった。",
       "statement": {
@@ -1066,6 +1122,7 @@
     },
     {
       "id": 57,
+      "uid": "N4-grammar-0057",
       "question_type": "grammar",
       "question_text": "あなたにはお姉[ねえ]さんがいるの。すてきな人[ひと]で有名人[ゆうめいじん]よ。東京[とうきょう]へ連[つ]れて行[い]って　（[blank]） 。",
       "statement": {
@@ -1085,6 +1142,7 @@
     },
     {
       "id": 58,
+      "uid": "N4-grammar-0058",
       "question_type": "grammar",
       "question_text": "さあ、お掛[か]けなさい。少[すこ]し事情[じじょう]を説明[せつめい]したほうが　（[blank]） だ。",
       "statement": {
@@ -1104,6 +1162,7 @@
     },
     {
       "id": 59,
+      "uid": "N4-grammar-0059",
       "question_type": "grammar",
       "question_text": "わたしたちの家[いえ]に泊[と]まりなさいよ。そうすればお金[きん]もかからない　（[blank]） 、時間[じかん]を気[き]にしないでゆっくり話[はなし]もできる　（[blank]） 。",
       "statement": {
@@ -1123,6 +1182,7 @@
     },
     {
       "id": 60,
+      "uid": "N4-grammar-0060",
       "question_type": "grammar",
       "question_text": "正直[しょうじき]に言[い]ってくれたらよかった　（[blank]） 。お金[きん]が必要[ひつよう]だと言[い]ってくれればわたしの分[ふん]はあげた　（[blank]） 。",
       "statement": {
@@ -1142,6 +1202,7 @@
     },
     {
       "id": 61,
+      "uid": "N4-grammar-0061",
       "question_type": "grammar",
       "question_text": "わたしはしょうらい医者[いしゃ]になる （[blank]） です。",
       "statement": {
@@ -1161,6 +1222,7 @@
     },
     {
       "id": 62,
+      "uid": "N4-grammar-0062",
       "question_type": "grammar",
       "question_text": "スナックを持[も]って （[blank]） いいですか？",
       "statement": {
@@ -1180,6 +1242,7 @@
     },
     {
       "id": 63,
+      "uid": "N4-grammar-0063",
       "question_type": "grammar",
       "question_text": "山田[やまだ]さんは食事[しょくじ]に （[blank]） ところだったので、わたしも一緒[いっしょ]に食堂[しょくどう]に行[い]ってゆうしょくを食[た]べた。",
       "statement": {
@@ -1199,6 +1262,7 @@
     },
     {
       "id": 64,
+      "uid": "N4-grammar-0064",
       "question_type": "grammar",
       "question_text": "話[はな]しかけているのだから、こっちをちゃんと　（[blank]） 。",
       "statement": {
@@ -1218,6 +1282,7 @@
     },
     {
       "id": 65,
+      "uid": "N4-grammar-0065",
       "question_type": "grammar",
       "question_text": "田中[たなか]さんは風邪[かぜ]をひいている　（[blank]） 、プールで泳[およ]いでいます。",
       "statement": {
@@ -1237,6 +1302,7 @@
     },
     {
       "id": 66,
+      "uid": "N4-grammar-0066",
       "question_type": "grammar",
       "question_text": "あなたから[underline_blank][underline_blank][star_underline_blank][underline_blank]と思[おも]っていた。",
       "statement": {
@@ -1257,6 +1323,7 @@
     },
     {
       "id": 67,
+      "uid": "N4-grammar-0067",
       "question_type": "grammar",
       "question_text": "父[ちち]はなんでも作[つく]れたんだ。戸棚[とだな]が[underline_blank][underline_blank][star_underline_blank][underline_blank]。",
       "statement": {
@@ -1277,6 +1344,7 @@
     },
     {
       "id": 68,
+      "uid": "N4-grammar-0068",
       "question_type": "grammar",
       "question_text": "私[わたし]が何[なに]がいいたいか、あなたには[underline_blank][underline_blank][star_underline_blank][underline_blank]。",
       "statement": {
@@ -1297,6 +1365,7 @@
     },
     {
       "id": 69,
+      "uid": "N4-grammar-0069",
       "question_type": "grammar",
       "question_text": "[underline_blank][underline_blank][star_underline_blank][underline_blank]東京[とうきょう]へ行[い]ってたんじゃないかと思[おも]う。",
       "statement": {
@@ -1317,6 +1386,7 @@
     },
     {
       "id": 70,
+      "uid": "N4-grammar-0070",
       "question_type": "grammar",
       "question_text": "その事件[じけん]のあと、彼[かれ]は両親[りょうしん]よりも自分[じぶん]のほうが[underline_blank][underline_blank][star_underline_blank][underline_blank]なった。",
       "statement": {
@@ -1337,6 +1407,7 @@
     },
     {
       "id": 71,
+      "uid": "N4-grammar-0071",
       "question_type": "grammar",
       "question_text": "わたしはあいさつをするのはいやでしたが、母[はは]はわたしにあいさつを （[blank]） 。",
       "statement": {
@@ -1356,6 +1427,7 @@
     },
     {
       "id": 72,
+      "uid": "N4-grammar-0072",
       "question_type": "grammar",
       "question_text": "私[わたし]にはあなたに説明[せつめい] （[blank]） ことがいくつあるのです。",
       "statement": {
@@ -1375,6 +1447,7 @@
     },
     {
       "id": 73,
+      "uid": "N4-grammar-0073",
       "question_type": "grammar",
       "question_text": "あなたは誰[だれ]かと話[はなし]をなさる前[まえ]に、すべてのじじつを知[し]って　（[blank]） ほうがいいでしょう。",
       "statement": {
@@ -1394,6 +1467,7 @@
     },
     {
       "id": 74,
+      "uid": "N4-grammar-0074",
       "question_type": "grammar",
       "question_text": "何[なに]かいやなことが　（[blank]） 、彼女[かのじょ]はいつもほほえみをうかべていた。",
       "statement": {
@@ -1413,6 +1487,7 @@
     },
     {
       "id": 75,
+      "uid": "N4-grammar-0075",
       "question_type": "grammar",
       "question_text": "ハンバーガーを１００円[えん]でなんて売[う]れる　（[blank]） と思[おも]う。",
       "statement": {
@@ -1432,6 +1507,7 @@
     },
     {
       "id": 76,
+      "uid": "N4-grammar-0076",
       "question_type": "grammar",
       "question_text": "どうもおじゃま　（[blank]） 。それではひるご飯[めし]のおすみになるまでは、どうぞごゆっくりお休[やす]みください。",
       "statement": {
@@ -1451,6 +1527,7 @@
     },
     {
       "id": 77,
+      "uid": "N4-grammar-0077",
       "question_type": "grammar",
       "question_text": "兄[あに]はわたし　（[blank]） えいがにつれて行[い]ってくれました。",
       "statement": {
@@ -1470,6 +1547,7 @@
     },
     {
       "id": 78,
+      "uid": "N4-grammar-0078",
       "question_type": "grammar",
       "question_text": "日本[にほん]ではさとうより塩[しお]のほう　（[blank]） 安[やす]いです。",
       "statement": {
@@ -1489,6 +1567,7 @@
     },
     {
       "id": 79,
+      "uid": "N4-grammar-0079",
       "question_type": "grammar",
       "question_text": "私[わたし]は夜[よる]の七時[しちじ]半[はん]　（[blank]） の電車[でんしゃ]で大阪[おおさか]に行[い]く予定[よてい]です。",
       "statement": {
@@ -1508,6 +1587,7 @@
     },
     {
       "id": 80,
+      "uid": "N4-grammar-0080",
       "question_type": "grammar",
       "question_text": "私[わたし]はその会話[かいわ]を楽[たの]しんだと　（[blank]） と思[おも]います。",
       "statement": {
@@ -1527,6 +1607,7 @@
     },
     {
       "id": 81,
+      "uid": "N4-grammar-0081",
       "question_type": "grammar",
       "question_text": "そういえばベルが鳴[な]っている　（[blank]） 。きっと木村[きむら]さんだろう。",
       "statement": {
@@ -1546,6 +1627,7 @@
     },
     {
       "id": 82,
+      "uid": "N4-grammar-0082",
       "question_type": "grammar",
       "question_text": "明日[あした]図書館[としょかん]があいている　（[blank]） どうか知[し]っていますか。",
       "statement": {
@@ -1565,6 +1647,7 @@
     },
     {
       "id": 83,
+      "uid": "N4-grammar-0083",
       "question_type": "grammar",
       "question_text": "あなたのその鳥[とり]をどこで手[て]においれになったか、聞[き]かせて　（[blank]） か？",
       "statement": {
@@ -1584,6 +1667,7 @@
     },
     {
       "id": 84,
+      "uid": "N4-grammar-0084",
       "question_type": "grammar",
       "question_text": "あの人[ひと]はたいへんあたまがよくてやさしいかたと　（[blank]） います。",
       "statement": {
@@ -1603,6 +1687,7 @@
     },
     {
       "id": 85,
+      "uid": "N4-grammar-0085",
       "question_type": "grammar",
       "question_text": "きっとあなたは新[あたら]しいところで新[あたら]しい友[とも]だちを作[つく]って、私[わたし]のことなんか忘[わす]れてしまったんだ　（[blank]） 思[おも]っていたわ。",
       "statement": {
@@ -1622,6 +1707,7 @@
     },
     {
       "id": 86,
+      "uid": "N4-grammar-0086",
       "question_type": "grammar",
       "question_text": "この切符[きっぷ]はとても手[て]に　（[blank]） のです。",
       "statement": {
@@ -1641,6 +1727,7 @@
     },
     {
       "id": 87,
+      "uid": "N4-grammar-0087",
       "question_type": "grammar",
       "question_text": "ほかの人[ひと]の手紙[てがみ]を　（[blank]） はいけません。",
       "statement": {
@@ -1660,6 +1747,7 @@
     },
     {
       "id": 88,
+      "uid": "N4-grammar-0088",
       "question_type": "grammar",
       "question_text": "わたしが言[い]ったこと、あの子[こ]に　（[blank]） 。じゃないと、あの子[こ]とっても気[き]を悪[わる]くするわ。",
       "statement": {
@@ -1679,6 +1767,7 @@
     },
     {
       "id": 89,
+      "uid": "N4-grammar-0089",
       "question_type": "grammar",
       "question_text": "祖父[そふ]はアル中[なか]で、ベルトで父[ちち]をなぐったりした　（[blank]） 。",
       "statement": {
@@ -1698,6 +1787,7 @@
     },
     {
       "id": 90,
+      "uid": "N4-grammar-0090",
       "question_type": "grammar",
       "question_text": "これからそこへ行[い]ってみるところですが、いっしょに　（[blank]） か？",
       "statement": {
@@ -1717,6 +1807,7 @@
     },
     {
       "id": 91,
+      "uid": "N4-grammar-0091",
       "question_type": "grammar",
       "question_text": "A：「その本[ほん]、かりてもいいですか。」\nB：「どうぞ。わたし、今[いま]ちょうど読[よ]みおわった （[blank]） ですから。」",
       "statement": {
@@ -1736,6 +1827,7 @@
     },
     {
       "id": 92,
+      "uid": "N4-grammar-0092",
       "question_type": "grammar",
       "question_text": "さいふは走[はし]っている （[blank]） ポケットから落[お]ちたのかもしれないよ。",
       "statement": {
@@ -1755,6 +1847,7 @@
     },
     {
       "id": 93,
+      "uid": "N4-grammar-0093",
       "question_type": "grammar",
       "question_text": "学校[がっこう]までは車[くるま]で母[はは]に送[おく]って　（[blank]） 。",
       "statement": {
@@ -1774,6 +1867,7 @@
     },
     {
       "id": 94,
+      "uid": "N4-grammar-0094",
       "question_type": "grammar",
       "question_text": "わたしは本[ほん]　（[blank]） 読[よ]んだことがありません。",
       "statement": {
@@ -1793,6 +1887,7 @@
     },
     {
       "id": 95,
+      "uid": "N4-grammar-0095",
       "question_type": "grammar",
       "question_text": "あのびじゅつ館[かん]へ行[い]けば、日本[にほん]のふるい絵[え]を見[み]る　（[blank]） ができます。",
       "statement": {
@@ -1812,6 +1907,7 @@
     },
     {
       "id": 96,
+      "uid": "N4-grammar-0096",
       "question_type": "grammar",
       "question_text": "たしかに娘[むすめ]をいいところにかたづけますのはとてもうれしいこと　（[blank]） 。",
       "statement": {
@@ -1831,6 +1927,7 @@
     },
     {
       "id": 97,
+      "uid": "N4-grammar-0097",
       "question_type": "grammar",
       "question_text": "彼[か]の父親[ちちおや]は歯科医[しかい]で、うでの良[りょう]　（[blank]） と料金[りょうきん]の高[たか]　（[blank]） で知[し]られていた。",
       "statement": {
@@ -1850,6 +1947,7 @@
     },
     {
       "id": 98,
+      "uid": "N4-grammar-0098",
       "question_type": "grammar",
       "question_text": "問題[もんだい]が　（[blank]） こんごもきがるにご連絡[れんらく]ください。",
       "statement": {
@@ -1869,6 +1967,7 @@
     },
     {
       "id": 99,
+      "uid": "N4-grammar-0099",
       "question_type": "grammar",
       "question_text": "わたしは子[こ]どもが二人[ふたり]います。　上[うえ]の子[こ]がほしいと言[い]えば、すぐに下[した]の子[こ]も同[おな]じものを　（[blank]） 。",
       "statement": {
@@ -1888,6 +1987,7 @@
     },
     {
       "id": 100,
+      "uid": "N4-grammar-0100",
       "question_type": "grammar",
       "question_text": "おじゃま　（[blank]） すみませんでした。すぐしつれいします。",
       "statement": {
@@ -1907,6 +2007,7 @@
     },
     {
       "id": 101,
+      "uid": "N4-grammar-0101",
       "question_type": "grammar",
       "question_text": "友[とも]だちと　（[blank]） 約束[やくそく]を忘[わす]れてはいけません。",
       "statement": {
@@ -1926,6 +2027,7 @@
     },
     {
       "id": 102,
+      "uid": "N4-grammar-0102",
       "question_type": "grammar",
       "question_text": "昼[ひる]ごはんを食[た]べ　（[blank]） から話[はな]しましょう。",
       "statement": {
@@ -1945,6 +2047,7 @@
     },
     {
       "id": 103,
+      "uid": "N4-grammar-0103",
       "question_type": "grammar",
       "question_text": "ひまだからゲーム　（[blank]） しましょう。",
       "statement": {
@@ -1964,6 +2067,7 @@
     },
     {
       "id": 104,
+      "uid": "N4-grammar-0104",
       "question_type": "grammar",
       "question_text": "風景[ふうけい]がわたしたちの前[まえ]をゆっくりと通[とお]りすぎて　（[blank]） 。",
       "statement": {
@@ -1983,6 +2087,7 @@
     },
     {
       "id": 105,
+      "uid": "N4-grammar-0105",
       "question_type": "grammar",
       "question_text": "この公園[こうえん]には歩[ある]きまわっている人[ひと]はたくさん　（[blank]） 。",
       "statement": {
@@ -2002,6 +2107,7 @@
     },
     {
       "id": 106,
+      "uid": "N4-grammar-0106",
       "question_type": "grammar",
       "question_text": "あなたはお金[きん]の心配[しんぱい]をする必要[ひつよう]が　（[blank]） よ。",
       "statement": {
@@ -2021,6 +2127,7 @@
     },
     {
       "id": 107,
+      "uid": "N4-grammar-0107",
       "question_type": "grammar",
       "question_text": "鈴木[すずき]さんはバス　（[blank]） 気分[きぶん]が悪[わる]くなったそうです。",
       "statement": {
@@ -2040,6 +2147,7 @@
     },
     {
       "id": 108,
+      "uid": "N4-grammar-0108",
       "question_type": "grammar",
       "question_text": "いま、母[はは]の手作[てづく]りチョコが　（[blank]） どんなにいいだろう。",
       "statement": {
@@ -2059,6 +2167,7 @@
     },
     {
       "id": 109,
+      "uid": "N4-grammar-0109",
       "question_type": "grammar",
       "question_text": "それで、彼女[かのじょ]から、ちかごろ便[たよ]りはあったの　（[blank]） ？",
       "statement": {
@@ -2078,6 +2187,7 @@
     },
     {
       "id": 110,
+      "uid": "N4-grammar-0110",
       "question_type": "grammar",
       "question_text": "あの人[ひと]は、なにかを　（[blank]） より人[ひと]にさせるほうが得意[とくい]なんですよ。",
       "statement": {
@@ -2097,6 +2207,7 @@
     },
     {
       "id": 111,
+      "uid": "N4-grammar-0111",
       "question_type": "grammar",
       "question_text": "田中[たなか]は楽[たの]し　（[blank]） 顔[かお]をしている。",
       "statement": {
@@ -2116,6 +2227,7 @@
     },
     {
       "id": 112,
+      "uid": "N4-grammar-0112",
       "question_type": "grammar",
       "question_text": "もう一度[いちど]勉強[べんきょう]しなさいよ。　（[blank]） できるわ。できたら、すてきなごほうびをあげるわ。",
       "statement": {
@@ -2135,6 +2247,7 @@
     },
     {
       "id": 113,
+      "uid": "N4-grammar-0113",
       "question_type": "grammar",
       "question_text": "僕[ぼく]たち、女[おんな]みたい　（[blank]） 見[み]えるんだよ。",
       "statement": {
@@ -2154,6 +2267,7 @@
     },
     {
       "id": 114,
+      "uid": "N4-grammar-0114",
       "question_type": "grammar",
       "question_text": "山本[やまもと]は新聞[しんぶん]のきりぬき　（[blank]） ものを持[も]っている。",
       "statement": {
@@ -2173,6 +2287,7 @@
     },
     {
       "id": 115,
+      "uid": "N4-grammar-0115",
       "question_type": "grammar",
       "question_text": "すみませんが、これは二人[ふたり]　（[blank]） の話[はなし]です。",
       "statement": {
@@ -2192,6 +2307,7 @@
     },
     {
       "id": 116,
+      "uid": "N4-grammar-0116",
       "question_type": "grammar",
       "question_text": "来週[らいしゅう]渋谷[しぶや]でテニス[underline_blank][underline_blank][star_underline_blank][underline_blank]。",
       "statement": {
@@ -2212,6 +2328,7 @@
     },
     {
       "id": 117,
+      "uid": "N4-grammar-0117",
       "question_type": "grammar",
       "question_text": "あなたにはわたしのくろう[underline_blank][underline_blank][star_underline_blank][underline_blank]わ。",
       "statement": {
@@ -2232,6 +2349,7 @@
     },
     {
       "id": 118,
+      "uid": "N4-grammar-0118",
       "question_type": "grammar",
       "question_text": "息子[むすこ]が大学[だいがく]そつぎょう後[あと]にどんな仕事[しごと]につくか[underline_blank][underline_blank][star_underline_blank][underline_blank]。",
       "statement": {
@@ -2252,6 +2370,7 @@
     },
     {
       "id": 119,
+      "uid": "N4-grammar-0119",
       "question_type": "grammar",
       "question_text": "あなたなら何[なに]を[underline_blank][underline_blank][star_underline_blank][underline_blank]、明[めい]さん。",
       "statement": {
@@ -2272,6 +2391,7 @@
     },
     {
       "id": 120,
+      "uid": "N4-grammar-0120",
       "question_type": "grammar",
       "question_text": "今朝[けさ]めざめたとき、昨夜[さくや]何[なに][underline_blank][underline_blank][star_underline_blank][underline_blank]少[すこ]し時間[じかん]がかかった。",
       "statement": {
@@ -2292,6 +2412,7 @@
     },
     {
       "id": 121,
+      "uid": "N4-grammar-0121",
       "question_type": "grammar",
       "question_text": "じしょを　（[blank]） に日本語[にほんご]の新聞[しんぶん]を読[よ]むことができますか。",
       "statement": {
@@ -2311,6 +2432,7 @@
     },
     {
       "id": 122,
+      "uid": "N4-grammar-0122",
       "question_type": "grammar",
       "question_text": "あとですてるから、ごみを　（[blank]） おいてください。",
       "statement": {
@@ -2330,6 +2452,7 @@
     },
     {
       "id": 123,
+      "uid": "N4-grammar-0123",
       "question_type": "grammar",
       "question_text": "青木[あおき]：「川田[かわだ]さんはケーキを　（[blank]） か。」\n川田[かわだ]：「はい、一度[いちど]だけ。でも、うまくできませんでした。」",
       "statement": {
@@ -2349,6 +2472,7 @@
     },
     {
       "id": 124,
+      "uid": "N4-grammar-0124",
       "question_type": "grammar",
       "question_text": "あの人[ひと]は入院[にゅういん]しているので、あしたの旅行[りょこう]に　（[blank]） はずがない。",
       "statement": {
@@ -2368,6 +2492,7 @@
     },
     {
       "id": 125,
+      "uid": "N4-grammar-0125",
       "question_type": "grammar",
       "question_text": "テキストを　（[blank]） 答[こた]えてください。",
       "statement": {
@@ -2387,6 +2512,7 @@
     },
     {
       "id": 126,
+      "uid": "N4-grammar-0126",
       "question_type": "grammar",
       "question_text": "めがねをかけた　（[blank]） ねてしまいました。",
       "statement": {
@@ -2406,6 +2532,7 @@
     },
     {
       "id": 127,
+      "uid": "N4-grammar-0127",
       "question_type": "grammar",
       "question_text": "１時間[じかん]ぐらい　（[blank]） つづけたので、のどがかわいた。",
       "statement": {
@@ -2425,6 +2552,7 @@
     },
     {
       "id": 128,
+      "uid": "N4-grammar-0128",
       "question_type": "grammar",
       "question_text": "まだこのマンガを　（[blank]） ことがありません。",
       "statement": {
@@ -2444,6 +2572,7 @@
     },
     {
       "id": 129,
+      "uid": "N4-grammar-0129",
       "question_type": "grammar",
       "question_text": "やんさんはいつ国[くに]へ帰[かえ]る　（[blank]） ？",
       "statement": {
@@ -2463,6 +2592,7 @@
     },
     {
       "id": 130,
+      "uid": "N4-grammar-0130",
       "question_type": "grammar",
       "question_text": "だれかにさいふ 　（[blank]） とられた。",
       "statement": {
@@ -2482,6 +2612,7 @@
     },
     {
       "id": 131,
+      "uid": "N4-grammar-0131",
       "question_type": "grammar",
       "question_text": "そつぎょうしてから何[なに]をする　（[blank]） ですか。",
       "statement": {
@@ -2501,6 +2632,7 @@
     },
     {
       "id": 132,
+      "uid": "N4-grammar-0132",
       "question_type": "grammar",
       "question_text": "いろいろしらべて、その駅[えき]がいちばんべんりだ　（[blank]） がわかった。",
       "statement": {
@@ -2520,6 +2652,7 @@
     },
     {
       "id": 133,
+      "uid": "N4-grammar-0133",
       "question_type": "grammar",
       "question_text": "たぶん明日[あした]も風[かぜ]が　（[blank]） だろう。",
       "statement": {
@@ -2539,6 +2672,7 @@
     },
     {
       "id": 134,
+      "uid": "N4-grammar-0134",
       "question_type": "grammar",
       "question_text": "父[ちち]は　声[こえ]　（[blank]） 大[おお]きい。",
       "statement": {
@@ -2558,6 +2692,7 @@
     },
     {
       "id": 135,
+      "uid": "N4-grammar-0135",
       "question_type": "grammar",
       "question_text": "あしたは家[いえ]でゆっくり　（[blank]） と思[おも]う。",
       "statement": {
@@ -2577,6 +2712,7 @@
     },
     {
       "id": 136,
+      "uid": "N4-grammar-0136",
       "question_type": "grammar",
       "question_text": "外[そと]は　（[blank]） ようですね。",
       "statement": {
@@ -2596,6 +2732,7 @@
     },
     {
       "id": 137,
+      "uid": "N4-grammar-0137",
       "question_type": "grammar",
       "question_text": "たばこの　（[blank]） すぎは よくないですよ。",
       "statement": {
@@ -2615,6 +2752,7 @@
     },
     {
       "id": 138,
+      "uid": "N4-grammar-0138",
       "question_type": "grammar",
       "question_text": "レポートはペン　（[blank]） 書[か]いてください。",
       "statement": {
@@ -2634,6 +2772,7 @@
     },
     {
       "id": 139,
+      "uid": "N4-grammar-0139",
       "question_type": "grammar",
       "question_text": "せんぱい　（[blank]） 私[わたし]におみやげをくださいました。",
       "statement": {
@@ -2653,6 +2792,7 @@
     },
     {
       "id": 140,
+      "uid": "N4-grammar-0140",
       "question_type": "grammar",
       "question_text": "私[わたし]のへやの　（[blank]） はこのへやとだいたい同[おな]じです。",
       "statement": {
@@ -2672,6 +2812,7 @@
     },
     {
       "id": 141,
+      "uid": "N4-grammar-0141",
       "question_type": "grammar",
       "question_text": "「ここにごみを　（[blank]） な！」と書[か]いてある。",
       "statement": {
@@ -2691,6 +2832,7 @@
     },
     {
       "id": 142,
+      "uid": "N4-grammar-0142",
       "question_type": "grammar",
       "question_text": "この　仕事[しごと]は日本語[にほんご]が　（[blank]） なくてもかまいません。",
       "statement": {
@@ -2710,6 +2852,7 @@
     },
     {
       "id": 143,
+      "uid": "N4-grammar-0143",
       "question_type": "grammar",
       "question_text": "先生[せんせい]はもう　（[blank]） 。",
       "statement": {
@@ -2729,6 +2872,7 @@
     },
     {
       "id": 144,
+      "uid": "N4-grammar-0144",
       "question_type": "grammar",
       "question_text": "カトレア　（[blank]） いう店[みせ]を知[し]っていますか。",
       "statement": {
@@ -2748,6 +2892,7 @@
     },
     {
       "id": 145,
+      "uid": "N4-grammar-0145",
       "question_type": "grammar",
       "question_text": "日本[にほん]にりゅうがくしている　（[blank]） ふじさんをのぼりたい。",
       "statement": {
@@ -2767,6 +2912,7 @@
     },
     {
       "id": 146,
+      "uid": "N4-grammar-0146",
       "question_type": "grammar",
       "question_text": "このへやに　（[blank]） いけません。",
       "statement": {
@@ -2786,6 +2932,7 @@
     },
     {
       "id": 147,
+      "uid": "N4-grammar-0147",
       "question_type": "grammar",
       "question_text": "空[そら]を鳥[とり]がとんでいる　（[blank]） 見[み]えます。",
       "statement": {
@@ -2805,6 +2952,7 @@
     },
     {
       "id": 148,
+      "uid": "N4-grammar-0148",
       "question_type": "grammar",
       "question_text": "Ａ：「カメラを　買[か]いたいんですが、どこが　いいですか。」\nＢ：「カメラを　（[blank]） 、駅[えき]の　そばの　店[みせ]が　安[やす]くて　いいですよ。",
       "statement": {
@@ -2824,6 +2972,7 @@
     },
     {
       "id": 149,
+      "uid": "N4-grammar-0149",
       "question_type": "grammar",
       "question_text": "かれは来月[らいげつ]　（[blank]） ということを、まだだれにも知[し]らせていない。",
       "statement": {
@@ -2843,6 +2992,7 @@
     },
     {
       "id": 150,
+      "uid": "N4-grammar-0150",
       "question_type": "grammar",
       "question_text": "さっき起[お]きた　（[blank]） で、まだねむいです。",
       "statement": {
@@ -2862,6 +3012,7 @@
     },
     {
       "id": 151,
+      "uid": "N4-grammar-0151",
       "question_type": "grammar",
       "question_text": "母[はは]のたんじょう日[ひ]のプレゼントはセ－タ－　（[blank]） しました。",
       "statement": {
@@ -2881,6 +3032,7 @@
     },
     {
       "id": 152,
+      "uid": "N4-grammar-0152",
       "question_type": "grammar",
       "question_text": "Ａ：「うちのむすこは肉[にく]より野菜[やさい]のほうが好[す]きなんですよ。」\nＢ：「いいですね。うちの子[こ]どもは野菜[やさい]を　（[blank]） こまっているんですよ。」",
       "statement": {
@@ -2900,6 +3052,7 @@
     },
     {
       "id": 153,
+      "uid": "N4-grammar-0153",
       "question_type": "grammar",
       "question_text": "このしゅくだいは10日　（[blank]） 出[だ]してください。",
       "statement": {
@@ -2919,6 +3072,7 @@
     },
     {
       "id": 154,
+      "uid": "N4-grammar-0154",
       "question_type": "grammar",
       "question_text": "いろいろさがした　（[blank]） 見[み]つからないんです。",
       "statement": {
@@ -2938,6 +3092,7 @@
     },
     {
       "id": 155,
+      "uid": "N4-grammar-0155",
       "question_type": "grammar",
       "question_text": "キムさん、田中[たなか]さん　（[blank]） あした10時[とき]に来[く]るように言[い]ってください。",
       "statement": {
@@ -2957,6 +3112,7 @@
     },
     {
       "id": 156,
+      "uid": "N4-grammar-0156",
       "question_type": "grammar",
       "question_text": "じしょをわすれたので、友[とも]だち　（[blank]） 貸[か]してもらった。",
       "statement": {
@@ -2976,6 +3132,7 @@
     },
     {
       "id": 157,
+      "uid": "N4-grammar-0157",
       "question_type": "grammar",
       "question_text": "私[わたし]は仕事[しごと]を　（[blank]） つもりです。",
       "statement": {
@@ -2995,6 +3152,7 @@
     },
     {
       "id": 158,
+      "uid": "N4-grammar-0158",
       "question_type": "grammar",
       "question_text": "あのレストランはいつ　（[blank]） もこんでいる。",
       "statement": {
@@ -3014,6 +3172,7 @@
     },
     {
       "id": 159,
+      "uid": "N4-grammar-0159",
       "question_type": "grammar",
       "question_text": "学生[がくせい]：「先生[せんせい]、何時[なんじ]まで大学[だいがく]にいらっしゃいますか。」\n先生[せんせい]：「きょうは５時[じ]まで　（[blank]） よ。」",
       "statement": {
@@ -3033,6 +3192,7 @@
     },
     {
       "id": 160,
+      "uid": "N4-grammar-0160",
       "question_type": "grammar",
       "question_text": "今度[こんど]国[くに]に帰[かえ]ること　（[blank]） なりました。",
       "statement": {
@@ -3052,6 +3212,7 @@
     },
     {
       "id": 161,
+      "uid": "N4-grammar-0161",
       "question_type": "grammar",
       "question_text": "仕事[しごと]をつづけるのは　（[blank]） と思[おも]う。",
       "statement": {
@@ -3071,6 +3232,7 @@
     },
     {
       "id": 162,
+      "uid": "N4-grammar-0162",
       "question_type": "grammar",
       "question_text": "A：「あした、いっしょに出[で]かけませんか。」\nB：「あしたは友達[ともだち]がうちに来[く]るよてい　（[blank]） 。」",
       "statement": {
@@ -3090,6 +3252,7 @@
     },
     {
       "id": 163,
+      "uid": "N4-grammar-0163",
       "question_type": "grammar",
       "question_text": "中田[なかだ]さんが大学[だいがく]をそつぎょうできた　（[blank]） 知[し]っていますか。",
       "statement": {
@@ -3109,6 +3272,7 @@
     },
     {
       "id": 164,
+      "uid": "N4-grammar-0164",
       "question_type": "grammar",
       "question_text": "これから食事[しょくじ]に行[い]く　（[blank]） なんですが、いっしょにいかがですか。",
       "statement": {
@@ -3128,6 +3292,7 @@
     },
     {
       "id": 165,
+      "uid": "N4-grammar-0165",
       "question_type": "grammar",
       "question_text": "木田[きだ]：「それ、林[はやし]さんのじしょですか。いいじしょですね。」\n林[はやし]：「ええ。兄[あに]が私[わたし]に　（[blank]） んです。」",
       "statement": {
@@ -3147,6 +3312,7 @@
     },
     {
       "id": 166,
+      "uid": "N4-grammar-0166",
       "question_type": "grammar",
       "question_text": "Ａ：「あ、たいへんだ。この車[くるま]ガソリンが　（[blank]） よ。」\nＢ：「ほんとうだ。早[はや]く入[い]れたほうがいいですね。」",
       "statement": {
@@ -3166,6 +3332,7 @@
     },
     {
       "id": 167,
+      "uid": "N4-grammar-0167",
       "question_type": "grammar",
       "question_text": "あの先生[せんせい]の話[はなし]は留学生[りゅうがくせい]　（[blank]） はむずかしすぎる。",
       "statement": {
@@ -3185,6 +3352,7 @@
     },
     {
       "id": 168,
+      "uid": "N4-grammar-0168",
       "question_type": "grammar",
       "question_text": "あの店[みせ]はあまり　（[blank]） 、店員[てんいん]も親切[しんせつ]です。",
       "statement": {
@@ -3204,6 +3372,7 @@
     },
     {
       "id": 169,
+      "uid": "N4-grammar-0169",
       "question_type": "grammar",
       "question_text": "病気[びょうき]が早[はや]く　　（[blank]） といいですね。",
       "statement": {
@@ -3223,6 +3392,7 @@
     },
     {
       "id": 170,
+      "uid": "N4-grammar-0170",
       "question_type": "grammar",
       "question_text": "とちゅうで雨[あめ]が　（[blank]） かもしれないから、かさを持[も]って行[い]きましょう。",
       "statement": {
@@ -3242,6 +3412,7 @@
     },
     {
       "id": 171,
+      "uid": "N4-grammar-0171",
       "question_type": "grammar",
       "question_text": "この店[みせ]で日本[にほん]のお金[きん]が　（[blank]） か。",
       "statement": {
@@ -3261,6 +3432,7 @@
     },
     {
       "id": 172,
+      "uid": "N4-grammar-0172",
       "question_type": "grammar",
       "question_text": "そのことばは発音[はつおん]がむずかしいので、アナウンサー　（[blank]） よくまちがえます。",
       "statement": {
@@ -3280,6 +3452,7 @@
     },
     {
       "id": 173,
+      "uid": "N4-grammar-0173",
       "question_type": "grammar",
       "question_text": "だれ　（[blank]） まどをしめてください。",
       "statement": {
@@ -3299,6 +3472,7 @@
     },
     {
       "id": 174,
+      "uid": "N4-grammar-0174",
       "question_type": "grammar",
       "question_text": "ネクタイ売[う]り場[ば]は　２かいに　（[blank]） 。",
       "statement": {
@@ -3318,6 +3492,7 @@
     },
     {
       "id": 175,
+      "uid": "N4-grammar-0175",
       "question_type": "grammar",
       "question_text": "わたしは　１週間[しゅうかん]　（[blank]） 一回[いっかい]　柔道[じゅうどう]を　習[なら]って　いる。",
       "statement": {
@@ -3337,6 +3512,7 @@
     },
     {
       "id": 176,
+      "uid": "N4-grammar-0176",
       "question_type": "grammar",
       "question_text": "母[はは]ははじめてひこうきに乗[の]って、子[こ]どもの　（[blank]） よろこんだ。",
       "statement": {
@@ -3356,6 +3532,7 @@
     },
     {
       "id": 177,
+      "uid": "N4-grammar-0177",
       "question_type": "grammar",
       "question_text": "A：「その本[ほん]はだれのですか。」\nB：「　（[blank]） 。」",
       "statement": {
@@ -3376,6 +3553,7 @@
     },
     {
       "id": 178,
+      "uid": "N4-grammar-0178",
       "question_type": "grammar",
       "question_text": "図書館[としょかん]の前[まえ]　（[blank]） 通[とお]るバスはどれですか。",
       "statement": {
@@ -3395,6 +3573,7 @@
     },
     {
       "id": 179,
+      "uid": "N4-grammar-0179",
       "question_type": "grammar",
       "question_text": "私[わたし]は先生[せんせい]に作文[さくぶん]を　（[blank]） 。",
       "statement": {
@@ -3414,6 +3593,7 @@
     },
     {
       "id": 180,
+      "uid": "N4-grammar-0180",
       "question_type": "grammar",
       "question_text": "むすこはひとりでくつが　（[blank]） ようになりました。",
       "statement": {
@@ -3433,6 +3613,7 @@
     },
     {
       "id": 181,
+      "uid": "N4-grammar-0181",
       "question_type": "grammar",
       "question_text": "ねる前[まえ]にかならずはを　（[blank]） いけません。",
       "statement": {
@@ -3452,6 +3633,7 @@
     },
     {
       "id": 182,
+      "uid": "N4-grammar-0182",
       "question_type": "grammar",
       "question_text": "では、お元気[げんき]で。ごりょうしん　（[blank]） どうぞよろしくおつたえください。",
       "statement": {
@@ -3471,6 +3653,7 @@
     },
     {
       "id": 183,
+      "uid": "N4-grammar-0183",
       "question_type": "grammar",
       "question_text": "彼[かれ]から借[か]りた本[ほん]は１さつ　（[blank]） です。",
       "statement": {
@@ -3490,6 +3673,7 @@
     },
     {
       "id": 184,
+      "uid": "N4-grammar-0184",
       "question_type": "grammar",
       "question_text": "うちの子[こ]どもはこわい話[はなし]を　（[blank]） たがる。",
       "statement": {
@@ -3509,6 +3693,7 @@
     },
     {
       "id": 185,
+      "uid": "N4-grammar-0185",
       "question_type": "grammar",
       "question_text": "バスが何時[なんじ]に来[く]る　（[blank]） わかりません。",
       "statement": {
@@ -3528,6 +3713,7 @@
     },
     {
       "id": 186,
+      "uid": "N4-grammar-0186",
       "question_type": "grammar",
       "question_text": "ゆきがたくさんふった　（[blank]） しあいが中止[ちゅうし]された。",
       "statement": {
@@ -3547,6 +3733,7 @@
     },
     {
       "id": 187,
+      "uid": "N4-grammar-0187",
       "question_type": "grammar",
       "question_text": "夏休[なつやす]みは旅行[りょこう]に　（[blank]） と思[おも]います。",
       "statement": {
@@ -3566,6 +3753,7 @@
     },
     {
       "id": 188,
+      "uid": "N4-grammar-0188",
       "question_type": "grammar",
       "question_text": "私[わたし]は母[はは]　（[blank]） なかせるようなことはしたくない。",
       "statement": {
@@ -3585,6 +3773,7 @@
     },
     {
       "id": 189,
+      "uid": "N4-grammar-0189",
       "question_type": "grammar",
       "question_text": "大山[おおやま]：「小川[おがわ]さん、この本[ほん]を山田[やまだ]先生[せんせい]にわたしてくださいませんか。」\n小川[おがわ]：「わかりました。あとで　（[blank]） 。」",
       "statement": {
@@ -3604,6 +3793,7 @@
     },
     {
       "id": 190,
+      "uid": "N4-grammar-0190",
       "question_type": "grammar",
       "question_text": "あしたの朝[あさ]は９時[じ]　（[blank]） ここへ来[き]てください。",
       "statement": {
@@ -3623,6 +3813,7 @@
     },
     {
       "id": 191,
+      "uid": "N4-grammar-0191",
       "question_type": "grammar",
       "question_text": "この漢字[かんじ]は　（[blank]） 方[かた]がむずかしいです。",
       "statement": {
@@ -3642,6 +3833,7 @@
     },
     {
       "id": 192,
+      "uid": "N4-grammar-0192",
       "question_type": "grammar",
       "question_text": "彼女[かのじょ]　（[blank]） 来[く]る日[ひ]は火曜日[かようび]です。",
       "statement": {
@@ -3661,6 +3853,7 @@
     },
     {
       "id": 193,
+      "uid": "N4-grammar-0193",
       "question_type": "grammar",
       "question_text": "はじめはことばもわからない　（[blank]） 、友[とも]だちもいない　（[blank]） 、ほんとうに たいへんでした。",
       "statement": {
@@ -3680,6 +3873,7 @@
     },
     {
       "id": 194,
+      "uid": "N4-grammar-0194",
       "question_type": "grammar",
       "question_text": "先生[せんせい]は今度[こんど]の土曜日[どようび]はずっと研究室[けんきゅうしつ]　（[blank]） いらっしゃるそうです。",
       "statement": {
@@ -3699,6 +3893,7 @@
     },
     {
       "id": 195,
+      "uid": "N4-grammar-0195",
       "question_type": "grammar",
       "question_text": "プレゼントは花[はな]　（[blank]） しましょう。",
       "statement": {
@@ -3718,6 +3913,7 @@
     },
     {
       "id": 196,
+      "uid": "N4-grammar-0196",
       "question_type": "grammar",
       "question_text": "わたしは旅行[りょこう]に　（[blank]） が、行[い]けなかった。",
       "statement": {
@@ -3737,6 +3933,7 @@
     },
     {
       "id": 197,
+      "uid": "N4-grammar-0197",
       "question_type": "grammar",
       "question_text": "スポーツをするの　（[blank]） 、見[み]るの　（[blank]） どちらが好[す]きですか。",
       "statement": {
@@ -3756,6 +3953,7 @@
     },
     {
       "id": 198,
+      "uid": "N4-grammar-0198",
       "question_type": "grammar",
       "question_text": "そちらの方[ほう]がわたしのにもつを　（[blank]） 。",
       "statement": {
@@ -3775,6 +3973,7 @@
     },
     {
       "id": 199,
+      "uid": "N4-grammar-0199",
       "question_type": "grammar",
       "question_text": "来月[らいげつ]富士山[ふじさん]に　（[blank]） と思[おも]っています。",
       "statement": {
@@ -3794,6 +3993,7 @@
     },
     {
       "id": 200,
+      "uid": "N4-grammar-0200",
       "question_type": "grammar",
       "question_text": "きのう買[か]ったカメラ　（[blank]） ぬすまれてしまいました。",
       "statement": {
@@ -3813,6 +4013,7 @@
     },
     {
       "id": 201,
+      "uid": "N4-grammar-0201",
       "question_type": "grammar",
       "question_text": "今[いま]までねていた赤[あか]ちゃんが急[きゅう]に　（[blank]） だした。",
       "statement": {
@@ -3832,6 +4033,7 @@
     },
     {
       "id": 202,
+      "uid": "N4-grammar-0202",
       "question_type": "grammar",
       "question_text": "そのアパ－トは駅[えき]　（[blank]） 近[ちか]い。",
       "statement": {
@@ -3851,6 +4053,7 @@
     },
     {
       "id": 203,
+      "uid": "N4-grammar-0203",
       "question_type": "grammar",
       "question_text": "すみません、きっぷの　（[blank]） 方[かた]を教[おし]えてください。",
       "statement": {
@@ -3870,6 +4073,7 @@
     },
     {
       "id": 204,
+      "uid": "N4-grammar-0204",
       "question_type": "grammar",
       "question_text": "医者[いしゃ]：「ねつが下[さ]がりましたね。でも、もう少[すこ]しこの薬[くすり]を飲[の]んでください。」\n田中[たなか]：「うんどうをしてもいいですか。」\n医者[いしゃ]：「いいえ、まだ　（[blank]） 。」",
       "statement": {
@@ -3890,6 +4094,7 @@
     },
     {
       "id": 205,
+      "uid": "N4-grammar-0205",
       "question_type": "grammar",
       "question_text": "楽[たの]しかった旅行[りょこう]のこと　（[blank]） 思[おも]い出[だ]しています。",
       "statement": {
@@ -3909,6 +4114,7 @@
     },
     {
       "id": 206,
+      "uid": "N4-grammar-0206",
       "question_type": "grammar",
       "question_text": "チケットはあとでお　（[blank]） いたします。",
       "statement": {
@@ -3928,6 +4134,7 @@
     },
     {
       "id": 207,
+      "uid": "N4-grammar-0207",
       "question_type": "grammar",
       "question_text": "先週[せんしゅう]かぜをひきましたが、もう　（[blank]） なりました。",
       "statement": {
@@ -3947,6 +4154,7 @@
     },
     {
       "id": 208,
+      "uid": "N4-grammar-0208",
       "question_type": "grammar",
       "question_text": "ひこうきが空[そら]　（[blank]） 東[ひがし]から西[にし]へとんで行[い]きました。",
       "statement": {
@@ -3966,6 +4174,7 @@
     },
     {
       "id": 209,
+      "uid": "N4-grammar-0209",
       "question_type": "grammar",
       "question_text": "毎日[まいにち]れんしゅうしたので、　（[blank]） ように なりました。",
       "statement": {
@@ -3985,6 +4194,7 @@
     },
     {
       "id": 210,
+      "uid": "N4-grammar-0210",
       "question_type": "grammar",
       "question_text": "その映画[えいが]はとてもおもしろいので、一度[いちど]　（[blank]） 見[み]てください。",
       "statement": {
@@ -4004,6 +4214,7 @@
     },
     {
       "id": 211,
+      "uid": "N4-grammar-0211",
       "question_type": "grammar",
       "question_text": "その仕事[しごと]はぜひわたしに　（[blank]） 。",
       "statement": {
@@ -4023,6 +4234,7 @@
     },
     {
       "id": 212,
+      "uid": "N4-grammar-0212",
       "question_type": "grammar",
       "question_text": "ねつが高[たか]いときは、むりを　（[blank]） ほうがいい。",
       "statement": {
@@ -4042,6 +4254,7 @@
     },
     {
       "id": 213,
+      "uid": "N4-grammar-0213",
       "question_type": "grammar",
       "question_text": "外国語[がいこくご]を勉強[べんきょう]しても、　（[blank]） ばわすれてしまいます。",
       "statement": {
@@ -4061,6 +4274,7 @@
     },
     {
       "id": 214,
+      "uid": "N4-grammar-0214",
       "question_type": "grammar",
       "question_text": "このきせつはたくさんの人[ひと]が病院[びょういん]に　（[blank]） やすい。",
       "statement": {
@@ -4080,6 +4294,7 @@
     },
     {
       "id": 215,
+      "uid": "N4-grammar-0215",
       "question_type": "grammar",
       "question_text": "おきゃくさんが　来[く]るからテーブルの上[うえ]におさらを　（[blank]） おきます。",
       "statement": {
@@ -4099,6 +4314,7 @@
     },
     {
       "id": 216,
+      "uid": "N4-grammar-0216",
       "question_type": "grammar",
       "question_text": "先月[せんげつ]からテニスを　（[blank]） 。",
       "statement": {
@@ -4118,6 +4334,7 @@
     },
     {
       "id": 217,
+      "uid": "N4-grammar-0217",
       "question_type": "grammar",
       "question_text": "風[かぜ]がとても強[つよ]いので、外[そと]に出[で]ない　（[blank]） あんぜんだ。",
       "statement": {
@@ -4137,6 +4354,7 @@
     },
     {
       "id": 218,
+      "uid": "N4-grammar-0218",
       "question_type": "grammar",
       "question_text": "田中[たなか]ともうします　（[blank]） 、山下[やました]さんを　おねがいします。",
       "statement": {
@@ -4156,6 +4374,7 @@
     },
     {
       "id": 219,
+      "uid": "N4-grammar-0219",
       "question_type": "grammar",
       "question_text": "友[とも]だち　（[blank]） そうじをてつだってくれた。",
       "statement": {
@@ -4175,6 +4394,7 @@
     },
     {
       "id": 220,
+      "uid": "N4-grammar-0220",
       "question_type": "grammar",
       "question_text": "学校[がっこう]をそつぎょうしても、日本語[にほんご]の勉強[べんきょう]をつづけて　（[blank]） つもりだ。",
       "statement": {
@@ -4194,6 +4414,7 @@
     },
     {
       "id": 221,
+      "uid": "N4-grammar-0221",
       "question_type": "grammar",
       "question_text": "けいたい電話[でんわ]を　（[blank]） ために、れんらくできませんでした。",
       "statement": {
@@ -4213,6 +4434,7 @@
     },
     {
       "id": 222,
+      "uid": "N4-grammar-0222",
       "question_type": "grammar",
       "question_text": "このケーキは　（[blank]） ば、おいしくありません。",
       "statement": {
@@ -4232,6 +4454,7 @@
     },
     {
       "id": 223,
+      "uid": "N4-grammar-0223",
       "question_type": "grammar",
       "question_text": "A：「きょうは　寒[さむ]かったですね。あしたも寒[さむ]いでしょうか。」\nB：「　（[blank]） 。」",
       "statement": {
@@ -4252,6 +4475,7 @@
     },
     {
       "id": 224,
+      "uid": "N4-grammar-0224",
       "question_type": "grammar",
       "question_text": "ふうとう　（[blank]） 切手[きって]をはってください。",
       "statement": {
@@ -4271,6 +4495,7 @@
     },
     {
       "id": 225,
+      "uid": "N4-grammar-0225",
       "question_type": "grammar",
       "question_text": "わたしは子[こ]ども　（[blank]） しゅくだいをさせた。",
       "statement": {
@@ -4290,6 +4515,7 @@
     },
     {
       "id": 226,
+      "uid": "N4-grammar-0226",
       "question_type": "grammar",
       "question_text": "兄[あに]　（[blank]） 弟[おとうと]のほうがせが高[たか]い。",
       "statement": {
@@ -4309,6 +4535,7 @@
     },
     {
       "id": 227,
+      "uid": "N4-grammar-0227",
       "question_type": "grammar",
       "question_text": "A：「日本[にほん]に来[き]て、どのぐらいですか。」\nB：「　（[blank]） 。」",
       "statement": {
@@ -4329,6 +4556,7 @@
     },
     {
       "id": 228,
+      "uid": "N4-grammar-0228",
       "question_type": "grammar",
       "question_text": "たくさんの料理[りょうり]があった　（[blank]） 、ぜんぶ食[た]べる時間[じかん]がなかった。",
       "statement": {
@@ -4348,6 +4576,7 @@
     },
     {
       "id": 229,
+      "uid": "N4-grammar-0229",
       "question_type": "grammar",
       "question_text": "学生[がくせい]　（[blank]） もっと勉強[べんきょう]しなさい。",
       "statement": {
@@ -4367,6 +4596,7 @@
     },
     {
       "id": 230,
+      "uid": "N4-grammar-0230",
       "question_type": "grammar",
       "question_text": "図書館[としょかん]でこの町[まち]のれきしを　（[blank]） ことができます。",
       "statement": {
@@ -4386,6 +4616,7 @@
     },
     {
       "id": 231,
+      "uid": "N4-grammar-0231",
       "question_type": "grammar",
       "question_text": "その本[ほん]をどこで買[か]った　（[blank]） おぼえていますか。",
       "statement": {
@@ -4405,6 +4636,7 @@
     },
     {
       "id": 232,
+      "uid": "N4-grammar-0232",
       "question_type": "grammar",
       "question_text": "お金[きん]もない　（[blank]） 、時間[じかん]もないから、あそびに行[い]けない。",
       "statement": {
@@ -4424,6 +4656,7 @@
     },
     {
       "id": 233,
+      "uid": "N4-grammar-0233",
       "question_type": "grammar",
       "question_text": "しょうらい先生[せんせい]に　（[blank]） ために勉強[べんきょう]しています。",
       "statement": {
@@ -4443,6 +4676,7 @@
     },
     {
       "id": 234,
+      "uid": "N4-grammar-0234",
       "question_type": "grammar",
       "question_text": "銀行[ぎんこう]の名前[なまえ]がかわった　（[blank]） 知[し]りませんでした。",
       "statement": {
@@ -4462,6 +4696,7 @@
     },
     {
       "id": 235,
+      "uid": "N4-grammar-0235",
       "question_type": "grammar",
       "question_text": "前[まえ]の人[ひと]につづいてまっすぐ　（[blank]） なさい。",
       "statement": {
@@ -4481,6 +4716,7 @@
     },
     {
       "id": 236,
+      "uid": "N4-grammar-0236",
       "question_type": "grammar",
       "question_text": "ここをおす　（[blank]） 、にんぎょうが動[うご]きます。",
       "statement": {
@@ -4500,6 +4736,7 @@
     },
     {
       "id": 237,
+      "uid": "N4-grammar-0237",
       "question_type": "grammar",
       "question_text": "天気[てんき]よほう　（[blank]） 今夜[こんや]はゆきがふるそうです。",
       "statement": {
@@ -4519,6 +4756,7 @@
     },
     {
       "id": 238,
+      "uid": "N4-grammar-0238",
       "question_type": "grammar",
       "question_text": "あぶないですから、子[こ]どもを一人[ひとり]で　（[blank]） ないでください。",
       "statement": {
@@ -4538,6 +4776,7 @@
     },
     {
       "id": 239,
+      "uid": "N4-grammar-0239",
       "question_type": "grammar",
       "question_text": "おなかがいたくて病院[びょういん]へ行[い]ったら、1時間[じかん]も　（[blank]） 。",
       "statement": {
@@ -4557,6 +4796,7 @@
     },
     {
       "id": 240,
+      "uid": "N4-grammar-0240",
       "question_type": "grammar",
       "question_text": "父[ちち]は おもしろいことを言[い]ってよくみんなを　（[blank]） 。",
       "statement": {
@@ -4576,6 +4816,7 @@
     },
     {
       "id": 241,
+      "uid": "N4-grammar-0241",
       "question_type": "grammar",
       "question_text": "きょうはきのうほど風[かぜ]が （[blank]） 。",
       "statement": {
@@ -4595,6 +4836,7 @@
     },
     {
       "id": 242,
+      "uid": "N4-grammar-0242",
       "question_type": "grammar",
       "question_text": "日本[にほん]で　（[blank]） ために日本語[にほんご]を勉強[べんきょう]している。",
       "statement": {
@@ -4614,6 +4856,7 @@
     },
     {
       "id": 243,
+      "uid": "N4-grammar-0243",
       "question_type": "grammar",
       "question_text": "きゃく：「すみません、このぼうし、かぶって　（[blank]） いいですか。」\n店員[てんいん]：「はい、どうぞ。」",
       "statement": {
@@ -4633,6 +4876,7 @@
     },
     {
       "id": 244,
+      "uid": "N4-grammar-0244",
       "question_type": "grammar",
       "question_text": "夜[よる]は暗[くら]くて歩[ある]いている人[ひと]が　（[blank]） にくいので、注意[ちゅうい]してうんてんします。",
       "statement": {
@@ -4652,6 +4896,7 @@
     },
     {
       "id": 245,
+      "uid": "N4-grammar-0245",
       "question_type": "grammar",
       "question_text": "急[きゅう]に大[おお]きな音[おと]がしたので、その子[こ]どもは　（[blank]） ないてしまった。",
       "statement": {
@@ -4671,6 +4916,7 @@
     },
     {
       "id": 246,
+      "uid": "N4-grammar-0246",
       "question_type": "grammar",
       "question_text": "コピーの字[じ]が　（[blank]） すぎて、読[よ]めません。",
       "statement": {
@@ -4690,6 +4936,7 @@
     },
     {
       "id": 247,
+      "uid": "N4-grammar-0247",
       "question_type": "grammar",
       "question_text": "先生[せんせい]、わたしがそのにもつを　（[blank]） 。",
       "statement": {
@@ -4709,6 +4956,7 @@
     },
     {
       "id": 248,
+      "uid": "N4-grammar-0248",
       "question_type": "grammar",
       "question_text": "このじしょで漢字[かんじ]の読[よ]みかたが　（[blank]） ます。",
       "statement": {
@@ -4728,6 +4976,7 @@
     },
     {
       "id": 249,
+      "uid": "N4-grammar-0249",
       "question_type": "grammar",
       "question_text": "（[blank]） ので、そのきかいにさわってはいけません。",
       "statement": {
@@ -4747,6 +4996,7 @@
     },
     {
       "id": 250,
+      "uid": "N4-grammar-0250",
       "question_type": "grammar",
       "question_text": "A：「ごはんを食[た]べてから、おふろに入[はい]りますか。」\nB：「いいえ、わたしは　（[blank]） 。」",
       "statement": {
@@ -4767,6 +5017,7 @@
     },
     {
       "id": 251,
+      "uid": "N4-grammar-0251",
       "question_type": "grammar",
       "question_text": "会社[かいしゃ]をやめてどう （[blank]） つもりですか。",
       "statement": {
@@ -4786,6 +5037,7 @@
     },
     {
       "id": 252,
+      "uid": "N4-grammar-0252",
       "question_type": "grammar",
       "question_text": "Ａ：「この　問題[もんだい]がわからなくてこまっているんですが。」\nＢ：「じゃあ、この本[ほん]を （[blank]） どうですか。」",
       "statement": {
@@ -4805,6 +5057,7 @@
     },
     {
       "id": 253,
+      "uid": "N4-grammar-0253",
       "question_type": "grammar",
       "question_text": "あした （[blank]） ならせんたくをしません。",
       "statement": {
@@ -4824,6 +5077,7 @@
     },
     {
       "id": 254,
+      "uid": "N4-grammar-0254",
       "question_type": "grammar",
       "question_text": "あと5分[ふん] （[blank]） ありません。　急[いそ]ぎましょう。",
       "statement": {
@@ -4843,6 +5097,7 @@
     },
     {
       "id": 255,
+      "uid": "N4-grammar-0255",
       "question_type": "grammar",
       "question_text": "あ、たいへん。　急[いそ]いで来[き]たからさいふを （[blank]） 。",
       "statement": {
@@ -4862,6 +5117,7 @@
     },
     {
       "id": 256,
+      "uid": "N4-grammar-0256",
       "question_type": "grammar",
       "question_text": "（[blank]） ので、　よくパソコンを使[つか]います。",
       "statement": {
@@ -4881,6 +5137,7 @@
     },
     {
       "id": 257,
+      "uid": "N4-grammar-0257",
       "question_type": "grammar",
       "question_text": "この薬[くすり]を飲[の]めば病気[びょうき]はなおる （[blank]） です。",
       "statement": {
@@ -4900,6 +5157,7 @@
     },
     {
       "id": 258,
+      "uid": "N4-grammar-0258",
       "question_type": "grammar",
       "question_text": "ひまが （[blank]） 、あそびに来[き]てくださいね。",
       "statement": {
@@ -4919,6 +5177,7 @@
     },
     {
       "id": 259,
+      "uid": "N4-grammar-0259",
       "question_type": "grammar",
       "question_text": "ここをおすとドアが （[blank]） 。",
       "statement": {
@@ -4938,6 +5197,7 @@
     },
     {
       "id": 260,
+      "uid": "N4-grammar-0260",
       "question_type": "grammar",
       "question_text": "おなかがいたいから半分[はんぶん] （[blank]） 食[た]べます。",
       "statement": {
@@ -4957,6 +5217,7 @@
     },
     {
       "id": 261,
+      "uid": "N4-grammar-0261",
       "question_type": "grammar",
       "question_text": "となりの家[いえ]でピアノの音[おと] （[blank]） している。",
       "statement": {
@@ -4976,6 +5237,7 @@
     },
     {
       "id": 262,
+      "uid": "N4-grammar-0262",
       "question_type": "grammar",
       "question_text": "このバスは大[おお]きなはし （[blank]） わたって、駅[えき]へ行[い]きます。",
       "statement": {
@@ -4995,6 +5257,7 @@
     },
     {
       "id": 263,
+      "uid": "N4-grammar-0263",
       "question_type": "grammar",
       "question_text": "じゅぎょうで手紙[てがみ] （[blank]） 方[かた]を習[なら]いました。",
       "statement": {
@@ -5014,6 +5277,7 @@
     },
     {
       "id": 264,
+      "uid": "N4-grammar-0264",
       "question_type": "grammar",
       "question_text": "わたしはどこ （[blank]） ねられます。",
       "statement": {
@@ -5033,6 +5297,7 @@
     },
     {
       "id": 265,
+      "uid": "N4-grammar-0265",
       "question_type": "grammar",
       "question_text": "食事[しょくじ]の前[まえ]にはかならず手[て]を （[blank]） なければなりません。",
       "statement": {
@@ -5052,6 +5317,7 @@
     },
     {
       "id": 266,
+      "uid": "N4-grammar-0266",
       "question_type": "grammar",
       "question_text": "意見[いけん]がある方[かた]は、 （[blank]） ください。",
       "statement": {
@@ -5071,6 +5337,7 @@
     },
     {
       "id": 267,
+      "uid": "N4-grammar-0267",
       "question_type": "grammar",
       "question_text": "このメ－ルをだれかに （[blank]） とこまる。",
       "statement": {
@@ -5090,6 +5357,7 @@
     },
     {
       "id": 268,
+      "uid": "N4-grammar-0268",
       "question_type": "grammar",
       "question_text": "かみのけを （[blank]） 切[き]った。",
       "statement": {
@@ -5109,6 +5377,7 @@
     },
     {
       "id": 269,
+      "uid": "N4-grammar-0269",
       "question_type": "grammar",
       "question_text": "どなたか質問[しつもん]のある方[かた]は （[blank]） か。",
       "statement": {
@@ -5128,6 +5397,7 @@
     },
     {
       "id": 270,
+      "uid": "N4-grammar-0270",
       "question_type": "grammar",
       "question_text": "きゃく：「すみません、コーヒーと サンドイッチを （[blank]） 。」\n店員[てんいん]：「はい。かしこまりました。」",
       "statement": {
@@ -5148,6 +5418,7 @@
     },
     {
       "id": 271,
+      "uid": "N4-grammar-0271",
       "question_type": "grammar",
       "question_text": "かれは同[おな]じ小説[しょうせつ]を5回[かい] （[blank]） 読[よ]んだ。",
       "statement": {
@@ -5167,6 +5438,7 @@
     },
     {
       "id": 272,
+      "uid": "N4-grammar-0272",
       "question_type": "grammar",
       "question_text": "今日[きょう]は運動[うんどう]を （[blank]） にしてください。",
       "statement": {
@@ -5186,6 +5458,7 @@
     },
     {
       "id": 273,
+      "uid": "N4-grammar-0273",
       "question_type": "grammar",
       "question_text": "６さいから小学校[しょうがっこう]に （[blank]） はじめる。",
       "statement": {
@@ -5205,6 +5478,7 @@
     },
     {
       "id": 274,
+      "uid": "N4-grammar-0274",
       "question_type": "grammar",
       "question_text": "夜[よる]はあまいものを （[blank]） にしています。",
       "statement": {
@@ -5224,6 +5498,7 @@
     },
     {
       "id": 275,
+      "uid": "N4-grammar-0275",
       "question_type": "grammar",
       "question_text": "このレストランはいつもたくさん人[ひと]が （[blank]） ね。",
       "statement": {
@@ -5243,6 +5518,7 @@
     },
     {
       "id": 276,
+      "uid": "N4-grammar-0276",
       "question_type": "grammar",
       "question_text": "小林[こばやし]さんが （[blank]） 、かならず私[わたし]に知[し]らせて下[くだ]さい。",
       "statement": {
@@ -5262,6 +5538,7 @@
     },
     {
       "id": 277,
+      "uid": "N4-grammar-0277",
       "question_type": "grammar",
       "question_text": "あの鳥[とり]は （[blank]） 声[こえ]でなくのかなあ。",
       "statement": {
@@ -5281,6 +5558,7 @@
     },
     {
       "id": 278,
+      "uid": "N4-grammar-0278",
       "question_type": "grammar",
       "question_text": "はをみがいてから （[blank]） なさい。",
       "statement": {
@@ -5300,6 +5578,7 @@
     },
     {
       "id": 279,
+      "uid": "N4-grammar-0279",
       "question_type": "grammar",
       "question_text": "だれがこの本[ほん]を書[か]いた （[blank]） 知[し]っていますか。",
       "statement": {
@@ -5319,6 +5598,7 @@
     },
     {
       "id": 280,
+      "uid": "N4-grammar-0280",
       "question_type": "grammar",
       "question_text": "先生[せんせい]がなかなか来[こ]ないので、学生[がくせい]がさわぎ （[blank]） 。",
       "statement": {
@@ -5338,6 +5618,7 @@
     },
     {
       "id": 281,
+      "uid": "N4-grammar-0281",
       "question_type": "grammar",
       "question_text": "きのうは （[blank]） 。",
       "statement": {
@@ -5357,6 +5638,7 @@
     },
     {
       "id": 282,
+      "uid": "N4-grammar-0282",
       "question_type": "grammar",
       "question_text": "あのレストランはよやくした人[ひと] （[blank]） 入[い]れません。",
       "statement": {
@@ -5376,6 +5658,7 @@
     },
     {
       "id": 283,
+      "uid": "N4-grammar-0283",
       "question_type": "grammar",
       "question_text": "その仕事[しごと]についてはわたしから （[blank]） 。",
       "statement": {
@@ -5395,6 +5678,7 @@
     },
     {
       "id": 284,
+      "uid": "N4-grammar-0284",
       "question_type": "grammar",
       "question_text": "みんなが子[こ]どもの （[blank]） 元気[げんき]に歌[うた]いはじめた。",
       "statement": {
@@ -5414,6 +5698,7 @@
     },
     {
       "id": 285,
+      "uid": "N4-grammar-0285",
       "question_type": "grammar",
       "question_text": "日本[にほん]の音楽[おんがく]はまだ聞[き]いたこと （[blank]） ありません。",
       "statement": {
@@ -5433,6 +5718,7 @@
     },
     {
       "id": 286,
+      "uid": "N4-grammar-0286",
       "question_type": "grammar",
       "question_text": "Ａ：「すみません。寒[さむ]いのでまどを （[blank]） 。」\nＢ：「ええ、どうぞ。」",
       "statement": {
@@ -5452,6 +5738,7 @@
     },
     {
       "id": 287,
+      "uid": "N4-grammar-0287",
       "question_type": "grammar",
       "question_text": "田中[たなか]さんはちこくをしないと言[い]った （[blank]） 、またちこくをした。",
       "statement": {
@@ -5471,6 +5758,7 @@
     },
     {
       "id": 288,
+      "uid": "N4-grammar-0288",
       "question_type": "grammar",
       "question_text": "上手[じょうず]に （[blank]） ように何度[なんど]もれんしゅうします。",
       "statement": {
@@ -5490,6 +5778,7 @@
     },
     {
       "id": 289,
+      "uid": "N4-grammar-0289",
       "question_type": "grammar",
       "question_text": "あ、お金[きん]が （[blank]） 。",
       "statement": {
@@ -5509,6 +5798,7 @@
     },
     {
       "id": 290,
+      "uid": "N4-grammar-0290",
       "question_type": "grammar",
       "question_text": "急[きゅう]に雨[あめ]がふり （[blank]） 。",
       "statement": {
@@ -5528,6 +5818,7 @@
     },
     {
       "id": 291,
+      "uid": "N4-grammar-0291",
       "question_type": "grammar",
       "question_text": "かさがいっぱいありますね。どれがあなた （[blank]） ですか。",
       "statement": {
@@ -5547,6 +5838,7 @@
     },
     {
       "id": 292,
+      "uid": "N4-grammar-0292",
       "question_type": "grammar",
       "question_text": "かばんを買[か]いに行[い]ったが、どれ （[blank]） 高[たか]くて買[か]えなかった。",
       "statement": {
@@ -5566,6 +5858,7 @@
     },
     {
       "id": 293,
+      "uid": "N4-grammar-0293",
       "question_type": "grammar",
       "question_text": "すぐへんじができないので、すこし （[blank]） ください。",
       "statement": {
@@ -5585,6 +5878,7 @@
     },
     {
       "id": 294,
+      "uid": "N4-grammar-0294",
       "question_type": "grammar",
       "question_text": "兄[あに]がけがをしたので、あしたはアルバイトを （[blank]） ください。",
       "statement": {
@@ -5604,6 +5898,7 @@
     },
     {
       "id": 295,
+      "uid": "N4-grammar-0295",
       "question_type": "grammar",
       "question_text": "おとしたさいふ （[blank]） あって、よかったですね。",
       "statement": {
@@ -5623,6 +5918,7 @@
     },
     {
       "id": 296,
+      "uid": "N4-grammar-0296",
       "question_type": "grammar",
       "question_text": "Ａ：「会話[かいわ]の試験[しけん]、 （[blank]） 。」\nＢ：「あまり上手[じょうず]に話[はな]せませんでした。」",
       "statement": {
@@ -5643,6 +5939,7 @@
     },
     {
       "id": 297,
+      "uid": "N4-grammar-0297",
       "question_type": "grammar",
       "question_text": "あの花[はな]は5月[がつ]に （[blank]） とさきません。",
       "statement": {
@@ -5662,6 +5959,7 @@
     },
     {
       "id": 298,
+      "uid": "N4-grammar-0298",
       "question_type": "grammar",
       "question_text": "ここに車[くるま]を （[blank]） 。 じゃまだ 。",
       "statement": {
@@ -5681,6 +5979,7 @@
     },
     {
       "id": 299,
+      "uid": "N4-grammar-0299",
       "question_type": "grammar",
       "question_text": "電車[でんしゃ]におくれる。 （[blank]） 。",
       "statement": {
@@ -5700,6 +5999,7 @@
     },
     {
       "id": 300,
+      "uid": "N4-grammar-0300",
       "question_type": "grammar",
       "question_text": "駅[えき] （[blank]） 近[ちか]くにいいホテルがあります。",
       "statement": {

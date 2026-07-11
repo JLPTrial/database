@@ -2,6 +2,7 @@
   "questions": [
     {
       "id": 1,
+      "uid": "N5-listening-0001",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　の　コート　は　どれ　です　か。",
       "statement": {
@@ -25,6 +26,7 @@
     },
     {
       "id": 2,
+      "uid": "N5-listening-0002",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。テーブル　は　どうなりました　か。",
       "statement": {
@@ -48,6 +50,7 @@
     },
     {
       "id": 3,
+      "uid": "N5-listening-0003",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　家[いえ]　は　どこ　です　か。",
       "statement": {
@@ -71,6 +74,7 @@
     },
     {
       "id": 4,
+      "uid": "N5-listening-0004",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　が　話[はな]しています。この　女[おんな]　の　人[ひと]　はいつ　買[か]い物[もの]　を　します　か。",
       "statement": {
@@ -94,6 +98,7 @@
     },
     {
       "id": 5,
+      "uid": "N5-listening-0005",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　部屋[へや]　は　どれ　です　か。",
       "statement": {
@@ -117,6 +122,7 @@
     },
     {
       "id": 6,
+      "uid": "N5-listening-0006",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　冷蔵庫[れいぞうこ]　に　何[なに]　を　入[い]れます　か。",
       "statement": {
@@ -140,6 +146,7 @@
     },
     {
       "id": 7,
+      "uid": "N5-listening-0007",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。写真[しゃしん]　は　どう　なりました　か。",
       "statement": {
@@ -163,6 +170,7 @@
     },
     {
       "id": 8,
+      "uid": "N5-listening-0008",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。今月[こんげつ]　の　カレンダー　は　どれ　です　か。",
       "statement": {
@@ -186,6 +194,7 @@
     },
     {
       "id": 9,
+      "uid": "N5-listening-0009",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　二人[ふたり]　が　店[みせ]　で　話[はな]しています。二人[ふたり]　は　どんな　スカート　を　見[み]て　います　か。",
       "statement": {
@@ -209,6 +218,7 @@
     },
     {
       "id": 10,
+      "uid": "N5-listening-0010",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　の　アパート　は　どう　です　か。",
       "statement": {
@@ -232,6 +242,7 @@
     },
     {
       "id": 11,
+      "uid": "N5-listening-0011",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どれ　を　とります　か。",
       "statement": {
@@ -255,6 +266,7 @@
     },
     {
       "id": 12,
+      "uid": "N5-listening-0012",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　子[こ]　と　お母[かあ]さん　が　話[はな]しています。お母[かあ]さん　は　何[なに]　を　渡[わた]しました　か。",
       "statement": {
@@ -278,6 +290,7 @@
     },
     {
       "id": 13,
+      "uid": "N5-listening-0013",
       "question_type": "listening",
       "question_text": "先生[せんせい]　が　生徒[せいと]　に　話[はな]しています。生徒[せいと]　は　明日[あした]　何[なに]　を　持[も]っていきます　か。",
       "statement": {
@@ -301,6 +314,7 @@
     },
     {
       "id": 14,
+      "uid": "N5-listening-0014",
       "question_type": "listening",
       "question_text": "女[おんな]　の　子[こ]　が　お店[みせ]　の　人[ひと]　と　話[はな]しています。女[おんな]　の　子[こ]　は　どの　財布[さいふ]　を　買[か]いました　か。",
       "statement": {
@@ -324,6 +338,7 @@
     },
     {
       "id": 15,
+      "uid": "N5-listening-0015",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　が　外国語[がいこくご]　で　女[おんな]　の　人[ひと]　と　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　国[くに]　は　今[いま]　何時[なんじ]　です　か。",
       "statement": {
@@ -347,6 +362,7 @@
     },
     {
       "id": 16,
+      "uid": "N5-listening-0016",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　毎日[まいにち]　会社[かいしゃ]　まで　どうやって　行[い]きます　か。",
       "statement": {
@@ -370,6 +386,7 @@
     },
     {
       "id": 17,
+      "uid": "N5-listening-0017",
       "question_type": "listening",
       "question_text": "女[おんな]　の　子[こ]　が　お爺[じい]さん　と　話[はな]しています。女[おんな]　の　子[こ]　は　いつ　電話[でんわ]　します　か。",
       "statement": {
@@ -393,6 +410,7 @@
     },
     {
       "id": 18,
+      "uid": "N5-listening-0018",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　どの　コート　が　ほしい　です　か。",
       "statement": {
@@ -416,6 +434,7 @@
     },
     {
       "id": 19,
+      "uid": "N5-listening-0019",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　が　自転車[じてんしゃ]　の　鍵[かぎ]　を　捜[さが]しています。鍵[かぎ]　は　どこ　に　ありました　か。",
       "statement": {
@@ -439,6 +458,7 @@
     },
     {
       "id": 20,
+      "uid": "N5-listening-0020",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。昨日[きのう]、二人[ふたり]　で　一緒[いっしょ]に　何[なに]　を　しました　か。",
       "statement": {
@@ -462,6 +482,7 @@
     },
     {
       "id": 21,
+      "uid": "N5-listening-0021",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　何[なに]　を　買[か]ってきました　か。",
       "statement": {
@@ -485,6 +506,7 @@
     },
     {
       "id": 22,
+      "uid": "N5-listening-0022",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　会社[かいしゃ]　で　話[はな]しています。今[いま]、どんな　天気[てんき]　です　か。",
       "statement": {
@@ -508,6 +530,7 @@
     },
     {
       "id": 23,
+      "uid": "N5-listening-0023",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どう　します　か。",
       "statement": {
@@ -531,6 +554,7 @@
     },
     {
       "id": 24,
+      "uid": "N5-listening-0024",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。服[ふく]　は　誰[だれ]　の　です　か。",
       "statement": {
@@ -554,6 +578,7 @@
     },
     {
       "id": 25,
+      "uid": "N5-listening-0025",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　何人[なんにん]　家族[かぞく]　です　か。",
       "statement": {
@@ -577,6 +602,7 @@
     },
     {
       "id": 26,
+      "uid": "N5-listening-0026",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どう　します　か。",
       "statement": {
@@ -600,6 +626,7 @@
     },
     {
       "id": 27,
+      "uid": "N5-listening-0027",
       "question_type": "listening",
       "question_text": "教室[きょうしつ]　で　先生[せんせい]　と　学生[がくせい]　が　話[はな]しています。今日[きょう]　の　授業[じゅぎょう]　は　本[ほん]　の　何[なん]　ページ　から　です　か。",
       "statement": {
@@ -623,6 +650,7 @@
     },
     {
       "id": 28,
+      "uid": "N5-listening-0028",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　買[か]った　物[もの]　は、どれ　です　か。",
       "statement": {
@@ -646,6 +674,7 @@
     },
     {
       "id": 29,
+      "uid": "N5-listening-0029",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。山田[やまだ]さん　の　おねえさん　は　どの　人[ひと]　です　か。",
       "statement": {
@@ -669,6 +698,7 @@
     },
     {
       "id": 30,
+      "uid": "N5-listening-0030",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。つぎ　は　いつ　会[あ]います　か。",
       "statement": {
@@ -692,6 +722,7 @@
     },
     {
       "id": 31,
+      "uid": "N5-listening-0031",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　パーティー　で　話[はな]しています。今[いま]、お菓子[かし]　は　どうなっています　か。",
       "statement": {
@@ -715,6 +746,7 @@
     },
     {
       "id": 32,
+      "uid": "N5-listening-0032",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、そと　を　見[み]ながら　話[はな]しています。今朝[けさ]　は　どんな　天気[てんき]　でした　か。",
       "statement": {
@@ -738,6 +770,7 @@
     },
     {
       "id": 33,
+      "uid": "N5-listening-0033",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　歌[うた]　を　聞[き]いて　話[はな]しています。二人[ふたり]　は　この　歌[うた]　が　好[す]き　です　か。",
       "statement": {
@@ -762,6 +795,7 @@
     },
     {
       "id": 34,
+      "uid": "N5-listening-0034",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　は　日曜日[にちようび]　に　何[なん]　時間[じかん]　バイオリーン　を　練習[れんしゅう]　しています　か。",
       "statement": {
@@ -785,6 +819,7 @@
     },
     {
       "id": 35,
+      "uid": "N5-listening-0035",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　の　お母[かあ]さん　は　いま　何[なに]　を　しています　か。",
       "statement": {
@@ -808,6 +843,7 @@
     },
     {
       "id": 36,
+      "uid": "N5-listening-0036",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。男[おとこ]　の　人[ひと]　は　京都[きょうと]　で　何[なに]　を　しましたか。",
       "statement": {
@@ -831,6 +867,7 @@
     },
     {
       "id": 37,
+      "uid": "N5-listening-0037",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　が、話[はな]しています。この　人[ひと]　は、先週[せんしゅう]　何日[なんにち]　休[やす]みました　か。",
       "statement": {
@@ -854,6 +891,7 @@
     },
     {
       "id": 38,
+      "uid": "N5-listening-0038",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。女[おんな]　の　人[ひと]　が　今[いま]　から、誰[だれ]　に　会[あ]います　か。",
       "statement": {
@@ -877,6 +915,7 @@
     },
     {
       "id": 39,
+      "uid": "N5-listening-0039",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。女[おんな]　の　人[ひと]　は　どう　します　か。",
       "statement": {
@@ -900,6 +939,7 @@
     },
     {
       "id": 40,
+      "uid": "N5-listening-0040",
       "question_type": "listening",
       "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。男[おとこ]　の　人[ひと]　は　何[なに]　を　飲[の]みます　か。",
       "statement": {
@@ -923,6 +963,7 @@
     },
     {
       "id": 41,
+      "uid": "N5-listening-0041",
       "question_type": "listening",
       "question_text": "クラス　で　先生[せんせい]　が　話[はな]しています。学生[がくせい]　は、きょう　うち　で、どこ　を　勉強[べんきょう]　します　か。",
       "statement": {
@@ -946,6 +987,7 @@
     },
     {
       "id": 42,
+      "uid": "N5-listening-0042",
       "question_type": "listening",
       "question_text": "くつした　の　お店[みせ]　で、女[おんな]　の　人[ひと]　と　店[みせ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、どの　くつした　を　買[か]います　か。",
       "statement": {
@@ -969,6 +1011,7 @@
     },
     {
       "id": 43,
+      "uid": "N5-listening-0043",
       "question_type": "listening",
       "question_text": "びょういん　で、医者[いしゃ]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、いちにち　に　なんかい　薬[くすり]　を　のみます　か。",
       "statement": {
@@ -992,6 +1035,7 @@
     },
     {
       "id": 44,
+      "uid": "N5-listening-0044",
       "question_type": "listening",
       "question_text": "デパート　で、女[おんな]　の　人[ひと]　と　店[みせ]　の　人[ひと]　が　話[はな]しています。店[みせ]　の　人[ひと]　は、どの　かばん　を　とります　か。",
       "statement": {
@@ -1015,6 +1059,7 @@
     },
     {
       "id": 45,
+      "uid": "N5-listening-0045",
       "question_type": "listening",
       "question_text": "きょうしつ　で、先生[せんせい]　が　話[はな]しています。学生[がくせい]　は、つくえ　の　上[うえ]に　何[なに]　を　おきます　か。",
       "statement": {
@@ -1038,6 +1083,7 @@
     },
     {
       "id": 46,
+      "uid": "N5-listening-0046",
       "question_type": "listening",
       "question_text": "バス　の　中[なか]　で、りょこう　会社[かいしゃ]　の　人[ひと]　が　学生[がくせい]　に　話[はな]しています。学生[がくせい]　は、はじめに　何[なに]　を　します　か。",
       "statement": {
@@ -1061,6 +1107,7 @@
     },
     {
       "id": 47,
+      "uid": "N5-listening-0047",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は、何[なに]　を　持[も]っていきます　か。",
       "statement": {
@@ -1084,6 +1131,7 @@
     },
     {
       "id": 48,
+      "uid": "N5-listening-0048",
       "question_type": "listening",
       "question_text": "だいがく　で、男[おとこ]　の　学生[がくせい]　と　女[おんな]　の　学生[がくせい]　が　話[はな]しています。女[おんな]　の　学生[がくせい]　は、きょう、何[なん]　時間[じかん]　べんきょう　します　か。",
       "statement": {
@@ -1107,6 +1155,7 @@
     },
     {
       "id": 49,
+      "uid": "N5-listening-0049",
       "question_type": "listening",
       "question_text": "バスてい　で、女[おんな]　の　人[ひと]　と　バス　会社[かいしゃ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、なん　ばんの　バス　に　乗[の]ります　か。",
       "statement": {
@@ -1130,6 +1179,7 @@
     },
     {
       "id": 50,
+      "uid": "N5-listening-0050",
       "question_type": "listening",
       "question_text": "お国[くに]　はは　どちら　です　か。",
       "statement": {
@@ -1154,6 +1204,7 @@
     },
     {
       "id": 51,
+      "uid": "N5-listening-0051",
       "question_type": "listening",
       "question_text": "今日[きょう]　は　何日[なんにち]　です　か。",
       "statement": {
@@ -1178,6 +1229,7 @@
     },
     {
       "id": 52,
+      "uid": "N5-listening-0052",
       "question_type": "listening",
       "question_text": "すみません、図書館[としょかん]　は　どこ　です　か。",
       "statement": {
@@ -1202,6 +1254,7 @@
     },
     {
       "id": 53,
+      "uid": "N5-listening-0053",
       "question_type": "listening",
       "question_text": "明日[あした]、何時[なんじ]　に　学校[がっこう]　に　来[き]ます　か。",
       "statement": {
@@ -1226,6 +1279,7 @@
     },
     {
       "id": 54,
+      "uid": "N5-listening-0054",
       "question_type": "listening",
       "question_text": "田中[たなか]さん、その　荷物[にもつ]　を　持[も]ちましょう　か。",
       "statement": {
@@ -1250,6 +1304,7 @@
     },
     {
       "id": 55,
+      "uid": "N5-listening-0055",
       "question_type": "listening",
       "question_text": "ちょっと　休[やす]みません　か。",
       "statement": {
@@ -1274,6 +1329,7 @@
     },
     {
       "id": 56,
+      "uid": "N5-listening-0056",
       "question_type": "listening",
       "question_text": "それ　は、何[なん]　の　本[ほん]　です　か。",
       "statement": {
@@ -1298,6 +1354,7 @@
     },
     {
       "id": 57,
+      "uid": "N5-listening-0057",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　きのう、どこ　へ　行[い]きました　か。",
       "statement": {
@@ -1321,6 +1378,7 @@
     },
     {
       "id": 58,
+      "uid": "N5-listening-0058",
       "question_type": "listening",
       "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　の　電話番号[でんわばんごう]　は　なん　ばん　です　か。",
       "statement": {
@@ -1344,6 +1402,7 @@
     },
     {
       "id": 59,
+      "uid": "N5-listening-0059",
       "question_type": "listening",
       "question_text": "女[おんな]　の　学生[がくせい]　と　男[おとこ]　の　学生[がくせい]　が　話[はな]しています。男[おとこ]　の　学生[がくせい]　は、だれ　と　住[す]んでいます　か。",
       "statement": {
@@ -1367,6 +1426,7 @@
     },
     {
       "id": 60,
+      "uid": "N5-listening-0060",
       "question_type": "listening",
       "question_text": "学校[がっこう]　で　男[おとこ]　の　学生[がくせい]　と　女[おんな]　の　学生[がくせい]　が　話[はな]しています。二人[ふたり]　は　どこ　で　昼[ひる]ごはん　を　食[た]べます　か。",
       "statement": {
@@ -1390,6 +1450,7 @@
     },
     {
       "id": 61,
+      "uid": "N5-listening-0061",
       "question_type": "listening",
       "question_text": "きょうしつ　で、先生[せんせい]　が　学生[がくせい]　に　話[はな]しています。学生[がくせい]　は　何[なん]　で　名前[なまえ]　を　書[か]きます　か。",
       "statement": {
@@ -1413,6 +1474,7 @@
     },
     {
       "id": 62,
+      "uid": "N5-listening-0062",
       "question_type": "listening",
       "question_text": "女[おんな]　の　学生[がくせい]　と　男[おとこ]　の　学生[がくせい]　が　話[はな]しています。二人[ふたり]　は　明日[あした]　どこ　で　会[あ]います　か。",
       "statement": {
@@ -1436,6 +1498,7 @@
     },
     {
       "id": 63,
+      "uid": "N5-listening-0063",
       "question_type": "listening",
       "question_text": "レストラン　で　お店[みせ]　の　人[ひと]　を　呼[よ]びます。なんと　言[い]います　か。",
       "statement": {
@@ -1460,6 +1523,7 @@
     },
     {
       "id": 64,
+      "uid": "N5-listening-0064",
       "question_type": "listening",
       "question_text": "ごはん　を　食[た]べました。なんと　言[い]います　か。",
       "statement": {
@@ -1484,6 +1548,7 @@
     },
     {
       "id": 65,
+      "uid": "N5-listening-0065",
       "question_type": "listening",
       "question_text": "電車[でんしゃ]　の　中[なか]　です。女[おんな]　の　人[ひと]　が　来[き]ました。なんと　言[い]います　か。",
       "statement": {
@@ -1508,6 +1573,7 @@
     },
     {
       "id": 66,
+      "uid": "N5-listening-0066",
       "question_type": "listening",
       "question_text": "うち　へ　帰[かえ]ります。ともだち　に　なんと　言[い]います　か。",
       "statement": {
@@ -1532,6 +1598,7 @@
     },
     {
       "id": 67,
+      "uid": "N5-listening-0067",
       "question_type": "listening",
       "question_text": "ゆうびんきょく　で　きって　を　買[か]います。なんと　言[い]います　か。",
       "statement": {
@@ -1556,6 +1623,7 @@
     },
     {
       "id": 68,
+      "uid": "N5-listening-0068",
       "question_type": "listening",
       "question_text": "ともだち　は　えんぴつ　が　ありません。ともだち　に　なんと　言[い]います　か。",
       "statement": {
