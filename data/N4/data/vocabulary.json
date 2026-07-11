@@ -1525,7 +1525,7 @@
       "question_type": "vocabulary",
       "question_text": "おどろく",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "うけつけに大[おお]きないぬがいたので、おどろいてしまいました。",
@@ -1544,7 +1544,7 @@
       "question_type": "vocabulary",
       "question_text": "いただく",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "子[こ]どもからネクタイをいただきました。",
@@ -1563,7 +1563,7 @@
       "question_type": "vocabulary",
       "question_text": "げんき",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "わたしはあしがげんきです。",
@@ -1582,7 +1582,7 @@
       "question_type": "vocabulary",
       "question_text": "かまいません",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "A：「おいしいこうちゃ、ごちそうさまでした。」B：「かまいませんよ。」",
@@ -1601,7 +1601,7 @@
       "question_type": "vocabulary",
       "question_text": "だめ",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "あしたはだめです。よていがあります。",
@@ -1620,7 +1620,7 @@
       "question_type": "vocabulary",
       "question_text": "いたす",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "わたしはらいねん日本[にほん]へいたします。",
@@ -1639,7 +1639,7 @@
       "question_type": "vocabulary",
       "question_text": "しめる",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "きょうかしょをしめてください。",
@@ -1658,7 +1658,7 @@
       "question_type": "vocabulary",
       "question_text": "こしょう",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "わたしの車[くるま]はこしょうしています。",
@@ -1677,7 +1677,7 @@
       "question_type": "vocabulary",
       "question_text": "ねっしん",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "雨[あめ]がねっしんにふっていました。",
@@ -1696,7 +1696,7 @@
       "question_type": "vocabulary",
       "question_text": "プレゼント",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "あねがけっこんしたので、しんせつをプレゼントした。",
@@ -2285,7 +2285,7 @@
       "question_type": "vocabulary",
       "question_text": "へんじ",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "テレビのへんじがきこえません。",
@@ -2304,7 +2304,7 @@
       "question_type": "vocabulary",
       "question_text": "そだてる",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "たいせつにそだてていた花[はな]がさきました。",
@@ -2323,7 +2323,7 @@
       "question_type": "vocabulary",
       "question_text": "すてる",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "おきゃくさんが来[く]るので、へやをきれいにすててください。",
@@ -2342,7 +2342,7 @@
       "question_type": "vocabulary",
       "question_text": "さむい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "さむいタオルでかおをふきました。",
@@ -2361,7 +2361,7 @@
       "question_type": "vocabulary",
       "question_text": "さびしい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "ねぼうしてしまってさびしかったです。",
@@ -2380,7 +2380,7 @@
       "question_type": "vocabulary",
       "question_text": "かたづける",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "毎日[まいにち]かおをかたづけなさい。",
@@ -2399,7 +2399,7 @@
       "question_type": "vocabulary",
       "question_text": "すると",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "きのうは天気[てんき]がよくなかったです。すると、わたしはテニスをしませんでした。",
@@ -2418,7 +2418,7 @@
       "question_type": "vocabulary",
       "question_text": "たいてい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "日[にち]よう日[び]はたいていスポ－ツをしています。",
@@ -2437,7 +2437,7 @@
       "question_type": "vocabulary",
       "question_text": "したく",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "このホテルにはよやくのしたくがあります。",
@@ -2456,7 +2456,7 @@
       "question_type": "vocabulary",
       "question_text": "わかす",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "あついシャワーをわかしています。",
@@ -2950,7 +2950,7 @@
       "question_type": "vocabulary",
       "question_text": "おおい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "日本[にほん]にはおおい外国人[がいこくじん]がすんでいます。",
@@ -2969,7 +2969,7 @@
       "question_type": "vocabulary",
       "question_text": "いけん",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "つかいかたがよくわかるように、いけんをしてください。",
@@ -2988,7 +2988,7 @@
       "question_type": "vocabulary",
       "question_text": "よやく",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "月[がつ]へ行[い]くことはわたしのよやくのゆめです。",
@@ -3007,7 +3007,7 @@
       "question_type": "vocabulary",
       "question_text": "むかえる",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "ひるがよるをむかえました。",
@@ -3026,7 +3026,7 @@
       "question_type": "vocabulary",
       "question_text": "そうだん",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "べんきょうのしかたを先生[せんせい]にそうだんしました。",
@@ -3425,7 +3425,7 @@
       "question_type": "vocabulary",
       "question_text": "せんたく",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "しょくじのあとに、はをせんたくします。",
@@ -3444,7 +3444,7 @@
       "question_type": "vocabulary",
       "question_text": "どんどん",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "えいがを見[み]てどんどんわらいました。",
@@ -3463,7 +3463,7 @@
       "question_type": "vocabulary",
       "question_text": "とうとう",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "しょくじのあとでとうとうおちゃをおねがいします。",
@@ -3482,7 +3482,7 @@
       "question_type": "vocabulary",
       "question_text": "きびしい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "このパンはきびしくて食[た]べられません。",
@@ -3501,7 +3501,7 @@
       "question_type": "vocabulary",
       "question_text": "おれい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "先生[せんせい]がにゅういんなさったので、おれいをもっていきました。",
@@ -3520,7 +3520,7 @@
       "question_type": "vocabulary",
       "question_text": "よろこぶ",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "先生[せんせい]におあいできるので、わたしはとてもよろこびます。",
@@ -3539,7 +3539,7 @@
       "question_type": "vocabulary",
       "question_text": "しっかり",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "このテレビはしっかりふるい。",
@@ -3558,7 +3558,7 @@
       "question_type": "vocabulary",
       "question_text": "あやまる",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "こまったときにはすぐにあやまってください。",
@@ -3577,7 +3577,7 @@
       "question_type": "vocabulary",
       "question_text": "げんいん",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "12さいいじょうの子[こ]どもがこのクラスのげんいんになれます。",
@@ -3596,7 +3596,7 @@
       "question_type": "vocabulary",
       "question_text": "きびしい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "たなか先生[せんせい]はきびしいふくをきています。",
@@ -4090,7 +4090,7 @@
       "question_type": "vocabulary",
       "question_text": "いくら",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "いくらちゅういしてもしずかになりません。",
@@ -4109,7 +4109,7 @@
       "question_type": "vocabulary",
       "question_text": "ちゅうし",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "あした雨[あめ]だったらしあいはちゅうしします。",
@@ -4128,7 +4128,7 @@
       "question_type": "vocabulary",
       "question_text": "きかい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "ざんねんですが、その日[ひ]はべつのきかいがあります。",
@@ -4147,7 +4147,7 @@
       "question_type": "vocabulary",
       "question_text": "あんぜん",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "このまちはよるもあんぜんです。",
@@ -4166,7 +4166,7 @@
       "question_type": "vocabulary",
       "question_text": "さしあげる",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "つまにピアノをさしあげました。",
@@ -4660,7 +4660,7 @@
       "question_type": "vocabulary",
       "question_text": "てきとう",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "このきせつはとてもてきとうでよくねむれます。",
@@ -4679,7 +4679,7 @@
       "question_type": "vocabulary",
       "question_text": "おかげさまで",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "Ａ：「ごめんなさい。」Ｂ：「いいえ、おかげさまで。」",
@@ -4698,7 +4698,7 @@
       "question_type": "vocabulary",
       "question_text": "しかる",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "「もうだいじょうぶですか。」としかられました。",
@@ -4717,7 +4717,7 @@
       "question_type": "vocabulary",
       "question_text": "じゅんび",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "パーティーのじゅんびができました。",
@@ -4736,7 +4736,7 @@
       "question_type": "vocabulary",
       "question_text": "うまい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "わたしのおとうとはすうがくがうまくありません。",
@@ -5325,7 +5325,7 @@
       "question_type": "vocabulary",
       "question_text": "はずかしい",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "かんたんなもんだいをまちがえて、はずかしいです。",
@@ -5344,7 +5344,7 @@
       "question_type": "vocabulary",
       "question_text": "かしこまりました",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "Ａ：「こうちゃを二[ふた]つ、おねがいします。」Ｂ：「はい、かしこまりました。」",
@@ -5363,7 +5363,7 @@
       "question_type": "vocabulary",
       "question_text": "ねつ",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "ねつがあるので、学校[がっこう]をやすみました。",
@@ -5382,7 +5382,7 @@
       "question_type": "vocabulary",
       "question_text": "ゆっくり",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "もっとゆっくりにはなしてください。",
@@ -5401,7 +5401,7 @@
       "question_type": "vocabulary",
       "question_text": "まじめ",
       "statement": {
-        "question_command": "つぎのことばのつかいかたでいちばんいいものをひとつえらんでください。"
+        "question_command": "つぎの　ことばの　つかいかたで　いちばん　いい　ものを　ひとつ　えらんでください。"
       },
       "alternatives": {
         "alternative_1": "きょうはまじめな天気[てんき]で空[そら]がきれいです。",
