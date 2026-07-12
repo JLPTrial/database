@@ -6,6 +6,17 @@ import sqlite3
 from pathlib import Path
 from typing import Any
 
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+
+def _resolve_within_project(raw_path: str, description: str) -> Path:
+    path = Path(raw_path).expanduser().resolve()
+    if not path.is_relative_to(PROJECT_ROOT):
+        raise ValueError(
+            f"{description} deve estar dentro de {PROJECT_ROOT}: {path}"
+        )
+    return path
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Cria o banco SQLite de um nível.")
@@ -261,9 +272,9 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
 def main() -> None:
     args = parse_args()
 
-    schema_path = Path(args.schema)
-    db_path = Path(args.db)
-    data_dir = Path(args.data_dir)
+    schema_path = _resolve_within_project(args.schema, "Schema")
+    db_path = _resolve_within_project(args.db, "Banco de saída")
+    data_dir = _resolve_within_project(args.data_dir, "Pasta de dados")
 
     validate_inputs(schema_path, data_dir)
     create_database(schema_path, db_path)
