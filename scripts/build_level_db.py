@@ -75,22 +75,42 @@ def load_questions_from_json(data_dir: Path) -> list[dict[str, Any]]:
     return questions
 
 
-def _upsert_statement(conn: sqlite3.Connection, question_command: str) -> int:
+def _upsert_command(conn: sqlite3.Connection, question_command: str) -> int:
     conn.execute(
-        "INSERT OR IGNORE INTO statement (question_command) VALUES (?)",
+        "INSERT OR IGNORE INTO commands (question_command) VALUES (?)",
         (question_command,),
     )
     cursor = conn.execute(
-        "SELECT id FROM statement WHERE question_command = ?",
+        "SELECT id FROM commands WHERE question_command = ?",
         (question_command,),
     )
     row = cursor.fetchone()
     if row is None:
-        raise RuntimeError("Falha ao obter id de statement")
+        raise RuntimeError("Falha ao obter id de command")
     return int(row[0])
 
 
+def _validate_alternatives(alternatives: dict[str, Any]) -> None:
+    for key in ("alternative_1", "alternative_2", "alternative_3"):
+        if not alternatives.get(key):
+            raise ValueError(f"Alternativa '{key}' ausente ou vazia")
+
+    correct_alternative = alternatives.get("correct_alternative")
+    if not isinstance(correct_alternative, int) or not (1 <= correct_alternative <= 4):
+        raise ValueError(
+            f"correct_alternative inválido: {correct_alternative!r} (deve ser 1-4)"
+        )
+
+    alternative_4 = alternatives.get("alternative_4")
+    if not alternative_4 and correct_alternative == 4:
+        raise ValueError(
+            "correct_alternative aponta para alternative_4, mas ela está ausente"
+        )
+
+
 def _insert_alternatives(conn: sqlite3.Connection, alternatives: dict[str, Any]) -> int:
+    _validate_alternatives(alternatives)
+
     cursor = conn.execute(
         """
         INSERT INTO alternatives (
@@ -118,10 +138,12 @@ def _insert_media(conn: sqlite3.Connection, media: Any) -> int | None:
     if not isinstance(media, dict):
         raise ValueError("Campo 'media' deve ser objeto JSON ou null")
 
-    contextual_text = media.get("contextual_text")
-    if contextual_text is None:
-        # Compatibilidade com chave legada já existente nos JSONs.
-        contextual_text = media.get("text_content")
+    contextual_text = media.get("text_content")
+    image_file_path = media.get("image_file_path")
+    audio_file_path = media.get("audio_file_path")
+
+    if not contextual_text and not image_file_path and not audio_file_path:
+        return None
 
     contextual_text_id = None
     if contextual_text:
@@ -134,8 +156,8 @@ def _insert_media(conn: sqlite3.Connection, media: Any) -> int | None:
         """,
         (
             contextual_text_id,
-            media.get("image_file_path"),
-            media.get("audio_file_path"),
+            image_file_path,
+            audio_file_path,
         ),
     )
     return int(cursor.lastrowid)
@@ -188,13 +210,7 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
             if not question_type or not question_text:
                 raise ValueError("Questão sem question_type ou question_text")
 
-            uid = question.get("uid")
-            if not uid:
-                raise ValueError(
-                    f"Questão sem uid (id={question.get('id')}, tipo={question_type})"
-                )
-
-            statement_id = _upsert_statement(conn, question_command)
+            command_id = _upsert_command(conn, question_command)
             alternative_id = _insert_alternatives(conn, alternatives)
             media_id = _insert_media(conn, question.get("media"))
 
@@ -204,7 +220,7 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
                     uid,
                     alternative_id,
                     media_id,
-                    statement_id,
+                    command_id,
                     question_text,
                     question_type
                 ) VALUES (?, ?, ?, ?, ?, ?)
@@ -213,7 +229,7 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
                     uid,
                     alternative_id,
                     media_id,
-                    statement_id,
+                    command_id,
                     question_text,
                     question_type,
                 ),
