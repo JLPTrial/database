@@ -77,6 +77,8 @@ CREATE TABLE media (
 CREATE TABLE questions (
   id INTEGER PRIMARY KEY,
 
+  uid TEXT NOT NULL UNIQUE,
+
   alternative_id INTEGER NOT NULL UNIQUE,
 
   media_id INTEGER UNIQUE,
