@@ -1,1604 +1,1650 @@
 {
-    "questions": [
-      {
-        "id": 1,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　の　コート　は　どれ　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L1-Q1.mp3",
-          "image_file_path": "listening/JT4Y/L1-Q1.png",
-          "text_content": "Ａ：じゃ、私[わたし]　は　先[さき]　に　帰[かえ]ります。\nＢ：そう　です　か。じゃ、コート　を、山田[やまだ]さん　の　コート　は　どれ　です　か。\nＡ：それ　です。その　白[しろ]くて、長[なが]い　の　です。\nＢ：あ、これ　です　か。\nＡ：いいえ。その　ポケット　が　ない　ほう　です。\n女[おんな]　の　人[ひと]　の　コート　は　どれ　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 2,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。テーブル　は　どうなりました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L1-Q2.mp3",
-          "image_file_path": "listening/JT4Y/L1-Q2.png",
-          "text_content": "Ａ：じゃ、お皿[さら]　を　並[な]べて　ください。\nＢ：はい。\nＡ：大[おお]きい　お皿[さら]　を　置[お]いて、右側[みぎがわ]　に　ナイフ、左側[ひだりがわ]　に　フォーク。\nＢ：お箸[はし]　は？\nＡ：そう　ね。ナイフ　の　隣[となり]　に。あ、コーヒーカップ　は　まだ　いい　わ。\nテーブル　は　どう　なりました　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 3,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　家[いえ]　は　どこ　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L1-Q3.mp3",
-          "image_file_path": "listening/JT4Y/L1-Q3.png",
-          "text_content": "Ａ：もしもし、田中[たなか]さん？　駅[えき]　に　着[つ]きました。今[いま]　から　いきます　から、道[みち]　を　教[おし]えてく　ください。\nＢ：はい。駅[えき]　を　出[で]て、橋[はし]　を　渡[わた]って　ください。\nＡ：はい。\nＢ：はし　を　わたって、右[みぎ]　を　曲[ま]がって　ください。私[わたし]　の　家[いえ]　は　公園[こうえん]　の　前[まえ]　に　あります。\nＡ：はい、わかりました。ありがとうございます。\n女[おんな]　の　人[ひと]　の　家[いえ]　は　どこ　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 4,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　が　話[はな]しています。この　女[おんな]　の　人[ひと]　はいつ　買[か]い物[もの]　を　します　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L1-Q4.mp3",
-          "image_file_path": "listening/JT4Y/L1-Q4.png",
-          "text_content": "来月[らいげつ]　の　二日[ふつか]　から　八日[ようか]　まで　海[うみ]　の　近[ちか]く　に　旅行[りょこう]　に　行[い]きます。海[うみ]　を　見[み]ながら　本[ほん]　を　読[よ]んだり、おいしい　もの　を　食[た]べたりしたいん　です　ね。それから、帰[かえ]る　日[にち]　に、買[か]い物[もの]　を　します。\nこの　女[おんな]　の　人[ひと]　はいつ　買[か]い物[もの]　を　します　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 5,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　部屋[へや]　は　どれ　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L1-Q5.mp3",
-          "image_file_path": "listening/JT4Y/L1-Q5.png",
-          "text_content": "Ａ：もしもし、鈴木[すずき]さん？　山田[やまだ]　です。\nＢ：山田[やまだ]さん？　今[いま]　どこ？　みんな　待[ま]ってる　よ。\nＡ：ごめん。今[いま]　アパート　の　前[まえ]。\nＢ：私[わたし]　の　部屋[へや]、わかる？\nＡ：えーと、３　０　５、だ　よね。三階[さんかい]　の　部屋[へや]？\nＢ：そう、階段[かいだん]　を　上[あ]って、すぐ　だから。\nＡ：階段[かいだん]　に　一番[いちばん]　近[ちか]い　部屋[へや]　だ　ね。わかった、今[いま]　行[い]く。\n女[おんな]　の　人[ひと]　の　部屋[へや]　は　どれ　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 6,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　冷蔵庫[れいぞうこ]　に　何[なに]　を　入[い]れます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "くだもの",
-          "alternative_2": "ビール",
-          "alternative_3": "くだもの・ビール",
-          "alternative_4": "くだもの・ビール・おかし",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L2-Q1.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：買[か]い物[もの]、ありがとう。果物[くだもの]　は、冷蔵庫[れいぞうこ]　に　入[い]れて　ください。\nＢ：お菓子[かし]　は、テーブル　の　上[うえ]　で　いい　です　か。\nＡ：はい。あ、ビール　も　テーブル　の　上[うえ]　に　置[お]いて　ください。\nＢ：そう　です　か。でも、温[ぬく]い　ビール　は　おいしくないでしょう。\nＡ：そう　です　よ　ね。パーティー　まで　時間[じかん]　が　ありますね。じゃあ、一緒[いっしょ]に　入[はい]れてく　ください。\n男[おとこ]　の　人[ひと]　は　冷蔵庫[れいぞうこ]　に　何[なに]　を　入[い]れます　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 7,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。写真[しゃしん]　は　どう　なりました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L2-Q3.mp3",
-          "image_file_path": "listening/JT4Y/L2-Q3.png",
-          "text_content": "Ａ：すみません　が、ちょっと、写真[しゃしん]　いい　でしょう　か。\nＢ：え？　私[わたし]　と　です　か？\nＡ：あ、いいえ、私[わたし]　だけ　で、この　建物[たてもの]　と　一緒[いっしょ]に　取[と]って　くださいません　か。\nＢ：ああ、はい、いい　です　よ。建物[たてもの]　は　全部[ぜんぶ]　入[い]りません　か。\nＡ：あ、じゃ、入[い]り口[ぐち]　の　ドア　だけ　で　いい　です。\nＢ：はい、じゃ、取[と]ります　よ。一[いち]、二[に]、三[さん]。\n写真[しゃしん]　は　どう　なりました　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Compreensão do Assunto",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 8,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。今月[こんげつ]　の　カレンダー　は　どれ　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L2-Q4.mp3",
-          "image_file_path": "listening/JT4Y/L2-Q4.png",
-          "text_content": "Ａ：田中[たなか]さん。\nＢ：はい。何[なん]　です　か。\nＡ：パーティー　は\nＢ：はい。\nＡ：来週[らいしゅう]　の、金曜日[きんようび]　に　なったん　です　けど。\nＢ：えーと、来週[らいしゅう]　の　金曜日[きんようび]　は、十日[とうか]　です　ね。私[わたし]、来週[らいしゅう]　の　十日[とうか]　は　忙[いそが]しい　です　よ。\nＡ：いいえ、八日[ようか]　です　よ、田中[たなか]さん。何[なに]　見[み]てるん　です　か。それ　は、先月[せんげつ]　の　カレンダー　です　よ。\nＢ：あ、本当[ほんとう]　だ。\n今月[こんげつ]　の　カレンダー　は　どれ　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 9,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　二人[ふたり]　が　店[みせ]　で　話[はな]しています。二人[ふたり]　は　どんな　スカート　を　見[み]て　います　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "黒[くろ]い　スカート　です",
-          "alternative_2": "茶[ちゃ]色[いろ]　の　スカート　です",
-          "alternative_3": "赤[あか]い　スカート　です",
-          "alternative_4": "白[しろ]い　スカート　です",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L2-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：いらっしゃいませ。こちら　の　白[しろ]い　スカート　は、あのう、新[あたら]しく　入[はい]りました。いかが　です　か。\nＢ：いい　です　ね。\nＡ：同[おな]じ　形[かたち]　で　ほか　に　黒[くろ]　と　灰色[はいいろ]、赤[あか]　も　あります　が、そちら　も　見[み]ます　か。\nＢ：いいえ、これ　は　いい　です。これ　を　ください。\n二人[ふたり]　は　どんな　スカート　を　見[み]て　います　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 10,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　の　アパート　は　どう　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "うるさい　です　が、便[べん]利[り]　です",
-          "alternative_2": "うるさくて、不[ふ]便[べん]　です",
-          "alternative_3": "静[しず]か　で、便[べん]利[り]　です",
-          "alternative_4": "静[しず]か　です　が、不[ふ]便[べん]　です",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L3-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：私[わたし]　の　アパート　は　遠[とお]くて、不便[ふべん]　です。田中[たなか]さん　の　アパート　は　どこ　です　か。\nＢ：学校[がっこう]　の　近[ちか]く　です。\nＡ：あ、それ　は　便利[べんり]　で、いい　です　ね。\nＢ：ええ。\nＡ：でも、うるさくない　です　か。\nＢ：いいえ、公園[こうえん]　の　隣[となり]　で、とても　静[しず]か　です　よ。\n男[おとこ]　の　人[ひと]　の　アパート　は　どう　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Compreensão do Assunto",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 11,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どれ　を　とります　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L4-Q1.mp3",
-          "image_file_path": "listening/JT4Y/L4-Q1.png",
-          "text_content": "女[おんな]：ああ、すみません。その　テーブル　の　下[した]　の　本[ほん]　を　取[と]ってくれません　か\n男[おとこ]：ええと、これ　です　か。\n女[おんな]：いいえ、それ　じゃなくて　箱[はこ]　の　上[うえ]　の　です。\n男[おとこ]　の　人[ひと]　は　どれ　を　とります　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 12,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　子[こ]　と　お母[かあ]さん　が　話[はな]しています。お母[かあ]さん　は　何[なに]　を　渡[わた]しました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L4-Q2.mp3",
-          "image_file_path": "listening/JT4Y/L4-Q2.png",
-          "text_content": "男[おとこ]　の　子[こ]：お母[かあ]さん、行[い]って　来[き]ます。\nお母[かあ]さん：ああ、ちょっと　待[ま]って。これ　を　被[かぶ]って　行[い]きなさい。\n男[おとこ]　の　子[こ]：ええ、どうして。\nお母[かあ]さん：まだ　風邪[かぜ]　を　引[ひ]いているでしょう。\n男[おとこ]　の　子[こ]：はい。\nお母[かあ]さん　は　何[なに]　を　渡[わた]しました　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 13,
-        "question_type": "listening",
-        "question_text": "先生[せんせい]　が　生徒[せいと]　に　話[はな]しています。生徒[せいと]　は　明日[あした]　何[なに]　を　持[も]っていきます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L4-Q3.mp3",
-          "image_file_path": "listening/JT4Y/L4-Q3.png",
-          "text_content": "先生[せんせい]：皆[みな]さん、明日[あした]　は　旅行[りょこう]　です　ね。飲[の]み物[もの]　を　忘[わす]れないで　ください。それから　雨[あめ]　が　降[ふ]るかもしれません　から　傘[かさ]　も　持[も]ってきて　ください。お菓子[かし]　は　持[も]ってこないで　ください。いい　です　か。\n生徒[せいと]　は　明日[あした]　何[なに]　を　持[も]っていきます　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 14,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　子[こ]　が　お店[みせ]　の　人[ひと]　と　話[はな]しています。女[おんな]　の　子[こ]　は　どの　財布[さいふ]　を　買[か]いました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L4-Q4.mp3",
-          "image_file_path": "listening/JT4Y/L4-Q4.png",
-          "text_content": "女[おんな]　の　子[こ]：すみません。三千円[さんぜんえん]　ぐらい　の　財布[さいふ]　は　ありません　か。\n店[みせ]　の　人[ひと]：三千円[さんぜんえん]　です　か。この　四[よ]つ　です　ね。色[いろ]　は　黒[くろ]　と　白[しろ]　だけ　です　が、この　丸[まる]い　の　が　可愛[かわい]い　です　よ。\n女[おんな]　の　子[こ]：う～ん、丸[まる]い　の　は　あまり　好[す]きじゃない　から、これ　です　ね。じゃ、この　黒[くろ]い　の　を　ください。\n店[みせ]　の　人[ひと]：ありがとうございます。\n女[おんな]　の　子[こ]　は　どの　財布[さいふ]　を　買[か]いました　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 15,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　が　外国語[がいこくご]　で　女[おんな]　の　人[ひと]　と　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　国[くに]　は　今[いま]　何時[なんじ]　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "午[ご]前[ぜん]　８じ５０分[ぷん]",
-          "alternative_2": "午[ご]後[ご]　８じ５０分[ぷん]",
-          "alternative_3": "午[ご]前[ぜん]　８じ１５分[ふん]",
-          "alternative_4": "午[ご]後[ご]　８じ１５分[ふん]",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L4-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "男[おとこ]：今[いま]、そっち　は　何時[なんじ]？\n女[おんな]： ８時[じ]５０分[ぷん]。\n男[おとこ]：へえ、日本[にっぽん]　も　今[いま]　 ８時[じ]５０分[ぷん]　だ　よ。\n女[おんな]：ええ？　同[おな]じ？\n男[おとこ]：でも、こっち　は　夜[よる]　だ　よ。夜[よる]　の　 ８時[じ]５０分[ぷん]。\n女[おんな]：何[なん]だ。\n女[おんな]　の　人[ひと]　の　国[くに]　は　今[いま]　何時[なんじ]　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 16,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　毎日[まいにち]　会社[かいしゃ]　まで　どうやって　行[い]きます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L5-Q1.mp3",
-          "image_file_path": "listening/JT4Y/L5-Q1.png",
-          "text_content": "女[おんな]：毎日[まいにち]　会社[かいしゃ]　まで　どうやって　行[い]きます　か。\n男[おとこ]：駅[えき]　まで　自転車[じてんしゃ]　で　行[い]って、ええ、それから　電車[でんしゃ]　で　南[みなみ]　駅[えき]　まで　行[い]きます。\n女[おんな]：南[みなみ]　駅[えき]　から　会社[かいしゃ]　まで　は　歩[ある]いていきます　か。\n男[おとこ]：いいえ、少[すこ]し　遠[とお]い　です　から、バス　で　行[い]きます。\n男[おとこ]　の　人[ひと]　は　毎日[まいにち]　会社[かいしゃ]　まで　どうやって　行[い]きます　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 17,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　子[こ]　が　お爺[じい]さん　と　話[はな]しています。女[おんな]　の　子[こ]　は　いつ　電話[でんわ]　します　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L5-Q2.mp3",
-          "image_file_path": "listening/JT4Y/L5-Q2.png",
-          "text_content": "女[おんな]　の　子[こ]：じゃ、おじいちゃん、私[わたし]　明後日[あさって]　東京[とうきょう]　に　着[つ]いたら　すぐ　電話[でんわ]　する。\nおじいさん：じゃ、七日[なのか]　だな。\n女[おんな]　の　子[こ]：違[ちが]う　よ、おじいちゃん。今日[きょう]　は　四日[よっか]　よ。だから　明後日[あさって]　は　六日[むいか]。\nおじいさん：お～、そうか。じゃあ、明後日[あさって]。\n女[おんな]　の　子[こ]：うん。\n女[おんな]　の　子[こ]　は　いつ　電話[でんわ]　します　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 18,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　どの　コート　が　ほしい　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L5-Q3.mp3",
-          "image_file_path": "listening/JT4Y/L5-Q3.png",
-          "text_content": "女性[じょせい]：あの　コート　いい　よ　ね。\n男性[だんせい]：どれ？\n女性[じょせい]：あの、長[なが]くて　白[しろ]い　の。\n男性[だんせい]：ポケット　が　ある　コート？\n女性[じょせい]：違[ちが]う。大[おお]きい　ボタン　のある　コート。\n女[おんな]　の　人[ひと]　は　どの　コート　がほしい　です　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 19,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　が　自転車[じてんしゃ]　の　鍵[かぎ]　を　捜[さが]しています。鍵[かぎ]　は　どこ　に　ありました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L5-Q4.mp3",
-          "image_file_path": "listening/JT4Y/L5-Q4.png",
-          "text_content": "男性[だんせい]：あれ、鍵[かぎ]　が　ない。\n女性[じょせい]：自転車[じてんしゃ]　の　鍵[かぎ]？\n男性[だんせい]：見[み]た？\n女性[じょせい]：さっき、テーブル　の　上[うえ]　に　あった　けど。\n男性[だんせい]：ない　よ。\n女性[じょせい]：あ、椅子[いす]　の　上[うえ]　に　置[お]いたんだ。ほら、本棚[ほんだな]　の　横[よこ]　の　椅子[いす]。\n男性[だんせい]：ああ、あった。\n鍵[かぎ]　は　どこ　に　ありました　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 20,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。昨日[きのう]、二人[ふたり]　で　一緒[いっしょ]に　何[なに]　を　しました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "テニス　を　しました。",
-          "alternative_2": "お酒[さけ]　を　飲[の]みました。",
-          "alternative_3": "サッカー　を　しました。",
-          "alternative_4": "買[か]い物[もの]　を　しました。",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L5-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "男[おとこ]：昨日[きのう]　の　テニス、楽[たの]しかった　です　ね。\n女[おんな]：ええ、でも、ちょっと　疲[つか]れました。\n男[おとこ]：僕[ぼく]　は　あの　後[あと]、サッカー　を　して、夜[よる]　は　皆[みな]　で　お酒[さけ]　を　飲[の]み　に　行[い]きました。\n女[おんな]：元気[げんき]　です　ね。私[わたし]　は　テニス　の　後[あと]、買[か]い物[もの]　を　して　帰[かえ]りました。\n昨日[きのう]、二人[ふたり]　で　一緒[いっしょ]に　何[なに]　を　しました　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 21,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　何[なに]　を　買[か]ってきました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "牛[ぎゅう]肉[にく]　です",
-          "alternative_2": "豚[ぶた]肉[にく]　です",
-          "alternative_3": "鶏[とり]肉[にく]　です",
-          "alternative_4": "牛[ぎゅう]乳[にゅう]　です",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L6-Q1.mp3",
-          "image_file_path": null,
-          "text_content": "男性[だんせい]：ただいま。買[か]ってきた　よ。\n女性[じょせい]：はい、ありがとう。あれ、これ　牛肉[ぎゅうにく]　じゃない？\n男性[だんせい]：うん、牛肉[ぎゅうにく]　だ　よ。ええ、豚肉[ぶたにく]　だった？\n女性[じょせい]：私[わたし]、鶏肉[とりにく]　も　頼[たの]んだんだけど。\n男性[だんせい]：ええ、そうだった？\n女性[じょせい]：そう　よ。\n男[おとこ]　の　人[ひと]　は　何[なに]　を　買[か]ってきました　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 22,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　会社[かいしゃ]　で　話[はな]しています。今[いま]、どんな　天気[てんき]　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "晴[は]れ　です",
-          "alternative_2": "雨[あめ]　です",
-          "alternative_3": "曇[くも]り　です",
-          "alternative_4": "雪[ゆき]　です",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L6-Q2.mp3",
-          "image_file_path": null,
-          "text_content": "男性[だんせい]：おはようございます。寒[さむ]い　です　ね。\n女性[じょせい]：本当[ほんとう]。天気[てんき]　も　悪[わる]い　です　ね。雨[あめ]　は　降[ふ]っています　か。\n男性[だんせい]：いいえ、まだ　降[ふ]っていません。でも、夜[よる]　から　雪[ゆき]　です　よ。テレビ　で　言[い]っていました。\n今[いま]、どんな　天気[てんき]　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 23,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どう　します　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "女[おんな]　の　人[ひと]　と　仕事[しごと]　を　します",
-          "alternative_2": "一人[ひとり]　で　仕事[しごと]　を　します",
-          "alternative_3": "女[おんな]　の　人[ひと]　と　映画[えいが]　を　見[み]ます",
-          "alternative_4": "一人[ひとり]で　映画[えいが]　を　見[み]ます",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L6-Q3.mp3",
-          "image_file_path": null,
-          "text_content": "男性[だんせい]：木村[きむら]さん、申[もう]し込[ご]み　は　終[お]わりました？\n女性[じょせい]：いいえ、まだ　です。でも、今日[きょう]　は　もう　疲[つか]れた　から　帰[かえ]ります。\n男性[だんせい]：あのう、映画[えいが]　の　切符[きっぷ]　が　二枚[にまい]　あるん　です　けど、今[いま]　から　一緒[いっしょ]に　行[い]きません　か。\nこの　切符[きっぷ]、今日[きょう]　まで　なん　です。\n女性[じょせい]：すみません。今日[きょう]　は　ちょっと。\n男性[だんせい]：そう　です　か。残念[ざんねん]　だなあ。じゃあ、一人[ひとり]　で　行[い]きます。\n女性[じょせい]：すみません。\n男性[だんせい]：いえいえ。\n男[おとこ]　の　人[ひと]　は　どう　します　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 24,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。服[ふく]　は　誰[だれ]　の　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "この　男[おとこ]　の　人[ひと]　の　です",
-          "alternative_2": "この　男[おとこ]　の　人[ひと]　の　お父[とう]さん　の　です",
-          "alternative_3": "この　男[おとこ]　の　人[ひと]　の　お兄[にい]さん　の　です",
-          "alternative_4": "この　男[おとこ]　の　人[ひと]　の　弟[おとうと]さん　の　です",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L6-Q4.mp3",
-          "image_file_path": null,
-          "text_content": "女性[じょせい]：その　服[ふく]、素敵[すてき]　です　ね。\n男性[だんせい]：ありがとうございます。でも、これ、僕[ぼく]　の　じゃないん　です。\n女性[じょせい]：あら、そう　なん　です　か。じゃ、お兄[にい]さん　か　弟[おとうと]さん　の　です　か。\n男性[だんせい]：いいえ、父[ちち]　の　です。\n女性[じょせい]：ええ、そう　です　か。\n服[ふく]　は　誰[だれ]　の　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 25,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　何人[なんにん]　家族[かぞく]　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "三[さん]人[にん]　家[か]族[ぞく]　です",
-          "alternative_2": "四[よ]人[にん]　家[か]族[ぞく]　です",
-          "alternative_3": "五[ご]人[にん]　家[か]族[ぞく]　です",
-          "alternative_4": "六[ろく]人[にん]　家[か]族[ぞく]　です",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L6-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "女性[じょせい]：佐藤[さとう]さん　は　何人[なんにん]　家族[かぞく]　です　か。\n男性[だんせい]：両親[りょうしん]　と　私[わたし]　の　三人[さんにん]　家族[かぞく]　です。飯田[いいだ]さん　は？\n女性[じょせい]：はい、両親[りょうしん]　と　兄[あに]　が　一人[ひとり]　と　姉[あね]　が　一人[ひとり]　と　私[わたし]　です。\n男性[だんせい]：ああ、そう　です　か。\n女[おんな]　の　人[ひと]　は　何人[なんにん]　家族[かぞく]　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 26,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どう　します　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L7-Q2.mp3",
-          "image_file_path": "listening/JT4Y/L7-Q2.png",
-          "text_content": "女[おんな]：パーティー　に　行[い]きます　か。\n男[おとこ]：はい、勉強[べんきょう]　が　終[お]わって　から　行[い]きます。\n女[おんな]：そう、誰[だれ]か　と　一緒[いっしょ]に　いきます　か。\n男[おとこ]：うん、そう　です　ね。一人[ひとり]　で　行[い]きます。\n男[おとこ]　の　人[ひと]　は　どう　します　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 27,
-        "question_type": "listening",
-        "question_text": "教室[きょうしつ]　で　先生[せんせい]　と　学生[がくせい]　が　話[はな]しています。今日[きょう]　の　授業[じゅぎょう]　は　本[ほん]　の　何[なん]　ページ　から　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "５７ページ",
-          "alternative_2": "５８ページ",
-          "alternative_3": "５９ページ",
-          "alternative_4": "６０ページ",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L7-Q3.mp3",
-          "image_file_path": null,
-          "text_content": "男[おとこ]：では、授業[じゅぎょう]　を　始[はじ]めます。え、今日[きょう]　は　６　０　ページ　から。　では、６　０　ページ　を　見[み]て　ください。\n女[おんな]：あのう、先生[せんせい]　先週[せんしゅう]　は　５　７　ページ　まで　でした。\n男[おとこ]：５　８　ページ　と　５　９　ページ　が　家[いえ]　で　読[よ]んで　ください。いい　です　か。では、始[はじ]めましょう。\n今日[きょう]　の　授業[じゅぎょう]　は　本[ほん]　の　何[なん]　ページ　から　です　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 28,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　買[か]った　物[もの]　は、どれ　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L8-Q1.mp3",
-          "image_file_path": "listening/JT4Y/L8-Q1.png",
-          "text_content": "男[おとこ]：いらっしゃいませ。\n女[おんな]：これ　を　三[みっ]つ　ください。\n男[おとこ]：はい、三[みっ]つ　です　ね。\n女[おんな]：え、それから、それ　を　二本[にほん]　ください。\n男[おとこ]：二本[にほん]　です　ね。ありがとうございます。\n女[おんな]　の　人[ひと]　が　買[か]った　物[もの]　は、どれ　です　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 29,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。山田[やまだ]さん　の　おねえさん　は　どの　人[ひと]　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L8-Q2.mp3",
-          "image_file_path": "listening/JT4Y/L8-Q2.png",
-          "text_content": "女[おんな]：あそこ　で　話[はな]している　人[ひと]、山田[やまだ]さん　の　おねえさん　よ。\n男[おとこ]：え、どの　人[ひと]？\n女[おんな]：ほら、長[なが]い　スカート　を　はいている　人[ひと]。\n男[おとこ]：眼鏡[めがね]　を　かけている　人[ひと]？\n女[おんな]：ううん～\n男[おとこ]：あ、あの　人[ひと]。\n山田[やまだ]さん　の　おねえさん　は　どの　人[ひと]　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 30,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。つぎ　は　いつ　会[あ]います　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L8-Q3.mp3",
-          "image_file_path": "listening/JT4Y/L8-Q3.png",
-          "text_content": "男[おとこ]：つぎ　は　いつ　会[あ]います　か。\n女[おんな]：わたし　は　毎週[まいしゅう]　火曜日[かようび]　が　忙[いそが]しい　です。\n男[おとこ]：私[わたし]　は　六日[むいか]　が　忙[いそが]しくて、あ、八日[ようか]　は　どう　です　か。\n女[おんな]：え、四日[よっか]　です　か。\n男[おとこ]：いいえ、八日[ようか]　です。\n女[おんな]：あ、大丈夫[だいじょうぶ]　です、じゃあ、八日[ようか]　に　しましょう。\nつぎ　は　いつ　会[あ]います　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 31,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　パーティー　で　話[はな]しています。今[いま]、お菓子[かし]　は　どうなっています　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L8-Q4.mp3",
-          "image_file_path": "listening/JT4Y/L8-Q4.png",
-          "text_content": "男[おとこ]：この　お菓子[かし]、美味[おい]しい　です　よ。\n女[おんな]：あ、そう　です　か。どこ　に　あります　か。\n男[おとこ]：あそこ　です。あ、少[すこ]し　しか　ありません。\n今[いま]、お菓子[かし]　は　どうなっています　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 32,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、そと　を　見[み]ながら　話[はな]しています。今朝[けさ]　は　どんな　天気[てんき]　でした　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L8-Q5.mp3",
-          "image_file_path": "listening/JT4Y/L8-Q5.png",
-          "text_content": "男[おとこ]：雨[あめ]　が　まだ　降[ふ]っています　か。\n女[おんな]：ええ、寒[さむ]い　から、夜[よる]　に　雪[ゆき]　に　なるでしょうね。\n男[おとこ]：うん、困[こま]ったな。今朝[けさ]　は　晴[は]れています　から、傘[かさ]　を　持[も]って　来[き]ませんでした。\n女[おんな]：あ、私[わたし]　も　です、今朝[けさ]　は　本当[ほんとう]に　いい　天気[てんき]　でした　から。\nけさ　は　どんな　天気[てんき]　でした　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 33,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　歌[うた]　を　聞[き]いて　話[はな]しています。二人[ふたり]　は　この　歌[うた]　が　好[す]き　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L9-Q1.mp3",
-          "image_file_path": null,
-          "text_content": "男[おとこ]：この　歌[うた]、とても　いい　です　ね。楽[たの]しくなります。\n女[おんな]：そう　です　か。私[わたし]　は　あまり。ちょっと　うるさい　です。\n二人[ふたり]　は　この　歌[うた]　が　好[す]き　です　か。\n１：男[おとこ]　の　人[ひと]　は　すき　です\n２：女[おんな]　の　人[ひと]　はすき　です\n３：男[おとこ]　の　人[ひと]　も　女[おんな]　の　人[ひと]　もすき　です\n４：男[おとこ]　の　人[ひと]　も　女[おんな]　の　人[ひと]　も　好[す]き　では　すきません"
-        },
-        "tags": [
-          "Compreensão do Assunto",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 34,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　は　日曜日[にちようび]　に　何[なん]　時間[じかん]　バイオリーン　を　練習[れんしゅう]　しています　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L9-Q2.mp3",
-          "image_file_path": null,
-          "text_content": "男[おとこ]：上手[じょうず]　です　ね。毎日[まいにち]　どの　くらい　練習[れんしゅう]　しています　か。\n女[おんな]：三[さん]時間[じかん]　です、でも、休[やす]み　の　日[ひ]　は　もっと　します。土曜日[どようび]　は　四[よ]時間[じかん]、日曜日[にちようび]　は　六[ろく]時間[じかん]　です。\n男[おとこ]：大変[たいへん]　です　ね。\n女[おんな]　の　人[ひと]　は　日曜日[にちようび]　に　何[なん]　時間[じかん]　バイオリーン　を　練習[れんしゅう]　しています　か。\n１：３時間[じかん]\n２：４時間[じかん]\n３：６時間[じかん]\n４：９時間[じかん]"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 35,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　の　お母[かあ]さん　は　いま　何[なに]　を　しています　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L9-Q3.mp3",
-          "image_file_path": null,
-          "text_content": "女[おんな]：たかさきさん　の　お母[かあ]さん　は、何[なに]か　仕事[しごと]　を　します　か。\n男[おとこ]：いいえ、去年[きょねん]　まで　は　高校[こうこう]　の　先生[せんせい]　でした　が、今年[ことし]　から　大学生[だいがくせい]　に　なりました。医者[いしゃ]　に　なる　勉強[べんきょう]　を　しています。\n女[おんな]：ええ、お医者[いしゃ]さん　に。それ　は　すごい　です　ね。\n男[おとこ]　の　人[ひと]　の　お母[かあ]さん　は　いま　何[なに]　を　しています　か。\n１：いしゃ　です\n２：大学[だいがく]　の　先生[せんせい]　です\n３：高校[こうこう]　の　先生[せんせい]　です\n４：大学生[だいがくせい]　です"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 36,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。男[おとこ]　の　人[ひと]　は　京都[きょうと]　で　何[なに]　を　しましたか。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L9-Q4.mp3",
-          "image_file_path": null,
-          "text_content": "男[おとこ]：これ、京都[きょうと]　で　買[か]った　お菓子[かし]　です、どうぞ。\n女[おんな]：ありがとうございます。旅行[りょこう]　です　か。\n男[おとこ]：はい、友達[ともだち]　の　結婚[けっこん]　パーティー　でした。おととい　行[い]って　ゆうべ　帰[かえ]ったん　です。\n有名[ゆうめい]な　ところ　へ　も　行[い]きたかったん　です　けど、時間[じかん]　が　ありません　でした　男[おとこ]　の　人[ひと]　は　京都[きょうと]　で　何[なに]　を　しました　か。\n１：仕事[しごと]　を　しました\n２：結婚[けっこん]　パーティー　へ　行[い]きました\n３：結婚[けっこん]　しました\n４：有名[ゆうめい]な　ところ　へ　いきました"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 37,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　が、話[はな]しています。この　人[ひと]　は、先週[せんしゅう]　何日[なんにち]　休[やす]みました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L9-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "男[おとこ]：先週[せんしゅう]　が　本当[ほんとう]に　忙[いそが]しかった　です、私[わたし]　の　会社[かいしゃ]　は　土曜日[どようび]　と　日曜日[にちようび]　が　休[やす]み　です。でも、先週[せんしゅう]　の　土曜日[どようび]　は　休[やす]まないで　会社[かいしゃ]　に　行[い]きました。いや、疲[つか]れました：ね。この　人[ひと]　は、先週[せんしゅう]　何日[なんにち]　休[やす]みました　か。\n１：一日[ついたち]\n２：二日[ふつか]\n３：三日[みっか]\n４：ぜんぜん　休[やす]みませんでした"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 38,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。女[おんな]　の　人[ひと]　が　今[いま]　から、誰[だれ]　に　会[あ]います　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L10-Q1.mp3",
-          "image_file_path": null,
-          "text_content": "男[おとこ]：これから、どう　します　か。\n女[おんな]：今日[きょう]　は　すぐ　帰[かえ]ります。おばさん　に　会[あ]い　に　いきます　から。\n男[おとこ]：あ、おばあさん　に。\n女[おんな]：いいえ、おばあさん　じゃなくて、おば　です　よ。母[はは]　の　姉[あね]　です。\n男[おとこ]：あ、そう　です　か。\n女[おんな]　の　人[ひと]　が　今[いま]　から、誰[だれ]　に　会[あ]います　か。\n１：おばあさん　です\n２：おかあさん　です\nおかあさん　です　３：おばさん　です\n４：おねえさん　です"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 39,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。女[おんな]　の　人[ひと]　は　どう　します　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L10-Q2.mp3",
-          "image_file_path": null,
-          "text_content": "女[おんな]：あの、すみません。ここ　は、山田[やまだ]　先生[せんせい]　の　部屋[へや]　です　か。\n男[おとこ]：はい、そう　です。\n女[おんな]：山田[やまだ]　先生[せんせい]　は。\n男[おとこ]：あ、いま、二番[にばん]　の　教室[きょうしつ]　で　授業中[じゅぎょうちゅう]　です。えっと、三時[さんじ]　に　終[お]わります　けど。\n女[おんな]：あ、そう　です　か。じゃ、まだ、あと　で　きます。\n女[おんな]　の　人[ひと]　は　どう　します　か。\n１：いま　から、教室[きょうしつ]　に　いきます\n２：あと　で、教室[きょうしつ]　に　いきます\n３：先生[せんせい]　の　部屋[へや]　で　待[ま]ちます\n４：あとで　先生[せんせい]　の　部屋[へや]　に　きます"
-        },
-        "tags": [
-          "Compreensão do Assunto",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 40,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。男[おとこ]　の　人[ひと]　は　何[なに]　を　飲[の]みます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L10-Q3.mp3",
-          "image_file_path": null,
-          "text_content": "女[おんな]：鈴木[すずき]さん、何[なに]か　飲[の]みます　か。\n男[おとこ]：はい、ありがとうございます。\n女[おんな]：何[なに]　が　いい　です　か、コーヒー、紅茶[こうちゃ]。\n男[おとこ]：そう　です　ね。あの、おみず　を　お願[ねが]い　します。\n女[おんな]：おみず。\n男[おとこ]：え、熱[あつ]い　飲[の]み物[もの]　は　ちょっと\n女[おんな]：それでは、冷[つめ]たい　お茶[ちゃ]　は　どう　です　か。\n男[おとこ]：あ、そう　です　ね。お願[ねが]い　します。\n男[おとこ]　の　人[ひと]　は　何[なに]　を　飲[の]みます　か。\n１：熱[あつ]い　コーヒー　を　飲[の]みます\n２：熱[あつ]い　紅茶[こうちゃ]　を　飲[の]みます\n３：冷[つめ]たい　水[みず]　を　飲[の]みます\n４：冷[つめ]たい　お茶[ちゃ]　を　飲[の]みます"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 41,
-        "question_type": "listening",
-        "question_text": "クラス　で　先生[せんせい]　が　話[はな]しています。学生[がくせい]　は、きょう　うち　で、どこ　を　勉強[べんきょう]　します　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L31-Q4.mp3",
-          "image_file_path": "listening/JT4Y/L31-Q4.png",
-          "text_content": "Ａ：「では、きょう　は　２　０　ページ　まで　おわりました　から、２　１　ページ　は　しゅくだい　です　ね。」\nＢ：「ぜんぶ　です　か。」\nＡ：「いいえ、２　１　ページ　の　１　ばん　です。２　ばん　は、クラス　で　します。」\n学生[がくせい]　は、きょう　うち　で、どこ　を　べんきょう　します　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 42,
-        "question_type": "listening",
-        "question_text": "くつした　の　お店[みせ]　で、女[おんな]　の　人[ひと]　と　店[みせ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、どの　くつした　を　買[か]います　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L31-Q5.mp3",
-          "image_file_path": "listening/JT4Y/L31-Q5.png",
-          "text_content": "Ａ：「子供[こども]　の　くつした、あります　か。」\nＢ：「はい。長[なが]い　の　です　か、短[みじか]い　の　です　か。」\nＡ：「長[なが]い　の　です。」\nＢ：「はい。くだもの　の　絵[え]　と　どうぶつ　の　絵[え]　が　あります。どちら　が　いい　です　か。」\nＡ：「そう　です　ね、どうぶつ　の　を　ください。」\n女[おんな]　の　人[ひと]　は、どの　くつした　を　買[か]います　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 43,
-        "question_type": "listening",
-        "question_text": "びょういん　で、医者[いしゃ]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、いちにち　に　なんかい　薬[くすり]　を　のみます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "１かい",
-          "alternative_2": "２かい",
-          "alternative_3": "３かい",
-          "alternative_4": "４かい",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L34-Q1.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：「この　薬[くすり]　は　朝[あさ]　と　夜[よる]ごはん　を　食[た]べた　あと　で　のんで　ください。」\nＢ：「ひるごはん　の　あと　は？」\nＡ：「ひる　は　のまないで　ください。」\nＢ：「はい。」\nＡ：「四日[よっか]かん　のんで　くださいね。」\nＢ：「わかりました。」\n女[おんな]　の　人[ひと]　は、いちにち　に　なんかい　薬[くすり]　を　のみます　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 44,
-        "question_type": "listening",
-        "question_text": "デパート　で、女[おんな]　の　人[ひと]　と　店[みせ]　の　人[ひと]　が　話[はな]しています。店[みせ]　の　人[ひと]　は、どの　かばん　を　とります　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L34-Q2.mp3",
-          "image_file_path": "listening/JT4Y/L34-Q2.png",
-          "text_content": "Ａ：「すみません、その　上[うえ]　の　黒[くろ]い　かばん　を　とって　ください。」\nＢ：「どちら　です　か。この　小[ちい]さい　の　です　か。」\nＡ：「いいえ。大[おお]きい　の　です。」\nＢ：「はい。」\n店[みせ]　の　人[ひと]　は、どの　かばん　を　とります　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 45,
-        "question_type": "listening",
-        "question_text": "きょうしつ　で、先生[せんせい]　が　話[はな]しています。学生[がくせい]　は、つくえ　の　上[うえ]に　何[なに]　を　おきます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L34-Q3.mp3",
-          "image_file_path": "listening/JT4Y/L34-Q3.png",
-          "text_content": "Ａ：「今[いま]　から　テスト　を　します。この　テスト　では、じしょ　を　使[つか]う　もんだい　が　あります　から、つくえ　の　上[うえ]　に　じしょ　を　出[だ]して　ください。えんぴつ　と　けしゴム　も　出[だ]して　ください。とけい　は、かばん　の　中[なか]　に　入[い]れて　ください。」\nＢ：「先生[せんせい]、ノート　は　どう　します　か。」\nＡ：「ノート　も　かばん　の　中[なか]　に　入[い]れて　ください。」\n学生[がくせい]　は、つくえの　上[うえ]　に　何[なに]　を　おきます　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 46,
-        "question_type": "listening",
-        "question_text": "バス　の　中[なか]　で、りょこう　会社[かいしゃ]　の　人[ひと]　が　学生[がくせい]　に　話[はな]しています。学生[がくせい]　は、はじめに　何[なに]　を　します　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L34-Q4.mp3",
-          "image_file_path": "listening/JT4Y/L34-Q4.png",
-          "text_content": "みなさん、ホテル　に　着[つ]きました。今[いま]　から　いっかい　の　レストラン　で　晩[ばん]ごはん　を　食[た]べます。\n晩[ばん]ごはん　は　七時[しち]時[じ]　から　です。六[ろく]時[じ]五十分[ごじゅっぷん]　です　から、すぐ　に　行[い]って　ください。皆[みな]さん　の　にもつ　は、ホテル　の　人[ひと]　がへやに　持[も]っていきます。晩[ばん]ごはんのあとは、テレビ　を　見[み]た　り、買[か]い\n買[か]い　物[もの]　を　したりして　ください。\n学生[がくせい]　は、はじめに　何[なに]　を　します　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos"
-        ]
-      },
-      {
-        "id": 47,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は、何[なに]　を　持[も]っていきます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": "4",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L34-Q5.mp3",
-          "image_file_path": "listening/JT4Y/L34-Q5.png",
-          "text_content": "Ａ：「らいしゅうの　日[にち]よう日[び]、うみ　へ　行[い]きます　ね。男[おとこ]　の　人[ひと]　は、何[なに]　を　持[も]っていきましょう　か。」\nＢ：「わたし　は　おにぎり　を　持[も]っていきます。」\nＡ：「じゃあ、ぼく　は。」\nＢ：「飲[の]みもの　と　お菓子[かし]　を　おねがい　します。」\nＡ：「はい。飲[の]みもの　と　お菓子[かし]　です　ね。」\nＢ：「あ、飲[の]みもの　は　重[おも]い　です　ね。うみ　に　着[つ]いて　から　買[か]いましょう。」\nＡ：「そう　です　ね。」\n男[おとこ]　の　人[ひと]　は、何[なに]　を　持[も]っていきます　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 48,
-        "question_type": "listening",
-        "question_text": "だいがく　で、男[おとこ]　の　学生[がくせい]　と　女[おんな]　の　学生[がくせい]　が　話[はな]しています。女[おんな]　の　学生[がくせい]　は、きょう、何[なん]　時間[じかん]　べんきょう　します　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "１じかん",
-          "alternative_2": "２じかん",
-          "alternative_3": "３じかん",
-          "alternative_4": "４じかん",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L36-Q4.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：「山田[やまだ]さん　は　いつも　何[なん]　時間[じかん]　ぐらい　べんきょう　します　か。」\nＢ：「うーん、まいにち　３　時間[じかん]　ぐらい　です。」\nＡ：「えっ、わたし　は　まいにち　１　時間[じかん]　です。」\nＢ：「あ、でも、明日[あした]　は　テスト　が　あります　から、きょう　は　４　時間[じかん]　べんきょう　します。」\nＡ：「そう　です　か。」\n女[おんな]　の　学生[がくせい]　は、きょう、何[なん]　時間[じかん]　べんきょう　します　か。"
-        },
-        "tags": [
-          "Compreensão do Assunto"
-        ]
-      },
-      {
-        "id": 49,
-        "question_type": "listening",
-        "question_text": "バスてい　で、女[おんな]　の　人[ひと]　と　バス　会社[かいしゃ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、なん　ばんの　バス　に　乗[の]ります　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "１ばん",
-          "alternative_2": "３ばん",
-          "alternative_3": "５ばん",
-          "alternative_4": "７ばん",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L36-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：「すみません、１　ばん　の　バス　は　みどり　駅[えき]　に　行[い]きます　か。」\nＢ：「いいえ、みどり　駅[えき]　に　行[い]く　バス　は　３　ばん　と　５　ばん　と　７　ばん　です　よ。」\nＡ：「そう　です　か。」\nＢ：「あ、でも、きょう　は　日[にち]よう日[び]　です　から、５　ばん　の　バス　は　ありません。」\nＡ：「そう　です　か。」\nＢ：「それから、３　ばん　は　あさ　と　ゆうがた　の　バス　です　から、今[いま]　の　時間[じかん]　は　７　ばん　です　ね。」\nＡ：「わかりました。ありがとうございます。」\n女[おんな]　の　人[ひと]　は、なん　ばん　の　バス　に　乗[の]ります　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 50,
-        "question_type": "listening",
-        "question_text": "お国[くに]　はは　どちら　です　か。",
-        "statement": {
-          "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L37-Q1.mp3",
-          "image_file_path": null,
-          "text_content": "１：あちら　です。\n２：アメリカ　です。\n３：部屋[へや]　です。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 51,
-        "question_type": "listening",
-        "question_text": "今日[きょう]　は　何日[なんにち]　です　か。",
-        "statement": {
-          "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L37-Q2.mp3",
-          "image_file_path": null,
-          "text_content": "１：三日[みっか]　です。\n２：三週間[さんしゅうかん]　です。\n３：三時[さんじ]　です。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 52,
-        "question_type": "listening",
-        "question_text": "すみません、図書館[としょかん]　は　どこ　です　か。",
-        "statement": {
-          "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L37-Q3.mp3",
-          "image_file_path": null,
-          "text_content": "１：あそこ　です。\n２：六[ろく]時[じ]　まで　です。\n３：本[ほん]　を　借[か]ります。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 53,
-        "question_type": "listening",
-        "question_text": "明日[あした]、何時[なんじ]　に　学校[がっこう]　に　来[き]ます　か。",
-        "statement": {
-          "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L37-Q4.mp3",
-          "image_file_path": null,
-          "text_content": "１：バス　で　来[き]ます。\n２：九時[くじ]半[はん]　です。\n３：六人[ろくにん]　です。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 54,
-        "question_type": "listening",
-        "question_text": "田中[たなか]さん、その　荷物[にもつ]　を　持[も]ちましょう　か。",
-        "statement": {
-          "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L37-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "１：どういたしまして。\n２：持[も]ちませんでした。\n３：ありがとうございます。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 55,
-        "question_type": "listening",
-        "question_text": "ちょっと　休[やす]みません　か。",
-        "statement": {
-          "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L37-Q6.mp3",
-          "image_file_path": null,
-          "text_content": "１：日曜日[にちようび]　です。\n２：お元気[げんき]　です　か。\n３：そうしましょう。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 56,
-        "question_type": "listening",
-        "question_text": "それ　は、何[なん]　の　本[ほん]　です　か。",
-        "statement": {
-          "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L37-Q7.mp3",
-          "image_file_path": null,
-          "text_content": "１：料理[りょうり]　の　本[ほん]　です。\n２：わたしの　本[ほん]　です。\n３：はい、そう　です。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 57,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　きのう、どこ　へ　行[い]きました　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "としょかん",
-          "alternative_2": "えき",
-          "alternative_3": "デパート",
-          "alternative_4": "レストラン",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L38-Q4.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：「山田[やまだ]さん、きのう　どこ　か　へ　行[い]きましたか。」\nＢ：「としょかん　へ　行[い]きました。」\nＡ：「駅[えき]　のそばのとしょかん　です　か。」\nＢ：「はい。」\nＡ：「ぼくはやまかわ　デパート　へ　行[い]って、買[か]い物[もの]　を　しました。」\nＢ：「へ、わたしもきのうのよる、やまかわ　デパート　の　レストラン　へ　行[い]きましたよ。」\nＡ：「そう　です　か。」\n男[おとこ]　の　人[ひと]　はきのう、どこ　へ　行[い]きましたか。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 58,
-        "question_type": "listening",
-        "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　の　電話番号[でんわばんごう]　は　なん　ばん　です　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "５１２-７７３３",
-          "alternative_2": "５１２-７７３４",
-          "alternative_3": "５１２－７７４３",
-          "alternative_4": "５１２－７７４４",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L38-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：「あのう、山田[やまだ]さん　の　電話番号[でんわばんごう]　は、５　１　２　－　７　７　３　４　です　ね？」\nＢ：「いいえ、７　７　３　４　じゃなくて、７　７　４　３　です。」\nＡ：「え、ちょっと　待[ま]って　ください。メモ　します。５　１　２　の。」\nＢ：「７　７　４　３　です。」\nＡ：「はい。ありがとうございました。」\n女[おんな]　の　人[ひと]　の　電話番号[でんわばんごう]　は　なん　ばん　です　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 59,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　学生[がくせい]　と　男[おとこ]　の　学生[がくせい]　が　話[はな]しています。男[おとこ]　の　学生[がくせい]　は、だれ　と　住[す]んでいます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "りょうしん",
-          "alternative_2": "あね",
-          "alternative_3": "いもうと",
-          "alternative_4": "おとうと",
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L39-Q4.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：「山田[やまだ]さん　は、お父[とう]さん　と　お母[かあ]さん　と、いっしょに　住[す]んでいます　か。」\nＢ：「いいえ、りょうしん　は　とおく　に　住[す]んでいます。\nＡ：「そう　です　か。」\nＢ：「いま、あね　と　いっしょに　住[す]んでいます」\n」　Ａ：「きょうだい　は　一人[ひとり]　です　か。」\nＢ：「あ、おとうと　も　います　よ。おとうと　は　りょうしん　と　いっしょ　です。」\n男[おとこ]　の　学生[がくせい]　は、だれ　と　住[す]んでいます　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 60,
-        "question_type": "listening",
-        "question_text": "学校[がっこう]　で　男[おとこ]　の　学生[がくせい]　と　女[おんな]　の　学生[がくせい]　が　話[はな]しています。二人[ふたり]　は　どこ　で　昼[ひる]ごはん　を　食[た]べます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "しょくどう",
-          "alternative_2": "きっさてん",
-          "alternative_3": "パンや",
-          "alternative_4": "きょうしつ",
-          "correct_alternative": 4
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L39-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：「もう　一時[いちじ]　です　ね。なにか　食[た]べません　か。」\nＢ：「そう　です　ね。でも　今日[きょう]　は　土[ど]よう日[び]　だから、学校[がっこう]　の　しょくどう　や　きっさてん　は　休[やす]み　です　よ。」\nＡ：「じゃ、パン屋[や]　で　パン　を　買[か]って、きょうしつ　で　食[た]べましょう　か。」\nＢ：「そう　です　ね。」\n二人[ふたり]　は　どこ　で　昼[ひる]ごはん　を　食[た]べます　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 61,
-        "question_type": "listening",
-        "question_text": "きょうしつ　で、先生[せんせい]　が　学生[がくせい]　に　話[はな]しています。学生[がくせい]　は　何[なん]　で　名前[なまえ]　を　書[か]きます　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "くろい　ボールペン",
-          "alternative_2": "あかい　ボールペン",
-          "alternative_3": "くろい　えんぴつ",
-          "alternative_4": "あかい　えんぴつ",
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L40-Q4.mp3",
-          "image_file_path": null,
-          "text_content": "はい、じゃあ　ちょっと　聞[き]いて　ください。えー、らいげつ　の　バス　りょこう　に　行[い]きたい　人[ひと]　は、この　かみ　に、ボールペン　で　名前[なまえ]　を　書[か]いて　ください。えんぴつじゃなくて、ボールペン　です　よ。くろ　で　書[か]いて　ください。あか　で　書[か]ないで　くださいね。\n学生[がくせい]　は　何[なん]　で　名前[なまえ]　を　書[か]きます　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 62,
-        "question_type": "listening",
-        "question_text": "女[おんな]　の　学生[がくせい]　と　男[おとこ]　の　学生[がくせい]　が　話[はな]しています。二人[ふたり]　は　明日[あした]　どこ　で　会[あ]います　か。",
-        "statement": {
-          "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "こうえん",
-          "alternative_2": "えき",
-          "alternative_3": "きっさてん",
-          "alternative_4": "レストラン",
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L40-Q5.mp3",
-          "image_file_path": null,
-          "text_content": "Ａ：「あした　の　よる、いっしょに　サッカー　を　見[み]に行[い]きません　か。」\nＢ：「いい　です　ね。どこ　で　会[あ]いましょう　か。」\nＡ：「五時[ごじ]　に　駅[えき]　で　会[あ]いません　か。」\nＢ：「駅[えき]　は　人[ひと]　が　多[おお]い　です　よ。」\nＡ：「そう　です　ね。じゃあ、駅[えき]　の　前[まえ]　の　きっさてん　は　どう　です　か。」\nＢ：「はい、そうしましょう。あ、サッカー　を　見[み]て　から　近[ちか]く　の　レストラン　で　晩[ばん]ごはん　を　食[た]べません　か。」\nＡ：「ええ。じゃ、明日[あした]　五時[ごじ]　に　会[あ]いましょう。」\n二人[ふたり]　は　明日[あした]　どこ　で　会[あ]います　か。"
-        },
-        "tags": [
-          "Compreensão de Pontos",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 63,
-        "question_type": "listening",
-        "question_text": "レストラン　で　お店[みせ]　の　人[ひと]　を　呼[よ]びます。なんと　言[い]います　か。",
-        "statement": {
-          "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。\n（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L41-Q1.mp3",
-          "image_file_path": "listening/JT4Y/L41-Q1.png",
-          "text_content": "１：いらっしゃいませ。\n２：しつれいしました。\n３：すみません。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 64,
-        "question_type": "listening",
-        "question_text": "ごはん　を　食[た]べました。なんと　言[い]います　か。",
-        "statement": {
-          "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。\n（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 1
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L41-Q2.mp3",
-          "image_file_path": "listening/JT4Y/L41-Q2.png",
-          "text_content": "１：ごちそうさまでした。\n２：いただきます。\n３：どういたしまして。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 65,
-        "question_type": "listening",
-        "question_text": "電車[でんしゃ]　の　中[なか]　です。女[おんな]　の　人[ひと]　が　来[き]ました。なんと　言[い]います　か。",
-        "statement": {
-          "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。\n（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L41-Q3.mp3",
-          "image_file_path": "listening/JT4Y/L41-Q3.png",
-          "text_content": "１：どうもありがとう。\n２：はじめまして。\n３：ここ、どうぞ。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 66,
-        "question_type": "listening",
-        "question_text": "うち　へ　帰[かえ]ります。ともだち　に　なんと　言[い]います　か。",
-        "statement": {
-          "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。\n（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L41-Q4.mp3",
-          "image_file_path": "listening/JT4Y/L41-Q4.png",
-          "text_content": "１：いってきます。\n２：じゃ、また。\n３：ただいま。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 67,
-        "question_type": "listening",
-        "question_text": "ゆうびんきょく　で　きって　を　買[か]います。なんと　言[い]います　か。",
-        "statement": {
-          "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。\n（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 3
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L41-Q5.mp3",
-          "image_file_path": "listening/JT4Y/L41-Q5.png",
-          "text_content": "１：きって　を　買[か]いません　か。\n２：きって　を　どうぞ。\n３：きって　を　ください。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      },
-      {
-        "id": 68,
-        "question_type": "listening",
-        "question_text": "ともだち　は　えんぴつ　が　ありません。ともだち　に　なんと　言[い]います　か。",
-        "statement": {
-          "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。\n（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
-        },
-        "alternatives": {
-          "alternative_1": "1",
-          "alternative_2": "2",
-          "alternative_3": "3",
-          "alternative_4": null,
-          "correct_alternative": 2
-        },
-        "media": {
-          "audio_file_path": "listening/JT4Y/L41-Q6.mp3",
-          "image_file_path": "listening/JT4Y/L41-Q6.png",
-          "text_content": "１：えんぴつ、借[か]りましょう　か。\n２：えんぴつ、使[つか]います　か。\n３：えんぴつ、かして　ください。"
-        },
-        "tags": [
-          "Resposta Imediata",
-          "Expressões Faladas"
-        ]
-      }
-    ]
+  "questions": [
+    {
+      "id": 1,
+      "uid": "N5-listening-0001",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　の　コート　は　どれ　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L1-Q1.mp3",
+        "image_file_path": "listening/JT4Y/L1-Q1.png",
+        "text_content": "Ａ：じゃ、私[わたし]　は　先[さき]　に　帰[かえ]ります。\nＢ：そう　です　か。じゃ、コート　を、山田[やまだ]さん　の　コート　は　どれ　です　か。\nＡ：それ　です。その　白[しろ]くて、長[なが]い　の　です。\nＢ：あ、これ　です　か。\nＡ：いいえ。その　ポケット　が　ない　ほう　です。\n女[おんな]　の　人[ひと]　の　コート　は　どれ　です　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 2,
+      "uid": "N5-listening-0002",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。テーブル　は　どうなりました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L1-Q2.mp3",
+        "image_file_path": "listening/JT4Y/L1-Q2.png",
+        "text_content": "Ａ：じゃ、お皿[さら]　を　並[な]べて　ください。\nＢ：はい。\nＡ：大[おお]きい　お皿[さら]　を　置[お]いて、右側[みぎがわ]　に　ナイフ、左側[ひだりがわ]　に　フォーク。\nＢ：お箸[はし]　は？\nＡ：そう　ね。ナイフ　の　隣[となり]　に。あ、コーヒーカップ　は　まだ　いい　わ。\nテーブル　は　どう　なりました　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 3,
+      "uid": "N5-listening-0003",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　家[いえ]　は　どこ　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L1-Q3.mp3",
+        "image_file_path": "listening/JT4Y/L1-Q3.png",
+        "text_content": "Ａ：もしもし、田中[たなか]さん？　駅[えき]　に　着[つ]きました。今[いま]　から　いきます　から、道[みち]　を　教[おし]えてく　ください。\nＢ：はい。駅[えき]　を　出[で]て、橋[はし]　を　渡[わた]って　ください。\nＡ：はい。\nＢ：はし　を　わたって、右[みぎ]　を　曲[ま]がって　ください。私[わたし]　の　家[いえ]　は　公園[こうえん]　の　前[まえ]　に　あります。\nＡ：はい、わかりました。ありがとうございます。\n女[おんな]　の　人[ひと]　の　家[いえ]　は　どこ　です　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 4,
+      "uid": "N5-listening-0004",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　が　話[はな]しています。この　女[おんな]　の　人[ひと]　はいつ　買[か]い物[もの]　を　します　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L1-Q4.mp3",
+        "image_file_path": "listening/JT4Y/L1-Q4.png",
+        "text_content": "来月[らいげつ]　の　二日[ふつか]　から　八日[ようか]　まで　海[うみ]　の　近[ちか]く　に　旅行[りょこう]　に　行[い]きます。海[うみ]　を　見[み]ながら　本[ほん]　を　読[よ]んだり、おいしい　もの　を　食[た]べたりしたいん　です　ね。それから、帰[かえ]る　日[にち]　に、買[か]い物[もの]　を　します。\nこの　女[おんな]　の　人[ひと]　はいつ　買[か]い物[もの]　を　します　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 5,
+      "uid": "N5-listening-0005",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　部屋[へや]　は　どれ　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L1-Q5.mp3",
+        "image_file_path": "listening/JT4Y/L1-Q5.png",
+        "text_content": "Ａ：もしもし、鈴木[すずき]さん？　山田[やまだ]　です。\nＢ：山田[やまだ]さん？　今[いま]　どこ？　みんな　待[ま]ってる　よ。\nＡ：ごめん。今[いま]　アパート　の　前[まえ]。\nＢ：私[わたし]　の　部屋[へや]、わかる？\nＡ：えーと、３　０　５、だ　よね。三階[さんかい]　の　部屋[へや]？\nＢ：そう、階段[かいだん]　を　上[あ]って、すぐ　だから。\nＡ：階段[かいだん]　に　一番[いちばん]　近[ちか]い　部屋[へや]　だ　ね。わかった、今[いま]　行[い]く。\n女[おんな]　の　人[ひと]　の　部屋[へや]　は　どれ　です　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 6,
+      "uid": "N5-listening-0006",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　冷蔵庫[れいぞうこ]　に　何[なに]　を　入[い]れます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "くだもの",
+        "alternative_2": "ビール",
+        "alternative_3": "くだもの・ビール",
+        "alternative_4": "くだもの・ビール・おかし",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L2-Q1.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：買[か]い物[もの]、ありがとう。果物[くだもの]　は、冷蔵庫[れいぞうこ]　に　入[い]れて　ください。\nＢ：お菓子[かし]　は、テーブル　の　上[うえ]　で　いい　です　か。\nＡ：はい。あ、ビール　も　テーブル　の　上[うえ]　に　置[お]いて　ください。\nＢ：そう　です　か。でも、温[ぬく]い　ビール　は　おいしくないでしょう。\nＡ：そう　です　よ　ね。パーティー　まで　時間[じかん]　が　ありますね。じゃあ、一緒[いっしょ]に　入[はい]れてく　ください。\n男[おとこ]　の　人[ひと]　は　冷蔵庫[れいぞうこ]　に　何[なに]　を　入[い]れます　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 7,
+      "uid": "N5-listening-0007",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。写真[しゃしん]　は　どう　なりました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L2-Q3.mp3",
+        "image_file_path": "listening/JT4Y/L2-Q3.png",
+        "text_content": "Ａ：すみません　が、ちょっと、写真[しゃしん]　いい　でしょう　か。\nＢ：え？　私[わたし]　と　です　か？\nＡ：あ、いいえ、私[わたし]　だけ　で、この　建物[たてもの]　と　一緒[いっしょ]に　取[と]って　くださいません　か。\nＢ：ああ、はい、いい　です　よ。建物[たてもの]　は　全部[ぜんぶ]　入[い]りません　か。\nＡ：あ、じゃ、入[い]り口[ぐち]　の　ドア　だけ　で　いい　です。\nＢ：はい、じゃ、取[と]ります　よ。一[いち]、二[に]、三[さん]。\n写真[しゃしん]　は　どう　なりました　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 8,
+      "uid": "N5-listening-0008",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。今月[こんげつ]　の　カレンダー　は　どれ　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L2-Q4.mp3",
+        "image_file_path": "listening/JT4Y/L2-Q4.png",
+        "text_content": "Ａ：田中[たなか]さん。\nＢ：はい。何[なん]　です　か。\nＡ：パーティー　は\nＢ：はい。\nＡ：来週[らいしゅう]　の、金曜日[きんようび]　に　なったん　です　けど。\nＢ：えーと、来週[らいしゅう]　の　金曜日[きんようび]　は、十日[とうか]　です　ね。私[わたし]、来週[らいしゅう]　の　十日[とうか]　は　忙[いそが]しい　です　よ。\nＡ：いいえ、八日[ようか]　です　よ、田中[たなか]さん。何[なに]　見[み]てるん　です　か。それ　は、先月[せんげつ]　の　カレンダー　です　よ。\nＢ：あ、本当[ほんとう]　だ。\n今月[こんげつ]　の　カレンダー　は　どれ　です　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 9,
+      "uid": "N5-listening-0009",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　二人[ふたり]　が　店[みせ]　で　話[はな]しています。二人[ふたり]　は　どんな　スカート　を　見[み]て　います　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "黒[くろ]い　スカート　です",
+        "alternative_2": "茶[ちゃ]色[いろ]　の　スカート　です",
+        "alternative_3": "赤[あか]い　スカート　です",
+        "alternative_4": "白[しろ]い　スカート　です",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L2-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：いらっしゃいませ。こちら　の　白[しろ]い　スカート　は、あのう、新[あたら]しく　入[はい]りました。いかが　です　か。\nＢ：いい　です　ね。\nＡ：同[おな]じ　形[かたち]　で　ほか　に　黒[くろ]　と　灰色[はいいろ]、赤[あか]　も　あります　が、そちら　も　見[み]ます　か。\nＢ：いいえ、これ　は　いい　です。これ　を　ください。\n二人[ふたり]　は　どんな　スカート　を　見[み]て　います　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 10,
+      "uid": "N5-listening-0010",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　の　アパート　は　どう　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "うるさい　です　が、便[べん]利[り]　です",
+        "alternative_2": "うるさくて、不[ふ]便[べん]　です",
+        "alternative_3": "静[しず]か　で、便[べん]利[り]　です",
+        "alternative_4": "静[しず]か　です　が、不[ふ]便[べん]　です",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L3-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：私[わたし]　の　アパート　は　遠[とお]くて、不便[ふべん]　です。田中[たなか]さん　の　アパート　は　どこ　です　か。\nＢ：学校[がっこう]　の　近[ちか]く　です。\nＡ：あ、それ　は　便利[べんり]　で、いい　です　ね。\nＢ：ええ。\nＡ：でも、うるさくない　です　か。\nＢ：いいえ、公園[こうえん]　の　隣[となり]　で、とても　静[しず]か　です　よ。\n男[おとこ]　の　人[ひと]　の　アパート　は　どう　です　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 11,
+      "uid": "N5-listening-0011",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どれ　を　とります　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L4-Q1.mp3",
+        "image_file_path": "listening/JT4Y/L4-Q1.png",
+        "text_content": "女[おんな]：ああ、すみません。その　テーブル　の　下[した]　の　本[ほん]　を　取[と]ってくれません　か\n男[おとこ]：ええと、これ　です　か。\n女[おんな]：いいえ、それ　じゃなくて　箱[はこ]　の　上[うえ]　の　です。\n男[おとこ]　の　人[ひと]　は　どれ　を　とります　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 12,
+      "uid": "N5-listening-0012",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　子[こ]　と　お母[かあ]さん　が　話[はな]しています。お母[かあ]さん　は　何[なに]　を　渡[わた]しました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L4-Q2.mp3",
+        "image_file_path": "listening/JT4Y/L4-Q2.png",
+        "text_content": "男[おとこ]　の　子[こ]：お母[かあ]さん、行[い]って　来[き]ます。\nお母[かあ]さん：ああ、ちょっと　待[ま]って。これ　を　被[かぶ]って　行[い]きなさい。\n男[おとこ]　の　子[こ]：ええ、どうして。\nお母[かあ]さん：まだ　風邪[かぜ]　を　引[ひ]いているでしょう。\n男[おとこ]　の　子[こ]：はい。\nお母[かあ]さん　は　何[なに]　を　渡[わた]しました　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 13,
+      "uid": "N5-listening-0013",
+      "question_type": "listening",
+      "question_text": "先生[せんせい]　が　生徒[せいと]　に　話[はな]しています。生徒[せいと]　は　明日[あした]　何[なに]　を　持[も]っていきます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L4-Q3.mp3",
+        "image_file_path": "listening/JT4Y/L4-Q3.png",
+        "text_content": "先生[せんせい]：皆[みな]さん、明日[あした]　は　旅行[りょこう]　です　ね。飲[の]み物[もの]　を　忘[わす]れないで　ください。それから　雨[あめ]　が　降[ふ]るかもしれません　から　傘[かさ]　も　持[も]ってきて　ください。お菓子[かし]　は　持[も]ってこないで　ください。いい　です　か。\n生徒[せいと]　は　明日[あした]　何[なに]　を　持[も]っていきます　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 14,
+      "uid": "N5-listening-0014",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　子[こ]　が　お店[みせ]　の　人[ひと]　と　話[はな]しています。女[おんな]　の　子[こ]　は　どの　財布[さいふ]　を　買[か]いました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L4-Q4.mp3",
+        "image_file_path": "listening/JT4Y/L4-Q4.png",
+        "text_content": "女[おんな]　の　子[こ]：すみません。三千円[さんぜんえん]　ぐらい　の　財布[さいふ]　は　ありません　か。\n店[みせ]　の　人[ひと]：三千円[さんぜんえん]　です　か。この　四[よ]つ　です　ね。色[いろ]　は　黒[くろ]　と　白[しろ]　だけ　です　が、この　丸[まる]い　の　が　可愛[かわい]い　です　よ。\n女[おんな]　の　子[こ]：う～ん、丸[まる]い　の　は　あまり　好[す]きじゃない　から、これ　です　ね。じゃ、この　黒[くろ]い　の　を　ください。\n店[みせ]　の　人[ひと]：ありがとうございます。\n女[おんな]　の　子[こ]　は　どの　財布[さいふ]　を　買[か]いました　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 15,
+      "uid": "N5-listening-0015",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　が　外国語[がいこくご]　で　女[おんな]　の　人[ひと]　と　電話[でんわ]　で　話[はな]しています。女[おんな]　の　人[ひと]　の　国[くに]　は　今[いま]　何時[なんじ]　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "午[ご]前[ぜん]　８じ５０分[ぷん]",
+        "alternative_2": "午[ご]後[ご]　８じ５０分[ぷん]",
+        "alternative_3": "午[ご]前[ぜん]　８じ１５分[ふん]",
+        "alternative_4": "午[ご]後[ご]　８じ１５分[ふん]",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L4-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "男[おとこ]：今[いま]、そっち　は　何時[なんじ]？\n女[おんな]： ８時[じ]５０分[ぷん]。\n男[おとこ]：へえ、日本[にっぽん]　も　今[いま]　 ８時[じ]５０分[ぷん]　だ　よ。\n女[おんな]：ええ？　同[おな]じ？\n男[おとこ]：でも、こっち　は　夜[よる]　だ　よ。夜[よる]　の　 ８時[じ]５０分[ぷん]。\n女[おんな]：何[なん]だ。\n女[おんな]　の　人[ひと]　の　国[くに]　は　今[いま]　何時[なんじ]　です　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 16,
+      "uid": "N5-listening-0016",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　毎日[まいにち]　会社[かいしゃ]　まで　どうやって　行[い]きます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L5-Q1.mp3",
+        "image_file_path": "listening/JT4Y/L5-Q1.png",
+        "text_content": "女[おんな]：毎日[まいにち]　会社[かいしゃ]　まで　どうやって　行[い]きます　か。\n男[おとこ]：駅[えき]　まで　自転車[じてんしゃ]　で　行[い]って、ええ、それから　電車[でんしゃ]　で　南[みなみ]　駅[えき]　まで　行[い]きます。\n女[おんな]：南[みなみ]　駅[えき]　から　会社[かいしゃ]　まで　は　歩[ある]いていきます　か。\n男[おとこ]：いいえ、少[すこ]し　遠[とお]い　です　から、バス　で　行[い]きます。\n男[おとこ]　の　人[ひと]　は　毎日[まいにち]　会社[かいしゃ]　まで　どうやって　行[い]きます　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 17,
+      "uid": "N5-listening-0017",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　子[こ]　が　お爺[じい]さん　と　話[はな]しています。女[おんな]　の　子[こ]　は　いつ　電話[でんわ]　します　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L5-Q2.mp3",
+        "image_file_path": "listening/JT4Y/L5-Q2.png",
+        "text_content": "女[おんな]　の　子[こ]：じゃ、おじいちゃん、私[わたし]　明後日[あさって]　東京[とうきょう]　に　着[つ]いたら　すぐ　電話[でんわ]　する。\nおじいさん：じゃ、七日[なのか]　だな。\n女[おんな]　の　子[こ]：違[ちが]う　よ、おじいちゃん。今日[きょう]　は　四日[よっか]　よ。だから　明後日[あさって]　は　六日[むいか]。\nおじいさん：お～、そうか。じゃあ、明後日[あさって]。\n女[おんな]　の　子[こ]：うん。\n女[おんな]　の　子[こ]　は　いつ　電話[でんわ]　します　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 18,
+      "uid": "N5-listening-0018",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　どの　コート　が　ほしい　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L5-Q3.mp3",
+        "image_file_path": "listening/JT4Y/L5-Q3.png",
+        "text_content": "女性[じょせい]：あの　コート　いい　よ　ね。\n男性[だんせい]：どれ？\n女性[じょせい]：あの、長[なが]くて　白[しろ]い　の。\n男性[だんせい]：ポケット　が　ある　コート？\n女性[じょせい]：違[ちが]う。大[おお]きい　ボタン　のある　コート。\n女[おんな]　の　人[ひと]　は　どの　コート　がほしい　です　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 19,
+      "uid": "N5-listening-0019",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　が　自転車[じてんしゃ]　の　鍵[かぎ]　を　捜[さが]しています。鍵[かぎ]　は　どこ　に　ありました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L5-Q4.mp3",
+        "image_file_path": "listening/JT4Y/L5-Q4.png",
+        "text_content": "男性[だんせい]：あれ、鍵[かぎ]　が　ない。\n女性[じょせい]：自転車[じてんしゃ]　の　鍵[かぎ]？\n男性[だんせい]：見[み]た？\n女性[じょせい]：さっき、テーブル　の　上[うえ]　に　あった　けど。\n男性[だんせい]：ない　よ。\n女性[じょせい]：あ、椅子[いす]　の　上[うえ]　に　置[お]いたんだ。ほら、本棚[ほんだな]　の　横[よこ]　の　椅子[いす]。\n男性[だんせい]：ああ、あった。\n鍵[かぎ]　は　どこ　に　ありました　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 20,
+      "uid": "N5-listening-0020",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。昨日[きのう]、二人[ふたり]　で　一緒[いっしょ]に　何[なに]　を　しました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "テニス　を　しました。",
+        "alternative_2": "お酒[さけ]　を　飲[の]みました。",
+        "alternative_3": "サッカー　を　しました。",
+        "alternative_4": "買[か]い物[もの]　を　しました。",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L5-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "男[おとこ]：昨日[きのう]　の　テニス、楽[たの]しかった　です　ね。\n女[おんな]：ええ、でも、ちょっと　疲[つか]れました。\n男[おとこ]：僕[ぼく]　は　あの　後[あと]、サッカー　を　して、夜[よる]　は　皆[みな]　で　お酒[さけ]　を　飲[の]み　に　行[い]きました。\n女[おんな]：元気[げんき]　です　ね。私[わたし]　は　テニス　の　後[あと]、買[か]い物[もの]　を　して　帰[かえ]りました。\n昨日[きのう]、二人[ふたり]　で　一緒[いっしょ]に　何[なに]　を　しました　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 21,
+      "uid": "N5-listening-0021",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　何[なに]　を　買[か]ってきました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "牛[ぎゅう]肉[にく]　です",
+        "alternative_2": "豚[ぶた]肉[にく]　です",
+        "alternative_3": "鶏[とり]肉[にく]　です",
+        "alternative_4": "牛[ぎゅう]乳[にゅう]　です",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L6-Q1.mp3",
+        "image_file_path": null,
+        "text_content": "男性[だんせい]：ただいま。買[か]ってきた　よ。\n女性[じょせい]：はい、ありがとう。あれ、これ　牛肉[ぎゅうにく]　じゃない？\n男性[だんせい]：うん、牛肉[ぎゅうにく]　だ　よ。ええ、豚肉[ぶたにく]　だった？\n女性[じょせい]：私[わたし]、鶏肉[とりにく]　も　頼[たの]んだんだけど。\n男性[だんせい]：ええ、そうだった？\n女性[じょせい]：そう　よ。\n男[おとこ]　の　人[ひと]　は　何[なに]　を　買[か]ってきました　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 22,
+      "uid": "N5-listening-0022",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　会社[かいしゃ]　で　話[はな]しています。今[いま]、どんな　天気[てんき]　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "晴[は]れ　です",
+        "alternative_2": "雨[あめ]　です",
+        "alternative_3": "曇[くも]り　です",
+        "alternative_4": "雪[ゆき]　です",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L6-Q2.mp3",
+        "image_file_path": null,
+        "text_content": "男性[だんせい]：おはようございます。寒[さむ]い　です　ね。\n女性[じょせい]：本当[ほんとう]。天気[てんき]　も　悪[わる]い　です　ね。雨[あめ]　は　降[ふ]っています　か。\n男性[だんせい]：いいえ、まだ　降[ふ]っていません。でも、夜[よる]　から　雪[ゆき]　です　よ。テレビ　で　言[い]っていました。\n今[いま]、どんな　天気[てんき]　です　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 23,
+      "uid": "N5-listening-0023",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どう　します　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "女[おんな]　の　人[ひと]　と　仕事[しごと]　を　します",
+        "alternative_2": "一人[ひとり]　で　仕事[しごと]　を　します",
+        "alternative_3": "女[おんな]　の　人[ひと]　と　映画[えいが]　を　見[み]ます",
+        "alternative_4": "一人[ひとり]で　映画[えいが]　を　見[み]ます",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L6-Q3.mp3",
+        "image_file_path": null,
+        "text_content": "男性[だんせい]：木村[きむら]さん、申[もう]し込[ご]み　は　終[お]わりました？\n女性[じょせい]：いいえ、まだ　です。でも、今日[きょう]　は　もう　疲[つか]れた　から　帰[かえ]ります。\n男性[だんせい]：あのう、映画[えいが]　の　切符[きっぷ]　が　二枚[にまい]　あるん　です　けど、今[いま]　から　一緒[いっしょ]に　行[い]きません　か。\nこの　切符[きっぷ]、今日[きょう]　まで　なん　です。\n女性[じょせい]：すみません。今日[きょう]　は　ちょっと。\n男性[だんせい]：そう　です　か。残念[ざんねん]　だなあ。じゃあ、一人[ひとり]　で　行[い]きます。\n女性[じょせい]：すみません。\n男性[だんせい]：いえいえ。\n男[おとこ]　の　人[ひと]　は　どう　します　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 24,
+      "uid": "N5-listening-0024",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。服[ふく]　は　誰[だれ]　の　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "この　男[おとこ]　の　人[ひと]　の　です",
+        "alternative_2": "この　男[おとこ]　の　人[ひと]　の　お父[とう]さん　の　です",
+        "alternative_3": "この　男[おとこ]　の　人[ひと]　の　お兄[にい]さん　の　です",
+        "alternative_4": "この　男[おとこ]　の　人[ひと]　の　弟[おとうと]さん　の　です",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L6-Q4.mp3",
+        "image_file_path": null,
+        "text_content": "女性[じょせい]：その　服[ふく]、素敵[すてき]　です　ね。\n男性[だんせい]：ありがとうございます。でも、これ、僕[ぼく]　の　じゃないん　です。\n女性[じょせい]：あら、そう　なん　です　か。じゃ、お兄[にい]さん　か　弟[おとうと]さん　の　です　か。\n男性[だんせい]：いいえ、父[ちち]　の　です。\n女性[じょせい]：ええ、そう　です　か。\n服[ふく]　は　誰[だれ]　の　です　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 25,
+      "uid": "N5-listening-0025",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　何人[なんにん]　家族[かぞく]　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "三[さん]人[にん]　家[か]族[ぞく]　です",
+        "alternative_2": "四[よ]人[にん]　家[か]族[ぞく]　です",
+        "alternative_3": "五[ご]人[にん]　家[か]族[ぞく]　です",
+        "alternative_4": "六[ろく]人[にん]　家[か]族[ぞく]　です",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L6-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "女性[じょせい]：佐藤[さとう]さん　は　何人[なんにん]　家族[かぞく]　です　か。\n男性[だんせい]：両親[りょうしん]　と　私[わたし]　の　三人[さんにん]　家族[かぞく]　です。飯田[いいだ]さん　は？\n女性[じょせい]：はい、両親[りょうしん]　と　兄[あに]　が　一人[ひとり]　と　姉[あね]　が　一人[ひとり]　と　私[わたし]　です。\n男性[だんせい]：ああ、そう　です　か。\n女[おんな]　の　人[ひと]　は　何人[なんにん]　家族[かぞく]　です　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 26,
+      "uid": "N5-listening-0026",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　どう　します　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L7-Q2.mp3",
+        "image_file_path": "listening/JT4Y/L7-Q2.png",
+        "text_content": "女[おんな]：パーティー　に　行[い]きます　か。\n男[おとこ]：はい、勉強[べんきょう]　が　終[お]わって　から　行[い]きます。\n女[おんな]：そう、誰[だれ]か　と　一緒[いっしょ]に　いきます　か。\n男[おとこ]：うん、そう　です　ね。一人[ひとり]　で　行[い]きます。\n男[おとこ]　の　人[ひと]　は　どう　します　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 27,
+      "uid": "N5-listening-0027",
+      "question_type": "listening",
+      "question_text": "教室[きょうしつ]　で　先生[せんせい]　と　学生[がくせい]　が　話[はな]しています。今日[きょう]　の　授業[じゅぎょう]　は　本[ほん]　の　何[なん]　ページ　から　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "５７ページ",
+        "alternative_2": "５８ページ",
+        "alternative_3": "５９ページ",
+        "alternative_4": "６０ページ",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L7-Q3.mp3",
+        "image_file_path": null,
+        "text_content": "男[おとこ]：では、授業[じゅぎょう]　を　始[はじ]めます。え、今日[きょう]　は　６　０　ページ　から。　では、６　０　ページ　を　見[み]て　ください。\n女[おんな]：あのう、先生[せんせい]　先週[せんしゅう]　は　５　７　ページ　まで　でした。\n男[おとこ]：５　８　ページ　と　５　９　ページ　が　家[いえ]　で　読[よ]んで　ください。いい　です　か。では、始[はじ]めましょう。\n今日[きょう]　の　授業[じゅぎょう]　は　本[ほん]　の　何[なん]　ページ　から　です　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 28,
+      "uid": "N5-listening-0028",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は　買[か]った　物[もの]　は、どれ　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L8-Q1.mp3",
+        "image_file_path": "listening/JT4Y/L8-Q1.png",
+        "text_content": "男[おとこ]：いらっしゃいませ。\n女[おんな]：これ　を　三[みっ]つ　ください。\n男[おとこ]：はい、三[みっ]つ　です　ね。\n女[おんな]：え、それから、それ　を　二本[にほん]　ください。\n男[おとこ]：二本[にほん]　です　ね。ありがとうございます。\n女[おんな]　の　人[ひと]　が　買[か]った　物[もの]　は、どれ　です　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 29,
+      "uid": "N5-listening-0029",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。山田[やまだ]さん　の　おねえさん　は　どの　人[ひと]　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L8-Q2.mp3",
+        "image_file_path": "listening/JT4Y/L8-Q2.png",
+        "text_content": "女[おんな]：あそこ　で　話[はな]している　人[ひと]、山田[やまだ]さん　の　おねえさん　よ。\n男[おとこ]：え、どの　人[ひと]？\n女[おんな]：ほら、長[なが]い　スカート　を　はいている　人[ひと]。\n男[おとこ]：眼鏡[めがね]　を　かけている　人[ひと]？\n女[おんな]：ううん～\n男[おとこ]：あ、あの　人[ひと]。\n山田[やまだ]さん　の　おねえさん　は　どの　人[ひと]　です　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 30,
+      "uid": "N5-listening-0030",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。つぎ　は　いつ　会[あ]います　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L8-Q3.mp3",
+        "image_file_path": "listening/JT4Y/L8-Q3.png",
+        "text_content": "男[おとこ]：つぎ　は　いつ　会[あ]います　か。\n女[おんな]：わたし　は　毎週[まいしゅう]　火曜日[かようび]　が　忙[いそが]しい　です。\n男[おとこ]：私[わたし]　は　六日[むいか]　が　忙[いそが]しくて、あ、八日[ようか]　は　どう　です　か。\n女[おんな]：え、四日[よっか]　です　か。\n男[おとこ]：いいえ、八日[ようか]　です。\n女[おんな]：あ、大丈夫[だいじょうぶ]　です、じゃあ、八日[ようか]　に　しましょう。\nつぎ　は　いつ　会[あ]います　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 31,
+      "uid": "N5-listening-0031",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　パーティー　で　話[はな]しています。今[いま]、お菓子[かし]　は　どうなっています　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L8-Q4.mp3",
+        "image_file_path": "listening/JT4Y/L8-Q4.png",
+        "text_content": "男[おとこ]：この　お菓子[かし]、美味[おい]しい　です　よ。\n女[おんな]：あ、そう　です　か。どこ　に　あります　か。\n男[おとこ]：あそこ　です。あ、少[すこ]し　しか　ありません。\n今[いま]、お菓子[かし]　は　どうなっています　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 32,
+      "uid": "N5-listening-0032",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、そと　を　見[み]ながら　話[はな]しています。今朝[けさ]　は　どんな　天気[てんき]　でした　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L8-Q5.mp3",
+        "image_file_path": "listening/JT4Y/L8-Q5.png",
+        "text_content": "男[おとこ]：雨[あめ]　が　まだ　降[ふ]っています　か。\n女[おんな]：ええ、寒[さむ]い　から、夜[よる]　に　雪[ゆき]　に　なるでしょうね。\n男[おとこ]：うん、困[こま]ったな。今朝[けさ]　は　晴[は]れています　から、傘[かさ]　を　持[も]って　来[き]ませんでした。\n女[おんな]：あ、私[わたし]　も　です、今朝[けさ]　は　本当[ほんとう]に　いい　天気[てんき]　でした　から。\nけさ　は　どんな　天気[てんき]　でした　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 33,
+      "uid": "N5-listening-0033",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　歌[うた]　を　聞[き]いて　話[はな]しています。二人[ふたり]　は　この　歌[うた]　が　好[す]き　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L9-Q1.mp3",
+        "image_file_path": null,
+        "text_content": "男[おとこ]：この　歌[うた]、とても　いい　です　ね。楽[たの]しくなります。\n女[おんな]：そう　です　か。私[わたし]　は　あまり。ちょっと　うるさい　です。\n二人[ふたり]　は　この　歌[うた]　が　好[す]き　です　か。\n１：男[おとこ]　の　人[ひと]　は　すき　です\n２：女[おんな]　の　人[ひと]　はすき　です\n３：男[おとこ]　の　人[ひと]　も　女[おんな]　の　人[ひと]　もすき　です\n４：男[おとこ]　の　人[ひと]　も　女[おんな]　の　人[ひと]　も　好[す]き　では　すきません"
+      },
+      "tags": [
+        "Compreensão do Assunto",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 34,
+      "uid": "N5-listening-0034",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　は　日曜日[にちようび]　に　何[なん]　時間[じかん]　バイオリーン　を　練習[れんしゅう]　しています　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L9-Q2.mp3",
+        "image_file_path": null,
+        "text_content": "男[おとこ]：上手[じょうず]　です　ね。毎日[まいにち]　どの　くらい　練習[れんしゅう]　しています　か。\n女[おんな]：三[さん]時間[じかん]　です、でも、休[やす]み　の　日[ひ]　は　もっと　します。土曜日[どようび]　は　四[よ]時間[じかん]、日曜日[にちようび]　は　六[ろく]時間[じかん]　です。\n男[おとこ]：大変[たいへん]　です　ね。\n女[おんな]　の　人[ひと]　は　日曜日[にちようび]　に　何[なん]　時間[じかん]　バイオリーン　を　練習[れんしゅう]　しています　か。\n１：３時間[じかん]\n２：４時間[じかん]\n３：６時間[じかん]\n４：９時間[じかん]"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 35,
+      "uid": "N5-listening-0035",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　の　お母[かあ]さん　は　いま　何[なに]　を　しています　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L9-Q3.mp3",
+        "image_file_path": null,
+        "text_content": "女[おんな]：たかさきさん　の　お母[かあ]さん　は、何[なに]か　仕事[しごと]　を　します　か。\n男[おとこ]：いいえ、去年[きょねん]　まで　は　高校[こうこう]　の　先生[せんせい]　でした　が、今年[ことし]　から　大学生[だいがくせい]　に　なりました。医者[いしゃ]　に　なる　勉強[べんきょう]　を　しています。\n女[おんな]：ええ、お医者[いしゃ]さん　に。それ　は　すごい　です　ね。\n男[おとこ]　の　人[ひと]　の　お母[かあ]さん　は　いま　何[なに]　を　しています　か。\n１：いしゃ　です\n２：大学[だいがく]　の　先生[せんせい]　です\n３：高校[こうこう]　の　先生[せんせい]　です\n４：大学生[だいがくせい]　です"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 36,
+      "uid": "N5-listening-0036",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。男[おとこ]　の　人[ひと]　は　京都[きょうと]　で　何[なに]　を　しましたか。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L9-Q4.mp3",
+        "image_file_path": null,
+        "text_content": "男[おとこ]：これ、京都[きょうと]　で　買[か]った　お菓子[かし]　です、どうぞ。\n女[おんな]：ありがとうございます。旅行[りょこう]　です　か。\n男[おとこ]：はい、友達[ともだち]　の　結婚[けっこん]　パーティー　でした。おととい　行[い]って　ゆうべ　帰[かえ]ったん　です。\n有名[ゆうめい]な　ところ　へ　も　行[い]きたかったん　です　けど、時間[じかん]　が　ありません　でした　男[おとこ]　の　人[ひと]　は　京都[きょうと]　で　何[なに]　を　しました　か。\n１：仕事[しごと]　を　しました\n２：結婚[けっこん]　パーティー　へ　行[い]きました\n３：結婚[けっこん]　しました\n４：有名[ゆうめい]な　ところ　へ　いきました"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 37,
+      "uid": "N5-listening-0037",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　が、話[はな]しています。この　人[ひと]　は、先週[せんしゅう]　何日[なんにち]　休[やす]みました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L9-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "男[おとこ]：先週[せんしゅう]　が　本当[ほんとう]に　忙[いそが]しかった　です、私[わたし]　の　会社[かいしゃ]　は　土曜日[どようび]　と　日曜日[にちようび]　が　休[やす]み　です。でも、先週[せんしゅう]　の　土曜日[どようび]　は　休[やす]まないで　会社[かいしゃ]　に　行[い]きました。いや、疲[つか]れました：ね。この　人[ひと]　は、先週[せんしゅう]　何日[なんにち]　休[やす]みました　か。\n１：一日[ついたち]\n２：二日[ふつか]\n３：三日[みっか]\n４：ぜんぜん　休[やす]みませんでした"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 38,
+      "uid": "N5-listening-0038",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が、話[はな]しています。女[おんな]　の　人[ひと]　が　今[いま]　から、誰[だれ]　に　会[あ]います　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L10-Q1.mp3",
+        "image_file_path": null,
+        "text_content": "男[おとこ]：これから、どう　します　か。\n女[おんな]：今日[きょう]　は　すぐ　帰[かえ]ります。おばさん　に　会[あ]い　に　いきます　から。\n男[おとこ]：あ、おばあさん　に。\n女[おんな]：いいえ、おばあさん　じゃなくて、おば　です　よ。母[はは]　の　姉[あね]　です。\n男[おとこ]：あ、そう　です　か。\n女[おんな]　の　人[ひと]　が　今[いま]　から、誰[だれ]　に　会[あ]います　か。\n１：おばあさん　です\n２：おかあさん　です\nおかあさん　です　３：おばさん　です\n４：おねえさん　です"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 39,
+      "uid": "N5-listening-0039",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。女[おんな]　の　人[ひと]　は　どう　します　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L10-Q2.mp3",
+        "image_file_path": null,
+        "text_content": "女[おんな]：あの、すみません。ここ　は、山田[やまだ]　先生[せんせい]　の　部屋[へや]　です　か。\n男[おとこ]：はい、そう　です。\n女[おんな]：山田[やまだ]　先生[せんせい]　は。\n男[おとこ]：あ、いま、二番[にばん]　の　教室[きょうしつ]　で　授業中[じゅぎょうちゅう]　です。えっと、三時[さんじ]　に　終[お]わります　けど。\n女[おんな]：あ、そう　です　か。じゃ、まだ、あと　で　きます。\n女[おんな]　の　人[ひと]　は　どう　します　か。\n１：いま　から、教室[きょうしつ]　に　いきます\n２：あと　で、教室[きょうしつ]　に　いきます\n３：先生[せんせい]　の　部屋[へや]　で　待[ま]ちます\n４：あとで　先生[せんせい]　の　部屋[へや]　に　きます"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 40,
+      "uid": "N5-listening-0040",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　人[ひと]　と　男[おとこ]　の　人[ひと]　が、話[はな]しています。男[おとこ]　の　人[ひと]　は　何[なに]　を　飲[の]みます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L10-Q3.mp3",
+        "image_file_path": null,
+        "text_content": "女[おんな]：鈴木[すずき]さん、何[なに]か　飲[の]みます　か。\n男[おとこ]：はい、ありがとうございます。\n女[おんな]：何[なに]　が　いい　です　か、コーヒー、紅茶[こうちゃ]。\n男[おとこ]：そう　です　ね。あの、おみず　を　お願[ねが]い　します。\n女[おんな]：おみず。\n男[おとこ]：え、熱[あつ]い　飲[の]み物[もの]　は　ちょっと\n女[おんな]：それでは、冷[つめ]たい　お茶[ちゃ]　は　どう　です　か。\n男[おとこ]：あ、そう　です　ね。お願[ねが]い　します。\n男[おとこ]　の　人[ひと]　は　何[なに]　を　飲[の]みます　か。\n１：熱[あつ]い　コーヒー　を　飲[の]みます\n２：熱[あつ]い　紅茶[こうちゃ]　を　飲[の]みます\n３：冷[つめ]たい　水[みず]　を　飲[の]みます\n４：冷[つめ]たい　お茶[ちゃ]　を　飲[の]みます"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 41,
+      "uid": "N5-listening-0041",
+      "question_type": "listening",
+      "question_text": "クラス　で　先生[せんせい]　が　話[はな]しています。学生[がくせい]　は、きょう　うち　で、どこ　を　勉強[べんきょう]　します　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L31-Q4.mp3",
+        "image_file_path": "listening/JT4Y/L31-Q4.png",
+        "text_content": "Ａ：「では、きょう　は　２　０　ページ　まで　おわりました　から、２　１　ページ　は　しゅくだい　です　ね。」\nＢ：「ぜんぶ　です　か。」\nＡ：「いいえ、２　１　ページ　の　１　ばん　です。２　ばん　は、クラス　で　します。」\n学生[がくせい]　は、きょう　うち　で、どこ　を　べんきょう　します　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 42,
+      "uid": "N5-listening-0042",
+      "question_type": "listening",
+      "question_text": "くつした　の　お店[みせ]　で、女[おんな]　の　人[ひと]　と　店[みせ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、どの　くつした　を　買[か]います　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L31-Q5.mp3",
+        "image_file_path": "listening/JT4Y/L31-Q5.png",
+        "text_content": "Ａ：「子供[こども]　の　くつした、あります　か。」\nＢ：「はい。長[なが]い　の　です　か、短[みじか]い　の　です　か。」\nＡ：「長[なが]い　の　です。」\nＢ：「はい。くだもの　の　絵[え]　と　どうぶつ　の　絵[え]　が　あります。どちら　が　いい　です　か。」\nＡ：「そう　です　ね、どうぶつ　の　を　ください。」\n女[おんな]　の　人[ひと]　は、どの　くつした　を　買[か]います　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 43,
+      "uid": "N5-listening-0043",
+      "question_type": "listening",
+      "question_text": "びょういん　で、医者[いしゃ]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、いちにち　に　なんかい　薬[くすり]　を　のみます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "１かい",
+        "alternative_2": "２かい",
+        "alternative_3": "３かい",
+        "alternative_4": "４かい",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L34-Q1.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：「この　薬[くすり]　は　朝[あさ]　と　夜[よる]ごはん　を　食[た]べた　あと　で　のんで　ください。」\nＢ：「ひるごはん　の　あと　は？」\nＡ：「ひる　は　のまないで　ください。」\nＢ：「はい。」\nＡ：「四日[よっか]かん　のんで　くださいね。」\nＢ：「わかりました。」\n女[おんな]　の　人[ひと]　は、いちにち　に　なんかい　薬[くすり]　を　のみます　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 44,
+      "uid": "N5-listening-0044",
+      "question_type": "listening",
+      "question_text": "デパート　で、女[おんな]　の　人[ひと]　と　店[みせ]　の　人[ひと]　が　話[はな]しています。店[みせ]　の　人[ひと]　は、どの　かばん　を　とります　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L34-Q2.mp3",
+        "image_file_path": "listening/JT4Y/L34-Q2.png",
+        "text_content": "Ａ：「すみません、その　上[うえ]　の　黒[くろ]い　かばん　を　とって　ください。」\nＢ：「どちら　です　か。この　小[ちい]さい　の　です　か。」\nＡ：「いいえ。大[おお]きい　の　です。」\nＢ：「はい。」\n店[みせ]　の　人[ひと]　は、どの　かばん　を　とります　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 45,
+      "uid": "N5-listening-0045",
+      "question_type": "listening",
+      "question_text": "きょうしつ　で、先生[せんせい]　が　話[はな]しています。学生[がくせい]　は、つくえ　の　上[うえ]に　何[なに]　を　おきます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L34-Q3.mp3",
+        "image_file_path": "listening/JT4Y/L34-Q3.png",
+        "text_content": "Ａ：「今[いま]　から　テスト　を　します。この　テスト　では、じしょ　を　使[つか]う　もんだい　が　あります　から、つくえ　の　上[うえ]　に　じしょ　を　出[だ]して　ください。えんぴつ　と　けしゴム　も　出[だ]して　ください。とけい　は、かばん　の　中[なか]　に　入[い]れて　ください。」\nＢ：「先生[せんせい]、ノート　は　どう　します　か。」\nＡ：「ノート　も　かばん　の　中[なか]　に　入[い]れて　ください。」\n学生[がくせい]　は、つくえの　上[うえ]　に　何[なに]　を　おきます　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 46,
+      "uid": "N5-listening-0046",
+      "question_type": "listening",
+      "question_text": "バス　の　中[なか]　で、りょこう　会社[かいしゃ]　の　人[ひと]　が　学生[がくせい]　に　話[はな]しています。学生[がくせい]　は、はじめに　何[なに]　を　します　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L34-Q4.mp3",
+        "image_file_path": "listening/JT4Y/L34-Q4.png",
+        "text_content": "みなさん、ホテル　に　着[つ]きました。今[いま]　から　いっかい　の　レストラン　で　晩[ばん]ごはん　を　食[た]べます。\n晩[ばん]ごはん　は　七時[しち]時[じ]　から　です。六[ろく]時[じ]五十分[ごじゅっぷん]　です　から、すぐ　に　行[い]って　ください。皆[みな]さん　の　にもつ　は、ホテル　の　人[ひと]　がへやに　持[も]っていきます。晩[ばん]ごはんのあとは、テレビ　を　見[み]た　り、買[か]い\n買[か]い　物[もの]　を　したりして　ください。\n学生[がくせい]　は、はじめに　何[なに]　を　します　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 47,
+      "uid": "N5-listening-0047",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は、何[なに]　を　持[も]っていきます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。それから　話[はなし]　を　聞[き]いて、もんだいようしの　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": "4",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L34-Q5.mp3",
+        "image_file_path": "listening/JT4Y/L34-Q5.png",
+        "text_content": "Ａ：「らいしゅうの　日[にち]よう日[び]、うみ　へ　行[い]きます　ね。男[おとこ]　の　人[ひと]　は、何[なに]　を　持[も]っていきましょう　か。」\nＢ：「わたし　は　おにぎり　を　持[も]っていきます。」\nＡ：「じゃあ、ぼく　は。」\nＢ：「飲[の]みもの　と　お菓子[かし]　を　おねがい　します。」\nＡ：「はい。飲[の]みもの　と　お菓子[かし]　です　ね。」\nＢ：「あ、飲[の]みもの　は　重[おも]い　です　ね。うみ　に　着[つ]いて　から　買[か]いましょう。」\nＡ：「そう　です　ね。」\n男[おとこ]　の　人[ひと]　は、何[なに]　を　持[も]っていきます　か。"
+      },
+      "tags": [
+        "Compreensão do Assunto"
+      ]
+    },
+    {
+      "id": 48,
+      "uid": "N5-listening-0048",
+      "question_type": "listening",
+      "question_text": "だいがく　で、男[おとこ]　の　学生[がくせい]　と　女[おんな]　の　学生[がくせい]　が　話[はな]しています。女[おんな]　の　学生[がくせい]　は、きょう、何[なん]　時間[じかん]　べんきょう　します　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "１じかん",
+        "alternative_2": "２じかん",
+        "alternative_3": "３じかん",
+        "alternative_4": "４じかん",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L36-Q4.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：「山田[やまだ]さん　は　いつも　何[なん]　時間[じかん]　ぐらい　べんきょう　します　か。」\nＢ：「うーん、まいにち　３　時間[じかん]　ぐらい　です。」\nＡ：「えっ、わたし　は　まいにち　１　時間[じかん]　です。」\nＢ：「あ、でも、明日[あした]　は　テスト　が　あります　から、きょう　は　４　時間[じかん]　べんきょう　します。」\nＡ：「そう　です　か。」\n女[おんな]　の　学生[がくせい]　は、きょう、何[なん]　時間[じかん]　べんきょう　します　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 49,
+      "uid": "N5-listening-0049",
+      "question_type": "listening",
+      "question_text": "バスてい　で、女[おんな]　の　人[ひと]　と　バス　会社[かいしゃ]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　は、なん　ばんの　バス　に　乗[の]ります　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "１ばん",
+        "alternative_2": "３ばん",
+        "alternative_3": "５ばん",
+        "alternative_4": "７ばん",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L36-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：「すみません、１　ばん　の　バス　は　みどり　駅[えき]　に　行[い]きます　か。」\nＢ：「いいえ、みどり　駅[えき]　に　行[い]く　バス　は　３　ばん　と　５　ばん　と　７　ばん　です　よ。」\nＡ：「そう　です　か。」\nＢ：「あ、でも、きょう　は　日[にち]よう日[び]　です　から、５　ばん　の　バス　は　ありません。」\nＡ：「そう　です　か。」\nＢ：「それから、３　ばん　は　あさ　と　ゆうがた　の　バス　です　から、今[いま]　の　時間[じかん]　は　７　ばん　です　ね。」\nＡ：「わかりました。ありがとうございます。」\n女[おんな]　の　人[ひと]　は、なん　ばん　の　バス　に　乗[の]ります　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 50,
+      "uid": "N5-listening-0050",
+      "question_type": "listening",
+      "question_text": "お国[くに]　はは　どちら　です　か。",
+      "statement": {
+        "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L37-Q1.mp3",
+        "image_file_path": null,
+        "text_content": "１：あちら　です。\n２：アメリカ　です。\n３：部屋[へや]　です。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 51,
+      "uid": "N5-listening-0051",
+      "question_type": "listening",
+      "question_text": "今日[きょう]　は　何日[なんにち]　です　か。",
+      "statement": {
+        "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L37-Q2.mp3",
+        "image_file_path": null,
+        "text_content": "１：三日[みっか]　です。\n２：三週間[さんしゅうかん]　です。\n３：三時[さんじ]　です。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 52,
+      "uid": "N5-listening-0052",
+      "question_type": "listening",
+      "question_text": "すみません、図書館[としょかん]　は　どこ　です　か。",
+      "statement": {
+        "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L37-Q3.mp3",
+        "image_file_path": null,
+        "text_content": "１：あそこ　です。\n２：六[ろく]時[じ]　まで　です。\n３：本[ほん]　を　借[か]ります。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 53,
+      "uid": "N5-listening-0053",
+      "question_type": "listening",
+      "question_text": "明日[あした]、何時[なんじ]　に　学校[がっこう]　に　来[き]ます　か。",
+      "statement": {
+        "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L37-Q4.mp3",
+        "image_file_path": null,
+        "text_content": "１：バス　で　来[き]ます。\n２：九時[くじ]半[はん]　です。\n３：六人[ろくにん]　です。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 54,
+      "uid": "N5-listening-0054",
+      "question_type": "listening",
+      "question_text": "田中[たなか]さん、その　荷物[にもつ]　を　持[も]ちましょう　か。",
+      "statement": {
+        "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L37-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "１：どういたしまして。\n２：持[も]ちませんでした。\n３：ありがとうございます。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 55,
+      "uid": "N5-listening-0055",
+      "question_type": "listening",
+      "question_text": "ちょっと　休[やす]みません　か。",
+      "statement": {
+        "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L37-Q6.mp3",
+        "image_file_path": null,
+        "text_content": "１：日曜日[にちようび]　です。\n２：お元気[げんき]　です　か。\n３：そうしましょう。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 56,
+      "uid": "N5-listening-0056",
+      "question_type": "listening",
+      "question_text": "それ　は、何[なん]　の　本[ほん]　です　か。",
+      "statement": {
+        "question_command": "え　など　が　ありません。まず　文[ぶん]　を　聞[き]いて　ください。それから、その　返事[へんじ]　を　聞[き]いて、１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L37-Q7.mp3",
+        "image_file_path": null,
+        "text_content": "１：料理[りょうり]　の　本[ほん]　です。\n２：わたしの　本[ほん]　です。\n３：はい、そう　です。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 57,
+      "uid": "N5-listening-0057",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。男[おとこ]　の　人[ひと]　は　きのう、どこ　へ　行[い]きました　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "としょかん",
+        "alternative_2": "えき",
+        "alternative_3": "デパート",
+        "alternative_4": "レストラン",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L38-Q4.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：「山田[やまだ]さん、きのう　どこ　か　へ　行[い]きましたか。」\nＢ：「としょかん　へ　行[い]きました。」\nＡ：「駅[えき]　のそばのとしょかん　です　か。」\nＢ：「はい。」\nＡ：「ぼくはやまかわ　デパート　へ　行[い]って、買[か]い物[もの]　を　しました。」\nＢ：「へ、わたしもきのうのよる、やまかわ　デパート　の　レストラン　へ　行[い]きましたよ。」\nＡ：「そう　です　か。」\n男[おとこ]　の　人[ひと]　はきのう、どこ　へ　行[い]きましたか。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 58,
+      "uid": "N5-listening-0058",
+      "question_type": "listening",
+      "question_text": "男[おとこ]　の　人[ひと]　と　女[おんな]　の　人[ひと]　が　話[はな]しています。女[おんな]　の　人[ひと]　の　電話番号[でんわばんごう]　は　なん　ばん　です　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "５１２-７７３３",
+        "alternative_2": "５１２-７７３４",
+        "alternative_3": "５１２－７７４３",
+        "alternative_4": "５１２－７７４４",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L38-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：「あのう、山田[やまだ]さん　の　電話番号[でんわばんごう]　は、５　１　２　－　７　７　３　４　です　ね？」\nＢ：「いいえ、７　７　３　４　じゃなくて、７　７　４　３　です。」\nＡ：「え、ちょっと　待[ま]って　ください。メモ　します。５　１　２　の。」\nＢ：「７　７　４　３　です。」\nＡ：「はい。ありがとうございました。」\n女[おんな]　の　人[ひと]　の　電話番号[でんわばんごう]　は　なん　ばん　です　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 59,
+      "uid": "N5-listening-0059",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　学生[がくせい]　と　男[おとこ]　の　学生[がくせい]　が　話[はな]しています。男[おとこ]　の　学生[がくせい]　は、だれ　と　住[す]んでいます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "りょうしん",
+        "alternative_2": "あね",
+        "alternative_3": "いもうと",
+        "alternative_4": "おとうと",
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L39-Q4.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：「山田[やまだ]さん　は、お父[とう]さん　と　お母[かあ]さん　と、いっしょに　住[す]んでいます　か。」\nＢ：「いいえ、りょうしん　は　とおく　に　住[す]んでいます。\nＡ：「そう　です　か。」\nＢ：「いま、あね　と　いっしょに　住[す]んでいます」\n」　Ａ：「きょうだい　は　一人[ひとり]　です　か。」\nＢ：「あ、おとうと　も　います　よ。おとうと　は　りょうしん　と　いっしょ　です。」\n男[おとこ]　の　学生[がくせい]　は、だれ　と　住[す]んでいます　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 60,
+      "uid": "N5-listening-0060",
+      "question_type": "listening",
+      "question_text": "学校[がっこう]　で　男[おとこ]　の　学生[がくせい]　と　女[おんな]　の　学生[がくせい]　が　話[はな]しています。二人[ふたり]　は　どこ　で　昼[ひる]ごはん　を　食[た]べます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "しょくどう",
+        "alternative_2": "きっさてん",
+        "alternative_3": "パンや",
+        "alternative_4": "きょうしつ",
+        "correct_alternative": 4
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L39-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：「もう　一時[いちじ]　です　ね。なにか　食[た]べません　か。」\nＢ：「そう　です　ね。でも　今日[きょう]　は　土[ど]よう日[び]　だから、学校[がっこう]　の　しょくどう　や　きっさてん　は　休[やす]み　です　よ。」\nＡ：「じゃ、パン屋[や]　で　パン　を　買[か]って、きょうしつ　で　食[た]べましょう　か。」\nＢ：「そう　です　ね。」\n二人[ふたり]　は　どこ　で　昼[ひる]ごはん　を　食[た]べます　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 61,
+      "uid": "N5-listening-0061",
+      "question_type": "listening",
+      "question_text": "きょうしつ　で、先生[せんせい]　が　学生[がくせい]　に　話[はな]しています。学生[がくせい]　は　何[なん]　で　名前[なまえ]　を　書[か]きます　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "くろい　ボールペン",
+        "alternative_2": "あかい　ボールペン",
+        "alternative_3": "くろい　えんぴつ",
+        "alternative_4": "あかい　えんぴつ",
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L40-Q4.mp3",
+        "image_file_path": null,
+        "text_content": "はい、じゃあ　ちょっと　聞[き]いて　ください。えー、らいげつ　の　バス　りょこう　に　行[い]きたい　人[ひと]　は、この　かみ　に、ボールペン　で　名前[なまえ]　を　書[か]いて　ください。えんぴつじゃなくて、ボールペン　です　よ。くろ　で　書[か]いて　ください。あか　で　書[か]ないで　くださいね。\n学生[がくせい]　は　何[なん]　で　名前[なまえ]　を　書[か]きます　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 62,
+      "uid": "N5-listening-0062",
+      "question_type": "listening",
+      "question_text": "女[おんな]　の　学生[がくせい]　と　男[おとこ]　の　学生[がくせい]　が　話[はな]しています。二人[ふたり]　は　明日[あした]　どこ　で　会[あ]います　か。",
+      "statement": {
+        "question_command": "まず　しつもん　を　聞[き]いて　ください。そのあと、もんだいようし　を　見[み]て　ください。読[よ]む　時間[じかん]　が　あります。それから　話[はなし]　を　聞[き]いて、もんだいようし　の　１　から　４　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "こうえん",
+        "alternative_2": "えき",
+        "alternative_3": "きっさてん",
+        "alternative_4": "レストラン",
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L40-Q5.mp3",
+        "image_file_path": null,
+        "text_content": "Ａ：「あした　の　よる、いっしょに　サッカー　を　見[み]に行[い]きません　か。」\nＢ：「いい　です　ね。どこ　で　会[あ]いましょう　か。」\nＡ：「五時[ごじ]　に　駅[えき]　で　会[あ]いません　か。」\nＢ：「駅[えき]　は　人[ひと]　が　多[おお]い　です　よ。」\nＡ：「そう　です　ね。じゃあ、駅[えき]　の　前[まえ]　の　きっさてん　は　どう　です　か。」\nＢ：「はい、そうしましょう。あ、サッカー　を　見[み]て　から　近[ちか]く　の　レストラン　で　晩[ばん]ごはん　を　食[た]べません　か。」\nＡ：「ええ。じゃ、明日[あした]　五時[ごじ]　に　会[あ]いましょう。」\n二人[ふたり]　は　明日[あした]　どこ　で　会[あ]います　か。"
+      },
+      "tags": [
+        "Compreensão de Pontos"
+      ]
+    },
+    {
+      "id": 63,
+      "uid": "N5-listening-0063",
+      "question_type": "listening",
+      "question_text": "レストラン　で　お店[みせ]　の　人[ひと]　を　呼[よ]びます。なんと　言[い]います　か。",
+      "statement": {
+        "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L41-Q1.mp3",
+        "image_file_path": "listening/JT4Y/L41-Q1.png",
+        "text_content": "１：いらっしゃいませ。\n２：しつれいしました。\n３：すみません。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 64,
+      "uid": "N5-listening-0064",
+      "question_type": "listening",
+      "question_text": "ごはん　を　食[た]べました。なんと　言[い]います　か。",
+      "statement": {
+        "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 1
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L41-Q2.mp3",
+        "image_file_path": "listening/JT4Y/L41-Q2.png",
+        "text_content": "１：ごちそうさまでした。\n２：いただきます。\n３：どういたしまして。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 65,
+      "uid": "N5-listening-0065",
+      "question_type": "listening",
+      "question_text": "電車[でんしゃ]　の　中[なか]　です。女[おんな]　の　人[ひと]　が　来[き]ました。なんと　言[い]います　か。",
+      "statement": {
+        "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L41-Q3.mp3",
+        "image_file_path": "listening/JT4Y/L41-Q3.png",
+        "text_content": "１：どうもありがとう。\n２：はじめまして。\n３：ここ、どうぞ。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 66,
+      "uid": "N5-listening-0066",
+      "question_type": "listening",
+      "question_text": "うち　へ　帰[かえ]ります。ともだち　に　なんと　言[い]います　か。",
+      "statement": {
+        "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L41-Q4.mp3",
+        "image_file_path": "listening/JT4Y/L41-Q4.png",
+        "text_content": "１：いってきます。\n２：じゃ、また。\n３：ただいま。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 67,
+      "uid": "N5-listening-0067",
+      "question_type": "listening",
+      "question_text": "ゆうびんきょく　で　きって　を　買[か]います。なんと　言[い]います　か。",
+      "statement": {
+        "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 3
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L41-Q5.mp3",
+        "image_file_path": "listening/JT4Y/L41-Q5.png",
+        "text_content": "１：きって　を　買[か]いません　か。\n２：きって　を　どうぞ。\n３：きって　を　ください。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    },
+    {
+      "id": 68,
+      "uid": "N5-listening-0068",
+      "question_type": "listening",
+      "question_text": "ともだち　は　えんぴつ　が　ありません。ともだち　に　なんと　言[い]います　か。",
+      "statement": {
+        "question_command": "え　を　見[み]ながら　しつもん　を　聞[き]いて　ください。（やじるし）　の　人[ひと]　は　何[なん]と　言[い]います　か。１　から　３　の　中[なか]　から、いちばん　いい　もの　を　一[ひと]つ　えらんで　ください。"
+      },
+      "alternatives": {
+        "alternative_1": "1",
+        "alternative_2": "2",
+        "alternative_3": "3",
+        "alternative_4": null,
+        "correct_alternative": 2
+      },
+      "media": {
+        "audio_file_path": "listening/JT4Y/L41-Q6.mp3",
+        "image_file_path": "listening/JT4Y/L41-Q6.png",
+        "text_content": "１：えんぴつ、借[か]りましょう　か。\n２：えんぴつ、使[つか]います　か。\n３：えんぴつ、かして　ください。"
+      },
+      "tags": [
+        "Resposta Imediata",
+        "Expressões Faladas"
+      ]
+    }
+  ]
 }

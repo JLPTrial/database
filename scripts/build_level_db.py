@@ -6,6 +6,17 @@ import sqlite3
 from pathlib import Path
 from typing import Any
 
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+
+def _resolve_within_project(raw_path: str, description: str) -> Path:
+    path = Path(raw_path).expanduser().resolve()
+    if not path.is_relative_to(PROJECT_ROOT):
+        raise ValueError(
+            f"{description} deve estar dentro de {PROJECT_ROOT}: {path}"
+        )
+    return path
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Cria o banco SQLite de um nível.")
@@ -24,6 +35,7 @@ def validate_inputs(schema_path: Path, data_dir: Path) -> None:
 
 def create_database(schema_path: Path, db_path: Path) -> None:
     db_path.parent.mkdir(parents=True, exist_ok=True)
+    db_path.unlink(missing_ok=True)
     schema_sql = schema_path.read_text(encoding="utf-8")
 
     conn = sqlite3.connect(str(db_path))
@@ -74,22 +86,42 @@ def load_questions_from_json(data_dir: Path) -> list[dict[str, Any]]:
     return questions
 
 
-def _upsert_statement(conn: sqlite3.Connection, question_command: str) -> int:
+def _upsert_command(conn: sqlite3.Connection, question_command: str) -> int:
     conn.execute(
-        "INSERT OR IGNORE INTO statement (question_command) VALUES (?)",
+        "INSERT OR IGNORE INTO commands (question_command) VALUES (?)",
         (question_command,),
     )
     cursor = conn.execute(
-        "SELECT id FROM statement WHERE question_command = ?",
+        "SELECT id FROM commands WHERE question_command = ?",
         (question_command,),
     )
     row = cursor.fetchone()
     if row is None:
-        raise RuntimeError("Falha ao obter id de statement")
+        raise RuntimeError("Falha ao obter id de command")
     return int(row[0])
 
 
+def _validate_alternatives(alternatives: dict[str, Any]) -> None:
+    for key in ("alternative_1", "alternative_2", "alternative_3"):
+        if not alternatives.get(key):
+            raise ValueError(f"Alternativa '{key}' ausente ou vazia")
+
+    correct_alternative = alternatives.get("correct_alternative")
+    if not isinstance(correct_alternative, int) or not (1 <= correct_alternative <= 4):
+        raise ValueError(
+            f"correct_alternative inválido: {correct_alternative!r} (deve ser 1-4)"
+        )
+
+    alternative_4 = alternatives.get("alternative_4")
+    if not alternative_4 and correct_alternative == 4:
+        raise ValueError(
+            "correct_alternative aponta para alternative_4, mas ela está ausente"
+        )
+
+
 def _insert_alternatives(conn: sqlite3.Connection, alternatives: dict[str, Any]) -> int:
+    _validate_alternatives(alternatives)
+
     cursor = conn.execute(
         """
         INSERT INTO alternatives (
@@ -117,10 +149,12 @@ def _insert_media(conn: sqlite3.Connection, media: Any) -> int | None:
     if not isinstance(media, dict):
         raise ValueError("Campo 'media' deve ser objeto JSON ou null")
 
-    contextual_text = media.get("contextual_text")
-    if contextual_text is None:
-        # Compatibilidade com chave legada já existente nos JSONs.
-        contextual_text = media.get("text_content")
+    contextual_text = media.get("text_content")
+    image_file_path = media.get("image_file_path")
+    audio_file_path = media.get("audio_file_path")
+
+    if not contextual_text and not image_file_path and not audio_file_path:
+        return None
 
     contextual_text_id = None
     if contextual_text:
@@ -133,8 +167,8 @@ def _insert_media(conn: sqlite3.Connection, media: Any) -> int | None:
         """,
         (
             contextual_text_id,
-            media.get("image_file_path"),
-            media.get("audio_file_path"),
+            image_file_path,
+            audio_file_path,
         ),
     )
     return int(cursor.lastrowid)
@@ -187,24 +221,32 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
             if not question_type or not question_text:
                 raise ValueError("Questão sem question_type ou question_text")
 
-            statement_id = _upsert_statement(conn, question_command)
+            uid = question.get("uid")
+            if not uid:
+                raise ValueError(
+                    f"Questão sem uid (id={question.get('id')}, tipo={question_type})"
+                )
+
+            command_id = _upsert_command(conn, question_command)
             alternative_id = _insert_alternatives(conn, alternatives)
             media_id = _insert_media(conn, question.get("media"))
 
             cursor = conn.execute(
                 """
                 INSERT INTO questions (
+                    uid,
                     alternative_id,
                     media_id,
-                    statement_id,
+                    command_id,
                     question_text,
                     question_type
-                ) VALUES (?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?)
                 """,
                 (
+                    uid,
                     alternative_id,
                     media_id,
-                    statement_id,
+                    command_id,
                     question_text,
                     question_type,
                 ),
@@ -230,9 +272,9 @@ def seed_database(db_path: Path, questions: list[dict[str, Any]]) -> None:
 def main() -> None:
     args = parse_args()
 
-    schema_path = Path(args.schema)
-    db_path = Path(args.db)
-    data_dir = Path(args.data_dir)
+    schema_path = _resolve_within_project(args.schema, "Schema")
+    db_path = _resolve_within_project(args.db, "Banco de saída")
+    data_dir = _resolve_within_project(args.data_dir, "Pasta de dados")
 
     validate_inputs(schema_path, data_dir)
     create_database(schema_path, db_path)
