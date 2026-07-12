@@ -46,8 +46,12 @@ jobs:
         run: |
           python scripts/build_level_db.py \
             --schema schemas/question_schema.sql \
-            --db /tmp/jlptrial_n5.db \
+            --db .ci-build/N5.db \
             --data-dir data/N5/data
+          python scripts/build_level_db.py \
+            --schema schemas/question_schema.sql \
+            --db .ci-build/N4.db \
+            --data-dir data/N4/data
 
       - name: SonarQube Scan
         if: env.SONAR_TOKEN != ''
