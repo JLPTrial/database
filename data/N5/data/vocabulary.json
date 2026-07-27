@@ -3584,7 +3584,7 @@
       "id": 180,
       "uid": "N5-vocabulary-0180",
       "question_type": "vocabulary",
-      "question_text": "（[blank]）　は　午後[ごご]　4時[とき]　に　ともだち　に　あいます。",
+      "question_text": "（[blank]）　は　午後[ごご]　4時[じ]　に　ともだち　に　あいます。",
       "statement": {
         "question_command": "（[blank]）に　なにを　いれますか。１・２・３・４から　いちばん　いい　ものを　ひとつ　えらんで　ください。"
       },

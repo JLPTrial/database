@@ -1929,7 +1929,7 @@
       "id": 97,
       "uid": "N4-grammar-0097",
       "question_type": "grammar",
-      "question_text": "彼[か]の父親[ちちおや]は歯科医[しかい]で、うでの良[りょう]　（[blank]） と料金[りょうきん]の高[たか]　（[blank]） で知[し]られていた。",
+      "question_text": "彼[かれ]の父親[ちちおや]は歯科医[しかい]で、うでの良[よ]　（[blank]） と料金[りょうきん]の高[たか]　（[blank]） で知[し]られていた。",
       "statement": {
         "question_command": "（[blank]）　に　なに　を　いれますか。１・２・３・４　から　いちばん　いい　もの　を　ひとつ　えらんで　ください。"
       },
@@ -3094,7 +3094,7 @@
       "id": 155,
       "uid": "N4-grammar-0155",
       "question_type": "grammar",
-      "question_text": "キムさん、田中[たなか]さん　（[blank]） あした10時[とき]に来[く]るように言[い]ってください。",
+      "question_text": "キムさん、田中[たなか]さん　（[blank]） あした10時[じ]に来[く]るように言[い]ってください。",
       "statement": {
         "question_command": "（[blank]）　に　なに　を　いれますか。１・２・３・４　から　いちばん　いい　もの　を　ひとつ　えらんで　ください。"
       },
